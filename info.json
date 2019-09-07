@@ -1,17 +1,17 @@
 {
     "current_stats": {
-        "builds": 4,
+        "builds": 5,
         "counter": {
-            "down": 1235,
+            "down": 1632,
             "invalid": 2,
-            "tested": 7144,
-            "up": 5907
+            "tested": 9197,
+            "up": 7563
         }
     },
     "currently_under_test": "1",
     "days_until_next_test": 2,
-    "last_autosave_datetime": "Sat Sep  7 19:59:10 2019",
-    "last_autosave_epoch": 1567886350.391416,
+    "last_autosave_datetime": "Sat Sep  7 20:27:17 2019",
+    "last_autosave_epoch": 1567888037.876722,
     "name": "hostsVN",
     "raw_link": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts",
     "start_datetime": "Sat Sep  7 18:11:27 2019",
