@@ -9,8 +9,7 @@ env:
     global:
     -   GIT_NAME: Travis CI
     -   GIT_EMAIL: dead-hosts@funilrys.com
-    -   TRAVIS_REPO_SLUG:
-        - repository-slug
+    -   TRAVIS_REPO_SLUG: Ultimate-Hosts-Blacklist/hostsVN
     -   GIT_BRANCH: master
     -   UPDATE_LOCATION: https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/repository-structure/master/update.py
     -   ADMINISTATION_LOCATION: https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/repository-structure/master/administration.py
