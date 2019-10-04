@@ -1714,6 +1714,11 @@
         "expiration_date": "12-jan-2020",
         "state": "future"
     },
+    "advertisespace.com": {
+        "epoch": 1601510400,
+        "expiration_date": "01-oct-2020",
+        "state": "future"
+    },
     "advertising.com": {
         "epoch": 1641254400,
         "expiration_date": "04-jan-2022",
@@ -11568,6 +11573,11 @@
         "epoch": 1566000000,
         "expiration_date": "17-aug-2019",
         "state": "past"
+    },
+    "trafic.ro": {
+        "epoch": 1594425600,
+        "expiration_date": "11-jul-2020",
+        "state": "future"
     },
     "traktrafficflow.com": {
         "epoch": 1585958400,
