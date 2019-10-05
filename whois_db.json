@@ -1,4 +1,14 @@
 {
+    "addme.com": {
+        "epoch": 1722124800,
+        "expiration_date": "28-jul-2024",
+        "state": "future"
+    },
+    "adtechus.com": {
+        "epoch": 1635206400,
+        "expiration_date": "26-oct-2021",
+        "state": "future"
+    },
     "cashfiesta.com": {
         "epoch": 1581033600,
         "expiration_date": "07-feb-2020",
@@ -17,6 +27,11 @@
     "flexbanner.com": {
         "epoch": 1584230400,
         "expiration_date": "15-mar-2020",
+        "state": "future"
+    },
+    "hitcents.com": {
+        "epoch": 1578009600,
+        "expiration_date": "03-jan-2020",
         "state": "future"
     },
     "lfcraft.com": {
@@ -87,6 +102,16 @@
     "simpletexting.com": {
         "epoch": 1726012800,
         "expiration_date": "11-sep-2024",
+        "state": "future"
+    },
+    "smowtion.com": {
+        "epoch": 1599436800,
+        "expiration_date": "07-sep-2020",
+        "state": "future"
+    },
+    "snoobi.com": {
+        "epoch": 1594166400,
+        "expiration_date": "08-jul-2020",
         "state": "future"
     },
     "widdit.com": {
