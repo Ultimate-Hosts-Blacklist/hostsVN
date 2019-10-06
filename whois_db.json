@@ -1,4 +1,9 @@
 {
+    "absorbingband.com": {
+        "epoch": 1633392000,
+        "expiration_date": "05-oct-2021",
+        "state": "future"
+    },
     "ad-miner.com": {
         "epoch": 1579996800,
         "expiration_date": "26-jan-2020",
@@ -24,6 +29,11 @@
         "expiration_date": "07-feb-2020",
         "state": "future"
     },
+    "cintnetworks.com": {
+        "epoch": 1584403200,
+        "expiration_date": "17-mar-2020",
+        "state": "future"
+    },
     "criteo.com": {
         "epoch": 1592352000,
         "expiration_date": "17-jun-2020",
@@ -32,6 +42,11 @@
     "dfnb-ads.com": {
         "epoch": 1586131200,
         "expiration_date": "06-apr-2020",
+        "state": "future"
+    },
+    "dj-sx.com": {
+        "epoch": 1584230400,
+        "expiration_date": "15-mar-2020",
         "state": "future"
     },
     "fabet.com": {
@@ -47,6 +62,11 @@
     "hitcents.com": {
         "epoch": 1578009600,
         "expiration_date": "03-jan-2020",
+        "state": "future"
+    },
+    "leadplace.fr": {
+        "epoch": 1599264000,
+        "expiration_date": "05-sep-2020",
         "state": "future"
     },
     "lfcraft.com": {
@@ -92,6 +112,11 @@
     "nuggad.net": {
         "epoch": 1580860800,
         "expiration_date": "05-feb-2020",
+        "state": "future"
+    },
+    "o-s.io": {
+        "epoch": 1592870400,
+        "expiration_date": "23-jun-2020",
         "state": "future"
     },
     "passion-4.net": {
@@ -149,6 +174,11 @@
         "expiration_date": "08-jul-2020",
         "state": "future"
     },
+    "statcounter.com": {
+        "epoch": 1578182400,
+        "expiration_date": "05-jan-2020",
+        "state": "future"
+    },
     "stupendoussleet.com": {
         "epoch": 1597622400,
         "expiration_date": "17-aug-2020",
@@ -157,6 +187,11 @@
     "teads.tv": {
         "epoch": 1598140800,
         "expiration_date": "23-aug-2020",
+        "state": "future"
+    },
+    "teethfan.com": {
+        "epoch": 1582675200,
+        "expiration_date": "26-feb-2020",
         "state": "future"
     },
     "vervewireless.com": {
