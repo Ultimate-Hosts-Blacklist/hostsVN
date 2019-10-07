@@ -59,6 +59,11 @@
         "expiration_date": "23-mar-2025",
         "state": "future"
     },
+    "adsmarket.com": {
+        "epoch": 1600473600,
+        "expiration_date": "19-sep-2020",
+        "state": "future"
+    },
     "adsynergy.com": {
         "epoch": 1601683200,
         "expiration_date": "03-oct-2020",
@@ -359,6 +364,11 @@
         "expiration_date": "21-apr-2021",
         "state": "future"
     },
+    "ntv.io": {
+        "epoch": 1601510400,
+        "expiration_date": "01-oct-2020",
+        "state": "future"
+    },
     "nuggad.net": {
         "epoch": 1580860800,
         "expiration_date": "05-feb-2020",
@@ -424,9 +434,19 @@
         "expiration_date": "05-oct-2020",
         "state": "future"
     },
+    "pronetadvertising.com": {
+        "epoch": 1611964800,
+        "expiration_date": "30-jan-2021",
+        "state": "future"
+    },
     "pubmine.com": {
         "epoch": 1604534400,
         "expiration_date": "05-nov-2020",
+        "state": "future"
+    },
+    "pushazer.com": {
+        "epoch": 1598486400,
+        "expiration_date": "27-aug-2020",
         "state": "future"
     },
     "quizzicalzephyr.com": {
