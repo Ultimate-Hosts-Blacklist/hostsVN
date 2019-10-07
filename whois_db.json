@@ -139,6 +139,11 @@
         "expiration_date": "19-may-2020",
         "state": "future"
     },
+    "bannerlandia.com.ar": {
+        "epoch": 1587945600,
+        "expiration_date": "27-apr-2020",
+        "state": "future"
+    },
     "bidr.io": {
         "epoch": 1598745600,
         "expiration_date": "30-aug-2020",
@@ -249,6 +254,11 @@
         "expiration_date": "03-may-2020",
         "state": "future"
     },
+    "foresee.com": {
+        "epoch": 1663632000,
+        "expiration_date": "20-sep-2022",
+        "state": "future"
+    },
     "futuristicapparatus.com": {
         "epoch": 1597622400,
         "expiration_date": "17-aug-2020",
@@ -277,6 +287,11 @@
     "hitcents.com": {
         "epoch": 1578009600,
         "expiration_date": "03-jan-2020",
+        "state": "future"
+    },
+    "hobbyworkshop.com": {
+        "epoch": 1599868800,
+        "expiration_date": "12-sep-2020",
         "state": "future"
     },
     "infinite-ads.com": {
@@ -454,6 +469,11 @@
         "expiration_date": "30-jan-2021",
         "state": "future"
     },
+    "pubmatic.com": {
+        "epoch": 1599523200,
+        "expiration_date": "08-sep-2020",
+        "state": "future"
+    },
     "pubmine.com": {
         "epoch": 1604534400,
         "expiration_date": "05-nov-2020",
@@ -587,6 +607,16 @@
     "thdx08.com": {
         "epoch": 1600819200,
         "expiration_date": "23-sep-2020",
+        "state": "future"
+    },
+    "thebugs.ws": {
+        "epoch": 1583280000,
+        "expiration_date": "04-mar-2020",
+        "state": "future"
+    },
+    "todacell.com": {
+        "epoch": 1581638400,
+        "expiration_date": "14-feb-2020",
         "state": "future"
     },
     "trekdata.com": {
