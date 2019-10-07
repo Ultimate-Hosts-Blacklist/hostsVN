@@ -69,6 +69,16 @@
         "expiration_date": "29-dec-2019",
         "state": "future"
     },
+    "appsfire.com": {
+        "epoch": 1588550400,
+        "expiration_date": "04-may-2020",
+        "state": "future"
+    },
+    "armazones.com": {
+        "epoch": 1576454400,
+        "expiration_date": "16-dec-2019",
+        "state": "future"
+    },
     "av5k.com": {
         "epoch": 1584662400,
         "expiration_date": "20-mar-2020",
@@ -107,6 +117,11 @@
     "criteo.com": {
         "epoch": 1592352000,
         "expiration_date": "17-jun-2020",
+        "state": "future"
+    },
+    "decknetwork.net": {
+        "epoch": 1618704000,
+        "expiration_date": "18-apr-2021",
         "state": "future"
     },
     "dfnb-ads.com": {
