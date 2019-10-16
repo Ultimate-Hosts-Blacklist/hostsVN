@@ -89,6 +89,11 @@
         "expiration_date": "09-nov-2021",
         "state": "future"
     },
+    "ambiguousquilt.com": {
+        "epoch": 1575072000,
+        "expiration_date": "30-nov-2019",
+        "state": "future"
+    },
     "apathetictheory.com": {
         "epoch": 1629158400,
         "expiration_date": "17-aug-2021",
@@ -102,6 +107,16 @@
     "archswimming.com": {
         "epoch": 1592524800,
         "expiration_date": "19-jun-2020",
+        "state": "future"
+    },
+    "awin1.com": {
+        "epoch": 1589846400,
+        "expiration_date": "19-may-2020",
+        "state": "future"
+    },
+    "backtrace.io": {
+        "epoch": 1595289600,
+        "expiration_date": "21-jul-2020",
         "state": "future"
     },
     "balancebreath.com": {
@@ -154,14 +169,34 @@
         "expiration_date": "23-dec-2019",
         "state": "future"
     },
+    "clickagents.com": {
+        "epoch": 1579564800,
+        "expiration_date": "21-jan-2020",
+        "state": "future"
+    },
     "code-server.biz": {
         "epoch": 1567987200,
         "expiration_date": "09-sep-2019",
         "state": "past"
     },
+    "cokhach.com": {
+        "epoch": 1584316800,
+        "expiration_date": "16-mar-2020",
+        "state": "future"
+    },
     "company-target.com": {
         "epoch": 1628208000,
         "expiration_date": "06-aug-2021",
+        "state": "future"
+    },
+    "confirmed-profits.com": {
+        "epoch": 1590796800,
+        "expiration_date": "30-may-2020",
+        "state": "future"
+    },
+    "congchuzs.com": {
+        "epoch": 1655596800,
+        "expiration_date": "19-jun-2022",
         "state": "future"
     },
     "crakmedia.com": {
@@ -192,6 +227,16 @@
     "e-bannerx.com": {
         "epoch": 1599609600,
         "expiration_date": "09-sep-2020",
+        "state": "future"
+    },
+    "ezimar.com": {
+        "epoch": 1583020800,
+        "expiration_date": "01-mar-2020",
+        "state": "future"
+    },
+    "ezoic.net": {
+        "epoch": 1578614400,
+        "expiration_date": "10-jan-2020",
         "state": "future"
     },
     "fastlane.tools": {
@@ -359,6 +404,11 @@
         "expiration_date": "11-oct-2020",
         "state": "future"
     },
+    "pippio.com": {
+        "epoch": 1593820800,
+        "expiration_date": "04-jul-2020",
+        "state": "future"
+    },
     "popads.net": {
         "epoch": 1873584000,
         "expiration_date": "16-may-2029",
@@ -377,6 +427,11 @@
     "prsitecheck.com": {
         "epoch": 1589760000,
         "expiration_date": "18-may-2020",
+        "state": "future"
+    },
+    "publicandolo.com": {
+        "epoch": 1602201600,
+        "expiration_date": "09-oct-2020",
         "state": "future"
     },
     "quarterbean.com": {
@@ -437,6 +492,11 @@
     "sizesidewalk.com": {
         "epoch": 1601856000,
         "expiration_date": "05-oct-2020",
+        "state": "future"
+    },
+    "specificmedia.co.uk": {
+        "epoch": 1589500800,
+        "expiration_date": "15-may-2020",
         "state": "future"
     },
     "squirrelhands.com": {
@@ -507,6 +567,16 @@
     "vipprojects.cn": {
         "epoch": 1595980800,
         "expiration_date": "29-jul-2020",
+        "state": "future"
+    },
+    "zekiatagur.com": {
+        "epoch": 1589500800,
+        "expiration_date": "15-may-2020",
+        "state": "future"
+    },
+    "zqmdm.com": {
+        "epoch": 1602806400,
+        "expiration_date": "16-oct-2020",
         "state": "future"
     }
 }
