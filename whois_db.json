@@ -689,6 +689,11 @@
         "expiration_date": "12-mar-2021",
         "state": "future"
     },
+    "exdynsrv.com": {
+        "epoch": 1571529600,
+        "expiration_date": "20-oct-2019",
+        "state": "past"
+    },
     "exogripper.com": {
         "epoch": 1601078400,
         "expiration_date": "26-sep-2020",
