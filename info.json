@@ -1,32 +1,23 @@
 {
-    "current_stats": {
-        "builds": 10,
-        "counter": {
-            "down": 7807,
-            "invalid": 2,
-            "tested": 21135,
-            "up": 13326
-        }
-    },
-    "currently_under_test": "1",
+    "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Mon Oct 21 13:19:43 2019",
-    "end_epoch": 1571663983.322992,
+    "end_datetime": "Tue Oct 22 04:06:30 2019",
+    "end_epoch": 1571717190.397408,
     "last_autosave_datetime": "Tue Oct 22 03:42:14 2019",
     "last_autosave_epoch": 1571715734.454588,
     "name": "hostsVN",
     "previous_stats": {
-        "builds": 98,
-        "clean.list": 14244,
+        "builds": 11,
+        "clean.list": 14204,
         "counter": {
-            "down": 8367,
+            "down": 8386,
             "invalid": 2,
-            "tested": 22613,
-            "up": 14244
+            "tested": 22592,
+            "up": 14204
         },
-        "domains.list": 22613,
-        "volatile.list": 14233,
-        "whitelisted.list": 14233
+        "domains.list": 22592,
+        "volatile.list": 14193,
+        "whitelisted.list": 14193
     },
     "raw_link": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts",
     "start_datetime": "Mon Oct 21 23:18:03 2019",
