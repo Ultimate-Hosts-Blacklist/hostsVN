@@ -7434,6 +7434,11 @@
         "expiration_date": "16-apr-2021",
         "state": "future"
     },
+    "ilbanner.com": {
+        "epoch": 1582416000,
+        "expiration_date": "23-feb-2020",
+        "state": "future"
+    },
     "illaboratoriosrl.it": {
         "epoch": 1594684800,
         "expiration_date": "14-jul-2020",
@@ -14189,6 +14194,11 @@
         "expiration_date": "03-mar-2024",
         "state": "future"
     },
+    "vntsm.com": {
+        "epoch": 1703894400,
+        "expiration_date": "30-dec-2023",
+        "state": "future"
+    },
     "voicefive.com": {
         "epoch": 1594684800,
         "expiration_date": "14-jul-2020",
@@ -14882,7 +14892,7 @@
     "yoc.mobi": {
         "epoch": 1571788800,
         "expiration_date": "23-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "yoggrt.com": {
         "epoch": 1579132800,
