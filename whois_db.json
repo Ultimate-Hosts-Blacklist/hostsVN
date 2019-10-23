@@ -1524,6 +1524,11 @@
         "expiration_date": "12-dec-2019",
         "state": "future"
     },
+    "adremedy.com": {
+        "epoch": 1602028800,
+        "expiration_date": "07-oct-2020",
+        "state": "future"
+    },
     "adreporting.com": {
         "epoch": 1604188800,
         "expiration_date": "01-nov-2020",
@@ -8687,6 +8692,11 @@
     "marfeelcdn.com": {
         "epoch": 1583625600,
         "expiration_date": "08-mar-2020",
+        "state": "future"
+    },
+    "marfeelrev.com": {
+        "epoch": 1586044800,
+        "expiration_date": "05-apr-2020",
         "state": "future"
     },
     "marinsm.com": {
