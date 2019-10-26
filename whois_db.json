@@ -144,6 +144,11 @@
         "expiration_date": "26-oct-2020",
         "state": "future"
     },
+    "24log.com": {
+        "epoch": 1653523200,
+        "expiration_date": "26-may-2022",
+        "state": "future"
+    },
     "24pm-affiliation.com": {
         "epoch": 1593043200,
         "expiration_date": "25-jun-2020",
@@ -5539,6 +5544,11 @@
         "expiration_date": "14-sep-2020",
         "state": "future"
     },
+    "do-not-tracker.org": {
+        "epoch": 1595808000,
+        "expiration_date": "27-jul-2020",
+        "state": "future"
+    },
     "docksalmon.com": {
         "epoch": 1592524800,
         "expiration_date": "19-jun-2020",
@@ -9255,8 +9265,8 @@
         "state": "future"
     },
     "medleyads.com": {
-        "epoch": 1571875200,
-        "expiration_date": "24-oct-2019",
+        "epoch": 1603497600,
+        "expiration_date": "24-oct-2020",
         "state": "future"
     },
     "medyanetads.com": {
@@ -9502,6 +9512,11 @@
     "mmstat.com": {
         "epoch": 1608854400,
         "expiration_date": "25-dec-2020",
+        "state": "future"
+    },
+    "mmtro.com": {
+        "epoch": 1599177600,
+        "expiration_date": "04-sep-2020",
         "state": "future"
     },
     "mng-ads.com": {
@@ -10194,6 +10209,11 @@
         "expiration_date": "20-jun-2020",
         "state": "future"
     },
+    "newrelic.com": {
+        "epoch": 1587254400,
+        "expiration_date": "19-apr-2020",
+        "state": "future"
+    },
     "newsmaxfeednetwork.com": {
         "epoch": 1593129600,
         "expiration_date": "26-jun-2020",
@@ -10315,8 +10335,8 @@
         "state": "future"
     },
     "nt002.cn": {
-        "epoch": 1571875200,
-        "expiration_date": "24-oct-2019",
+        "epoch": 1603497600,
+        "expiration_date": "24-oct-2020",
         "state": "future"
     },
     "ntv.io": {
@@ -11643,6 +11663,11 @@
         "epoch": 1596240000,
         "expiration_date": "01-aug-2020",
         "state": "future"
+    },
+    "rayads.cn": {
+        "epoch": 1568937600,
+        "expiration_date": "20-sep-2019",
+        "state": "past"
     },
     "rayjump.com": {
         "epoch": 1599350400,
