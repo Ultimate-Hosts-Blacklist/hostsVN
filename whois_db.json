@@ -1224,6 +1224,11 @@
         "expiration_date": "18-apr-2020",
         "state": "future"
     },
+    "adk2.co": {
+        "epoch": 1601424000,
+        "expiration_date": "30-sep-2020",
+        "state": "future"
+    },
     "adk2.com": {
         "epoch": 1578614400,
         "expiration_date": "10-jan-2020",
@@ -3257,6 +3262,11 @@
     "bannerboxes.com": {
         "epoch": 1585526400,
         "expiration_date": "30-mar-2020",
+        "state": "future"
+    },
+    "bannerconnect.com": {
+        "epoch": 1596758400,
+        "expiration_date": "07-aug-2020",
         "state": "future"
     },
     "bannerconnect.net": {
@@ -13926,9 +13936,9 @@
         "state": "future"
     },
     "tinypic.info": {
-        "epoch": 1572048000,
-        "expiration_date": "26-oct-2019",
-        "state": "past"
+        "epoch": 1603670400,
+        "expiration_date": "26-oct-2020",
+        "state": "future"
     },
     "tiqcdn.com": {
         "epoch": 1657497600,
