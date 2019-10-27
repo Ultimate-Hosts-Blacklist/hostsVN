@@ -4609,6 +4609,11 @@
         "expiration_date": "17-apr-2020",
         "state": "future"
     },
+    "clickhouse.com": {
+        "epoch": 1583971200,
+        "expiration_date": "12-mar-2020",
+        "state": "future"
+    },
     "clickhubs.com": {
         "epoch": 1585612800,
         "expiration_date": "31-mar-2020",
@@ -9257,6 +9262,11 @@
     "mastermind.com": {
         "epoch": 1601078400,
         "expiration_date": "26-sep-2020",
+        "state": "future"
+    },
+    "matchcraft.com": {
+        "epoch": 1593993600,
+        "expiration_date": "06-jul-2020",
         "state": "future"
     },
     "matheranalytics.com": {
@@ -14431,9 +14441,9 @@
         "state": "future"
     },
     "trmit.com": {
-        "epoch": 1571702400,
-        "expiration_date": "22-oct-2019",
-        "state": "past"
+        "epoch": 1603324800,
+        "expiration_date": "22-oct-2020",
+        "state": "future"
     },
     "tru.am": {
         "epoch": 1601251200,
