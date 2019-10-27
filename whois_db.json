@@ -2989,6 +2989,11 @@
         "expiration_date": "17-aug-2020",
         "state": "future"
     },
+    "ar1nvz5.com": {
+        "epoch": 1582502400,
+        "expiration_date": "24-feb-2020",
+        "state": "future"
+    },
     "aralego.com": {
         "epoch": 1610582400,
         "expiration_date": "14-jan-2021",
@@ -6343,6 +6348,11 @@
         "epoch": 1601078400,
         "expiration_date": "26-sep-2020",
         "state": "future"
+    },
+    "exosrv.com": {
+        "epoch": 1572134400,
+        "expiration_date": "27-oct-2019",
+        "state": "past"
     },
     "experteerads.com": {
         "epoch": 1595980800,
