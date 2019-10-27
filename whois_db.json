@@ -219,6 +219,11 @@
         "expiration_date": "29-jul-2020",
         "state": "future"
     },
+    "39m.net": {
+        "epoch": 1598745600,
+        "expiration_date": "30-aug-2020",
+        "state": "future"
+    },
     "3cinteractive.com": {
         "epoch": 1585699200,
         "expiration_date": "01-apr-2020",
@@ -1457,6 +1462,11 @@
     "adnotch.com": {
         "epoch": 1587600000,
         "expiration_date": "23-apr-2020",
+        "state": "future"
+    },
+    "adnow.cc": {
+        "epoch": 1594944000,
+        "expiration_date": "17-jul-2020",
         "state": "future"
     },
     "adnow.com": {
@@ -12350,8 +12360,8 @@
         "state": "future"
     },
     "run-syndicate.com": {
-        "epoch": 1571961600,
-        "expiration_date": "25-oct-2019",
+        "epoch": 1603584000,
+        "expiration_date": "25-oct-2020",
         "state": "future"
     },
     "runads.com": {
