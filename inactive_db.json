@@ -1795,7 +1795,6 @@
             "www.batbuilding.com": "INACTIVE"
         },
         "1572739313": {
-            "itsupport.outbrain.com": "INACTIVE",
             "vaes-preprod.dub.amazon-adsystem.com": "INACTIVE"
         },
         "1572739314": {
@@ -10637,7 +10636,8 @@
             "ox-d.thechive.servedbyopenx.com": "INACTIVE"
         },
         "1572838229": {
-            "ssp-test-or.bidswitch.net": "INACTIVE"
+            "ssp-test-or.bidswitch.net": "INACTIVE",
+            "www.veruta.com": "INACTIVE"
         },
         "1572838242": {
             "www.veruta.com": "INACTIVE"
@@ -11202,6 +11202,477 @@
         },
         "1572839829": {
             "autodiscover.mm.marketo.com": "INACTIVE"
+        },
+        "1572840650": {
+            "wsp.steepto.com": "INACTIVE"
+        },
+        "1572840654": {
+            "ow-gateway.supersonicads.com": "INACTIVE"
+        },
+        "1572840661": {
+            "degea.alphonso.tv": "INACTIVE"
+        },
+        "1572840662": {
+            "rv-gateway.supersonicads.com": "INACTIVE"
+        },
+        "1572840666": {
+            "gdpr-itx5.smartadserver.mgr.consensu.org": "INACTIVE"
+        },
+        "1572840669": {
+            "docker-registry.adswizz.com": "INACTIVE"
+        },
+        "1572840672": {
+            "entitlements.jwplayer.com": "INACTIVE",
+            "icloud.com-locations.in": "INACTIVE"
+        },
+        "1572840677": {
+            "www.quarterbean.com": "INACTIVE"
+        },
+        "1572840678": {
+            "photos-us.bazaarvoice.com": "INACTIVE"
+        },
+        "1572840679": {
+            "jcb.tt.omtrdc.net": "INACTIVE",
+            "prd-collector-anon-video.playbuzz.com": "INACTIVE"
+        },
+        "1572840689": {
+            "dev-j-serval.adtdp.com": "INACTIVE"
+        },
+        "1572840690": {
+            "cdn.localytics.com": "INACTIVE"
+        },
+        "1572840696": {
+            "magento.marketolive.com": "INACTIVE"
+        },
+        "1572840697": {
+            "beta-adserver.adtech.de": "INACTIVE"
+        },
+        "1572840702": {
+            "inplay-rcv06.scanscout.com": "INACTIVE"
+        },
+        "1572840706": {
+            "cpanel.twik.io": "INACTIVE"
+        },
+        "1572840714": {
+            "fd.alcmpn.com": "INACTIVE"
+        },
+        "1572840729": {
+            "pso-imbot.inmobi.com": "INACTIVE",
+            "www.ocsp.apple.com": "INACTIVE"
+        },
+        "1572840737": {
+            "www.hfc195b.com": "INACTIVE"
+        },
+        "1572840740": {
+            "sofia.trustx.org": "INACTIVE"
+        },
+        "1572840743": {
+            "knowledge.tapjoy.com": "INACTIVE"
+        },
+        "1572840750": {
+            "go.mobpartner.mobi": "INACTIVE"
+        },
+        "1572840753": {
+            "formula-api.adtech.de": "INACTIVE"
+        },
+        "1572840754": {
+            "ams-1-sync.go.sonobi.com": "INACTIVE"
+        },
+        "1572840756": {
+            "overstock.tt.omtrdc.net": "INACTIVE",
+            "www.ipstatp.com": "INACTIVE"
+        },
+        "1572840766": {
+            "www.drteachme.com": "INACTIVE"
+        },
+        "1572840772": {
+            "btbusiness.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572840778": {
+            "ox-d.venturebeat.servedbyopenx.com": "INACTIVE"
+        },
+        "1572840779": {
+            "show-msgch.qq.com": "INACTIVE"
+        },
+        "1572840785": {
+            "www.oqgmav.com": "INACTIVE"
+        },
+        "1572840788": {
+            "demo.siftscience.com": "INACTIVE"
+        },
+        "1572840794": {
+            "www.takru.com": "INACTIVE"
+        },
+        "1572840798": {
+            "revenuetool.aatkit.com": "INACTIVE"
+        },
+        "1572840800": {
+            "configuration.ma.tune.com": "INACTIVE"
+        },
+        "1572840805": {
+            "cmap.dc.ace.advertising.com": "INACTIVE"
+        },
+        "1572840806": {
+            "app.adjust.io": "INACTIVE"
+        },
+        "1572840807": {
+            "fr.fc.yahoo.com": "INACTIVE"
+        },
+        "1572840808": {
+            "img-2.3lift.com": "INACTIVE"
+        },
+        "1572840809": {
+            "tag-st.contextweb.com": "INACTIVE"
+        },
+        "1572840812": {
+            "redirect.appmetrica.yandex.ru": "INACTIVE"
+        },
+        "1572840814": {
+            "metabase.simpleanalytics.io": "INACTIVE"
+        },
+        "1572840816": {
+            "unit.content-ad.net": "INACTIVE"
+        },
+        "1572840817": {
+            "s.ligatus.com": "INACTIVE"
+        },
+        "1572840825": {
+            "alog.umeng.co": "INACTIVE"
+        },
+        "1572840828": {
+            "log.outbrain.com": "INACTIVE"
+        },
+        "1572840829": {
+            "jupiter2.appads.com": "INACTIVE"
+        },
+        "1572840836": {
+            "siteanalytics.marketo.com": "INACTIVE"
+        },
+        "1572840837": {
+            "prom.fullstory.com": "INACTIVE"
+        },
+        "1572840840": {
+            "www.addisp.com": "INACTIVE"
+        },
+        "1572840841": {
+            "www.playhaven.com": "INACTIVE"
+        },
+        "1572840845": {
+            "1295336.fls.doubleclick.net": "INACTIVE"
+        },
+        "1572840847": {
+            "www.appads.com": "INACTIVE"
+        },
+        "1572840851": {
+            "g.ezoic.net": "INACTIVE"
+        },
+        "1572840852": {
+            "tw.adserver.yahoo.com": "INACTIVE"
+        },
+        "1572840858": {
+            "wifi.urekamedia.com": "INACTIVE"
+        },
+        "1572840859": {
+            "reklam.rfsl.se": "INACTIVE"
+        },
+        "1572840862": {
+            "events-test.adhaven.com": "INACTIVE"
+        },
+        "1572840868": {
+            "nainasdesigner.com": "INACTIVE"
+        },
+        "1572840873": {
+            "7f1au20glg.com": "INACTIVE"
+        },
+        "1572840874": {
+            "www.7f1au20glg.com": "INACTIVE"
+        },
+        "1572840880": {
+            "custom2.supersonicads.com": "INACTIVE"
+        },
+        "1572840889": {
+            "www.netcommunities.com": "INACTIVE"
+        },
+        "1572840891": {
+            "api.viglink.com": "INACTIVE"
+        },
+        "1572840893": {
+            "www.drydrum.com": "INACTIVE"
+        },
+        "1572840901": {
+            "www.818tl.com": "INACTIVE"
+        },
+        "1572840904": {
+            "assets.adtech.de": "INACTIVE"
+        },
+        "1572840907": {
+            "adpickup-prod.adhaven.com": "INACTIVE"
+        },
+        "1572840915": {
+            "ssl-google-analytics.l.google.com": "INACTIVE"
+        },
+        "1572840917": {
+            "videostr.knowlead.io": "INACTIVE"
+        },
+        "1572840920": {
+            "ep.dspmulti.com": "INACTIVE"
+        },
+        "1572840923": {
+            "staging.atrium.apptentive.com": "INACTIVE"
+        },
+        "1572840924": {
+            "www.sillyscrew.com": "INACTIVE"
+        },
+        "1572840941": {
+            "dart-apac.l.doubleclick.net": "INACTIVE"
+        },
+        "1572840942": {
+            "dsp-monitoring.powerlinks.com": "INACTIVE"
+        },
+        "1572840948": {
+            "www.2mdnsys.com": "INACTIVE"
+        },
+        "1572840954": {
+            "vntiki.onelink.me": "INACTIVE"
+        },
+        "1572840955": {
+            "trackers.voodoo-analytics.io": "INACTIVE"
+        },
+        "1572840958": {
+            "www.adinjector.net": "INACTIVE"
+        },
+        "1572840963": {
+            "www.cheerfulrange.com": "INACTIVE"
+        },
+        "1572840971": {
+            "a.fqtag.com": "INACTIVE"
+        },
+        "1572840978": {
+            "aj1865.online": "INACTIVE"
+        },
+        "1572840980": {
+            "189732.engine.mobileapptracking.com": "INACTIVE",
+            "sdk.analytiall.com": "INACTIVE",
+            "www.hsych.com": "INACTIVE"
+        },
+        "1572840986": {
+            "apac.analytics.yahoo.com": "INACTIVE"
+        },
+        "1572840988": {
+            "www.mystat.pl": "INACTIVE"
+        },
+        "1572840989": {
+            "tr.lga.contextweb.com": "INACTIVE"
+        },
+        "1572840993": {
+            "www.orcsnx.com": "INACTIVE"
+        },
+        "1572840995": {
+            "viber.cdn.adsnative.com": "INACTIVE"
+        },
+        "1572840997": {
+            "trk.pinterest.com": "INACTIVE"
+        },
+        "1572840999": {
+            "mathid-origin.mathtag.com": "INACTIVE"
+        },
+        "1572841009": {
+            "p13.ipstatp.com": "INACTIVE"
+        },
+        "1572841012": {
+            "intensedigital.adk2x.com": "INACTIVE"
+        },
+        "1572841013": {
+            "interstitial.powered-by.securesoft.info": "INACTIVE",
+            "mads-eu.amazon-adsystem.com": "INACTIVE"
+        },
+        "1572841015": {
+            "useast.rtb.adkernel.com": "INACTIVE"
+        },
+        "1572841024": {
+            "googlanalytics.ws": "INACTIVE"
+        },
+        "1572841028": {
+            "smtp2.younetmedia.com": "INACTIVE"
+        },
+        "1572841030": {
+            "tracking.i2w.io": "INACTIVE"
+        },
+        "1572841031": {
+            "zem-us-west.outbrain.com": "INACTIVE"
+        },
+        "1572841034": {
+            "verity-api-internal.gumgum.com": "INACTIVE"
+        },
+        "1572841041": {
+            "rtb.duapps.com": "INACTIVE"
+        },
+        "1572841052": {
+            "deadpool.ops.ir1.inmobi.com": "INACTIVE"
+        },
+        "1572841063": {
+            "blitz01.ops.appdynamics.com": "INACTIVE"
+        },
+        "1572841065": {
+            "csc.beap.bc.yahoo.com": "INACTIVE"
+        },
+        "1572841071": {
+            "www.userreplay.net": "INACTIVE"
+        },
+        "1572841072": {
+            "adsrv.eacdn.com": "INACTIVE"
+        },
+        "1572841073": {
+            "detik.serving-sys.com": "INACTIVE"
+        },
+        "1572841076": {
+            "ad.doctissimo.fr": "INACTIVE"
+        },
+        "1572841077": {
+            "www.marfeelcdn.com": "INACTIVE"
+        },
+        "1572841078": {
+            "madmin.propellerads.com": "INACTIVE"
+        },
+        "1572841085": {
+            "dmp-log.yomedia.vn": "INACTIVE"
+        },
+        "1572841086": {
+            "fh1qa.midasplayer.com": "INACTIVE"
+        },
+        "1572841089": {
+            "pg.alcmpn.com": "INACTIVE"
+        },
+        "1572841091": {
+            "www.adformdsp.net": "INACTIVE"
+        },
+        "1572841095": {
+            "premierfarnell.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572841105": {
+            "rtb-google-mia.nxtck.com": "INACTIVE"
+        },
+        "1572841107": {
+            "ldschurch.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572841110": {
+            "www.alexametrics.com": "INACTIVE"
+        },
+        "1572841119": {
+            "client.vietnamnetad.vn": "INACTIVE"
+        },
+        "1572841121": {
+            "www.mamivoi.com": "INACTIVE"
+        },
+        "1572841122": {
+            "native-nation.affise.com": "INACTIVE"
+        },
+        "1572841126": {
+            "api.startappservice.com": "INACTIVE"
+        },
+        "1572841136": {
+            "ads4.mojiva.com": "INACTIVE",
+            "adspade.go2affise.com": "INACTIVE"
+        },
+        "1572841140": {
+            "api.appdynamics.com": "INACTIVE"
+        },
+        "1572841147": {
+            "api.jetlore.com": "INACTIVE"
+        },
+        "1572841151": {
+            "dealerx.prod.bidr.io": "INACTIVE"
+        },
+        "1572841152": {
+            "mem3.popcash.net": "INACTIVE"
+        },
+        "1572841161": {
+            "cpd.vietad.vn": "INACTIVE"
+        },
+        "1572841166": {
+            "sf.mmccint.com": "INACTIVE"
+        },
+        "1572841167": {
+            "ext1.engageya.com": "INACTIVE"
+        },
+        "1572841174": {
+            "stats.self.com": "INACTIVE"
+        },
+        "1572841175": {
+            "bulk-click.startappservice.com": "INACTIVE"
+        },
+        "1572841176": {
+            "sp-ycpi.analytics.yahoo.com": "INACTIVE"
+        },
+        "1572841177": {
+            "peacepowder.com": "INACTIVE"
+        },
+        "1572841178": {
+            "cookieinformation.mgr.consensu.org": "INACTIVE",
+            "www.peacepowder.com": "INACTIVE"
+        },
+        "1572841179": {
+            "san.casalemedia.com": "INACTIVE"
+        },
+        "1572841180": {
+            "rtb-fe-us-e4.content.ad": "INACTIVE"
+        },
+        "1572841187": {
+            "workday.exponential.com": "INACTIVE"
+        },
+        "1572841192": {
+            "js.w.inmobi.com": "INACTIVE"
+        },
+        "1572841198": {
+            "media-sj2.msg.dotomi.com": "INACTIVE"
+        },
+        "1572841199": {
+            "live-imp.adtdp.com": "INACTIVE"
+        },
+        "1572841203": {
+            "evt.bfmio.com": "INACTIVE"
+        },
+        "1572841204": {
+            "proton.flurry.com": "INACTIVE",
+            "rtb-appnexus.east.adhaven.com": "INACTIVE"
+        },
+        "1572841211": {
+            "res.mmstat.com": "INACTIVE"
+        },
+        "1572841212": {
+            "hinet.cacafly.net": "INACTIVE",
+            "video.inner-active.mobi": "INACTIVE"
+        },
+        "1572841214": {
+            "impact.applifier.com": "INACTIVE"
+        },
+        "1572841216": {
+            "external-appcluster-kp1g.kochava.com": "INACTIVE"
+        },
+        "1572841227": {
+            "gdpr.alcmpn.com": "INACTIVE"
+        },
+        "1572841228": {
+            "dev-desk.adasiaholdings.com": "INACTIVE"
+        },
+        "1572841229": {
+            "neirong.baidu.com": "INACTIVE"
+        },
+        "1572841231": {
+            "ad.domainfactory.de": "INACTIVE"
+        },
+        "1572841245": {
+            "m.baidu.com.yiqisee.cn": "INACTIVE"
+        },
+        "1572841247": {
+            "condenast.demdex.net": "INACTIVE",
+            "trowel.twitch.tv": "INACTIVE"
+        },
+        "1572841248": {
+            "anycast.dt.adsafeprotected.com": "INACTIVE"
+        },
+        "1572841254": {
+            "itsupport.outbrain.com": "INACTIVE"
         }
     }
 }
