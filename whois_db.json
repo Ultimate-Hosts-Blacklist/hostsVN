@@ -669,6 +669,11 @@
         "expiration_date": "20-may-2020",
         "state": "future"
     },
+    "ad-brix.com": {
+        "epoch": 1586390400,
+        "expiration_date": "09-apr-2020",
+        "state": "future"
+    },
     "ad-center.com": {
         "epoch": 1576627200,
         "expiration_date": "18-dec-2019",
@@ -772,6 +777,11 @@
     "adapt.tv": {
         "epoch": 1576713600,
         "expiration_date": "19-dec-2019",
+        "state": "future"
+    },
+    "adasiaholdings.com": {
+        "epoch": 1575590400,
+        "expiration_date": "06-dec-2019",
         "state": "future"
     },
     "adbanner.ro": {
@@ -1067,6 +1077,11 @@
     "adhese.com": {
         "epoch": 1585958400,
         "expiration_date": "04-apr-2020",
+        "state": "future"
+    },
+    "adhigh.net": {
+        "epoch": 1728950400,
+        "expiration_date": "15-oct-2024",
         "state": "future"
     },
     "adhoc4.net": {
@@ -4477,6 +4492,11 @@
     "clicksor.com": {
         "epoch": 1580083200,
         "expiration_date": "27-jan-2020",
+        "state": "future"
+    },
+    "clicktale.net": {
+        "epoch": 1592697600,
+        "expiration_date": "21-jun-2020",
         "state": "future"
     },
     "clickthruserver.com": {
@@ -10024,6 +10044,11 @@
         "expiration_date": "29-may-2021",
         "state": "future"
     },
+    "netagent.cz": {
+        "epoch": 1579910400,
+        "expiration_date": "25-jan-2020",
+        "state": "future"
+    },
     "netclickstats.com": {
         "epoch": 1588377600,
         "expiration_date": "02-may-2020",
@@ -12019,6 +12044,11 @@
         "expiration_date": "22-dec-2020",
         "state": "future"
     },
+    "saawa.com": {
+        "epoch": 1597276800,
+        "expiration_date": "13-aug-2020",
+        "state": "future"
+    },
     "safedk.com": {
         "epoch": 1581984000,
         "expiration_date": "18-feb-2020",
@@ -12220,8 +12250,8 @@
         "state": "future"
     },
     "senddroid.com": {
-        "epoch": 1580256000,
-        "expiration_date": "29-jan-2020",
+        "epoch": 1580256000363200,
+        "expiration_date": "14-aug-2020",
         "state": "future"
     },
     "sendmepixel.com": {
