@@ -8534,6 +8534,11 @@
         "expiration_date": "09-jun-2020",
         "state": "future"
     },
+    "k6r.net": {
+        "epoch": 1568419200,
+        "expiration_date": "14-sep-2019",
+        "state": "past"
+    },
     "kaffnet.com": {
         "epoch": 1578182400,
         "expiration_date": "05-jan-2020",
@@ -12257,6 +12262,11 @@
     "rhythmnewmedia.com": {
         "epoch": 1578182400,
         "expiration_date": "05-jan-2020",
+        "state": "future"
+    },
+    "richmails.com": {
+        "epoch": 1585785600,
+        "expiration_date": "02-apr-2020",
         "state": "future"
     },
     "richmetrics.com": {
