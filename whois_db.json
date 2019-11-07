@@ -414,6 +414,11 @@
         "expiration_date": "21-oct-2020",
         "state": "future"
     },
+    "aylarl.com": {
+        "epoch": 1566777600,
+        "expiration_date": "26-aug-2019",
+        "state": "past"
+    },
     "balloontexture.com": {
         "epoch": 1582675200,
         "expiration_date": "26-feb-2020",
@@ -1177,6 +1182,11 @@
     "guardedschool.com": {
         "epoch": 1597622400,
         "expiration_date": "17-aug-2020",
+        "state": "future"
+    },
+    "gunggo.com": {
+        "epoch": 1618876800,
+        "expiration_date": "20-apr-2021",
         "state": "future"
     },
     "h148.cn": {
@@ -2387,6 +2397,11 @@
     "throattrees.com": {
         "epoch": 1582675200,
         "expiration_date": "26-feb-2020",
+        "state": "future"
+    },
+    "tiqcdn.com": {
+        "epoch": 1657497600,
+        "expiration_date": "11-jul-2022",
         "state": "future"
     },
     "tizers.net": {
