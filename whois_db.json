@@ -649,6 +649,11 @@
         "expiration_date": "25-sep-2021",
         "state": "future"
     },
+    "acuityplatform.com": {
+        "epoch": 1590537600.0,
+        "expiration_date": "27-may-2020",
+        "state": "future"
+    },
     "ad-balancer.net": {
         "epoch": 1589932800,
         "expiration_date": "20-may-2020",
@@ -807,6 +812,11 @@
     "adbooth.com": {
         "epoch": 1712793600.0,
         "expiration_date": "11-apr-2024",
+        "state": "future"
+    },
+    "adbooth.net": {
+        "epoch": 1679529600.0,
+        "expiration_date": "23-mar-2023",
         "state": "future"
     },
     "adbot.com": {
@@ -3779,6 +3789,11 @@
         "expiration_date": "26-oct-2020",
         "state": "future"
     },
+    "british-banners.com": {
+        "epoch": 1597536000.0,
+        "expiration_date": "16-aug-2020",
+        "state": "future"
+    },
     "broadboundary.com": {
         "epoch": 1584748800,
         "expiration_date": "21-mar-2020",
@@ -5459,6 +5474,11 @@
         "expiration_date": "14-sep-2020",
         "state": "future"
     },
+    "do-not-tracker.org": {
+        "epoch": 1595808000.0,
+        "expiration_date": "27-jul-2020",
+        "state": "future"
+    },
     "docksalmon.com": {
         "epoch": 1592524800,
         "expiration_date": "19-jun-2020",
@@ -5704,6 +5724,11 @@
         "expiration_date": "20-apr-2026",
         "state": "future"
     },
+    "ebayadvertising.com": {
+        "epoch": 1587600000.0,
+        "expiration_date": "23-apr-2020",
+        "state": "future"
+    },
     "ebocornac.com": {
         "epoch": 1585526400,
         "expiration_date": "30-mar-2020",
@@ -5870,9 +5895,9 @@
         "state": "future"
     },
     "enquisite.com": {
-        "epoch": 1573257600.0,
-        "expiration_date": "09-nov-2019",
-        "state": "past"
+        "epoch": 1604880000.0,
+        "expiration_date": "09-nov-2020",
+        "state": "future"
     },
     "ensighten.com": {
         "epoch": 1766361600.0,
@@ -5958,6 +5983,11 @@
         "epoch": 1568073600.0,
         "expiration_date": "10-sep-2019",
         "state": "past"
+    },
+    "etnkorea.com": {
+        "epoch": 1596844800.0,
+        "expiration_date": "08-aug-2020",
+        "state": "future"
     },
     "ets-grup.com": {
         "epoch": 1604880000,
@@ -7045,9 +7075,9 @@
         "state": "future"
     },
     "guangdelvyou.com": {
-        "epoch": 1573430400,
+        "epoch": 1573430400.0,
         "expiration_date": "11-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "guardedschool.com": {
         "epoch": 1597622400,
@@ -7097,6 +7127,11 @@
     "haihuang-audio.com": {
         "epoch": 1592438400.0,
         "expiration_date": "18-jun-2020",
+        "state": "future"
+    },
+    "hairtease.com": {
+        "epoch": 1577750400.0,
+        "expiration_date": "31-dec-2019",
         "state": "future"
     },
     "hammerhearing.com": {
@@ -14262,6 +14297,11 @@
     "urbanityadnetwork.com": {
         "epoch": 1575244800,
         "expiration_date": "02-dec-2019",
+        "state": "future"
+    },
+    "urekamedia.com": {
+        "epoch": 1581638400.0,
+        "expiration_date": "14-feb-2020",
         "state": "future"
     },
     "urlcash.net": {
