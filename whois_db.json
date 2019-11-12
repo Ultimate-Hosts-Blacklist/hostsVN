@@ -835,7 +835,7 @@
         "state": "future"
     },
     "adbanner.ro": {
-        "epoch": 1570924800,
+        "epoch": 1570924800.0,
         "expiration_date": "13-oct-2019",
         "state": "past"
     },
@@ -2192,6 +2192,11 @@
     "advertisementafterthought.com": {
         "epoch": 1582761600,
         "expiration_date": "27-feb-2020",
+        "state": "future"
+    },
+    "advertiserurl.com": {
+        "epoch": 1578787200.0,
+        "expiration_date": "12-jan-2020",
         "state": "future"
     },
     "advertisespace.com": {
@@ -5444,6 +5449,11 @@
         "expiration_date": "27-sep-2020",
         "state": "future"
     },
+    "dc-storm.com": {
+        "epoch": 1585008000.0,
+        "expiration_date": "24-mar-2020",
+        "state": "future"
+    },
     "dd-seo.cn": {
         "epoch": 1577318400,
         "expiration_date": "26-dec-2019",
@@ -8064,6 +8074,11 @@
         "expiration_date": "22-jan-2020",
         "state": "future"
     },
+    "imprese.cz": {
+        "epoch": 1598572800.0,
+        "expiration_date": "28-aug-2020",
+        "state": "future"
+    },
     "impressionmedia.cz": {
         "epoch": 1595462400.0,
         "expiration_date": "23-jul-2020",
@@ -10012,6 +10027,11 @@
     "mobuna.com": {
         "epoch": 1593993600,
         "expiration_date": "06-jul-2020",
+        "state": "future"
+    },
+    "moby-aa.ru": {
+        "epoch": 1578787200.0,
+        "expiration_date": "12-jan-2020",
         "state": "future"
     },
     "mobyt.com": {
@@ -16097,6 +16117,11 @@
     "yz-sl.cn": {
         "epoch": 1596672000,
         "expiration_date": "06-aug-2020",
+        "state": "future"
+    },
+    "z5x.net": {
+        "epoch": 1574467200.0,
+        "expiration_date": "23-nov-2019",
         "state": "future"
     },
     "zangocash.com": {
