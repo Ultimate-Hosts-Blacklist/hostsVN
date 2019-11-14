@@ -1840,9 +1840,9 @@
         "state": "future"
     },
     "adslop.com": {
-        "epoch": 1573344000.0,
-        "expiration_date": "10-nov-2019",
-        "state": "past"
+        "epoch": 1604966400.0,
+        "expiration_date": "10-nov-2020",
+        "state": "future"
     },
     "adsluna.com": {
         "epoch": 1578700800.0,
@@ -12932,6 +12932,11 @@
     "sextracker.com": {
         "epoch": 1583452800.0,
         "expiration_date": "06-mar-2020",
+        "state": "future"
+    },
+    "sexystat.com": {
+        "epoch": 1615852800.0,
+        "expiration_date": "16-mar-2021",
         "state": "future"
     },
     "sezwho.com": {
