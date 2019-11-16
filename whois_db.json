@@ -4779,6 +4779,11 @@
         "expiration_date": "18-jan-2020",
         "state": "future"
     },
+    "clicktrace.info": {
+        "epoch": 1586476800.0,
+        "expiration_date": "10-apr-2020",
+        "state": "future"
+    },
     "clicktracks.com": {
         "epoch": 1575331200.0,
         "expiration_date": "03-dec-2019",
@@ -5468,6 +5473,11 @@
         "epoch": 1603324800.0,
         "expiration_date": "22-oct-2020",
         "state": "future"
+    },
+    "datashreddergold.com": {
+        "epoch": 1567382400.0,
+        "expiration_date": "02-sep-2019",
+        "state": "past"
     },
     "dataxu.com": {
         "epoch": 1788652800.0,
