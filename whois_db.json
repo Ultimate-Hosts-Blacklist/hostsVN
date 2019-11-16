@@ -2994,6 +2994,11 @@
         "expiration_date": "16-nov-2019",
         "state": "future"
     },
+    "as5000.com": {
+        "epoch": 1584489600.0,
+        "expiration_date": "18-mar-2020",
+        "state": "future"
+    },
     "asianmedia.com": {
         "epoch": 1757376000.0,
         "expiration_date": "09-sep-2025",
@@ -4609,6 +4614,11 @@
         "expiration_date": "03-dec-2019",
         "state": "future"
     },
+    "clicktrade.com": {
+        "epoch": 1588291200.0,
+        "expiration_date": "01-may-2020",
+        "state": "future"
+    },
     "clickxchange.com": {
         "epoch": 1594598400.0,
         "expiration_date": "13-jul-2020",
@@ -5010,9 +5020,9 @@
         "state": "future"
     },
     "cqtspj.com": {
-        "epoch": 1573689600.0,
-        "expiration_date": "14-nov-2019",
-        "state": "past"
+        "epoch": 1605312000.0,
+        "expiration_date": "14-nov-2020",
+        "state": "future"
     },
     "crabbychin.com": {
         "epoch": 1603238400.0,
@@ -9414,6 +9424,11 @@
         "expiration_date": "09-nov-2020",
         "state": "future"
     },
+    "messagenovice.com": {
+        "epoch": 1592524800.0,
+        "expiration_date": "19-jun-2020",
+        "state": "future"
+    },
     "metaffiliation.com": {
         "epoch": 1588723200.0,
         "expiration_date": "06-may-2020",
@@ -9467,6 +9482,11 @@
     "miarroba.com": {
         "epoch": 1584921600.0,
         "expiration_date": "23-mar-2020",
+        "state": "future"
+    },
+    "mibet.com": {
+        "epoch": 1717632000.0,
+        "expiration_date": "06-jun-2024",
         "state": "future"
     },
     "mibet.mobi": {
@@ -11134,6 +11154,11 @@
         "expiration_date": "25-feb-2022",
         "state": "future"
     },
+    "playhaven.com": {
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
+        "state": "future"
+    },
     "playmobileads.com": {
         "epoch": 1605225600.0,
         "expiration_date": "13-nov-2020",
@@ -11177,6 +11202,11 @@
     "po.st": {
         "epoch": 1592265600.0,
         "expiration_date": "16-jun-2020",
+        "state": "future"
+    },
+    "politads.com": {
+        "epoch": 1574294400.0,
+        "expiration_date": "21-nov-2019",
         "state": "future"
     },
     "polyad.net": {
@@ -14359,6 +14389,11 @@
         "expiration_date": "14-feb-2020",
         "state": "future"
     },
+    "ultimedia.com": {
+        "epoch": 1605312000.0,
+        "expiration_date": "14-nov-2020",
+        "state": "future"
+    },
     "ultramercial.com": {
         "epoch": 1594166400.0,
         "expiration_date": "08-jul-2020",
@@ -14512,6 +14547,11 @@
     "useinsider.com": {
         "epoch": 1713398400.0,
         "expiration_date": "18-apr-2024",
+        "state": "future"
+    },
+    "usergrid.com": {
+        "epoch": 1582675200.0,
+        "expiration_date": "26-feb-2020",
         "state": "future"
     },
     "useriq.com": {
