@@ -2534,6 +2534,11 @@
         "expiration_date": "27-nov-2020",
         "state": "future"
     },
+    "aj1461.online": {
+        "epoch": 1579219200.0,
+        "expiration_date": "17-jan-2020",
+        "state": "future"
+    },
     "aj1489.online": {
         "epoch": 1582416000.0,
         "expiration_date": "23-feb-2020",
@@ -6462,6 +6467,11 @@
     "eyewonder.com": {
         "epoch": 1608681600.0,
         "expiration_date": "23-dec-2020",
+        "state": "future"
+    },
+    "ezimar.com": {
+        "epoch": 1583020800.0,
+        "expiration_date": "01-mar-2020",
         "state": "future"
     },
     "ezoic.net": {
