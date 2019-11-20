@@ -24,6 +24,11 @@
         "expiration_date": "22-dec-2021",
         "state": "future"
     },
+    "1findf1le-5.xyz": {
+        "epoch": 1567728000.0,
+        "expiration_date": "06-sep-2019",
+        "state": "past"
+    },
     "1phads.com": {
         "epoch": 1581465600.0,
         "expiration_date": "12-feb-2020",
