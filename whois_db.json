@@ -364,6 +364,11 @@
         "expiration_date": "02-oct-2019",
         "state": "past"
     },
+    "aj1810.online": {
+        "epoch": 1585267200.0,
+        "expiration_date": "27-mar-2020",
+        "state": "future"
+    },
     "ak0gsh40.com": {
         "epoch": 1582502400.0,
         "expiration_date": "24-feb-2020",
@@ -927,7 +932,7 @@
     "cpmaffiliation.com": {
         "epoch": 1574899200.0,
         "expiration_date": "28-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "crabbychin.com": {
         "epoch": 1603238400.0,
@@ -3737,6 +3742,11 @@
     "wellmadefrog.com": {
         "epoch": 1606694400.0,
         "expiration_date": "30-nov-2020",
+        "state": "future"
+    },
+    "whereapps.com": {
+        "epoch": 1587945600.0,
+        "expiration_date": "27-apr-2020",
         "state": "future"
     },
     "whirlwealth.com": {
