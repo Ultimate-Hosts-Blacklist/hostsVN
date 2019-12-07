@@ -1669,6 +1669,11 @@
         "expiration_date": "14-feb-2027",
         "state": "future"
     },
+    "adscpm.com": {
+        "epoch": 1602115200.0,
+        "expiration_date": "08-oct-2020",
+        "state": "future"
+    },
     "adsdaq.com": {
         "epoch": 1628726400.0,
         "expiration_date": "12-aug-2021",
@@ -8189,6 +8194,11 @@
         "expiration_date": "30-oct-2020",
         "state": "future"
     },
+    "karonty.com": {
+        "epoch": 1588896000.0,
+        "expiration_date": "08-may-2020",
+        "state": "future"
+    },
     "ketchapp.org": {
         "epoch": 1584748800.0,
         "expiration_date": "21-mar-2020",
@@ -9887,6 +9897,11 @@
     "navrcholu.cz": {
         "epoch": 1603238400.0,
         "expiration_date": "21-oct-2020",
+        "state": "future"
+    },
+    "nbjmp.com": {
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
         "state": "future"
     },
     "ncaudienceexchange.com": {
