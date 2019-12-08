@@ -33,6 +33,8 @@
 0.0.0.0 ads.betfair.com.au
 0.0.0.0 adsclock.adk2x.com
 0.0.0.0 ads.datinggold.com
+0.0.0.0 adserver2.juicyads.com
+0.0.0.0 adserver.freenet.de
 0.0.0.0 ad.slutload.com
 0.0.0.0 ads.nationalgeographic.com
 0.0.0.0 ads.newtention.net
@@ -56,10 +58,12 @@
 0.0.0.0 aidl-dev1001.data.corp.inmobi.com
 0.0.0.0 aj1864.online
 0.0.0.0 aka-cdn.geo.adtechus.com
+0.0.0.0 alpha.leanplum.com
 0.0.0.0 am.contextweb.com
 0.0.0.0 am-gb.adskeeper.co.uk
 0.0.0.0 amplify-eu.swrve.com
 0.0.0.0 ams-bid-weighted.contextweb.com
+0.0.0.0 amskrupajal.org
 0.0.0.0 analytics.thevideo.me
 0.0.0.0 a.nt002.cn
 0.0.0.0 anvil.rubiconproject.com
@@ -76,6 +80,7 @@
 0.0.0.0 asplexmedia.adk2x.com
 0.0.0.0 asset1.fyber.com
 0.0.0.0 asset3.fyber.com
+0.0.0.0 at-gb.adskeeper.co.uk
 0.0.0.0 autopilot.dz.optimizely.com
 0.0.0.0 avvn.innity.com
 0.0.0.0 awesome.bizible.com
@@ -111,6 +116,7 @@
 0.0.0.0 cdn.fyber.com
 0.0.0.0 cdnh.mdotm.com
 0.0.0.0 cdn.mobileapptracking.com
+0.0.0.0 cdns.o333o.com
 0.0.0.0 cdn-z.amazon-adsystem.com
 0.0.0.0 ceast.adsymptotic.com
 0.0.0.0 chat.urbanairship.com
@@ -138,7 +144,9 @@
 0.0.0.0 dcblade01.bnmla.com
 0.0.0.0 dcos.lijit.com
 0.0.0.0 dev2.dev.linear.aws.fwmrm.net
+0.0.0.0 dev.demobuilder.gumgum.com
 0.0.0.0 developer.millennialmedia.com
+0.0.0.0 dfdsfadfsd.com
 0.0.0.0 di1.shopping.com
 0.0.0.0 dnads.directnic.com
 0.0.0.0 dortxn.com
@@ -151,6 +159,7 @@
 0.0.0.0 eng.appdynamics.com
 0.0.0.0 engine.adpushup.com
 0.0.0.0 ets-cn-north-1.track.smaato.net
+0.0.0.0 eu-de-user.bidswitch.net
 0.0.0.0 eu-premiumanalytics.swrve.com
 0.0.0.0 evilstalin.https443.net
 0.0.0.0 f2.midasplayer.com
@@ -162,7 +171,9 @@
 0.0.0.0 foreman-a004-dub.krxd.net
 0.0.0.0 forums.dev.sharethis.com
 0.0.0.0 f-scripts.co.nr
+0.0.0.0 g5.mdotm.com
 0.0.0.0 gamerdna-sb-ec.adtechus.com
+0.0.0.0 gateway.supersonicads.com
 0.0.0.0 gateway.twik.io
 0.0.0.0 gdprmedtest.nexage.com
 0.0.0.0 get.leanplum.com
@@ -222,12 +233,15 @@
 0.0.0.0 llbb88.com
 0.0.0.0 llo123.com
 0.0.0.0 lmsongnv.com
+0.0.0.0 local.hotjar.com
 0.0.0.0 log.atf.microad.jp
 0.0.0.0 log.client.optimizely.com
 0.0.0.0 londparig.ga
 0.0.0.0 manage.sharethrough.com
 0.0.0.0 matchcows.com
+0.0.0.0 mav.microad.jp
 0.0.0.0 mbe-cdn-rtb.fyber.com
+0.0.0.0 mc.servebom.com
 0.0.0.0 m.de.2mdn.net
 0.0.0.0 media.quantserve.com
 0.0.0.0 mf.adsymptotic.com
@@ -256,6 +270,7 @@
 0.0.0.0 ox-d.washingtonpost.servedbyopenx.com
 0.0.0.0 pagerank-submitter.de
 0.0.0.0 pagerank-united.de
+0.0.0.0 partners.appsflyer.com
 0.0.0.0 pb.bilsyndication.com
 0.0.0.0 pb.breaktime.com.tw
 0.0.0.0 pc.openx.com
@@ -276,6 +291,7 @@
 0.0.0.0 qadynamics.marketo.com
 0.0.0.0 qasite.revcontent.com
 0.0.0.0 qgsruo.com
+0.0.0.0 r.ace.advertising.com
 0.0.0.0 rad.msn.com
 0.0.0.0 ranking-id.de
 0.0.0.0 ranking-street.de
@@ -296,8 +312,10 @@
 0.0.0.0 rythmxchange.com
 0.0.0.0 sandbox.adswizz.com
 0.0.0.0 sarahcraig.org
+0.0.0.0 s-beta-opf.amazon-adsystem.com
 0.0.0.0 sbox1-bevo.adsnative.com
 0.0.0.0 sean.ittest.33across.com
+0.0.0.0 secure.ace-tag.advertising.com
 0.0.0.0 service.adtech.de
 0.0.0.0 sf.mmccint.com
 0.0.0.0 shelterstraw.com
@@ -320,11 +338,13 @@
 0.0.0.0 stage.www.nexage.com
 0.0.0.0 staging-gce-be.bidswitch.net
 0.0.0.0 staging-p.alcmpn.com
+0.0.0.0 staging-video-broker.fyber.com
 0.0.0.0 statistics.dev.aatkit.com
 0.0.0.0 stats2.unrulymedia.com
 0.0.0.0 stg-j-serval.adtdp.com
 0.0.0.0 sukhshantisales.com
 0.0.0.0 supportmx.support.tapjoy.com
+0.0.0.0 suptullog.com
 0.0.0.0 sync.mobojoy.baidu.com
 0.0.0.0 system-test.dev.linear.aws.fwmrm.net
 0.0.0.0 telenor-analytics.localytics.com
@@ -351,6 +371,7 @@
 0.0.0.0 vhosts-ap.tapad.com
 0.0.0.0 video.aniview.com
 0.0.0.0 vi.gumgum.com
+0.0.0.0 vivaki.ndf.weborama.com
 0.0.0.0 v.stg.fwmrm.net
 0.0.0.0 wafra.adk2x.com
 0.0.0.0 wsp.adskeeper.co.uk
@@ -359,6 +380,7 @@
 0.0.0.0 www.2znp09oa.com
 0.0.0.0 www.3gl.net
 0.0.0.0 www.567bbl.com
+0.0.0.0 www.5mcwl.pw
 0.0.0.0 www.600z.com
 0.0.0.0 www.61gamei.com
 0.0.0.0 www.82o9v830.com
@@ -389,9 +411,11 @@
 0.0.0.0 www.advfromnwl.com
 0.0.0.0 www.agreemand.com
 0.0.0.0 www.aj1864.online
+0.0.0.0 www.alcmpn.com
 0.0.0.0 www.ambimob.com
 0.0.0.0 www.amcdn.vn
 0.0.0.0 www.amo122.com
+0.0.0.0 www.amskrupajal.org
 0.0.0.0 www.appads.com
 0.0.0.0 www.appearch.info
 0.0.0.0 www.app-measurement.com
@@ -403,6 +427,7 @@
 0.0.0.0 www.awesome.bizible.com
 0.0.0.0 www.aylarl.com
 0.0.0.0 www.azteou.com
+0.0.0.0 www.b2c.com
 0.0.0.0 www.bakuzbuq.ru
 0.0.0.0 www.baypops.com
 0.0.0.0 www.beabsolom.com
@@ -421,6 +446,7 @@
 0.0.0.0 www.broaddoor.com
 0.0.0.0 www.bucketbean.com
 0.0.0.0 www.bustlinganimal.com
+0.0.0.0 www.callousbrake.com
 0.0.0.0 www.capablecows.com
 0.0.0.0 www.cdnwidget.com
 0.0.0.0 www.ceocms.com
@@ -433,6 +459,7 @@
 0.0.0.0 www.clickthrucash.com
 0.0.0.0 www.cloisteredhydrant.com
 0.0.0.0 www.coinhive.com
+0.0.0.0 www.com-fasting.live
 0.0.0.0 www.complextoad.com
 0.0.0.0 www.concernedcondition.com
 0.0.0.0 www.copycarpenter.com
@@ -450,6 +477,7 @@
 0.0.0.0 www.debonairway.com
 0.0.0.0 www.decisiveducks.com
 0.0.0.0 www.deloo.de
+0.0.0.0 www.dfdsfadfsd.com
 0.0.0.0 www.dgboiler.cn
 0.0.0.0 www.discreetfield.com
 0.0.0.0 www.dispensablestranger.com
@@ -462,6 +490,7 @@
 0.0.0.0 www.dreamdrama.tv
 0.0.0.0 www.drydrum.com
 0.0.0.0 www.dsmartvietnam.com
+0.0.0.0 www.dusmin.com
 0.0.0.0 www.dvyiub.com
 0.0.0.0 www.earthycopy.com
 0.0.0.0 www.ebetoni.com
@@ -473,18 +502,22 @@
 0.0.0.0 www.emediate.dk
 0.0.0.0 www.emxdgt.com
 0.0.0.0 www.encouragingwilderness.com
+0.0.0.0 www.euroclick.com
 0.0.0.0 www.evodownload.com
 0.0.0.0 www.exdynsrv.com
 0.0.0.0 www.exogripper.com
 0.0.0.0 www.exosrv.com
+0.0.0.0 www.experteerads.com
 0.0.0.0 www.eyeviewads.com
 0.0.0.0 www.fabiocaminero.com
 0.0.0.0 www.fadedprofit.com
 0.0.0.0 www.farmergoldfish.com
 0.0.0.0 www.fb-promotions.com
+0.0.0.0 www.feilongjiasi.com
 0.0.0.0 www.flakyfeast.com
 0.0.0.0 www.flimsycircle.com
 0.0.0.0 www.fourarithmetic.com
+0.0.0.0 www.frightenedpotato.com
 0.0.0.0 www.furtherescottom.info
 0.0.0.0 www.gclabrelscon.net
 0.0.0.0 www.ghgmtcrluvghlwc91.com
@@ -499,6 +532,7 @@
 0.0.0.0 www.gxatatuning.cn
 0.0.0.0 www.hammerhearing.com
 0.0.0.0 www.handyfield.com
+0.0.0.0 www.hardtofindmilk.com
 0.0.0.0 www.harrenmedianetwork.com
 0.0.0.0 www.highstreeters.com
 0.0.0.0 www.historicalrequest.com
@@ -527,6 +561,7 @@
 0.0.0.0 www.ladsp.com
 0.0.0.0 www.laughcloth.com
 0.0.0.0 www.leanoisgo.com
+0.0.0.0 www.leferinktractors.com
 0.0.0.0 www.lettucelimit.com
 0.0.0.0 www.link.krxd.net
 0.0.0.0 www.linksynergy.com
@@ -554,10 +589,13 @@
 0.0.0.0 www.modifyeyes.com
 0.0.0.0 www.mojiva.com
 0.0.0.0 www.mon-thu2.life
+0.0.0.0 www.mon-thu4.life
 0.0.0.0 www.mon-thu7.life
 0.0.0.0 www.mpif.eu
 0.0.0.0 www.mstrlytcs.com
 0.0.0.0 www.mybuzzmonitor.com
+0.0.0.0 www.mysteriousmonth.com
+0.0.0.0 www.n85853.cn
 0.0.0.0 www.nainasdesigner.com
 0.0.0.0 www.newstarads.com
 0.0.0.0 www.nexac.com
@@ -572,6 +610,7 @@
 0.0.0.0 www.ohgooo.com
 0.0.0.0 www.one88.us
 0.0.0.0 www.oodsotso.com
+0.0.0.0 www.operationkettle.com
 0.0.0.0 www.owlsr.us
 0.0.0.0 www.pagerank-submitter.de
 0.0.0.0 www.pagerank-united.de
@@ -586,6 +625,7 @@
 0.0.0.0 www.possessivebucket.com
 0.0.0.0 www.practicetoothpaste.com
 0.0.0.0 www.provideplant.com
+0.0.0.0 www.pubmine.com
 0.0.0.0 www.pub.network
 0.0.0.0 www.puffypull.com
 0.0.0.0 www.pushazam.com
@@ -651,8 +691,11 @@
 0.0.0.0 www.steadfastsound.com
 0.0.0.0 www.steadfastsystem.com
 0.0.0.0 www.stickssheep.com
+0.0.0.0 www.stormysponge.com
+0.0.0.0 www.strivesidewalk.com
 0.0.0.0 www.sukhshantisales.com
 0.0.0.0 www.sulkybutter.com
+0.0.0.0 www.suptullog.com
 0.0.0.0 www.sworkitads.herokuapp.com
 0.0.0.0 www.t2t2.com
 0.0.0.0 www.tastefulsongs.com
@@ -673,6 +716,7 @@
 0.0.0.0 www.tracedesire.com
 0.0.0.0 www.trackedweb.net
 0.0.0.0 www.transpec.vn
+0.0.0.0 www.trazk.com
 0.0.0.0 www.tremendoustime.com
 0.0.0.0 www.tremorhub.com
 0.0.0.0 www.tr-gdz.ru
@@ -689,6 +733,7 @@
 0.0.0.0 www.vra4.com
 0.0.0.0 wwww.a-ads.com
 0.0.0.0 www.walesedu.com
+0.0.0.0 www.walklight.net
 0.0.0.0 www.webtraffic.se
 0.0.0.0 www.wzfmxlrrynnbekcqzu.com
 0.0.0.0 www.xinweico.net
@@ -701,6 +746,7 @@
 0.0.0.0 www.youknownow.ru
 0.0.0.0 www.zdesestvareznezahodi.com
 0.0.0.0 www.zlp6s.pw
+0.0.0.0 www.zqtk.net
 0.0.0.0 www.zucks.net
 0.0.0.0 wzfmxlrrynnbekcqzu.com
 0.0.0.0 xinweico.net
