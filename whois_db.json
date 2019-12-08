@@ -352,7 +352,7 @@
     "61gamei.com": {
         "epoch": 1575676800.0,
         "expiration_date": "07-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "654v.com": {
         "epoch": 1582588800.0,
@@ -1817,6 +1817,11 @@
     "adsoftware.com": {
         "epoch": 1578960000.0,
         "expiration_date": "14-jan-2020",
+        "state": "future"
+    },
+    "adsoldier.com": {
+        "epoch": 1581811200.0,
+        "expiration_date": "16-feb-2020",
         "state": "future"
     },
     "adsonar.com": {
@@ -3524,6 +3529,11 @@
         "expiration_date": "20-nov-2020",
         "state": "future"
     },
+    "bitads.net": {
+        "epoch": 1601856000.0,
+        "expiration_date": "05-oct-2020",
+        "state": "future"
+    },
     "bizible.com": {
         "epoch": 1659484800.0,
         "expiration_date": "03-aug-2022",
@@ -5097,6 +5107,11 @@
     "cyberbounty.com": {
         "epoch": 1594944000.0,
         "expiration_date": "17-jul-2020",
+        "state": "future"
+    },
+    "cypgroup.com": {
+        "epoch": 1594598400.0,
+        "expiration_date": "13-jul-2020",
         "state": "future"
     },
     "czhjln.com": {
@@ -8714,6 +8729,11 @@
         "expiration_date": "03-jan-2021",
         "state": "future"
     },
+    "localmediabuying.com": {
+        "epoch": 1597536000.0,
+        "expiration_date": "16-aug-2020",
+        "state": "future"
+    },
     "localytics.com": {
         "epoch": 1594080000.0,
         "expiration_date": "07-jul-2020",
@@ -10854,6 +10874,11 @@
         "expiration_date": "03-apr-2020",
         "state": "future"
     },
+    "pgmediaserve.com": {
+        "epoch": 1589500800.0,
+        "expiration_date": "15-may-2020",
+        "state": "future"
+    },
     "pgpartner.com": {
         "epoch": 1622073600.0,
         "expiration_date": "27-may-2021",
@@ -11469,6 +11494,11 @@
         "expiration_date": "22-jan-2020",
         "state": "future"
     },
+    "quietknowledge.com": {
+        "epoch": 1579651200.0,
+        "expiration_date": "22-jan-2020",
+        "state": "future"
+    },
     "quigo.com": {
         "epoch": 1645574400.0,
         "expiration_date": "23-feb-2022",
@@ -11977,6 +12007,11 @@
     "rundsp.com": {
         "epoch": 1649721600.0,
         "expiration_date": "12-apr-2022",
+        "state": "future"
+    },
+    "ruthlessrobin.com": {
+        "epoch": 1601856000.0,
+        "expiration_date": "05-oct-2020",
         "state": "future"
     },
     "s-onetag.com": {
