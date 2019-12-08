@@ -1104,6 +1104,11 @@
         "expiration_date": "26-may-2020",
         "state": "future"
     },
+    "adimpact.com": {
+        "epoch": 1601078400.0,
+        "expiration_date": "26-sep-2020",
+        "state": "future"
+    },
     "adinch.com": {
         "epoch": 1582848000.0,
         "expiration_date": "28-feb-2020",
@@ -1360,8 +1365,8 @@
         "state": "future"
     },
     "adnet-media.net": {
-        "epoch": 1575590400.0,
-        "expiration_date": "06-dec-2019",
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
         "state": "future"
     },
     "adnet.biz": {
@@ -8372,6 +8377,11 @@
     "kaffnet.com": {
         "epoch": 1578182400.0,
         "expiration_date": "05-jan-2020",
+        "state": "future"
+    },
+    "kanoodle.com": {
+        "epoch": 1872720000.0,
+        "expiration_date": "06-may-2029",
         "state": "future"
     },
     "kaplanindex.com": {
