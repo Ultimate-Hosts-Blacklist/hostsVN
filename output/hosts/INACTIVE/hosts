@@ -492,8 +492,8 @@
 0.0.0.0 api.sharethis.com
 0.0.0.0 apis.sharethrough.com
 0.0.0.0 api-ssl.demandbase.com
-0.0.0.0 apis.staging.sharethrough.com
 0.0.0.0 apis-staging.sharethrough.com
+0.0.0.0 apis.staging.sharethrough.com
 0.0.0.0 api-staging.playbuzz.com
 0.0.0.0 apis.web.analytics.yahoo.com
 0.0.0.0 api.urbanairship.com
@@ -641,6 +641,7 @@
 0.0.0.0 bevo-ap-southeast-1.adsnative.com
 0.0.0.0 bevo-eu-west-1.adsnative.com
 0.0.0.0 bevo-us-central1.adsnative.com
+0.0.0.0 bevo-us-east-1.adsnative.com
 0.0.0.0 bh1.doubleclick.net
 0.0.0.0 bhajankutir.vedicseasons.com
 0.0.0.0 bidbgp-lga.contextweb.com
@@ -836,6 +837,7 @@
 0.0.0.0 conference-3-freewheelcupscluster.fwmrm.net
 0.0.0.0 conference-3-standalonecluster7a91e.fwmrm.net
 0.0.0.0 config.789wed.com
+0.0.0.0 configuration.ma.tune.com
 0.0.0.0 confluence.corp.ligatus.com
 0.0.0.0 connect.adobedtm.com
 0.0.0.0 connected.ma.tune.com
@@ -1299,6 +1301,7 @@
 0.0.0.0 hotfix.twik.io
 0.0.0.0 hotro.mediaz.vn
 0.0.0.0 hotslotpot.cn
+0.0.0.0 html.eclick.vn
 0.0.0.0 htxvcl.com
 0.0.0.0 huate.hk
 0.0.0.0 huatongchuye.com
@@ -1733,6 +1736,7 @@
 0.0.0.0 multilead.affise.com
 0.0.0.0 munki.aws.branch.io
 0.0.0.0 munkireport.aws.branch.io
+0.0.0.0 mvapp.dev.lab.tune.com
 0.0.0.0 m.webtrends.com
 0.0.0.0 mx.braze.com
 0.0.0.0 mx.iesnare.com
@@ -2216,6 +2220,7 @@
 0.0.0.0 socialhub.innity.com
 0.0.0.0 socialhub.innity.net
 0.0.0.0 social-stream-tag.3lift.com
+0.0.0.0 socket.adpushup.com
 0.0.0.0 socrates-7.adtarget.me
 0.0.0.0 softevocative.adk2x.com
 0.0.0.0 sokrates.adtech.de
@@ -2311,8 +2316,8 @@
 0.0.0.0 static.propellerads.com
 0.0.0.0 static-sio.hotjar.com
 0.0.0.0 static-ssl.exoclick.com
-0.0.0.0 static-staging.sharethrough.com
 0.0.0.0 static.staging.sharethrough.com
+0.0.0.0 static-staging.sharethrough.com
 0.0.0.0 static.trackers.adtarget.me
 0.0.0.0 statistics.dev.aatkit.com
 0.0.0.0 stats2.unrulymedia.com
@@ -2342,8 +2347,8 @@
 0.0.0.0 stkjw.net
 0.0.0.0 st.n.ads1-adnow.com
 0.0.0.0 st.n.ads3-adnow.com
-0.0.0.0 st-n.ads4-adnow.com
 0.0.0.0 st.n.ads4-adnow.com
+0.0.0.0 st-n.ads4-adnow.com
 0.0.0.0 st.n.ads5-adnow.com
 0.0.0.0 sto.midasplayer.com
 0.0.0.0 streamate.doublepimp.com
@@ -2609,8 +2614,8 @@
 0.0.0.0 video-aws-staging.fyber.com
 0.0.0.0 video-cdn.mgid.com
 0.0.0.0 videology.ndf.weborama.com
-0.0.0.0 videos.acceptance.sharethrough.com
 0.0.0.0 videos-acceptance.sharethrough.com
+0.0.0.0 videos.acceptance.sharethrough.com
 0.0.0.0 videos.sharethrough.com
 0.0.0.0 videos.staging.sharethrough.com
 0.0.0.0 videos-staging.sharethrough.com
