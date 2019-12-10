@@ -104,6 +104,11 @@
         "expiration_date": "31-may-2020",
         "state": "future"
     },
+    "980media.com": {
+        "epoch": 1572048000.0,
+        "expiration_date": "26-oct-2019",
+        "state": "past"
+    },
     "a-counter.kiev.ua": {
         "epoch": 1601769600.0,
         "expiration_date": "04-oct-2020",
