@@ -501,8 +501,8 @@
 0.0.0.0 api.sharethis.com
 0.0.0.0 apis.sharethrough.com
 0.0.0.0 api-ssl.demandbase.com
-0.0.0.0 apis-staging.sharethrough.com
 0.0.0.0 apis.staging.sharethrough.com
+0.0.0.0 apis-staging.sharethrough.com
 0.0.0.0 api-staging.playbuzz.com
 0.0.0.0 apis.web.analytics.yahoo.com
 0.0.0.0 api.urbanairship.com
@@ -540,8 +540,8 @@
 0.0.0.0 asset2.fyber.com
 0.0.0.0 asset3.fyber.com
 0.0.0.0 asset4.fyber.com
-0.0.0.0 assets-acceptance.sharethrough.com
 0.0.0.0 assets.acceptance.sharethrough.com
+0.0.0.0 assets-acceptance.sharethrough.com
 0.0.0.0 assets.loomia.com
 0.0.0.0 assets.prebid.org
 0.0.0.0 assets.sharethrough.com
@@ -1345,6 +1345,7 @@
 0.0.0.0 icloud.com.view-apple.com
 0.0.0.0 i.cnzz.com
 0.0.0.0 icvdm.vo.llnwd.net
+0.0.0.0 idcounter.com
 0.0.0.0 ideas.viglink.com
 0.0.0.0 identity.swrve.com
 0.0.0.0 idp.adsrvr.org
@@ -2343,8 +2344,8 @@
 0.0.0.0 static02.adsafeprotected.com
 0.0.0.0 static-2.3lift.com
 0.0.0.0 statica.addtoany.com
-0.0.0.0 static-acceptance.sharethrough.com
 0.0.0.0 static.acceptance.sharethrough.com
+0.0.0.0 static-acceptance.sharethrough.com
 0.0.0.0 static.adpushup.com
 0.0.0.0 static.asia.rtbid.me
 0.0.0.0 static.bilsyndication.com
@@ -2388,10 +2389,11 @@
 0.0.0.0 stkjw.net
 0.0.0.0 st.n.ads1-adnow.com
 0.0.0.0 st.n.ads3-adnow.com
-0.0.0.0 st-n.ads4-adnow.com
 0.0.0.0 st.n.ads4-adnow.com
+0.0.0.0 st-n.ads4-adnow.com
 0.0.0.0 st.n.ads5-adnow.com
 0.0.0.0 sto.midasplayer.com
+0.0.0.0 straightschool.com
 0.0.0.0 streamate.doublepimp.com
 0.0.0.0 struq.quantserve.com
 0.0.0.0 studio.ev1.inmobi.com
@@ -2425,6 +2427,7 @@
 0.0.0.0 tableau.dashboard.ligatus.com
 0.0.0.0 tableau-staging.dashboard.ligatus.com
 0.0.0.0 tablet.gutterhelment.net
+0.0.0.0 tacoda.net
 0.0.0.0 tad.doublemax.net
 0.0.0.0 ta.doublemax.net
 0.0.0.0 tag-admin.demandbase.com
