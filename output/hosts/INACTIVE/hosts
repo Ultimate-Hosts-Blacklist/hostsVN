@@ -49,6 +49,7 @@
 0.0.0.0 aa-gb.mgid.com
 0.0.0.0 aa.goodsblock.mgid.com
 0.0.0.0 a.analytics.yahoo.com
+0.0.0.0 aan.amazon-adsystem.com
 0.0.0.0 aa-nb.adskeeper.co.uk
 0.0.0.0 a.anthill.vn
 0.0.0.0 aax.amazon.amazon-adsystem.com
@@ -535,13 +536,13 @@
 0.0.0.0 asset2.fyber.com
 0.0.0.0 asset3.fyber.com
 0.0.0.0 asset4.fyber.com
-0.0.0.0 assets-acceptance.sharethrough.com
 0.0.0.0 assets.acceptance.sharethrough.com
+0.0.0.0 assets-acceptance.sharethrough.com
 0.0.0.0 assets.loomia.com
 0.0.0.0 assets.prebid.org
 0.0.0.0 assets.sharethrough.com
-0.0.0.0 assets.staging.sharethrough.com
 0.0.0.0 assets-staging.sharethrough.com
+0.0.0.0 assets.staging.sharethrough.com
 0.0.0.0 associate.microad.jp
 0.0.0.0 assoc-msdk-metrics-us.amazon-adsystem.com
 0.0.0.0 asstraffic18.net
@@ -890,6 +891,7 @@
 0.0.0.0 creativelibrary.millennialmedia.com
 0.0.0.0 creatives.acceptance.sharethrough.com
 0.0.0.0 creatives.as4x.tmcs.net
+0.0.0.0 creative.skyrocket.adtdp.com
 0.0.0.0 creatives.staging.sharethrough.com
 0.0.0.0 cript.hotjar.com
 0.0.0.0 crmapi.idsp.inmobi.com
@@ -1799,6 +1801,7 @@
 0.0.0.0 nicenewsinc.com
 0.0.0.0 nikitinskysport.ru
 0.0.0.0 nj.akamai.startappservice.com
+0.0.0.0 nlb.vietad.vn
 0.0.0.0 node.playbuzz.com
 0.0.0.0 node.twik.io
 0.0.0.0 nonprod.flurry.com
@@ -1890,6 +1893,7 @@
 0.0.0.0 papap1.midasplayer.com
 0.0.0.0 partners.appsflyer.com
 0.0.0.0 partnerserv.aniview.com
+0.0.0.0 partners.web.analytics.yahoo.com
 0.0.0.0 partner.topcities.com
 0.0.0.0 passback.propellerads.com
 0.0.0.0 pattayabazaar.com
@@ -2331,15 +2335,15 @@
 0.0.0.0 static02.adsafeprotected.com
 0.0.0.0 static-2.3lift.com
 0.0.0.0 statica.addtoany.com
-0.0.0.0 static.acceptance.sharethrough.com
 0.0.0.0 static-acceptance.sharethrough.com
+0.0.0.0 static.acceptance.sharethrough.com
 0.0.0.0 static.adpushup.com
 0.0.0.0 static.asia.rtbid.me
 0.0.0.0 static.bilsyndication.com
 0.0.0.0 static.blog.sharethis.com
 0.0.0.0 static.ny.us.criteo.net
-0.0.0.0 static.premiumdsp.ibillboard.com
 0.0.0.0 static-premiumdsp.ibillboard.com
+0.0.0.0 static.premiumdsp.ibillboard.com
 0.0.0.0 static.propellerads.com
 0.0.0.0 static-sio.hotjar.com
 0.0.0.0 static-ssl.exoclick.com
@@ -2376,8 +2380,8 @@
 0.0.0.0 stkjw.net
 0.0.0.0 st.n.ads1-adnow.com
 0.0.0.0 st.n.ads3-adnow.com
-0.0.0.0 st-n.ads4-adnow.com
 0.0.0.0 st.n.ads4-adnow.com
+0.0.0.0 st-n.ads4-adnow.com
 0.0.0.0 st.n.ads5-adnow.com
 0.0.0.0 sto.midasplayer.com
 0.0.0.0 streamate.doublepimp.com
@@ -2454,6 +2458,7 @@
 0.0.0.0 test-d.analytics.yahoo.com
 0.0.0.0 test.hotjar.com
 0.0.0.0 testle.fqtag.com
+0.0.0.0 testle.media.net
 0.0.0.0 test.new.api.ad.xiaomi.com
 0.0.0.0 test.tapjoyads.com
 0.0.0.0 test-www.taboola.com
@@ -2498,6 +2503,7 @@
 0.0.0.0 trackers.voodoo-analytics.io
 0.0.0.0 tracking.checkmygirlfriend.net
 0.0.0.0 tracking.cp.ligatus.com
+0.0.0.0 tracking.hyde.ligatus.com
 0.0.0.0 tracking.i2w.io
 0.0.0.0 tracking.msadcenter.msn.com
 0.0.0.0 tracking.servebom.com
@@ -2520,6 +2526,7 @@
 0.0.0.0 travelholic.adop.cc
 0.0.0.0 tr.bnmla.com
 0.0.0.0 trc-cc.taboola.com
+0.0.0.0 trending.revcontent.com
 0.0.0.0 tr-gdz.ru
 0.0.0.0 tr.hugin.ligatus.com
 0.0.0.0 tritetongue.com
