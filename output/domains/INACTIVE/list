@@ -215,6 +215,7 @@ adserver.motorpresse.de
 adserver-origin.adtechjp.com
 adserver-origin-ap-northeast-1.adtechjp.com
 adserver-origin-ap-southeast-1.adtechjp.com
+adserver.portalofevil.com
 adserver-sb-ec.adtechus.com
 adserver-sb-wc.adtechus.com
 adserver.staging.adswizz.com
@@ -491,8 +492,8 @@ apis-ci.web.analytics.yahoo.com
 api.sharethis.com
 apis.sharethrough.com
 api-ssl.demandbase.com
-apis.staging.sharethrough.com
 apis-staging.sharethrough.com
+apis.staging.sharethrough.com
 api-staging.playbuzz.com
 apis.web.analytics.yahoo.com
 api.urbanairship.com
@@ -530,8 +531,8 @@ asset1.fyber.com
 asset2.fyber.com
 asset3.fyber.com
 asset4.fyber.com
-assets-acceptance.sharethrough.com
 assets.acceptance.sharethrough.com
+assets-acceptance.sharethrough.com
 assets.loomia.com
 assets.prebid.org
 assets.sharethrough.com
@@ -1006,6 +1007,7 @@ dev-j-serval.adtdp.com
 dev.lab.tune.com
 dev.mediawayss.com
 dev.midasplayer.com
+dev-payment.rungrinh.vn
 dev-rec.aralego.com
 dev.widget.databoxer.mgr.consensu.org
 df-azure-ext.newrelic.com
@@ -1310,6 +1312,7 @@ heisenberg.inmobi.com
 heisenberg-uswest.cdn.inmobi.com
 hezuo.cnzz.com
 highflyer.go2affise.com
+highpin.growingio.com
 highstreeters.com
 hit-ranking.de
 hk4.nexage.com
@@ -1843,6 +1846,7 @@ ops-prod-a.us-east-1.k8s.tune.com
 ops-prod-a.us-west-1.k8s.tune.com
 ops-prod-a.us-west-2.k8s.tune.com
 ops-prod.us-west-2.k8s.ops.tune.com
+ops-stage-a.us-east-1.k8s.tune.com
 ops-stage-a.us-west-2.k8s.tune.com
 ops-stage.us-west-2.k8s.ops.tune.com
 optimized-by-adv.rubiconproject.com
@@ -1876,6 +1880,7 @@ ox-d.trulia.servedbyopenx.com
 ox-d.washingtonpost.servedbyopenx.com
 ox-d.zergnet.com
 p13nlog.dz.optimizely.com
+p1.midasplayer.com
 p2.ad.gt
 pa-1.socdm.com
 pademo.sharethis.com
@@ -2258,6 +2263,7 @@ socket.adpushup.com
 socrates-7.adtarget.me
 softevocative.adk2x.com
 sokrates.adtech.de
+soma-assets-weighted.smaato.net
 soma-fix-ap-southeast-1.smaato.net
 soma-fix-eu-west-1.smaato.net
 soma-fix-us-east-1.smaato.net
@@ -2339,20 +2345,20 @@ start.siftscience.com
 static02.adsafeprotected.com
 static-2.3lift.com
 statica.addtoany.com
-static-acceptance.sharethrough.com
 static.acceptance.sharethrough.com
+static-acceptance.sharethrough.com
 static.adpushup.com
 static.asia.rtbid.me
 static.bilsyndication.com
 static.blog.sharethis.com
 static.ny.us.criteo.net
-static-premiumdsp.ibillboard.com
 static.premiumdsp.ibillboard.com
+static-premiumdsp.ibillboard.com
 static.propellerads.com
 static-sio.hotjar.com
 static-ssl.exoclick.com
-static-staging.sharethrough.com
 static.staging.sharethrough.com
+static-staging.sharethrough.com
 static.trackers.adtarget.me
 static.wywy.com
 statistics.dev.aatkit.com
@@ -2553,6 +2559,7 @@ twc.demdex.net
 twx.2mdn.net
 uat.bladegame.midasplayer.com
 uc.csc.adserver.yahoo.com
+uci.securesoft.info
 u.dspmulti.com
 ui.cp.tune.com
 uiservices.adtech.de
@@ -2603,6 +2610,7 @@ us-west-1.rtb.districtm.io
 us-west-2.rtb.districtm.io
 us-west-ca-ad-track.aralego.com
 usync.aws.rubiconproject.com
+ut.addthis.com
 ut.analytics.yahoo.com
 ut-api.analytics.yahoo.com
 utildata.co.kr
@@ -2620,6 +2628,7 @@ vaes.iad.preprod.amazon-adsystem.com
 vaes.pdx.amazon-adsystem.com
 vaes.pdx.preprod.amazon-adsystem.com
 vaes-preprod.dub.amazon-adsystem.com
+vaes-preprod.iad.amazon-adsystem.com
 vaes-preprod.pdx.amazon-adsystem.com
 va.pixel.prod2.invitemedia.com
 va.px.invitemedia.com
@@ -4005,6 +4014,7 @@ zdesestvareznezahodi.com
 zentral.aws.branch.io
 zhan.cnzz.com
 zh.www.adnow.com
+zone.vietad.vn
 zs.hniuzsjy.cn
 z.vietad.vn
 zw52.ru

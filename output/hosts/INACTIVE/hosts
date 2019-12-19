@@ -215,6 +215,7 @@
 0.0.0.0 adserver-origin.adtechjp.com
 0.0.0.0 adserver-origin-ap-northeast-1.adtechjp.com
 0.0.0.0 adserver-origin-ap-southeast-1.adtechjp.com
+0.0.0.0 adserver.portalofevil.com
 0.0.0.0 adserver-sb-ec.adtechus.com
 0.0.0.0 adserver-sb-wc.adtechus.com
 0.0.0.0 adserver.staging.adswizz.com
@@ -535,8 +536,8 @@
 0.0.0.0 assets.loomia.com
 0.0.0.0 assets.prebid.org
 0.0.0.0 assets.sharethrough.com
-0.0.0.0 assets.staging.sharethrough.com
 0.0.0.0 assets-staging.sharethrough.com
+0.0.0.0 assets.staging.sharethrough.com
 0.0.0.0 associate.microad.jp
 0.0.0.0 assoc-msdk-metrics-us.amazon-adsystem.com
 0.0.0.0 asstraffic18.net
@@ -1006,6 +1007,7 @@
 0.0.0.0 dev.lab.tune.com
 0.0.0.0 dev.mediawayss.com
 0.0.0.0 dev.midasplayer.com
+0.0.0.0 dev-payment.rungrinh.vn
 0.0.0.0 dev-rec.aralego.com
 0.0.0.0 dev.widget.databoxer.mgr.consensu.org
 0.0.0.0 df-azure-ext.newrelic.com
@@ -1310,6 +1312,7 @@
 0.0.0.0 heisenberg-uswest.cdn.inmobi.com
 0.0.0.0 hezuo.cnzz.com
 0.0.0.0 highflyer.go2affise.com
+0.0.0.0 highpin.growingio.com
 0.0.0.0 highstreeters.com
 0.0.0.0 hit-ranking.de
 0.0.0.0 hk4.nexage.com
@@ -1843,6 +1846,7 @@
 0.0.0.0 ops-prod-a.us-west-1.k8s.tune.com
 0.0.0.0 ops-prod-a.us-west-2.k8s.tune.com
 0.0.0.0 ops-prod.us-west-2.k8s.ops.tune.com
+0.0.0.0 ops-stage-a.us-east-1.k8s.tune.com
 0.0.0.0 ops-stage-a.us-west-2.k8s.tune.com
 0.0.0.0 ops-stage.us-west-2.k8s.ops.tune.com
 0.0.0.0 optimized-by-adv.rubiconproject.com
@@ -1876,6 +1880,7 @@
 0.0.0.0 ox-d.washingtonpost.servedbyopenx.com
 0.0.0.0 ox-d.zergnet.com
 0.0.0.0 p13nlog.dz.optimizely.com
+0.0.0.0 p1.midasplayer.com
 0.0.0.0 p2.ad.gt
 0.0.0.0 pa-1.socdm.com
 0.0.0.0 pademo.sharethis.com
@@ -2258,6 +2263,7 @@
 0.0.0.0 socrates-7.adtarget.me
 0.0.0.0 softevocative.adk2x.com
 0.0.0.0 sokrates.adtech.de
+0.0.0.0 soma-assets-weighted.smaato.net
 0.0.0.0 soma-fix-ap-southeast-1.smaato.net
 0.0.0.0 soma-fix-eu-west-1.smaato.net
 0.0.0.0 soma-fix-us-east-1.smaato.net
@@ -2351,8 +2357,8 @@
 0.0.0.0 static.propellerads.com
 0.0.0.0 static-sio.hotjar.com
 0.0.0.0 static-ssl.exoclick.com
-0.0.0.0 static.staging.sharethrough.com
 0.0.0.0 static-staging.sharethrough.com
+0.0.0.0 static.staging.sharethrough.com
 0.0.0.0 static.trackers.adtarget.me
 0.0.0.0 static.wywy.com
 0.0.0.0 statistics.dev.aatkit.com
@@ -2384,8 +2390,8 @@
 0.0.0.0 stkjw.net
 0.0.0.0 st.n.ads1-adnow.com
 0.0.0.0 st.n.ads3-adnow.com
-0.0.0.0 st-n.ads4-adnow.com
 0.0.0.0 st.n.ads4-adnow.com
+0.0.0.0 st-n.ads4-adnow.com
 0.0.0.0 st.n.ads5-adnow.com
 0.0.0.0 sto.midasplayer.com
 0.0.0.0 streamate.doublepimp.com
@@ -2553,6 +2559,7 @@
 0.0.0.0 twx.2mdn.net
 0.0.0.0 uat.bladegame.midasplayer.com
 0.0.0.0 uc.csc.adserver.yahoo.com
+0.0.0.0 uci.securesoft.info
 0.0.0.0 u.dspmulti.com
 0.0.0.0 ui.cp.tune.com
 0.0.0.0 uiservices.adtech.de
@@ -2603,6 +2610,7 @@
 0.0.0.0 us-west-2.rtb.districtm.io
 0.0.0.0 us-west-ca-ad-track.aralego.com
 0.0.0.0 usync.aws.rubiconproject.com
+0.0.0.0 ut.addthis.com
 0.0.0.0 ut.analytics.yahoo.com
 0.0.0.0 ut-api.analytics.yahoo.com
 0.0.0.0 utildata.co.kr
@@ -2620,6 +2628,7 @@
 0.0.0.0 vaes.pdx.amazon-adsystem.com
 0.0.0.0 vaes.pdx.preprod.amazon-adsystem.com
 0.0.0.0 vaes-preprod.dub.amazon-adsystem.com
+0.0.0.0 vaes-preprod.iad.amazon-adsystem.com
 0.0.0.0 vaes-preprod.pdx.amazon-adsystem.com
 0.0.0.0 va.pixel.prod2.invitemedia.com
 0.0.0.0 va.px.invitemedia.com
@@ -2655,11 +2664,11 @@
 0.0.0.0 video-aws-staging.fyber.com
 0.0.0.0 video-cdn.mgid.com
 0.0.0.0 videology.ndf.weborama.com
-0.0.0.0 videos.acceptance.sharethrough.com
 0.0.0.0 videos-acceptance.sharethrough.com
+0.0.0.0 videos.acceptance.sharethrough.com
 0.0.0.0 videos.sharethrough.com
-0.0.0.0 videos.staging.sharethrough.com
 0.0.0.0 videos-staging.sharethrough.com
+0.0.0.0 videos.staging.sharethrough.com
 0.0.0.0 vi.dev.fwmrm.net
 0.0.0.0 vidstream.advertserve.com
 0.0.0.0 vietad.vn
@@ -4005,6 +4014,7 @@
 0.0.0.0 zentral.aws.branch.io
 0.0.0.0 zhan.cnzz.com
 0.0.0.0 zh.www.adnow.com
+0.0.0.0 zone.vietad.vn
 0.0.0.0 zs.hniuzsjy.cn
 0.0.0.0 z.vietad.vn
 0.0.0.0 zw52.ru
