@@ -79,6 +79,11 @@
         "expiration_date": "30-jul-2020",
         "state": "future"
     },
+    "980media.com": {
+        "epoch": 1572048000.0,
+        "expiration_date": "26-oct-2019",
+        "state": "past"
+    },
     "a-counter.kiev.ua": {
         "epoch": 1601769600.0,
         "expiration_date": "04-oct-2020",
@@ -554,6 +559,11 @@
         "expiration_date": "05-oct-2020",
         "state": "future"
     },
+    "bawdybeast.com": {
+        "epoch": 1596412800.0,
+        "expiration_date": "03-aug-2020",
+        "state": "future"
+    },
     "beabsolom.com": {
         "epoch": 1603584000.0,
         "expiration_date": "25-oct-2020",
@@ -802,6 +812,11 @@
     "cintnetworks.com": {
         "epoch": 1584403200.0,
         "expiration_date": "17-mar-2020",
+        "state": "future"
+    },
+    "clearcomb.com": {
+        "epoch": 1579651200.0,
+        "expiration_date": "22-jan-2020",
         "state": "future"
     },
     "clickhubs.com": {
@@ -3382,6 +3397,11 @@
     "tiqcdn.com": {
         "epoch": 1657497600.0,
         "expiration_date": "11-jul-2022",
+        "state": "future"
+    },
+    "tizers.net": {
+        "epoch": 1586044800.0,
+        "expiration_date": "05-apr-2020",
         "state": "future"
     },
     "toecircle.com": {
