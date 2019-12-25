@@ -42,6 +42,7 @@
 0.0.0.0 aaa520.izlinix.com
 0.0.0.0 a.adexchangemachine.com
 0.0.0.0 a.adgrx.com
+0.0.0.0 a.adk2x.com
 0.0.0.0 a.admob.com
 0.0.0.0 aa-gb.adskeeper.co.uk
 0.0.0.0 aa-gb.mgid.com
@@ -479,14 +480,15 @@
 0.0.0.0 api.sharethis.com
 0.0.0.0 apis.sharethrough.com
 0.0.0.0 api-ssl.demandbase.com
-0.0.0.0 apis.staging.sharethrough.com
 0.0.0.0 apis-staging.sharethrough.com
+0.0.0.0 apis.staging.sharethrough.com
 0.0.0.0 api-staging.playbuzz.com
 0.0.0.0 apis.web.analytics.yahoo.com
 0.0.0.0 api.urbanairship.com
 0.0.0.0 api-us-east-1.adsnative.com
 0.0.0.0 api-v2.instartlogic.com
 0.0.0.0 api.web.analytics.yahoo.com
+0.0.0.0 apix.web.analytics.yahoo.com
 0.0.0.0 app.adsoctopus.com
 0.0.0.0 appengage-fyber.fyber.com
 0.0.0.0 appengage-video.staging.fyber.com
@@ -516,8 +518,8 @@
 0.0.0.0 asset2.fyber.com
 0.0.0.0 asset3.fyber.com
 0.0.0.0 asset4.fyber.com
-0.0.0.0 assets-acceptance.sharethrough.com
 0.0.0.0 assets.acceptance.sharethrough.com
+0.0.0.0 assets-acceptance.sharethrough.com
 0.0.0.0 assets.loomia.com
 0.0.0.0 assets.prebid.org
 0.0.0.0 assets.sharethrough.com
@@ -547,6 +549,7 @@
 0.0.0.0 autodiscover.mm.marketo.com
 0.0.0.0 autopilot.dz.optimizely.com
 0.0.0.0 avr2.smaato.net
+0.0.0.0 avr3.smaato.net
 0.0.0.0 avr.smaato.net
 0.0.0.0 avvn.innity.com
 0.0.0.0 awesome.bizible.com
@@ -554,6 +557,7 @@
 0.0.0.0 aws-adserver-origin-ap-northeast-1.adtechjp.com
 0.0.0.0 aws-adserver-origin-ap-southeast-1.adtechjp.com
 0.0.0.0 aws-cni-test.us-west-2.k8s.ops.tune.com
+0.0.0.0 aws.playbuzz.com
 0.0.0.0 aws-production-banner-server-us-west-2.banner-server.fyber.com
 0.0.0.0 aws-staging-banner-eu-west-1.staging-banner.fyber.com
 0.0.0.0 aylarl.com
@@ -682,6 +686,7 @@
 0.0.0.0 ca.akamai.startappservice.com
 0.0.0.0 cabomarlinisportfishing.com
 0.0.0.0 cache1.one88.us
+0.0.0.0 cache.adserver.yahoo.com
 0.0.0.0 cache.one88.us
 0.0.0.0 cadastrabb.com
 0.0.0.0 caixapre.com.br
@@ -765,6 +770,7 @@
 0.0.0.0 ci-mpsnare.iesnare.com
 0.0.0.0 cinstein.com
 0.0.0.0 ckidkina.ru
+0.0.0.0 clariad.adk2x.com
 0.0.0.0 cldfm.adtdp.com
 0.0.0.0 cle-test1.adomik.com
 0.0.0.0 cle-test2.adomik.com
@@ -807,6 +813,7 @@
 0.0.0.0 cms.vinaads.vn
 0.0.0.0 cm-us-central1.adsnative.com
 0.0.0.0 cnative.propellerads.com
+0.0.0.0 cn.criteo.net
 0.0.0.0 c.newsinc.com
 0.0.0.0 co.at.vc
 0.0.0.0 cog2.bnmla.com
@@ -1174,6 +1181,7 @@
 0.0.0.0 foreman-a001-pdx.krxd.net
 0.0.0.0 foreman-a002-dub.krxd.net
 0.0.0.0 foreman-a002-pdx.krxd.net
+0.0.0.0 foreman-a003-dub.krxd.net
 0.0.0.0 foreman-a003-pdx.krxd.net
 0.0.0.0 foreman-a004-ash.krxd.net
 0.0.0.0 foreman-a004-dub.krxd.net
@@ -1214,6 +1222,7 @@
 0.0.0.0 gcp-ad.doublemax.net
 0.0.0.0 gd1.mookie1.com
 0.0.0.0 gdprmedtest.nexage.com
+0.0.0.0 geoinfo.i2w.io
 0.0.0.0 geoloc.ayads.co
 0.0.0.0 geolookup.swrve.com
 0.0.0.0 geo.smaato.net
@@ -1350,6 +1359,7 @@
 0.0.0.0 img2.propellerads.com
 0.0.0.0 img-3.3lift.com
 0.0.0.0 img-4.3lift.com
+0.0.0.0 img-5.3lift.com
 0.0.0.0 img-6.3lift.com
 0.0.0.0 img-7.3lift.com
 0.0.0.0 img-8.3lift.com
@@ -1401,6 +1411,7 @@
 0.0.0.0 inline.sharethis.com
 0.0.0.0 in.meet.ssl2.duapps.com
 0.0.0.0 inplay-rcv01.scanscout.com
+0.0.0.0 inplay-rcv03.scanscout.com
 0.0.0.0 inplay-rcv04.scanscout.com
 0.0.0.0 inplay-rcv06.scanscout.com
 0.0.0.0 inplay-rcv07.scanscout.com
@@ -1619,6 +1630,7 @@
 0.0.0.0 mads-fe.amazon-adsystem.com
 0.0.0.0 maglev.segment.com
 0.0.0.0 mail1.adform.net
+0.0.0.0 mail.newrelic.com
 0.0.0.0 mainnetsoll.com
 0.0.0.0 mainstatserver.com
 0.0.0.0 m.ambientplatform.vn
@@ -1629,6 +1641,7 @@
 0.0.0.0 mans.cnusher.ind.in
 0.0.0.0 manwaringweb.advertserve.com
 0.0.0.0 maplefarmmedia.com
+0.0.0.0 marathon.prd.fyber.com
 0.0.0.0 marketing.demandbase.com
 0.0.0.0 mark.skyrocket.adtdp.com
 0.0.0.0 master.ulv.statistics.aatkit.com
@@ -1750,6 +1763,7 @@
 0.0.0.0 new.api.ad.xiaomi.com
 0.0.0.0 neweggstats.com
 0.0.0.0 new.hotjar.com
+0.0.0.0 news.genapi.euapi.pubnative.net
 0.0.0.0 newsite.instartlogic.com
 0.0.0.0 newsmax.bevo.adsnative.com
 0.0.0.0 newsmax.cdn.adsnative.com
@@ -1784,6 +1798,7 @@
 0.0.0.0 oas.foxnews.com
 0.0.0.0 oas.salon.com
 0.0.0.0 observium.prd.fyber.com
+0.0.0.0 ocm.revcontent.com
 0.0.0.0 oc.umeng.co
 0.0.0.0 odoo.mangoads.vn
 0.0.0.0 offers.hotjar.com
@@ -2043,6 +2058,7 @@
 0.0.0.0 ronasiter.com
 0.0.0.0 rossel.mgr.consensu.org
 0.0.0.0 r-p3.ladsp.com
+0.0.0.0 r.playbuzz.com
 0.0.0.0 rpm-instart.newrelic.com
 0.0.0.0 r.pubnative.net
 0.0.0.0 r.sharethis.com
@@ -2216,6 +2232,7 @@
 0.0.0.0 sonic-dev.supersonicads.com
 0.0.0.0 sonic-us.supersonicads.com
 0.0.0.0 sosplombiers-9eme.fr
+0.0.0.0 source.answers.com
 0.0.0.0 sowellness.be
 0.0.0.0 sp-api.analytics.yahoo.com
 0.0.0.0 sp.backtrace.io
@@ -2606,11 +2623,11 @@
 0.0.0.0 video-aws-staging.fyber.com
 0.0.0.0 video-cdn.mgid.com
 0.0.0.0 videology.ndf.weborama.com
-0.0.0.0 videos.acceptance.sharethrough.com
 0.0.0.0 videos-acceptance.sharethrough.com
+0.0.0.0 videos.acceptance.sharethrough.com
 0.0.0.0 videos.sharethrough.com
-0.0.0.0 videos-staging.sharethrough.com
 0.0.0.0 videos.staging.sharethrough.com
+0.0.0.0 videos-staging.sharethrough.com
 0.0.0.0 vi.dev.fwmrm.net
 0.0.0.0 vidstream.advertserve.com
 0.0.0.0 vietad.vn
@@ -2883,6 +2900,7 @@
 0.0.0.0 www.barbarousnerve.com
 0.0.0.0 www.basepush.com
 0.0.0.0 www.baskettexture.com
+0.0.0.0 www.batbuilding.com
 0.0.0.0 www.bawdybeast.com
 0.0.0.0 www.bayansayfasi.com
 0.0.0.0 www.baypops.com
@@ -3081,6 +3099,7 @@
 0.0.0.0 www.drabsize.com
 0.0.0.0 www.dragzebra.com
 0.0.0.0 www.dreamdrama.tv
+0.0.0.0 www.drteachme.com
 0.0.0.0 www.drydrum.com
 0.0.0.0 www.dsmartvietnam.com
 0.0.0.0 www.dsp.io
@@ -3148,6 +3167,7 @@
 0.0.0.0 www.fimc.net
 0.0.0.0 www.fineclicks.com
 0.0.0.0 www.firstlightera.com
+0.0.0.0 www.flakyfeast.com
 0.0.0.0 www.flimsycircle.com
 0.0.0.0 www.floodprincipal.com
 0.0.0.0 www.foamybox.com
@@ -3275,6 +3295,7 @@
 0.0.0.0 www.ivwbox.de
 0.0.0.0 www.ivykiosk.com
 0.0.0.0 www.ivypixel.com
+0.0.0.0 www.j93557g.com
 0.0.0.0 www.jadeitite.com
 0.0.0.0 www.jaizouji.com
 0.0.0.0 www.jdcartoon.com
@@ -3364,6 +3385,7 @@
 0.0.0.0 www.media.innity.net
 0.0.0.0 www.medialets.com
 0.0.0.0 www.mediatrking.com
+0.0.0.0 www.medyanetads.com
 0.0.0.0 www.mefa.ws
 0.0.0.0 www.megago.com
 0.0.0.0 www.memorizeneck.com
@@ -3459,6 +3481,7 @@
 0.0.0.0 www.nzaza.com
 0.0.0.0 www.obscenesidewalk.com
 0.0.0.0 www.observantice.com
+0.0.0.0 www.oceanic.ws
 0.0.0.0 www.oclasrv.com
 0.0.0.0 www.ocsp.apple.com
 0.0.0.0 www.offerfusion.com
@@ -3491,6 +3514,7 @@
 0.0.0.0 www.paleleaf.com
 0.0.0.0 www.panthawas.com
 0.0.0.0 www.paradoxfactor.com
+0.0.0.0 www.parchedangle.com
 0.0.0.0 www.parketsy.pro
 0.0.0.0 www.parsimoniouspolice.com
 0.0.0.0 www.partner.googleadservices.com
@@ -3833,6 +3857,7 @@
 0.0.0.0 www.vietad.vn
 0.0.0.0 www.view-apple.com
 0.0.0.0 www.view-appleid.com
+0.0.0.0 www.vilagnomad.com
 0.0.0.0 www.vinaads.vn
 0.0.0.0 www.vi-serve.com
 0.0.0.0 www.visualrevenue.com
