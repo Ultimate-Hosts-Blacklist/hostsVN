@@ -7584,6 +7584,11 @@
         "expiration_date": "03-jun-2024",
         "state": "future"
     },
+    "globaladmedia.com": {
+        "epoch": 1639353600.0,
+        "expiration_date": "13-dec-2021",
+        "state": "future"
+    },
     "globalismedia.com": {
         "epoch": 1600128000.0,
         "expiration_date": "15-sep-2020",
@@ -8472,6 +8477,11 @@
     "impossibleexpansion.com": {
         "epoch": 1579651200.0,
         "expiration_date": "22-jan-2020",
+        "state": "future"
+    },
+    "imprese.cz": {
+        "epoch": 1598572800.0,
+        "expiration_date": "28-aug-2020",
         "state": "future"
     },
     "impressionmedia.cz": {
@@ -9685,9 +9695,9 @@
         "state": "future"
     },
     "mah0ney.com": {
-        "epoch": 1577059200.0,
-        "expiration_date": "23-dec-2019",
-        "state": "past"
+        "epoch": 1608681600.0,
+        "expiration_date": "23-dec-2020",
+        "state": "future"
     },
     "mahimeta.com": {
         "epoch": 1674518400.0,
