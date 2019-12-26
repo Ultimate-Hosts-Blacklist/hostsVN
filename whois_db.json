@@ -3344,6 +3344,11 @@
         "expiration_date": "11-may-2020",
         "state": "future"
     },
+    "area51-ts.com": {
+        "epoch": 1601856000.0,
+        "expiration_date": "05-oct-2020",
+        "state": "future"
+    },
     "argyresthia.com": {
         "epoch": 1596412800.0,
         "expiration_date": "03-aug-2020",
@@ -16462,6 +16467,11 @@
     "yoc-adserver.com": {
         "epoch": 1591574400.0,
         "expiration_date": "08-jun-2020",
+        "state": "future"
+    },
+    "yoc-performance.com": {
+        "epoch": 1588377600.0,
+        "expiration_date": "02-may-2020",
         "state": "future"
     },
     "yoc.mobi": {
