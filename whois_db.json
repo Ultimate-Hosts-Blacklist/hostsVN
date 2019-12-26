@@ -2009,6 +2009,11 @@
         "expiration_date": "15-nov-2020",
         "state": "future"
     },
+    "adswizz.com": {
+        "epoch": 1826582400.0,
+        "expiration_date": "19-nov-2027",
+        "state": "future"
+    },
     "adsymptotic.com": {
         "epoch": 1694217600.0,
         "expiration_date": "09-sep-2023",
@@ -5762,7 +5767,7 @@
     "dd-seo.cn": {
         "epoch": 1577318400.0,
         "expiration_date": "26-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "de17a.com": {
         "epoch": 1581811200.0,
@@ -6402,6 +6407,11 @@
     "edchiu.com": {
         "epoch": 1582675200.0,
         "expiration_date": "26-feb-2020",
+        "state": "future"
+    },
+    "edgeio.com": {
+        "epoch": 1581033600.0,
+        "expiration_date": "07-feb-2020",
         "state": "future"
     },
     "edigitalsurvey.com": {
