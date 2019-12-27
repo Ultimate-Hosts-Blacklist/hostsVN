@@ -2839,6 +2839,11 @@
         "expiration_date": "02-jul-2020",
         "state": "future"
     },
+    "ajgc1116.online": {
+        "epoch": 1593648000.0,
+        "expiration_date": "02-jul-2020",
+        "state": "future"
+    },
     "ajgc1117.online": {
         "epoch": 1593648000.0,
         "expiration_date": "02-jul-2020",
@@ -3452,6 +3457,11 @@
     "arsenal54.xyz": {
         "epoch": 1578873600.0,
         "expiration_date": "13-jan-2020",
+        "state": "future"
+    },
+    "arsenal55.xyz": {
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
         "state": "future"
     },
     "arsenal56.xyz": {
@@ -9947,6 +9957,11 @@
     "marketo.com": {
         "epoch": 1816300800.0,
         "expiration_date": "23-jul-2027",
+        "state": "future"
+    },
+    "marketo.net": {
+        "epoch": 1737504000.0,
+        "expiration_date": "22-jan-2025",
         "state": "future"
     },
     "marketolive.com": {
