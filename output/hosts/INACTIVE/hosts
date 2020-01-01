@@ -526,8 +526,8 @@
 0.0.0.0 assets.loomia.com
 0.0.0.0 assets.prebid.org
 0.0.0.0 assets.sharethrough.com
-0.0.0.0 assets.staging.sharethrough.com
 0.0.0.0 assets-staging.sharethrough.com
+0.0.0.0 assets.staging.sharethrough.com
 0.0.0.0 associate.microad.jp
 0.0.0.0 assoc-msdk-metrics-us.amazon-adsystem.com
 0.0.0.0 asstraffic18.net
@@ -1332,6 +1332,7 @@
 0.0.0.0 iceland.simpleanalytics.io
 0.0.0.0 icloud.com.view-apple.com
 0.0.0.0 i.cnzz.com
+0.0.0.0 icvdm.vo.llnwd.net
 0.0.0.0 id.districtm.io
 0.0.0.0 ideas.viglink.com
 0.0.0.0 identity.swrve.com
@@ -2087,6 +2088,7 @@
 0.0.0.0 rtb-eq.tapad.com
 0.0.0.0 rtb-eu.tapad.com
 0.0.0.0 rtb-fe-us-e1.content.ad
+0.0.0.0 rtb-fe-us-e2.content.ad
 0.0.0.0 rtb-fe-us-e3.content.ad
 0.0.0.0 rtb-fe-us-e4.content.ad
 0.0.0.0 rtb-fe-us-e5.content.ad
@@ -2147,6 +2149,7 @@
 0.0.0.0 sdk.heyzap.com
 0.0.0.0 sdk.nexage.com
 0.0.0.0 sdkw.tapad.com
+0.0.0.0 sdk.zucks.net
 0.0.0.0 s-dsp.send.microad.jp
 0.0.0.0 sean.ittest.33across.com
 0.0.0.0 search.clicksor.com
@@ -2329,8 +2332,8 @@
 0.0.0.0 static02.adsafeprotected.com
 0.0.0.0 static-2.3lift.com
 0.0.0.0 statica.addtoany.com
-0.0.0.0 static-acceptance.sharethrough.com
 0.0.0.0 static.acceptance.sharethrough.com
+0.0.0.0 static-acceptance.sharethrough.com
 0.0.0.0 static.adpushup.com
 0.0.0.0 static.asia.rtbid.me
 0.0.0.0 static.bilsyndication.com
@@ -2652,11 +2655,11 @@
 0.0.0.0 video-aws-staging.fyber.com
 0.0.0.0 video-cdn.mgid.com
 0.0.0.0 videology.ndf.weborama.com
-0.0.0.0 videos-acceptance.sharethrough.com
 0.0.0.0 videos.acceptance.sharethrough.com
+0.0.0.0 videos-acceptance.sharethrough.com
 0.0.0.0 videos.sharethrough.com
-0.0.0.0 videos-staging.sharethrough.com
 0.0.0.0 videos.staging.sharethrough.com
+0.0.0.0 videos-staging.sharethrough.com
 0.0.0.0 vi.dev.fwmrm.net
 0.0.0.0 vidstream.advertserve.com
 0.0.0.0 vietad.vn
@@ -2694,6 +2697,7 @@
 0.0.0.0 widget.databoxer.mgr.consensu.org
 0.0.0.0 widget-dev.databoxer.mgr.consensu.org
 0.0.0.0 widgets.innity.com
+0.0.0.0 widget-staging.databoxer.mgr.consensu.org
 0.0.0.0 wildcard.measuread.com
 0.0.0.0 winnotice.skyrocket.adtdp.com
 0.0.0.0 winwin.adk2x.com
@@ -2843,6 +2847,7 @@
 0.0.0.0 www.aj1872.online
 0.0.0.0 www.aj1873.online
 0.0.0.0 www.aj1874.online
+0.0.0.0 www.ajx159.online
 0.0.0.0 www.ajxx76.online
 0.0.0.0 www.ak0gsh40.com
 0.0.0.0 www.akamaisecure.qualtrics.com
@@ -2907,6 +2912,7 @@
 0.0.0.0 www.b2c.com
 0.0.0.0 www.badaonz.com
 0.0.0.0 www.bakuzbuq.ru
+0.0.0.0 www.balancebreath.com
 0.0.0.0 www.balloontexture.com
 0.0.0.0 www.banner-link.com.br
 0.0.0.0 www.barbarousnerve.com
