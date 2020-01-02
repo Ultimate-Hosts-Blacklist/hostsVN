@@ -4505,8 +4505,8 @@
         "state": "future"
     },
     "cadxiedan.com": {
-        "epoch": 1577836800.0,
-        "expiration_date": "01-jan-2020",
+        "epoch": 1609459200.0,
+        "expiration_date": "01-jan-2021",
         "state": "future"
     },
     "calculatingcircle.com": {
@@ -7324,6 +7324,11 @@
         "expiration_date": "04-aug-2020",
         "state": "future"
     },
+    "freemyapps.com": {
+        "epoch": 1588464000.0,
+        "expiration_date": "03-may-2020",
+        "state": "future"
+    },
     "freeonlineusers.com": {
         "epoch": 1600992000.0,
         "expiration_date": "25-sep-2020",
@@ -7337,6 +7342,11 @@
     "freeskreen.com": {
         "epoch": 1586736000.0,
         "expiration_date": "13-apr-2020",
+        "state": "future"
+    },
+    "freestats.com": {
+        "epoch": 1599264000.0,
+        "expiration_date": "05-sep-2020",
         "state": "future"
     },
     "freestats.tv": {
