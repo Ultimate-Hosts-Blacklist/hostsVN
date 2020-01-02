@@ -2499,6 +2499,11 @@
         "expiration_date": "08-feb-2020",
         "state": "future"
     },
+    "aj1090.online": {
+        "epoch": 1581120000.0,
+        "expiration_date": "08-feb-2020",
+        "state": "future"
+    },
     "aj1101.online": {
         "epoch": 1581120000.0,
         "expiration_date": "08-feb-2020",
@@ -2522,6 +2527,11 @@
     "aj1461.online": {
         "epoch": 1579219200.0,
         "expiration_date": "17-jan-2020",
+        "state": "future"
+    },
+    "aj1474.online": {
+        "epoch": 1580860800.0,
+        "expiration_date": "05-feb-2020",
         "state": "future"
     },
     "aj1489.online": {
@@ -2729,6 +2739,11 @@
         "expiration_date": "02-jul-2020",
         "state": "future"
     },
+    "ajgc1124.online": {
+        "epoch": 1593648000.0,
+        "expiration_date": "02-jul-2020",
+        "state": "future"
+    },
     "ajgc1126.online": {
         "epoch": 1593648000.0,
         "expiration_date": "02-jul-2020",
@@ -2795,6 +2810,11 @@
         "state": "future"
     },
     "ajgc1145.online": {
+        "epoch": 1593648000.0,
+        "expiration_date": "02-jul-2020",
+        "state": "future"
+    },
+    "ajgc1147.online": {
         "epoch": 1593648000.0,
         "expiration_date": "02-jul-2020",
         "state": "future"
@@ -10177,6 +10197,11 @@
     "microstatic.pl": {
         "epoch": 1584316800.0,
         "expiration_date": "16-mar-2020",
+        "state": "future"
+    },
+    "microticker.com": {
+        "epoch": 1618876800.0,
+        "expiration_date": "20-apr-2021",
         "state": "future"
     },
     "midasplayer.com": {
