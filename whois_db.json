@@ -13644,6 +13644,11 @@
         "expiration_date": "03-aug-2020",
         "state": "future"
     },
+    "slicktext.com": {
+        "epoch": 1760227200.0,
+        "expiration_date": "12-oct-2025",
+        "state": "future"
+    },
     "slipperysack.com": {
         "epoch": 1606694400.0,
         "expiration_date": "30-nov-2020",
@@ -15292,7 +15297,7 @@
     "ubermedia.com": {
         "epoch": 1577923200.0,
         "expiration_date": "02-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "ugdturner.com": {
         "epoch": 1588464000.0,
