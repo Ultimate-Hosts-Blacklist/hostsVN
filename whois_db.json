@@ -3409,6 +3409,11 @@
         "expiration_date": "16-nov-2020",
         "state": "future"
     },
+    "arsenal54.xyz": {
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
+        "state": "future"
+    },
     "arsenal55.xyz": {
         "epoch": 1610496000.0,
         "expiration_date": "13-jan-2021",
@@ -4205,9 +4210,9 @@
         "state": "future"
     },
     "bluewhaleweb.com": {
-        "epoch": 1577836800.0,
-        "expiration_date": "01-jan-2020",
-        "state": "past"
+        "epoch": 1609459200.0,
+        "expiration_date": "01-jan-2021",
+        "state": "future"
     },
     "blushingbeast.com": {
         "epoch": 1601856000.0,
