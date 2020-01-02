@@ -814,6 +814,11 @@
         "expiration_date": "06-sep-2020",
         "state": "future"
     },
+    "adbunker.com": {
+        "epoch": 1583452800.0,
+        "expiration_date": "06-mar-2020",
+        "state": "future"
+    },
     "adbutler.com": {
         "epoch": 1678924800.0,
         "expiration_date": "16-mar-2023",
@@ -7955,9 +7960,9 @@
         "state": "future"
     },
     "hairtease.com": {
-        "epoch": 1577750400.0,
-        "expiration_date": "31-dec-2019",
-        "state": "past"
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
+        "state": "future"
     },
     "hammerhearing.com": {
         "epoch": 1585872000.0,
