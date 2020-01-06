@@ -1,19 +1,19 @@
 {
     "current_stats": {
-        "builds": 14,
+        "builds": 15,
         "counter": {
-            "down": 954,
+            "down": 1020,
             "invalid": 0,
-            "tested": 9145,
-            "up": 8191
+            "tested": 9685,
+            "up": 8665
         }
     },
     "currently_under_test": "1",
     "days_until_next_test": 2,
     "end_datetime": "Sun Jan  5 12:01:04 2020",
     "end_epoch": 1578225664.172517,
-    "last_autosave_datetime": "Mon Jan  6 08:50:53 2020",
-    "last_autosave_epoch": 1578300653.982348,
+    "last_autosave_datetime": "Mon Jan  6 09:28:18 2020",
+    "last_autosave_epoch": 1578302898.42384,
     "name": "hostsVN",
     "previous_stats": {
         "builds": 36,
