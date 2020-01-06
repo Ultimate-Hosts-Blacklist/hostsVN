@@ -6,7 +6,9 @@
 36robots.com
 883.engine.mobileapptracking.com
 943.engine.mobileapptracking.com
+a2logging.steelhousemedia.com
 a.admob.com
+aa-gb.mgid.com
 aa.goodsblock.mgid.com
 a.analytics.yahoo.com
 aa-nb.adskeeper.co.uk
@@ -38,6 +40,7 @@ adnetworkperformance.compopcash.net
 adops.demandbase.com
 adpickup.adhaven.com
 adping.chartbeat.net
+adq.nextag.com
 ads.adsrvr.org
 ads.ak.facebook.com
 ads.allvatar.com
@@ -110,16 +113,20 @@ api.batmobi.net
 apibeta.propellerads.com
 api-dev.demandbase.com
 api-doc.adtech.de
+api.epom.com
 api.playbuzz.com
 api.qa.branch.io
 api.rqa.recorder.duapps.com
 apis.sharethrough.com
 apis-staging.sharethrough.com
 api-staging.playbuzz.com
+api-us-east-1.adsnative.com
 api-v2.instartlogic.com
 apple.taplytics.com
+appnexus-rtb.svc.adhaven.com
 apps.propellerads.com
 as2.advfn.com
+asiaok.net
 as.o333o.com
 asplexmedia.adk2x.com
 asset3.fyber.com
@@ -136,6 +143,8 @@ avr2.smaato.net
 avr3.smaato.net
 avr.smaato.net
 aws-adserver-origin-ap-northeast-1.adtechjp.com
+aws-adserver-origin-ap-southeast-1.adtechjp.com
+aws.playbuzz.com
 azfront.com
 backend.twik.io
 badaonz.com
@@ -190,6 +199,7 @@ cdn2-marketplace.vntsm.com
 cdn2.mxpnl.com
 cdn4.fyber.com
 cdn.adsaro.net
+cdn.aralego.com
 cdn.bebi.com
 cdn-cc.taboola.com
 cdn.fyber.com
@@ -225,6 +235,7 @@ content.heapanalytics.com
 context.rtbid.me
 corp.midasplayer.com
 corp.sonobi.com
+cosy.smaato.net
 cow.gutterheaters.org
 cpanel.twik.io
 cpmrocket.adk2x.com
@@ -252,6 +263,7 @@ dcos.lijit.com
 deadpool.ops.ir1.inmobi.com
 debug.engine.mobileapptracking.com
 demo.siftscience.com
+demo.websvn.info
 dev05.mdotm.com
 dev8.supersonicads.com
 dev.adsymptotic.com
@@ -299,6 +311,7 @@ exchange.video-v2.fyber.com
 export.swrve.com
 eyewond.hs.llnwd.net
 f1.midasplayer.com
+f2.ad.gt
 f2.midasplayer.com
 fabiocaminero.com
 fancycake.net
@@ -312,6 +325,7 @@ foreman-a002-dub.krxd.net
 forums.dev.sharethis.com
 forum.weborama.com
 fr.doubleclick.net
+frl.c.appier.net
 f.siftscience.com
 functionx.adtechus.com
 fync.bfmio.com
@@ -336,6 +350,7 @@ go3.aniview.com
 go5.aniview.com
 go7.aniview.com
 gold.weborama.fr
+gouddc.com
 gpe.midasplayer.com
 grk6mgehel1hfehn.ru
 gtp.advertserve.com
@@ -373,8 +388,12 @@ img-2.3lift.com
 img-5.3lift.com
 img-6.3lift.com
 img.ads1.mocean.mobi
+img.ads3.mojiva.com
 img.ads4.mojiva.com
+img.ads.mocean.mobi
+img-cdn.steepto.com
 img.jsecoin.com
+img-origin.adtechus.com
 imrworldwide.com.au
 imserv001.adtech.de
 inapp.districtm.io
@@ -383,9 +402,12 @@ inplay-rcv03.scanscout.com
 ins15.hotjar.com
 ins17.hotjar.com
 ins2.hotjar.com
+ins6.hotjar.com
 ins9.hotjar.com
+install.securesoft.info
 interior-examples.ru
 internals.instartlogic.com
+int.propellerads.com
 intranet.adtech.de
 iqreport.adtechus.com
 jedonkey.cjt1.net
@@ -404,6 +426,7 @@ kvs-maintenance.propellerads.com
 labs-s2.revcontent.com
 labs.tune.com
 landingpage1.mediaz.vn
+lb-us-east1-01.bigsea.weborama.com
 lb-us-east1-02.bigsea.weborama.com
 ldimage02.adtech.de
 leads.demandbase.com
@@ -412,15 +435,18 @@ learn-ra.newrelic.com
 learn-staging.newrelic.com
 letitbit.propellerads.com
 lga-ads-weighted.contextweb.com
+lga-bid-weighted.contextweb.com
 lga.contextweb.com
 lga-tag-stage00.contextweb.com
 lga-tag-weighted.contextweb.com
 lifestyleexpress.advertserve.com
 liuyan.cnzz.com
 liverail.rtb.tapad.com
+llo123.com
 ll.startappservice.com
 lmi.advertserve.com
 local.hotjar.com
+lococcc.com
 log.ambimob.com
 logging.adrecover.com
 loghost.in.backtrace.io
@@ -488,6 +514,8 @@ ns.steepto.com
 oas.foxnews.com
 oas.salon.com
 onclick.dashboard.propellerads.com
+openx.blindferret.com
+ops-prod-a.us-west-2.k8s.tune.com
 orcsnx.com
 os.dev.midasplayer.com
 ox-d.futurenet.servedbyopenx.com
@@ -496,6 +524,7 @@ ox-d.mediavine.servedbyopenx.com
 ox-d.nydailynews.servedbyopenx.com
 ox-d.publisherdesk.servedbyopenx.com
 ox-d.sinclair.servedbyopenx.com
+ox-d.washingtonpost.servedbyopenx.com
 p2.ad.gt
 pagead1.googlesyndication.com
 pagead.googlesyndication.com
@@ -512,10 +541,12 @@ pix522.adtech.de
 pixel.parsely.com
 pixel-sc2.adsymptotic.com
 planetmedia.mgr.consensu.org
+platform.mobileapptracking.com
 playbook.segment.com
 playground.optimizely.com
 plugin.innity.net
 power.bestconstructionexpertwitness.com
+prebid.fqtag.com
 premiumdsp.ibillboard.com
 premium.pubnative.net
 press.safedk.com
@@ -536,6 +567,7 @@ qa.ligatus.com
 qa.midasplayer.com
 qa.optimizely.com
 qgmmrvbqwlouglqggi.com
+qgsruo.com
 qqmeise.com
 r1-ads.ace.advertising.com
 racking.yieldlove-ad-serving.net
@@ -599,6 +631,7 @@ sf.mmccint.com
 sfo1.admarketplace.net
 sg.akamai.startappservice.com
 sgc.urbanairship.com
+sgs001.adtech.de
 shallowschool.com
 shdbnr.adk2x.com
 shiveringsail.com
@@ -629,6 +662,7 @@ spd.atdmt.com
 spectacularsnail.com
 speednetwork13.adk2x.com
 spillvacation.com
+srs.doubleverify.com
 stage.mobileapptracking.com
 stage-www.demandbase.com
 stage.www.nexage.com
@@ -643,11 +677,13 @@ static.propellerads.com
 status.indoleads.com
 stg.a.analytics.yahoo.com
 stg.ads.internal.unity3d.com
+stg.fyber.com
 stg.oem.inmobi.com
 stkjw.net
 studio.ev1.inmobi.com
 suavalds.com
 supportmx.support.tapjoy.com
+support.propellerads.com
 suptullog.com
 surveys-split.hotjar.com
 survey.tapad.com
@@ -721,6 +757,7 @@ vbswzm.com
 vcenter.corp.appdynamics.com
 vd1.propellerads.com
 velis.adk2x.com
+verity-api-test.gumgum.com
 vhosts-ap.tapad.com
 vhosts-ca1.tapad.com
 vhosts-sg1.tapad.com
@@ -792,6 +829,7 @@ www.ads2-adnow.com
 www.ads5-adnow.com
 www.ads.cc
 www.adsdk.com
+www.adslop.com
 www.adsonar.com
 www.adsplay.xyz
 www.adthor.com
@@ -837,15 +875,19 @@ www.archswimming.com
 www.are-ter.com
 www.aromamirror.com
 www.arsdev.net
+www.asiaok.net
 www.asj999.com
+www.askingpoint.com
 www.asstraffic18.net
 www.atwola.com
 www.automaticflock.com
+www.axiomaticalley.com
 www.azfront.com
 www.b2c.com
 www.badaonz.com
 www.balloontexture.com
 www.barbarousnerve.com
+www.baskettexture.com
 www.batbuilding.com
 www.bawdybeast.com
 www.bayansayfasi.com
@@ -864,6 +906,7 @@ www.blueadvertise.com
 www.blueserving.com
 www.bnc.lt
 www.bnmla.com
+www.bohoth.com
 www.boilingbeetle.com
 www.boilingumbrella.com
 www.boredcrown.com
@@ -907,7 +950,9 @@ www.cn-lushan.com
 www.cnnx.io
 www.coinhive.com
 www.com-fasting.live
+www.comfortablecheese.com
 www.commandwalk.com
+www.commindo-media-ressourcen.de
 www.compdata.ca
 www.completecabbage.com
 www.complextoad.com
@@ -924,6 +969,7 @@ www.copycarpenter.com
 www.copyrightaccesscontrols.com
 www.cottawa.info
 www.cqtspj.com
+www.crabbychin.com
 www.creafi.com
 www.creatives.co.in
 www.crownclam.com
@@ -966,6 +1012,7 @@ www.dq95d35.com
 www.drabsize.com
 www.dragzebra.com
 www.dreamdrama.tv
+www.drydrum.com
 www.dsp.io
 www.dspmulti.com
 www.dwnloader.com
@@ -1008,6 +1055,8 @@ www.feebleshock.com
 www.fffddd11.cn
 www.filmschoolsforum.com
 www.fineclicks.com
+www.firstlightera.com
+www.flakyfeast.com
 www.flimsycircle.com
 www.foamybox.com
 www.fout.jp
@@ -1029,6 +1078,7 @@ www.gondolagnome.com
 www.googlesyndication.com
 www.gop1.co
 www.gossipmiser.com
+www.gouddc.com
 www.gracefulsock.com
 www.grandioseguide.com
 www.greetzebra.com
@@ -1038,6 +1088,7 @@ www.gssprt.jp
 www.guangdelvyou.com
 www.guardedgovernor.com
 www.guyouellette.org
+www.h78xb.pw
 www.hammerhearing.com
 www.handyfield.com
 www.hardtofindmilk.com
@@ -1096,6 +1147,7 @@ www.kkvmaj.com
 www.koacojus.net
 www.koindut.com
 www.kurlichan.com
+www.ladsp.com
 www.laughcloth.com
 www.lead-analytics.nl
 www.leanoisgo.com
@@ -1106,6 +1158,8 @@ www.lightcushion.com
 www.lightningcast.net
 www.linkshighway.net
 www.lizardslaugh.com
+www.llo123.com
+www.lococcc.com
 www.longinglettuce.com
 www.lopsidedspoon.com
 www.loudloss.com
@@ -1166,6 +1220,7 @@ www.mxyyth.com
 www.myhongyuan.net
 www.mysteriousmonth.com
 www.n131adserv.com
+www.n1809adserv.xyz
 www.n85853.cn
 www.nedstat.com
 www.nervoussummer.com
@@ -1188,6 +1243,8 @@ www.onclasrv.com
 www.online-metrix.net
 www.on-mobi.com
 www.oodsotso.com
+www.operationkettle.com
+www.optad360.io
 www.optimallimit.com
 www.orcsnx.com
 www-origin.appdynamics.com
@@ -1211,6 +1268,7 @@ www.pietexture.com
 www.pinkpillar.ru
 www.piquantpigs.com
 www.playhaven.com
+www.playmobileads.com
 www.plrxserv.com
 www.pmddby.com
 www.pndelfast.com
@@ -1233,6 +1291,7 @@ www.pushazer.com
 www.pushlaram.com
 www.pushno.com
 www.qgmmrvbqwlouglqggi.com
+www.qgsruo.com
 www.qqmeise.com
 www.quaintcan.com
 www.quarterbean.com
@@ -1241,6 +1300,7 @@ www.quigo.com
 www.qwapi.com
 www.radiate.com
 www.railwayrainstorm.com
+www.rapidkittens.com
 www.raresummer.com
 www.rayads.cn
 www.readgoldfish.com
@@ -1248,15 +1308,18 @@ www.readingguilt.com
 www.readingopera.com
 www.realtracker.com
 www.rebotstat.com
+www.receptiveink.com
 www.receptivereaction.com
 www.reevaipi.com
 www.reflectivereward.com
 www.reglasti.com
 www.reklamer.com.ua
+www.remistrainew.club
 www.rentimeinvz.com
 www.resonantbrush.com
 www.revmob.com
 www.reycross.cn
+www.richstring.com
 www.ri-materials.com
 www.ritzykey.com
 www.ronasiter.com
@@ -1298,6 +1361,8 @@ www.shofteph.com
 www.shuangfeidyw.com
 www.sicksmash.com
 www.signalhq.com
+www.silkysquirrel.com
+www.sillyscrew.com
 www.sincerespy.com
 www.sinefight-skinesia.com
 www.sitemerkezi.net
@@ -1370,6 +1435,7 @@ www.topmailersblog.com
 www.torvaldscallthat.info
 www.trackcmp.net
 www.trackedweb.net
+www.trackersimulator.org
 www.trafficspaces.net
 www.tranquilside.com
 www.trazk.com
@@ -1393,6 +1459,7 @@ www.uttermosthobbies.com
 www.uyqrwg.com
 www.vanfireworks.com
 www.vbswzm.com
+www.vertadnet.com
 www.veruta.com
 www.vi-serve.com
 www.visualrevenue.com
@@ -1436,6 +1503,7 @@ www.zijaipse.com
 www.zlp6s.pw
 www.zo.game
 www.zqtk.net
+www.zucks.net
 www.zyjyyy.com
 xianyicao.net
 xingqibaile.com
@@ -1448,9 +1516,11 @@ xsltcache.alexa.com
 yampapi-prod.flurry.com
 yazouh.com
 yfvnve.com
+ync-jp.im-apps.net
 ynxp.co
 yoc.mobi
 yrnvau.com
 ytaahg.vo.llnwd.net
+yt.srs.doubleverify.com
 zdesestvareznezahodi.com
 zh.www.adnow.com
