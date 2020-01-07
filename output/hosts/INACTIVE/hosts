@@ -130,6 +130,7 @@
 0.0.0.0 admicro8.vcmedia.vn
 0.0.0.0 admicro9.vcmedia.vn
 0.0.0.0 admicro.vcmedia.com
+0.0.0.0 admin.adserver.mopub.com
 0.0.0.0 admin.clicksor.com
 0.0.0.0 admin.corp.mparticle.com
 0.0.0.0 admin.iesnare.com
@@ -366,6 +367,7 @@
 0.0.0.0 a.fqtag.com
 0.0.0.0 afx.creativecdn.com
 0.0.0.0 ag-gb.adskeeper.co.uk
+0.0.0.0 agreemand.com
 0.0.0.0 ah-gb.adskeeper.co.uk
 0.0.0.0 ai003.insightexpressai.com
 0.0.0.0 ai078.insightexpressai.com
@@ -393,6 +395,7 @@
 0.0.0.0 aj-gb.adskeeper.co.uk
 0.0.0.0 aj-gb.mgid.com
 0.0.0.0 ajxx76.online
+0.0.0.0 aka-cdn.geo.adtechus.com
 0.0.0.0 akamai-media.contextweb.com
 0.0.0.0 ak-gb.adskeeper.co.uk
 0.0.0.0 akorenramizefendiyurdu.com
@@ -534,8 +537,8 @@
 0.0.0.0 asset2.fyber.com
 0.0.0.0 asset3.fyber.com
 0.0.0.0 asset4.fyber.com
-0.0.0.0 assets-acceptance.sharethrough.com
 0.0.0.0 assets.acceptance.sharethrough.com
+0.0.0.0 assets-acceptance.sharethrough.com
 0.0.0.0 assets.loomia.com
 0.0.0.0 assets.prebid.org
 0.0.0.0 assets.sharethrough.com
@@ -958,6 +961,7 @@
 0.0.0.0 delivery.hyde.ligatus.com
 0.0.0.0 delivery.sharks.vn
 0.0.0.0 demandbase.demandbase.com
+0.0.0.0 demand-service.adtech.de
 0.0.0.0 demo.amplitude.com
 0.0.0.0 demodomain.cz
 0.0.0.0 demo.sharethis.com
@@ -1733,6 +1737,7 @@
 0.0.0.0 mpartner.googleadservices.com
 0.0.0.0 mp.twitch.tv
 0.0.0.0 mrs.microad.jp
+0.0.0.0 ms1.midasplayer.com
 0.0.0.0 msbrandent.vo.llnwd.net
 0.0.0.0 ms.ligatus.com
 0.0.0.0 ms.yandex.ru
@@ -1780,6 +1785,7 @@
 0.0.0.0 newsite.instartlogic.com
 0.0.0.0 newsmax.bevo.adsnative.com
 0.0.0.0 newsmax.cdn.adsnative.com
+0.0.0.0 nexac.sharethis.com
 0.0.0.0 next-azure-ext.newrelic.com
 0.0.0.0 nginx-auction-prd.ads.internal.unity3d.com
 0.0.0.0 ngs.impress.co.jp
@@ -1945,6 +1951,7 @@
 0.0.0.0 prisa.mgr.consensu.org
 0.0.0.0 privoy.doublepimp.com
 0.0.0.0 prod.branch.io
+0.0.0.0 prod.lijit.com
 0.0.0.0 prod.millennialmedia.com
 0.0.0.0 productanalyticsplaybook.amplitude.com
 0.0.0.0 production-bidding-agent.fyber.com
@@ -2026,6 +2033,7 @@
 0.0.0.0 repapi-us.web.analytics.yahoo.com
 0.0.0.0 rep-ibi.adtech.de
 0.0.0.0 replication.playbuzz.com
+0.0.0.0 repo.adsymptotic.com
 0.0.0.0 reporter.adtech.de
 0.0.0.0 reportimage.adtech.de
 0.0.0.0 reports-apac.web.analytics.yahoo.com
@@ -2318,15 +2326,15 @@
 0.0.0.0 static02.adsafeprotected.com
 0.0.0.0 static-2.3lift.com
 0.0.0.0 statica.addtoany.com
-0.0.0.0 static-acceptance.sharethrough.com
 0.0.0.0 static.acceptance.sharethrough.com
+0.0.0.0 static-acceptance.sharethrough.com
 0.0.0.0 static.adpushup.com
 0.0.0.0 static.asia.rtbid.me
 0.0.0.0 static.bilsyndication.com
 0.0.0.0 static.blog.sharethis.com
 0.0.0.0 static.ny.us.criteo.net
-0.0.0.0 static.premiumdsp.ibillboard.com
 0.0.0.0 static-premiumdsp.ibillboard.com
+0.0.0.0 static.premiumdsp.ibillboard.com
 0.0.0.0 static.propellerads.com
 0.0.0.0 static-sio.hotjar.com
 0.0.0.0 static-ssl.exoclick.com
@@ -2364,6 +2372,7 @@
 0.0.0.0 st.n.ads3-adnow.com
 0.0.0.0 st.n.ads4-adnow.com
 0.0.0.0 st-n.ads4-adnow.com
+0.0.0.0 st.n.ads5-adnow.com
 0.0.0.0 sto.midasplayer.com
 0.0.0.0 straightschool.com
 0.0.0.0 streamate.doublepimp.com
@@ -2477,6 +2486,7 @@
 0.0.0.0 t.pusk.ru
 0.0.0.0 tracedesire.com
 0.0.0.0 track6.aniview.com
+0.0.0.0 track.clicksor.com
 0.0.0.0 track.dating-4-you.com
 0.0.0.0 tracker.bnmla.com
 0.0.0.0 tracker.powerlinks.com
@@ -2601,6 +2611,7 @@
 0.0.0.0 vaes-preprod.iad.amazon-adsystem.com
 0.0.0.0 vaes-preprod.pdx.amazon-adsystem.com
 0.0.0.0 va.pixel.prod2.invitemedia.com
+0.0.0.0 va.px.invitemedia.com
 0.0.0.0 vars-edgecast.hotjar.com
 0.0.0.0 vars-sio.hotjar.com
 0.0.0.0 vasco.microad.jp
@@ -2636,8 +2647,8 @@
 0.0.0.0 videos-acceptance.sharethrough.com
 0.0.0.0 videos.acceptance.sharethrough.com
 0.0.0.0 videos.sharethrough.com
-0.0.0.0 videos-staging.sharethrough.com
 0.0.0.0 videos.staging.sharethrough.com
+0.0.0.0 videos-staging.sharethrough.com
 0.0.0.0 vi.dev.fwmrm.net
 0.0.0.0 vidstream.advertserve.com
 0.0.0.0 vietad.vn
