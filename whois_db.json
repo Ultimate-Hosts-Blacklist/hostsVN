@@ -1529,6 +1529,11 @@
         "expiration_date": "30-nov-2020",
         "state": "future"
     },
+    "floodprincipal.com": {
+        "epoch": 1592524800.0,
+        "expiration_date": "19-jun-2020",
+        "state": "future"
+    },
     "foamybox.com": {
         "epoch": 1571616000.0,
         "expiration_date": "21-oct-2019",
@@ -2374,6 +2379,11 @@
         "expiration_date": "26-feb-2020",
         "state": "future"
     },
+    "mstrlytcs.com": {
+        "epoch": 1661385600.0,
+        "expiration_date": "25-aug-2022",
+        "state": "future"
+    },
     "mxpnl.com": {
         "epoch": 1754006400.0,
         "expiration_date": "01-aug-2025",
@@ -2567,6 +2577,11 @@
     "opsivesh.net": {
         "epoch": 1603843200.0,
         "expiration_date": "28-oct-2020",
+        "state": "future"
+    },
+    "optad360.io": {
+        "epoch": 1583971200.0,
+        "expiration_date": "12-mar-2020",
         "state": "future"
     },
     "optimallimit.com": {
