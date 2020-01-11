@@ -2519,6 +2519,11 @@
         "expiration_date": "28-nov-2020",
         "state": "future"
     },
+    "aj1435.online": {
+        "epoch": 1606521600.0,
+        "expiration_date": "28-nov-2020",
+        "state": "future"
+    },
     "aj1461.online": {
         "epoch": 1579219200.0,
         "expiration_date": "17-jan-2020",
@@ -2532,6 +2537,11 @@
     "aj1549.online": {
         "epoch": 1582848000.0,
         "expiration_date": "28-feb-2020",
+        "state": "future"
+    },
+    "aj1621.online": {
+        "epoch": 1592524800.0,
+        "expiration_date": "19-jun-2020",
         "state": "future"
     },
     "aj1645.online": {
@@ -6880,8 +6890,8 @@
         "state": "future"
     },
     "ezoic.net": {
-        "epoch": 1578614400.0,
-        "expiration_date": "10-jan-2020",
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
         "state": "future"
     },
     "eztexting.com": {
@@ -14344,6 +14354,11 @@
         "expiration_date": "15-jan-2021",
         "state": "future"
     },
+    "superstats.com": {
+        "epoch": 1664928000.0,
+        "expiration_date": "05-oct-2022",
+        "state": "future"
+    },
     "supertop.ru": {
         "epoch": 1585699200.0,
         "expiration_date": "01-apr-2020",
@@ -14505,9 +14520,9 @@
         "state": "future"
     },
     "tapfiliate.com": {
-        "epoch": 1578614400.0,
-        "expiration_date": "10-jan-2020",
-        "state": "past"
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
+        "state": "future"
     },
     "tapgen.com": {
         "epoch": 1583971200.0,
