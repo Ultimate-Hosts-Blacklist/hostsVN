@@ -269,6 +269,11 @@
         "expiration_date": "27-sep-2020",
         "state": "future"
     },
+    "51ysxs.com": {
+        "epoch": 1633132800.0,
+        "expiration_date": "02-oct-2021",
+        "state": "future"
+    },
     "520xiaojin.com": {
         "epoch": 1586304000.0,
         "expiration_date": "08-apr-2020",
@@ -2542,7 +2547,7 @@
     "aj1765.online": {
         "epoch": 1578700800.0,
         "expiration_date": "11-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "aj1773.online": {
         "epoch": 1580947200.0,
@@ -7110,9 +7115,9 @@
         "state": "future"
     },
     "flavordecision.com": {
-        "epoch": 1578441600.0,
-        "expiration_date": "08-jan-2020",
-        "state": "past"
+        "epoch": 1610064000.0,
+        "expiration_date": "08-jan-2021",
+        "state": "future"
     },
     "fleshlightcash.com": {
         "epoch": 1588464000.0,
@@ -10222,6 +10227,11 @@
     "militaryverse.com": {
         "epoch": 1602115200.0,
         "expiration_date": "08-oct-2020",
+        "state": "future"
+    },
+    "millennialmedia.com": {
+        "epoch": 1642377600.0,
+        "expiration_date": "17-jan-2022",
         "state": "future"
     },
     "mindmemobile.com": {
@@ -14177,6 +14187,11 @@
     "subeihm.com": {
         "epoch": 1609200000.0,
         "expiration_date": "29-dec-2020",
+        "state": "future"
+    },
+    "subscribers.click": {
+        "epoch": 1593043200.0,
+        "expiration_date": "25-jun-2020",
         "state": "future"
     },
     "succeedscene.com": {
