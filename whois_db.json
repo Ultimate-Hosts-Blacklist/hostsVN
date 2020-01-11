@@ -5134,6 +5134,11 @@
         "expiration_date": "30-nov-2020",
         "state": "future"
     },
+    "cloudcoins.biz": {
+        "epoch": 1602460800.0,
+        "expiration_date": "12-oct-2020",
+        "state": "future"
+    },
     "cloudmobi.net": {
         "epoch": 1591056000.0,
         "expiration_date": "02-jun-2020",
@@ -6252,6 +6257,11 @@
     "dtstesting.com": {
         "epoch": 1835827200.0,
         "expiration_date": "05-mar-2028",
+        "state": "future"
+    },
+    "duapps.com": {
+        "epoch": 1584057600.0,
+        "expiration_date": "13-mar-2020",
         "state": "future"
     },
     "dusmin.com": {
