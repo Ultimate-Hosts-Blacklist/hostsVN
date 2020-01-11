@@ -2514,6 +2514,11 @@
         "expiration_date": "28-nov-2020",
         "state": "future"
     },
+    "aj1461.online": {
+        "epoch": 1579219200.0,
+        "expiration_date": "17-jan-2020",
+        "state": "future"
+    },
     "aj1538.online": {
         "epoch": 1582848000.0,
         "expiration_date": "28-feb-2020",
@@ -2680,6 +2685,11 @@
         "state": "future"
     },
     "ajgc1108.online": {
+        "epoch": 1593648000.0,
+        "expiration_date": "02-jul-2020",
+        "state": "future"
+    },
+    "ajgc1109.online": {
         "epoch": 1593648000.0,
         "expiration_date": "02-jul-2020",
         "state": "future"
