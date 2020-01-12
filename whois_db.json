@@ -2559,6 +2559,11 @@
         "expiration_date": "28-feb-2020",
         "state": "future"
     },
+    "aj1559.online": {
+        "epoch": 1589414400.0,
+        "expiration_date": "14-may-2020",
+        "state": "future"
+    },
     "aj1562.online": {
         "epoch": 1589414400.0,
         "expiration_date": "14-may-2020",
@@ -10575,8 +10580,8 @@
         "state": "future"
     },
     "mobilewithsms.net": {
-        "epoch": 1578614400.0,
-        "expiration_date": "10-jan-2020",
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
         "state": "future"
     },
     "mobisla.com": {
