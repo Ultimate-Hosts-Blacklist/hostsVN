@@ -2620,9 +2620,9 @@
         "state": "future"
     },
     "aj1765.online": {
-        "epoch": 1578700800.0,
-        "expiration_date": "11-jan-2020",
-        "state": "past"
+        "epoch": 1610323200.0,
+        "expiration_date": "11-jan-2021",
+        "state": "future"
     },
     "aj1773.online": {
         "epoch": 1580947200.0,
@@ -2645,6 +2645,11 @@
         "state": "future"
     },
     "aj1808.online": {
+        "epoch": 1585267200.0,
+        "expiration_date": "27-mar-2020",
+        "state": "future"
+    },
+    "aj1809.online": {
         "epoch": 1585267200.0,
         "expiration_date": "27-mar-2020",
         "state": "future"
@@ -12212,7 +12217,7 @@
     "planetactive.com": {
         "epoch": 1578873600.0,
         "expiration_date": "13-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "play4traffic.com": {
         "epoch": 1594166400.0,
@@ -16635,8 +16640,8 @@
         "state": "future"
     },
     "xczys.com": {
-        "epoch": 1578873600.0,
-        "expiration_date": "13-jan-2020",
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
         "state": "future"
     },
     "xertive.com": {
