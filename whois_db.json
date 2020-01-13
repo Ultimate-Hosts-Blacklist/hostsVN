@@ -2914,6 +2914,11 @@
         "expiration_date": "02-jul-2020",
         "state": "future"
     },
+    "ajgc1148.online": {
+        "epoch": 1593648000.0,
+        "expiration_date": "02-jul-2020",
+        "state": "future"
+    },
     "ajgc1149.online": {
         "epoch": 1593648000.0,
         "expiration_date": "02-jul-2020",
@@ -14960,9 +14965,9 @@
         "state": "future"
     },
     "thoorest.com": {
-        "epoch": 1578614400.0,
-        "expiration_date": "10-jan-2020",
-        "state": "past"
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
+        "state": "future"
     },
     "thoosje.com": {
         "epoch": 1592956800.0,
