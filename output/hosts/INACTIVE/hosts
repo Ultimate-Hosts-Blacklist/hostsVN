@@ -82,6 +82,7 @@
 0.0.0.0 ad.aboutit.de
 0.0.0.0 ad.adk2x.com
 0.0.0.0 ad.admarketplace.net
+0.0.0.0 adanalytics.openload.co
 0.0.0.0 ad.askingpoint.com
 0.0.0.0 adback.adform.net
 0.0.0.0 adblog.microad.jp
@@ -523,13 +524,13 @@
 0.0.0.0 asset2.fyber.com
 0.0.0.0 asset3.fyber.com
 0.0.0.0 asset4.fyber.com
-0.0.0.0 assets-acceptance.sharethrough.com
 0.0.0.0 assets.acceptance.sharethrough.com
+0.0.0.0 assets-acceptance.sharethrough.com
 0.0.0.0 assets.loomia.com
 0.0.0.0 assets.prebid.org
 0.0.0.0 assets.sharethrough.com
-0.0.0.0 assets.staging.sharethrough.com
 0.0.0.0 assets-staging.sharethrough.com
+0.0.0.0 assets.staging.sharethrough.com
 0.0.0.0 associate.microad.jp
 0.0.0.0 assoc-msdk-metrics-us.amazon-adsystem.com
 0.0.0.0 asstraffic18.net
@@ -1011,6 +1012,7 @@
 0.0.0.0 dl1sw.baidu.com
 0.0.0.0 dl.client.baidu.com
 0.0.0.0 dlyads.adk2x.com
+0.0.0.0 dmeserv.newsinc.com
 0.0.0.0 dmp2.adop.cc
 0.0.0.0 dmp4.adop.cc
 0.0.0.0 dmp.adop.cc
@@ -1398,6 +1400,7 @@
 0.0.0.0 imserv001.adtech.de
 0.0.0.0 imserv002.adtech.de
 0.0.0.0 imserv003.adtech.de
+0.0.0.0 imserv004.adtech.de
 0.0.0.0 imserv005.adtech.de
 0.0.0.0 imserv006.adtech.de
 0.0.0.0 imserv00x.adtech.de
@@ -2213,6 +2216,7 @@
 0.0.0.0 s.jwpltx.com
 0.0.0.0 skd.midasplayer.com
 0.0.0.0 skyrocket.adtdp.com
+0.0.0.0 slapd.devel.adswizz.com
 0.0.0.0 s.ligatus.com
 0.0.0.0 smallappsapi.360in.com
 0.0.0.0 sma.punto.net
@@ -2254,6 +2258,7 @@
 0.0.0.0 spe.atdmt.com
 0.0.0.0 spec.segment.com
 0.0.0.0 spectacularsnail.com
+0.0.0.0 speednetwork13.adk2x.com
 0.0.0.0 speednetwork14.adk2x.com
 0.0.0.0 speednetwork15.adk2x.com
 0.0.0.0 speednetwork16.adk2x.com
@@ -2324,8 +2329,8 @@
 0.0.0.0 static.bilsyndication.com
 0.0.0.0 static.blog.sharethis.com
 0.0.0.0 static.ny.us.criteo.net
-0.0.0.0 static.premiumdsp.ibillboard.com
 0.0.0.0 static-premiumdsp.ibillboard.com
+0.0.0.0 static.premiumdsp.ibillboard.com
 0.0.0.0 static.propellerads.com
 0.0.0.0 static-sio.hotjar.com
 0.0.0.0 static-ssl.exoclick.com
@@ -2643,8 +2648,8 @@
 0.0.0.0 videos-acceptance.sharethrough.com
 0.0.0.0 videos.acceptance.sharethrough.com
 0.0.0.0 videos.sharethrough.com
-0.0.0.0 videos-staging.sharethrough.com
 0.0.0.0 videos.staging.sharethrough.com
+0.0.0.0 videos-staging.sharethrough.com
 0.0.0.0 vi.dev.fwmrm.net
 0.0.0.0 vidstream.advertserve.com
 0.0.0.0 vietad.vn
