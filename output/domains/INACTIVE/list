@@ -487,8 +487,8 @@ apis-ci.web.analytics.yahoo.com
 api.sharethis.com
 apis.sharethrough.com
 api-ssl.demandbase.com
-apis-staging.sharethrough.com
 apis.staging.sharethrough.com
+apis-staging.sharethrough.com
 api-staging.playbuzz.com
 apis.web.analytics.yahoo.com
 api.urbanairship.com
@@ -525,13 +525,13 @@ asset1.fyber.com
 asset2.fyber.com
 asset3.fyber.com
 asset4.fyber.com
-assets.acceptance.sharethrough.com
 assets-acceptance.sharethrough.com
+assets.acceptance.sharethrough.com
 assets.loomia.com
 assets.prebid.org
 assets.sharethrough.com
-assets-staging.sharethrough.com
 assets.staging.sharethrough.com
+assets-staging.sharethrough.com
 associate.microad.jp
 assoc-msdk-metrics-us.amazon-adsystem.com
 asstraffic18.net
@@ -871,6 +871,7 @@ cpp.imp.mpx.mopub.com
 cpro.baidu.cn
 crash.amplitude.com
 creative.ak.facebook.com
+creative.ak.fbcdn.net
 creative.clicksor.com
 creativelibrary.millennialmedia.com
 creatives.acceptance.sharethrough.com
@@ -977,6 +978,7 @@ dev.bladegame.midasplayer.com
 dev-cdn.districtm.io
 dev.dashboard.gumgum.com
 dev.demobuilder.gumgum.com
+dev-desk.adasiaholdings.com
 dev-dmx.districtm.io
 developer.millennialmedia.com
 developer.pubnative.net
@@ -1076,6 +1078,7 @@ e3.geo.adpushup.com
 ead.qa.sharethis.com
 ead.sharethis.com
 ea.logging.admicro.vn
+e.analytics.yahoo.com
 eb.3lift.com
 ecpm_api.propellerads.com
 edge.bayanazdirandamla.com
@@ -1799,6 +1802,7 @@ ns3.mediaz.vn
 ns4.mediaz.vn
 ns5.adk2x.com
 ns6.adk2x.com
+ns7.adk2x.com
 ns8.adk2x.com
 ns.steepto.com
 nvplv.cc
@@ -2333,11 +2337,12 @@ static.asia.rtbid.me
 static.bilsyndication.com
 static.blog.sharethis.com
 static.ny.us.criteo.net
-static.premiumdsp.ibillboard.com
 static-premiumdsp.ibillboard.com
+static.premiumdsp.ibillboard.com
 static.propellerads.com
 static-sio.hotjar.com
 static-ssl.exoclick.com
+static.staging.sharethrough.com
 static-staging.sharethrough.com
 static.trackers.adtarget.me
 static.wywy.com
@@ -2369,8 +2374,8 @@ stg.oem.inmobi.com
 stkjw.net
 st.n.ads1-adnow.com
 st.n.ads3-adnow.com
-st-n.ads4-adnow.com
 st.n.ads4-adnow.com
+st-n.ads4-adnow.com
 st.n.ads5-adnow.com
 sto.midasplayer.com
 straightschool.com
@@ -2650,11 +2655,11 @@ video.aniview.com
 video-aws-staging.fyber.com
 video-cdn.mgid.com
 videology.ndf.weborama.com
-videos.acceptance.sharethrough.com
 videos-acceptance.sharethrough.com
+videos.acceptance.sharethrough.com
 videos.sharethrough.com
-videos.staging.sharethrough.com
 videos-staging.sharethrough.com
+videos.staging.sharethrough.com
 vi.dev.fwmrm.net
 vidstream.advertserve.com
 vietad.vn
