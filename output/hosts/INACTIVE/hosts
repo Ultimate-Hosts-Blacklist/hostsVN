@@ -158,6 +158,7 @@
 0.0.0.0 adright.adk2x.com
 0.0.0.0 adr.mdotm.com
 0.0.0.0 ads03.redtube.com
+0.0.0.0 ads1.mojiva.com
 0.0.0.0 ads1.theglobeandmail.com
 0.0.0.0 ads2.mojiva.com
 0.0.0.0 ads3.mojiva.com
@@ -389,6 +390,7 @@
 0.0.0.0 aj1861.online
 0.0.0.0 aj1862.online
 0.0.0.0 aj1868.online
+0.0.0.0 aj-gb.adskeeper.co.uk
 0.0.0.0 aj-gb.mgid.com
 0.0.0.0 ajxx76.online
 0.0.0.0 aka-cdn.geo.adtechus.com
@@ -1105,6 +1107,7 @@
 0.0.0.0 email.optimizely.com
 0.0.0.0 embanet.vo.llnwd.net
 0.0.0.0 embed.vietad.vn
+0.0.0.0 emonitor.takeit.cz
 0.0.0.0 emu.sharethis.com
 0.0.0.0 encrypt.branch.io
 0.0.0.0 en.dspmulti.com
@@ -1184,6 +1187,7 @@
 0.0.0.0 feedads.googleadservices.com
 0.0.0.0 fenxi.cnzz.com
 0.0.0.0 fg.bibleandbullets.com
+0.0.0.0 file.askingpoint.com
 0.0.0.0 file.message.cnzz.com
 0.0.0.0 file.pinetech.vn
 0.0.0.0 files.powerlinks.com
@@ -1226,6 +1230,7 @@
 0.0.0.0 fvpn.propellerads.com
 0.0.0.0 fync.bfmio.com
 0.0.0.0 fyqydogivoxed.com
+0.0.0.0 g2.mdotm.com
 0.0.0.0 g5.mdotm.com
 0.0.0.0 galleries.securesoft.info
 0.0.0.0 gamerdna-sb-ec.adtechus.com
@@ -1514,6 +1519,7 @@
 0.0.0.0 k8s-dashboard.propellerads.com
 0.0.0.0 ka.display.ad.daum.net
 0.0.0.0 kaingi.tenmax.io
+0.0.0.0 kakaku.com-tabelog-tracking.app-adforce.jp
 0.0.0.0 kalibrium.ru
 0.0.0.0 k.clean.gg
 0.0.0.0 kibana.prd.fyber.com
@@ -1796,6 +1802,7 @@
 0.0.0.0 nonprod.flurry.com
 0.0.0.0 notify.app-adforce.jp
 0.0.0.0 ns01.adhaven.com
+0.0.0.0 ns1.contextweb.com
 0.0.0.0 ns2.steepto.com
 0.0.0.0 ns3.mediaz.vn
 0.0.0.0 ns4.mediaz.vn
@@ -1948,6 +1955,7 @@
 0.0.0.0 privoy.doublepimp.com
 0.0.0.0 prod.branch.io
 0.0.0.0 prod.lijit.com
+0.0.0.0 prod.millennialmedia.com
 0.0.0.0 productanalyticsplaybook.amplitude.com
 0.0.0.0 production-bidding-agent.fyber.com
 0.0.0.0 prometheus.staging.fullstory.com
@@ -2115,6 +2123,7 @@
 0.0.0.0 s2s.prebid.org
 0.0.0.0 s8.ayads.co
 0.0.0.0 saber.srvcs.tumblr.com
+0.0.0.0 sad.qa.sharethis.com
 0.0.0.0 sad.sharethis.com
 0.0.0.0 s.ads-twitter.com
 0.0.0.0 sal.aws.branch.io
@@ -2224,6 +2233,7 @@
 0.0.0.0 skyrocket.adtdp.com
 0.0.0.0 slapd.devel.adswizz.com
 0.0.0.0 s.ligatus.com
+0.0.0.0 smallappsapi.360in.com
 0.0.0.0 sma.punto.net
 0.0.0.0 smartbase.cdnservices.com
 0.0.0.0 smartpx.io
@@ -2245,6 +2255,7 @@
 0.0.0.0 socrates-7.adtarget.me
 0.0.0.0 softevocative.adk2x.com
 0.0.0.0 sokrates.adtech.de
+0.0.0.0 soma-assets-weighted.smaato.net
 0.0.0.0 soma-fix-ap-southeast-1.smaato.net
 0.0.0.0 soma-fix-eu-west-1.smaato.net
 0.0.0.0 soma-fix-us-east-1.smaato.net
@@ -2333,13 +2344,13 @@
 0.0.0.0 static.blog.sharethis.com
 0.0.0.0 static.criteo.com
 0.0.0.0 static.ny.us.criteo.net
-0.0.0.0 static-premiumdsp.ibillboard.com
 0.0.0.0 static.premiumdsp.ibillboard.com
+0.0.0.0 static-premiumdsp.ibillboard.com
 0.0.0.0 static.propellerads.com
 0.0.0.0 static-sio.hotjar.com
 0.0.0.0 static-ssl.exoclick.com
-0.0.0.0 static-staging.sharethrough.com
 0.0.0.0 static.staging.sharethrough.com
+0.0.0.0 static-staging.sharethrough.com
 0.0.0.0 static.trackers.adtarget.me
 0.0.0.0 static.wywy.com
 0.0.0.0 statistics.dev.aatkit.com
@@ -2505,6 +2516,7 @@
 0.0.0.0 tracking.cp.ligatus.com
 0.0.0.0 tracking.hyde.ligatus.com
 0.0.0.0 tracking.i2w.io
+0.0.0.0 tracking.msadcenter.msn.com
 0.0.0.0 tracking.servebom.com
 0.0.0.0 tracking-thirdparty.i2w.io
 0.0.0.0 tracking.yourfilehost.com
@@ -2565,6 +2577,7 @@
 0.0.0.0 ums-toy.adtechjp.com
 0.0.0.0 unit.content.ad
 0.0.0.0 unit.content-ad.net
+0.0.0.0 unlockme.corp.inmobi.com
 0.0.0.0 unveilmedia.mgr.consensu.org
 0.0.0.0 uop.umeng.com
 0.0.0.0 upanh.vn88.com
@@ -2652,8 +2665,8 @@
 0.0.0.0 video-cdn.mgid.com
 0.0.0.0 video.content.ad
 0.0.0.0 videology.ndf.weborama.com
-0.0.0.0 videos-acceptance.sharethrough.com
 0.0.0.0 videos.acceptance.sharethrough.com
+0.0.0.0 videos-acceptance.sharethrough.com
 0.0.0.0 videos.sharethrough.com
 0.0.0.0 videos-staging.sharethrough.com
 0.0.0.0 videos.staging.sharethrough.com
