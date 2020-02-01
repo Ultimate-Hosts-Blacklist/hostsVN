@@ -3814,6 +3814,11 @@
         "expiration_date": "26-nov-2020",
         "state": "future"
     },
+    "bbelements.com": {
+        "epoch": 1590710400.0,
+        "expiration_date": "29-may-2020",
+        "state": "future"
+    },
     "bbnp.com": {
         "epoch": 1610323200.0,
         "expiration_date": "11-jan-2021",
@@ -7132,6 +7137,11 @@
     "ffsi.info": {
         "epoch": 1595980800.0,
         "expiration_date": "29-jul-2020",
+        "state": "future"
+    },
+    "fidelity-media.com": {
+        "epoch": 1636156800.0,
+        "expiration_date": "06-nov-2021",
         "state": "future"
     },
     "fideln.com": {
@@ -16657,7 +16667,7 @@
     "xponsor.com": {
         "epoch": 1580515200.0,
         "expiration_date": "01-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "xq1.net": {
         "epoch": 1608336000.0,
