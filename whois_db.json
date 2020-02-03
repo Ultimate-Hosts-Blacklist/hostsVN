@@ -2399,6 +2399,11 @@
         "expiration_date": "20-aug-2020",
         "state": "future"
     },
+    "affinity.com": {
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
+        "state": "future"
+    },
     "affise.com": {
         "epoch": 1599955200.0,
         "expiration_date": "13-sep-2020",
@@ -2662,6 +2667,11 @@
     "aj1858.online": {
         "epoch": 1590019200.0,
         "expiration_date": "21-may-2020",
+        "state": "future"
+    },
+    "aj1860.online": {
+        "epoch": 1590105600.0,
+        "expiration_date": "22-may-2020",
         "state": "future"
     },
     "aj1861.online": {
