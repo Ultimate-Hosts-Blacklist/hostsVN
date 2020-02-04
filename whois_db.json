@@ -949,6 +949,11 @@
         "expiration_date": "27-apr-2020",
         "state": "future"
     },
+    "adexchangemachine.com": {
+        "epoch": 1587945600.0,
+        "expiration_date": "27-apr-2020",
+        "state": "future"
+    },
     "adexchangeprediction.com": {
         "epoch": 1587945600.0,
         "expiration_date": "27-apr-2020",
@@ -2547,6 +2552,11 @@
     "aj1461.online": {
         "epoch": 1610841600.0,
         "expiration_date": "17-jan-2021",
+        "state": "future"
+    },
+    "aj1474.online": {
+        "epoch": 1580860800.0,
+        "expiration_date": "05-feb-2020",
         "state": "future"
     },
     "aj1538.online": {

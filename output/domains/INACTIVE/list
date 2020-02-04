@@ -38,7 +38,9 @@ ad.eurosport.com
 ad-eu-west-1.pxlad.io
 adexchangeprediction.adk2x.com
 ad.f1cd.ru
+adframe.mediaplex.com
 adimage.asiaone.com.sg
+adi.mainichi.co.jp
 admaven.adk2x.com
 admeta.vo.llnwd.net
 admicro7.vcmedia.vn
@@ -66,6 +68,7 @@ adserver1.mokono.com
 adserver2.juicyads.com
 adserver-a-southeast-1.adtechjp.com
 adserver.devel.adswizz.com
+adserver.flossiemediagroup.com
 adserver.fr.adtech.de
 adserver-live.yoc.mobi
 adserver-origin.adtechjp.com
@@ -77,6 +80,7 @@ ads.expedia.com
 ads-fa.spotify.com
 ads.fidelity-media.com
 ads.filmup.com
+ads.forium.de
 ads.foxnews.com
 ads.godlikeproductions.com
 ads.groundspeak.com
@@ -88,6 +92,7 @@ ads.linuxsecurity.com
 ad.slutload.com
 ads.nationalgeographic.com
 adsoctopus.com
+ads.penny-arcade.com
 ads.pickmeup-ltd.com
 ads.propellerads.com
 adsrv.eacdn.com
@@ -152,6 +157,7 @@ apibeta.propellerads.com
 api-doc.adtechus.com
 api-eu-central-1.petametrics.com
 api.glispa.com
+apiparbion.com
 api.propellerads.com
 api.qa.branch.io
 api.revcontent.com
@@ -172,15 +178,18 @@ as.o333o.com
 asset1.fyber.com
 asset2.fyber.com
 asset3.fyber.com
+assets.acceptance.sharethrough.com
 assets.prebid.org
-assets-staging.sharethrough.com
 assets.staging.sharethrough.com
+assets-staging.sharethrough.com
 asstraffic18.net
 atd.im-apps.net
+atlassian2.fyber.com
 atwola-sb-wc.adtechus.com
 augmenttech.advertserve.com
 au.linkshare.com
 aupvfp.com
+autodiscover.mm.marketo.com
 avr.smaato.net
 aws-adserver-origin-ap-northeast-1.adtechjp.com
 aws-cni-test.us-west-2.k8s.ops.tune.com
@@ -195,6 +204,7 @@ banners.easydns.com
 banner.wirenode.com
 bayansayfasi.com
 b.blueserving.com
+bds.mdotm.com
 be.fyber.com
 behave.nualias.com
 bestpons.net
@@ -223,7 +233,9 @@ bw-uswest-bidder.appd.inmobi.com
 cadastrabb.com
 caliresolutions.com
 caprofitx.adtdp.com
+carloselmago.com
 cast-dev-mark-j.adtdp.com
+c.blueserving.com
 cdn1.fyber.com
 cdn1.playbuzz.com
 cdn2-marketplace.vntsm.com
@@ -282,6 +294,7 @@ crontasks.propellerads.com
 crow-dc.ru
 crownclam.com
 cs.askingpoint.com
+cse-dev-api.ematicsolutions.com
 ctrac.doublemax.net
 current.app.optimizely.com
 daizheha.com
@@ -310,6 +323,7 @@ dev.adsymptotic.com
 dev.bladegame.midasplayer.com
 dev.demobuilder.gumgum.com
 dev-dmx.districtm.io
+developer.millennialmedia.com
 developer.pubnative.net
 develop.twik.io
 devfw.imrworldwide.com
@@ -324,6 +338,7 @@ direct.rtb.tapad.com
 displayincloud2.adk2x.com
 dist.ad-stir.com
 dlyads.adk2x.com
+dmp.app-adforce.jp
 dmp-eu.adform.net
 dmp.knowlead.io
 dmtracking.alibaba.com
@@ -350,6 +365,7 @@ ekg.apptentive.com
 elb-imp-aws-fr-1.bidswitch.net
 elite-bijou.com.ua
 e-ltvp.inmobi.com
+emu.sharethis.com
 en.dspmulti.com
 engageplus.innity.com
 engineer.microad.jp
@@ -424,6 +440,7 @@ guanjia.baidu.com
 guardedgovernor.com
 guitarbelieve.com
 gymboree.hs.llnwd.net
+hackathon.localytics.com
 hahajknew.bnmla.com
 halo.smamuhh1metro.com
 heisenberg.cdn.inmobi.com
@@ -453,6 +470,7 @@ img.ads2.mocean.mobi
 img.ads4.mocean.mobi
 img.ads.mocean.mobi
 img-cdn.steepto.com
+img-dc2.adtech.de
 img.jsecoin.com
 img.securesoft.info
 img.vn88.com
@@ -476,6 +494,7 @@ ins7.hotjar.com
 ins8.hotjar.com
 ins9.hotjar.com
 inskin.vo.llnwd.net
+install.securesoft.info
 interstitial.powered-by.securesoft.info
 int.propellerads.com
 intranet.adtech.de
@@ -508,6 +527,7 @@ ladybug.gutterheatersus.com
 lb-am.mdotm.com
 lb.leads.demandbase.com
 lb.midasplayer.com
+lb-sj.mdotm.com
 lb-us-east1-01.bigsea.weborama.com
 lb-us-east1-02.bigsea.weborama.com
 lb-wwwa.mdotm.com
@@ -519,6 +539,7 @@ learn-staging.newrelic.com
 legacy.fqtag.com
 lga-tag-stage00.contextweb.com
 linear-dev-v2.dev.linear.aws.fwmrm.net
+link.activision.swrve.com
 link.beta.branch.io
 linuxpark.adtech.de
 lmsongnv.com
@@ -533,6 +554,7 @@ m12n.servebom.com
 mads.aol.com
 mads-eu.amazon-adsystem.com
 maglev.segment.com
+mail1.adform.net
 mainstatserver.com
 mamivoi.com
 manage.sharethrough.com
@@ -574,6 +596,7 @@ mobk2.adk2x.com
 mobviks.adk2x.com
 mock-dsp.pubnative.net
 momonitor.mopub.com
+mrp.rubiconproject.com
 mrs.microad.jp
 munkireport.aws.branch.io
 m.webtrends.com
@@ -586,6 +609,7 @@ narjesmedia.adk2x.com
 nazar.adsnative.com
 neglite.com
 nephritish.com
+neptune3.appads.com
 new2.indoleads.com
 new-adm.hotjar.com
 new.hotjar.com
@@ -604,6 +628,7 @@ ocm.revcontent.com
 offers.hotjar.com
 oops.lijit.com
 openx.px.invitemedia.com
+ops-prod-a.us-west-2.k8s.tune.com
 optimize.adpushup.com
 optimized-rtp-us-west.rubiconproject.com
 oqgmav.com
@@ -631,9 +656,12 @@ pc.sharethrough.com
 pear.dementiaadvocacy.com
 pinkpillar.ru
 pixel.jumptap.com
+pixel.parsely.com
 planetmedia.mgr.consensu.org
 playground.optimizely.com
+plugin.innity.net
 pluto.mgr.consensu.org
+pmm.stg-aws.fyber.com
 pr-a.adtechus.com
 practicetoothpaste.com
 prebid.fqtag.com
@@ -731,6 +759,7 @@ services1.adtech.de
 service.stg-aws.fyber.com
 sexaddpro.de
 sf.mmccint.com
+sgc.urbanairship.com
 sg.origin.startappservice.com
 sgs001.adtech.de
 shallowschool.com
@@ -749,12 +778,14 @@ sjc-ads-weighted.contextweb.com
 s.jwpltx.com
 s.ligatus.com
 smallappsapi.360in.com
+sma.punto.net
 snakesort.com
 sneaklevel.com
 s.n.jwpltx.com
 snwmedia.adk2x.com
 so.2mdn.net
 socialab.sharethis.com
+socialhub.innity.net
 socket.adpushup.com
 soma-assets-weighted.smaato.net
 sonic-dev.supersonicads.com
@@ -787,12 +818,13 @@ static.acceptance.sharethrough.com
 static.adpushup.com
 static.bilsyndication.com
 static.staging.sharethrough.com
+stats-d272.epom.com
 stats.directnic.com
 stats.video.search.yahoo.com
 stg-j-serval.adtdp.com
 stg.oem.inmobi.com
-st.n.ads4-adnow.com
 st-n.ads4-adnow.com
+st.n.ads4-adnow.com
 straightschool.com
 suavalds.com
 superficialsink.com
@@ -823,6 +855,7 @@ test.hotjar.com
 testle.fqtag.com
 test.tapjoyads.com
 t.fidelity-media.com
+theads.me
 themodules.ru
 tic.googlesyndication.com
 t.lga.contextweb.com
@@ -856,6 +889,7 @@ upload.adtech.de
 up.qa.midasplayer.com
 urnsforpets.net
 us-east-1.rtb.districtm.io
+usermatch-spike.targeting.unrulymedia.com
 us.gmads.mookie1.com
 usr.mgid.com
 us-west-1.rtb.districtm.io
@@ -931,6 +965,7 @@ www.absorbingband.com
 www.absurdwater.com
 www.accesstrade.com.vn
 www.acridtwist.com
+www.actuallysnake.com
 www.ad.altervista.org
 www.ad-balancer.net
 www.adbard.net
@@ -944,6 +979,7 @@ www.addesktop.com
 www.adformdsp.net
 www.adform.net
 www.adhacker.online
+www.adhaven.com
 www.adk2x.com
 www.admotion.com.ar
 www.adprojekt.pl
@@ -952,6 +988,7 @@ www.adrock.ua
 www.adrotator.se
 www.ads5-adnow.com
 www.ads.cc
+www.adsfac.net
 www.adsfactor.net
 www.adslop.com
 www.adsoctopus.com
@@ -1000,6 +1037,7 @@ www.amskrupajal.org
 www.andlu.org
 www.anhui-attorney.com
 www.apathetictheory.com
+www.apiparbion.com
 www.app-adforce.jp
 www.appearch.info
 www.ar1nvz5.com
@@ -1033,6 +1071,7 @@ www.bi2vl.com
 www.bigclicker.me
 www.binary1.website
 www.binarymoney.site
+www.bioito.cn
 www.bjdxhs.com
 www.bjpgqsc.com
 www.blueserving.com
@@ -1045,6 +1084,7 @@ www.bori82.com
 www.boudja.com
 www.breaktime-inc.com
 www.broadcastbed.com
+www.broaddoor.com
 www.btrll.com
 www.bumpberam.pro
 www.butheptesitrew.pro
@@ -1056,7 +1096,9 @@ www.caliresolutions.com
 www.callousbrake.com
 www.canadabook.ca
 www.capablecows.com
+www.carloselmago.com
 www.cbmall.com
+www.cbx.net
 www.cdn.bizible.com
 www.cdnstoremedia.com
 www.cdnwidget.com
@@ -1104,6 +1146,7 @@ www.critictruck.com
 www.crow-dc.ru
 www.crownclam.com
 www.cumbersomecloud.com
+www.curtaincows.com
 www.cuteturkey.com
 www.cwettqtlffki.com
 www.cybermonitor.com
@@ -1112,6 +1155,7 @@ www.d26tbbq8zqdi4v.cloudfront.net
 www.d2r173wcohmi6.cloudfront.net
 www.d2wbr3tthrn9lu.cloudfront.net
 www.daizheha.com
+www.damdoor.com
 www.dancecourt.com
 www.dapper.net
 www.dashingsweater.com
@@ -1143,6 +1187,7 @@ www.dm599.com
 www.dm.gg
 www.dolohen.com
 www.domainsteam.de
+www.dpmsrv.com
 www.dq95d35.com
 www.drabsize.com
 www.dragzebra.com
@@ -1236,6 +1281,7 @@ www.hystericalhelp.com
 www.hzm6.com
 www.i1img.com
 www.iad.apple.com
+www.iasds01.com
 www.iaudienc.com
 www.idcounter.com
 www.identity.mparticle.com
@@ -1252,6 +1298,7 @@ www.inaccused.com
 www.incrediblesugar.com
 www.indexww.com
 www.infoaz.nl
+www.inmobi-jp.com
 www.inmobi.net
 www.innocentwax.com
 www.inquisitiveinvention.com
@@ -1263,6 +1310,7 @@ www.invitesugar.com
 www.ivstracker.net
 www.j93557g.com
 www.jadeitite.com
+www.jaizouji.com
 www.jdcartoon.com
 www.jomlajavascript.ru
 www.joneself.com
@@ -1353,6 +1401,7 @@ www.mon-thu7.life
 www.mon-thu8.life
 www.moolahmedia.com
 www.motionritm.ru
+www.mpif.eu
 www.mstrlytcs.com
 www.mxpnl.com
 www.myfileupload.ru
@@ -1404,6 +1453,7 @@ www.overture.com
 www.padstm.com
 www.pagefair.net
 www.panthawas.com
+www.paradoxfactor.com
 www.parsimoniouspolice.com
 www.paypopup.com
 www.pc2ads.com
@@ -1452,6 +1502,7 @@ www.qwapi.com
 www.ranking-street.de
 www.rapidkittens.com
 www.raresummer.com
+www.readingopera.com
 www.realtracker.com
 www.rebotstat.com
 www.receptivereaction.com
@@ -1470,6 +1521,7 @@ www.ringsrecord.com
 www.ritzykey.com
 www.rmiesnorthur.pro
 www.rnhbhnlmpvvdt.com
+www.rockabox.co
 www.rotabanner.com
 www.roughexampler.info
 www.rsalcch.com
@@ -1523,6 +1575,7 @@ www.snapads.com
 www.sneaklevel.com
 www.snnd.co
 www.socdm.com
+www.sombersurprise.com
 www.spectacularsnail.com
 www.spidersboats.com
 www.spiffymachine.com
@@ -1566,6 +1619,7 @@ www.swimslope.com
 www.swissadsolutions.com
 www.swordgoose.com
 www.sworkitads.herokuapp.com
+www.syyycc.com
 www.tacoda.net
 www.tailsweep.co.uk
 www.tawdryson.com
@@ -1575,6 +1629,7 @@ www.teksograd.ru
 www.tendertest.com
 www.terriblethumb.com
 www.terribleturkey.com
+www.theads.me
 www.themodules.ru
 www.thinkablerice.com
 www.thirdrespect.com
@@ -1592,6 +1647,7 @@ www.topsafelist.net
 www.torvaldscallthat.info
 www.tracedesire.com
 www.trackcmp.net
+www.trafficspaces.net
 www.traffok.cn
 www.transpec.vn
 www.trazk.com
@@ -1621,6 +1677,7 @@ www.vietad.vn
 www.view-apple.com
 www.view-appleid.com
 www.vi-serve.com
+www.visualrevenue.com
 www.vmmpxl.com
 www.vmweb.net
 www.vntsm.com
@@ -1641,12 +1698,16 @@ www.wonderlandads.com
 www.worrybutter.com
 www.wryfinger.com
 www.wywy.com
+www.wywyuserservice.com
 www.xinyangmeiye.com
+www.xinyitaoci.com
 www.xioooo.com
 www.xmobliefacebook.com
+www.xovq5nemr.com
 www.xxxmyself.com
 www.yabuka.com
 www.yesads.com
+www.yesadvertising.com
 www.yieldads.com
 www.yieldlove-ad-serving.net
 www.ymetrica1.com
