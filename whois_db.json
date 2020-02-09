@@ -1894,6 +1894,11 @@
         "expiration_date": "21-sep-2020",
         "state": "future"
     },
+    "adsterra.com": {
+        "epoch": 1745020800.0,
+        "expiration_date": "19-apr-2025",
+        "state": "future"
+    },
     "adstune.com": {
         "epoch": 1589328000.0,
         "expiration_date": "13-may-2020",
@@ -2377,7 +2382,7 @@
     "afterview.ru": {
         "epoch": 1581206400.0,
         "expiration_date": "09-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "agentanalytics.com": {
         "epoch": 1592870400.0,
@@ -2715,6 +2720,11 @@
         "state": "future"
     },
     "ajgc1125.online": {
+        "epoch": 1593648000.0,
+        "expiration_date": "02-jul-2020",
+        "state": "future"
+    },
+    "ajgc1126.online": {
         "epoch": 1593648000.0,
         "expiration_date": "02-jul-2020",
         "state": "future"
@@ -7299,12 +7309,22 @@
         "expiration_date": "07-may-2020",
         "state": "future"
     },
+    "gadsabz.com": {
+        "epoch": 1612483200.0,
+        "expiration_date": "05-feb-2021",
+        "state": "future"
+    },
     "gadsanz.com": {
         "epoch": 1612483200.0,
         "expiration_date": "05-feb-2021",
         "state": "future"
     },
     "gadsecs.com": {
+        "epoch": 1612483200.0,
+        "expiration_date": "05-feb-2021",
+        "state": "future"
+    },
+    "gadsecz.com": {
         "epoch": 1612483200.0,
         "expiration_date": "05-feb-2021",
         "state": "future"
