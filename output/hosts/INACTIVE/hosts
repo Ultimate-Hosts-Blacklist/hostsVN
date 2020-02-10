@@ -245,6 +245,7 @@
 0.0.0.0 ads.heyzap.com
 0.0.0.0 ads.hideyourarms.com
 0.0.0.0 ads.hosting.vcmedia.vn
+0.0.0.0 ads.iafrica.com
 0.0.0.0 ads-img.doublemax.net
 0.0.0.0 adsintl.starwave.com
 0.0.0.0 adskimomedia.adk2x.com
@@ -360,6 +361,7 @@
 0.0.0.0 ai003.insightexpressai.com
 0.0.0.0 ai078.insightexpressai.com
 0.0.0.0 ai113.insightexpressai.com
+0.0.0.0 ai125.insightexpressai.com
 0.0.0.0 aidl-dev1001.data.corp.inmobi.com
 0.0.0.0 ai-gb.adskeeper.co.uk
 0.0.0.0 ai-personalization-prod-api.demandbase.com
@@ -526,9 +528,10 @@
 0.0.0.0 assets.loomia.com
 0.0.0.0 assets.prebid.org
 0.0.0.0 assets.sharethrough.com
-0.0.0.0 assets-staging.sharethrough.com
 0.0.0.0 assets.staging.sharethrough.com
+0.0.0.0 assets-staging.sharethrough.com
 0.0.0.0 associate.microad.jp
+0.0.0.0 assoc-msdk-fe.amazon-adsystem.com
 0.0.0.0 assoc-msdk-metrics-us.amazon-adsystem.com
 0.0.0.0 asstraffic18.net
 0.0.0.0 as.vietad.vn
@@ -612,6 +615,7 @@
 0.0.0.0 bds.mdotm.com
 0.0.0.0 beamkite.com
 0.0.0.0 be.fyber.com
+0.0.0.0 behave.nualias.com
 0.0.0.0 bell-ads.acuityplatform.com
 0.0.0.0 bell-ex.acuityplatform.com
 0.0.0.0 bell-img.acuityplatform.com
@@ -786,6 +790,7 @@
 0.0.0.0 client.optimizely.com
 0.0.0.0 clients.advertising.com
 0.0.0.0 clientstats.advertising.com
+0.0.0.0 clients.tbo.com
 0.0.0.0 clk-in6.c.appier.net
 0.0.0.0 clk-sg7.c.appier.net
 0.0.0.0 clk-sg8.c.appier.net
@@ -1296,6 +1301,7 @@
 0.0.0.0 heisenberg.cdn.inmobi.com
 0.0.0.0 heisenberg.inmobi.com
 0.0.0.0 heisenberg-uswest.cdn.inmobi.com
+0.0.0.0 hezuo.cnzz.com
 0.0.0.0 highpin.growingio.com
 0.0.0.0 hit-ranking.de
 0.0.0.0 hk4.nexage.com
@@ -1437,6 +1443,7 @@
 0.0.0.0 intergi-sb-ec.adtechus.com
 0.0.0.0 interior-examples.ru
 0.0.0.0 internal.heapanalytics.com
+0.0.0.0 internals.instartlogic.com
 0.0.0.0 interstitial.powered-by.securesoft.info
 0.0.0.0 int.midasplayer.com
 0.0.0.0 int.propellerads.com
@@ -1515,6 +1522,7 @@
 0.0.0.0 lb-si.mdotm.com
 0.0.0.0 lb-sj.mdotm.com
 0.0.0.0 lb-us-east1-00.bigsea.weborama.com
+0.0.0.0 lb-us-east1-01.bigsea.weborama.com
 0.0.0.0 lb-us-east1-02.bigsea.weborama.com
 0.0.0.0 lb-wdc.mdotm.com
 0.0.0.0 lb-www2.mdotm.com
@@ -1722,6 +1730,7 @@
 0.0.0.0 myron.mobile.djaxadserver.com
 0.0.0.0 my.smaato.com
 0.0.0.0 n131adserv.com
+0.0.0.0 n1835adserv.xyz
 0.0.0.0 n.ads4-adnow.com
 0.0.0.0 nainasdesigner.com
 0.0.0.0 narjesmedia.adk2x.com
@@ -1802,6 +1811,7 @@
 0.0.0.0 os.dev.midasplayer.com
 0.0.0.0 ox-d.alf.servedbyopenx.com
 0.0.0.0 ox-d.ask.servedbyopenx.com
+0.0.0.0 ox-d.bizjournals.servedbyopenx.com
 0.0.0.0 ox-d.boston.servedbyopenx.com
 0.0.0.0 ox-d.curse.servedbyopenx.com
 0.0.0.0 ox-d.evolvemedia.servedbyopenx.com
@@ -2109,6 +2119,7 @@
 0.0.0.0 sdk.zucks.net
 0.0.0.0 s-dsp.send.microad.jp
 0.0.0.0 sean.ittest.33across.com
+0.0.0.0 search.clicksor.com
 0.0.0.0 search.cnzz.com
 0.0.0.0 sec.cnzz.com
 0.0.0.0 secure.ace-tag.advertising.com
@@ -2275,8 +2286,8 @@
 0.0.0.0 static02.adsafeprotected.com
 0.0.0.0 static-2.3lift.com
 0.0.0.0 statica.addtoany.com
-0.0.0.0 static.acceptance.sharethrough.com
 0.0.0.0 static-acceptance.sharethrough.com
+0.0.0.0 static.acceptance.sharethrough.com
 0.0.0.0 static.adpushup.com
 0.0.0.0 static.asia.rtbid.me
 0.0.0.0 static.bilsyndication.com
@@ -2287,8 +2298,8 @@
 0.0.0.0 static.propellerads.com
 0.0.0.0 static-sio.hotjar.com
 0.0.0.0 static-ssl.exoclick.com
-0.0.0.0 static.staging.sharethrough.com
 0.0.0.0 static-staging.sharethrough.com
+0.0.0.0 static.staging.sharethrough.com
 0.0.0.0 static.trackers.adtarget.me
 0.0.0.0 static.wywy.com
 0.0.0.0 statistics.dev.aatkit.com
@@ -2539,6 +2550,7 @@
 0.0.0.0 usermatch-prod.targeting.unrulymedia.com
 0.0.0.0 usermatch-spike.targeting.unrulymedia.com
 0.0.0.0 us.gmads.mookie1.com
+0.0.0.0 usmsad.tom.com
 0.0.0.0 us.ndf.weborama.com
 0.0.0.0 us.playbuzz.com
 0.0.0.0 usr.mgid.com
@@ -2600,10 +2612,11 @@
 0.0.0.0 video-cdn.mgid.com
 0.0.0.0 video.content.ad
 0.0.0.0 videology.ndf.weborama.com
-0.0.0.0 videos.acceptance.sharethrough.com
 0.0.0.0 videos-acceptance.sharethrough.com
+0.0.0.0 videos.acceptance.sharethrough.com
 0.0.0.0 videos.sharethrough.com
 0.0.0.0 videos.staging.sharethrough.com
+0.0.0.0 videos-staging.sharethrough.com
 0.0.0.0 videostr.knowlead.io
 0.0.0.0 vi.dev.fwmrm.net
 0.0.0.0 vidstream.advertserve.com
