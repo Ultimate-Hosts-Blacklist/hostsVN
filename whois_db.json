@@ -1174,9 +1174,19 @@
         "expiration_date": "14-feb-2020",
         "state": "future"
     },
+    "aj1808.online": {
+        "epoch": 1585267200.0,
+        "expiration_date": "27-mar-2020",
+        "state": "future"
+    },
     "aj1822.online": {
         "epoch": 1585440000.0,
         "expiration_date": "29-mar-2020",
+        "state": "future"
+    },
+    "aj1832.online": {
+        "epoch": 1587859200.0,
+        "expiration_date": "26-apr-2020",
         "state": "future"
     },
     "aj1835.online": {
@@ -1195,6 +1205,11 @@
         "state": "future"
     },
     "aj1861.online": {
+        "epoch": 1590105600.0,
+        "expiration_date": "22-may-2020",
+        "state": "future"
+    },
+    "aj1862.online": {
         "epoch": 1590105600.0,
         "expiration_date": "22-may-2020",
         "state": "future"
@@ -1225,6 +1240,11 @@
         "state": "future"
     },
     "aj1871.online": {
+        "epoch": 1590105600.0,
+        "expiration_date": "22-may-2020",
+        "state": "future"
+    },
+    "aj1872.online": {
         "epoch": 1590105600.0,
         "expiration_date": "22-may-2020",
         "state": "future"
@@ -1609,6 +1629,11 @@
         "expiration_date": "12-nov-2020",
         "state": "future"
     },
+    "autohits.dk": {
+        "epoch": 1580428800.0,
+        "expiration_date": "31-jan-2020",
+        "state": "past"
+    },
     "automaticflock.com": {
         "epoch": 1607817600.0,
         "expiration_date": "13-dec-2020",
@@ -1897,6 +1922,11 @@
     "bj1052.online": {
         "epoch": 1607817600.0,
         "expiration_date": "13-dec-2020",
+        "state": "future"
+    },
+    "bj1740.online": {
+        "epoch": 1582243200.0,
+        "expiration_date": "21-feb-2020",
         "state": "future"
     },
     "bj1809.online": {
@@ -5374,6 +5404,11 @@
         "expiration_date": "07-oct-2020",
         "state": "future"
     },
+    "mobileapptracking.com": {
+        "epoch": 1817424000.0,
+        "expiration_date": "05-aug-2027",
+        "state": "future"
+    },
     "mobilefuse.nu": {
         "epoch": 1601337600.0,
         "expiration_date": "29-sep-2020",
@@ -5684,6 +5719,11 @@
         "expiration_date": "02-may-2020",
         "state": "future"
     },
+    "n1835adserv.xyz": {
+        "epoch": 1588896000.0,
+        "expiration_date": "08-may-2020",
+        "state": "future"
+    },
     "n272adserv.com": {
         "epoch": 1597881600.0,
         "expiration_date": "20-aug-2020",
@@ -5817,6 +5857,11 @@
     "nppmwatch.com": {
         "epoch": 1639180800.0,
         "expiration_date": "11-dec-2021",
+        "state": "future"
+    },
+    "ns1p.net": {
+        "epoch": 1618963200.0,
+        "expiration_date": "21-apr-2021",
         "state": "future"
     },
     "ntv.io": {
