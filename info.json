@@ -1,10 +1,19 @@
 {
-    "currently_under_test": "0",
+    "current_stats": {
+        "builds": 1,
+        "counter": {
+            "down": 61,
+            "invalid": 0,
+            "tested": 600,
+            "up": 539
+        }
+    },
+    "currently_under_test": "1",
     "days_until_next_test": 2,
     "end_datetime": "Sat Feb 15 13:28:44 2020",
     "end_epoch": 1581773324.320437,
-    "last_autosave_datetime": "Sat Feb 15 12:29:16 2020",
-    "last_autosave_epoch": 1581769756.011334,
+    "last_autosave_datetime": "Sun Feb 16 00:38:02 2020",
+    "last_autosave_epoch": 1581813482.330645,
     "name": "hostsVN",
     "previous_stats": {
         "builds": 40,
@@ -20,6 +29,6 @@
         "whitelisted.list": 18594
     },
     "raw_link": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts",
-    "start_datetime": "Fri Feb 14 00:24:47 2020",
-    "start_epoch": 1581639887.702668
+    "start_datetime": "Sun Feb 16 00:28:00 2020",
+    "start_epoch": 1581812880.08059
 }
