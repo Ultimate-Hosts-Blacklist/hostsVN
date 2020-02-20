@@ -177,6 +177,7 @@ ads.berlinonline.de
 ads.betanews.com
 ads.betfair.com.au
 ads.billiton.de
+ads.canalblog.com
 adscanner.innity.net
 ads.cgnetworks.com
 ads.cimedia.com
@@ -518,8 +519,8 @@ assets.acceptance.sharethrough.com
 assets.loomia.com
 assets.prebid.org
 assets.sharethrough.com
-assets.staging.sharethrough.com
 assets-staging.sharethrough.com
+assets.staging.sharethrough.com
 associate.microad.jp
 assoc-msdk-fe.amazon-adsystem.com
 assoc-msdk-metrics-us.amazon-adsystem.com
@@ -606,6 +607,7 @@ beamkite.com
 be.fyber.com
 behave.nualias.com
 bell-ads.acuityplatform.com
+bell-ex.acuityplatform.com
 bell-img.acuityplatform.com
 bell-serve.acuityplatform.com
 b-endpoint-elb-307841411.adomik.com
@@ -704,8 +706,10 @@ cdn4.fyber.com
 cdn6.mdotm.com
 cdn7.mdotm.com
 cdn.accelerator.arsdev.net
+cdn.adasiaholdings.com
 cdn.adk2x.com
 cdn.adsaro.net
+cdn.adsnative.com
 cdna.mdotm.com
 cdn-ap.33across.com
 cdn.aralego.com
@@ -781,6 +785,7 @@ clients.tbo.com
 clk-in6.c.appier.net
 clk-sg7.c.appier.net
 clk-sg8.c.appier.net
+c.logging.admicro.vn
 cmap.am.ace.advertising.com
 cmap.an.ace.advertising.com
 cmap.at.ace.advertising.com
@@ -856,6 +861,7 @@ crash.amplitude.com
 creative.ak.facebook.com
 creative.ak.fbcdn.net
 creativelibrary.millennialmedia.com
+creatives.acceptance.sharethrough.com
 creatives.as4x.tmcs.net
 creative.skyrocket.adtdp.com
 creatives.staging.sharethrough.com
@@ -949,6 +955,7 @@ deploy.propellerads.com
 desk.adasiaholdings.com
 destinet.mgr.consensu.org
 dev05.mdotm.com
+dev228.propellerads.com
 dev2.dev.linear.aws.fwmrm.net
 dev8.supersonicads.com
 dev.adbuilder.gumgum.com
@@ -970,6 +977,7 @@ develop.twik.io
 devfw.imrworldwide.com
 device.mdotm.com
 devices.starbolt.io
+dev-j-serval.adtdp.com
 dev.lab.tune.com
 dev.mediawayss.com
 dev.midasplayer.com
@@ -1061,6 +1069,7 @@ e1.komoona.com
 e2bworld.com
 e3.geo.adpushup.com
 ead.qa.sharethis.com
+ead.sharethis.com
 ea.logging.admicro.vn
 e.analytics.yahoo.com
 eb.3lift.com
@@ -1112,6 +1121,7 @@ ets-eu-west-1.smaato.net
 ets-us-east-1.smaato.net
 eu-api.swrve.com
 eu-content.swrve.com
+eu-de-user.bidswitch.net
 eu-geolookup.swrve.com
 eu-identity.swrve.com
 eu.pixel.prod2.invitemedia.com
@@ -1180,6 +1190,7 @@ foreman-a003-ash.krxd.net
 foreman-a003-dub.krxd.net
 foreman-a003-pdx.krxd.net
 foreman-a004-ash.krxd.net
+foreman-a004-dub.krxd.net
 foreman-a004-pdx.krxd.net
 foreman.adsrvr.org
 foreman.use.adsrvr.org
@@ -1477,6 +1488,7 @@ kibana.tracker.fyber.com
 kiwi.sharethis.com
 kniverto.com
 knowledge.tapjoy.com
+koinser.in
 kong.knowlead.io
 kong-proxy.heartthrob.apptentive.com
 ktoooo.com
@@ -1839,6 +1851,7 @@ pc.openx.com
 pc.sharethrough.com
 pdot.vdopia.com
 pear.dementiaadvocacy.com
+peednetwork14.adk2x.com
 pepperp1.midasplayer.com
 phabricator.optimizely.com
 photos-bazaar-use1.nexus.bazaarvoice.com
@@ -2261,15 +2274,15 @@ stat.dsp.batmobi.net
 static02.adsafeprotected.com
 static-2.3lift.com
 statica.addtoany.com
-static.acceptance.sharethrough.com
 static-acceptance.sharethrough.com
+static.acceptance.sharethrough.com
 static.adpushup.com
 static.asia.rtbid.me
 static.bilsyndication.com
 static.blog.sharethis.com
 static.ny.us.criteo.net
-static-premiumdsp.ibillboard.com
 static.premiumdsp.ibillboard.com
+static-premiumdsp.ibillboard.com
 static.propellerads.com
 static-sio.hotjar.com
 static-ssl.exoclick.com
@@ -2293,6 +2306,7 @@ stats.suite101.com
 stats.surfaid.ihost.com
 stats.unity3d.com
 stats.video.search.yahoo.com
+stat.tudou.com
 status.addthis.com
 status.adsnative.com
 status.indoleads.com
@@ -2307,8 +2321,8 @@ stkjw.net
 stmp.ad.daum.net
 st.n.ads1-adnow.com
 st.n.ads3-adnow.com
-st-n.ads4-adnow.com
 st.n.ads4-adnow.com
+st-n.ads4-adnow.com
 st.n.ads5-adnow.com
 sto.midasplayer.com
 straightschool.com
@@ -2372,6 +2386,7 @@ teams-staging-admin.optimizely.com
 teams-staging.optimizely.com
 tech.bam-x.com
 tech.flurry.com
+ted1.metro.co.uk
 teksograd.ru
 telenor-analytics.localytics.com
 telenor-profile.localytics.com
@@ -2481,6 +2496,7 @@ tsms-ad.tsms.com
 tt1.openload.co
 tt2.openload.co
 tugela.adsfactor.net
+tui.cnzz.com
 tuisong.baidu.com
 tuneci.us-west-2.k8s.ci.ops.tune.com
 tuneci.us-west-2.k8s.ops.tune.com
@@ -2594,11 +2610,11 @@ video.batmobi.net
 video-cdn.mgid.com
 video.content.ad
 videology.ndf.weborama.com
-videos-acceptance.sharethrough.com
 videos.acceptance.sharethrough.com
+videos-acceptance.sharethrough.com
 videos.sharethrough.com
-videos-staging.sharethrough.com
 videos.staging.sharethrough.com
+videos-staging.sharethrough.com
 videostr.knowlead.io
 vi.dev.fwmrm.net
 vidstream.advertserve.com
@@ -2818,6 +2834,7 @@ www.andreas-gehring.com
 www.anhui-attorney.com
 www.anticarredodolomiti.com
 www.anxiousapples.com
+www.apathetictheory.com
 www.aphycolourses.info
 www.api.ad.intl.xiaomi.com
 www.apiparbion.com
@@ -2877,6 +2894,7 @@ www.beverly-downing.xyz
 www.bewilderedblade.com
 www.bhcumsc.com
 www.bi2vl.com
+www.bidadx.com
 www.bidr.io
 www.bigclicker.me
 www.binary1.website
@@ -2947,6 +2965,7 @@ www.ckidkina.ru
 www.clcktrax.com
 www.clean.gg
 www.clearcomb.com
+www.click2paid.com
 www.clickhubs.com
 www.clickhype.com
 www.clickthrucash.com
@@ -3080,7 +3099,9 @@ www.economicpizzas.com
 www.edgeio.com
 www.efficaciouscactus.com
 www.ej1083.online
+www.ejyymghi.com
 www.elasticchange.com
+www.elderlyscissors.com
 www.elderlytown.com
 www.elephantqueue.com
 www.elisaart.it
@@ -3273,6 +3294,7 @@ www.kniverto.com
 www.knowlead.io
 www.koacojus.net
 www.koindut.com
+www.koinser.in
 www.kompasads.com
 www.krxd.net
 www.ktoooo.com
@@ -3339,6 +3361,7 @@ www.messagenovice.com
 www.metanetwork.net
 www.metricfast.com
 www.miamibeachhotels.tv
+www.microadinc.com
 www.militaryverse.com
 www.minormeeting.com
 www.miremanufacturing.com
@@ -3375,6 +3398,7 @@ www.mobisla.com
 www.moby-aa.ru
 www.mocean.mobi
 www.modifyeyes.com
+www.mojiva.com
 www.moldyicicle.com
 www.mon-thu1.life
 www.mon-thu2.life
@@ -3482,6 +3506,7 @@ www.perceivequarter.com
 www.petametrics.com
 www.petiteumbrella.com
 www.pgmediaserve.com
+www.pheedo.com
 www.photographpan.com
 www.picadmedia.com
 www.piet2eix3l.com
@@ -3622,6 +3647,7 @@ www.selak.info
 www.selectionsugar.com
 www.selectivesummer.com
 www.seo4india.com
+www.separatesilver.com
 www.seqsixxx.com
 www.serconmp.com
 www.servedby.advertising.com
@@ -3752,6 +3778,7 @@ www.theads.me
 www.theirsvendor.com
 www.themodules.ru
 www.thepainfreeformula.com
+www.thinkablerice.com
 www.thirdrange.co.uk
 www.thirdrespect.com
 www.thirstytwig.com
