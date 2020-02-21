@@ -2529,6 +2529,11 @@
         "expiration_date": "17-jan-2021",
         "state": "future"
     },
+    "aj1474.online": {
+        "epoch": 1612483200.0,
+        "expiration_date": "05-feb-2021",
+        "state": "future"
+    },
     "aj1549.online": {
         "epoch": 1614470400.0,
         "expiration_date": "28-feb-2021",
@@ -2565,6 +2570,11 @@
         "state": "future"
     },
     "aj1808.online": {
+        "epoch": 1585267200.0,
+        "expiration_date": "27-mar-2020",
+        "state": "future"
+    },
+    "aj1809.online": {
         "epoch": 1585267200.0,
         "expiration_date": "27-mar-2020",
         "state": "future"
@@ -3947,6 +3957,11 @@
     "bj1740.online": {
         "epoch": 1582243200.0,
         "expiration_date": "21-feb-2020",
+        "state": "future"
+    },
+    "bj1769.online": {
+        "epoch": 1584576000.0,
+        "expiration_date": "19-mar-2020",
         "state": "future"
     },
     "bj1809.online": {
