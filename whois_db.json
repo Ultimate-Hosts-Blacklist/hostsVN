@@ -534,6 +534,11 @@
         "expiration_date": "20-dec-2020",
         "state": "future"
     },
+    "adcept.net": {
+        "epoch": 1577664000.0,
+        "expiration_date": "30-dec-2019",
+        "state": "past"
+    },
     "adchina.com": {
         "epoch": 1602115200.0,
         "expiration_date": "08-oct-2020",
@@ -8649,6 +8654,11 @@
         "expiration_date": "10-jul-2020",
         "state": "future"
     },
+    "pushno.com": {
+        "epoch": 1614384000.0,
+        "expiration_date": "27-feb-2021",
+        "state": "future"
+    },
     "puzzlingfall.com": {
         "epoch": 1592697600.0,
         "expiration_date": "21-jun-2020",
@@ -9527,6 +9537,11 @@
     "silkysquirrel.com": {
         "epoch": 1601856000.0,
         "expiration_date": "05-oct-2020",
+        "state": "future"
+    },
+    "sillyscrew.com": {
+        "epoch": 1597622400.0,
+        "expiration_date": "17-aug-2020",
         "state": "future"
     },
     "similarsabine.com": {
