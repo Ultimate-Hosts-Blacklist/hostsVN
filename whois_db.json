@@ -2524,6 +2524,11 @@
         "expiration_date": "05-feb-2021",
         "state": "future"
     },
+    "aj1538.online": {
+        "epoch": 1582848000.0,
+        "expiration_date": "28-feb-2020",
+        "state": "past"
+    },
     "aj1559.online": {
         "epoch": 1589414400.0,
         "expiration_date": "14-may-2020",
@@ -2709,6 +2714,11 @@
         "expiration_date": "02-jul-2020",
         "state": "future"
     },
+    "ajgc1118.online": {
+        "epoch": 1593648000.0,
+        "expiration_date": "02-jul-2020",
+        "state": "future"
+    },
     "ajgc1120.online": {
         "epoch": 1593648000.0,
         "expiration_date": "02-jul-2020",
@@ -2740,6 +2750,11 @@
         "state": "future"
     },
     "ajgc1138.online": {
+        "epoch": 1593648000.0,
+        "expiration_date": "02-jul-2020",
+        "state": "future"
+    },
+    "ajgc1140.online": {
         "epoch": 1593648000.0,
         "expiration_date": "02-jul-2020",
         "state": "future"
@@ -6297,6 +6312,11 @@
     "effectivemeasure.com": {
         "epoch": 1596585600.0,
         "expiration_date": "05-aug-2020",
+        "state": "future"
+    },
+    "effectivemeasure.net": {
+        "epoch": 1596758400.0,
+        "expiration_date": "07-aug-2020",
         "state": "future"
     },
     "efficaciouscactus.com": {
