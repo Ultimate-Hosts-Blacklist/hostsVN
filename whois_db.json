@@ -1032,7 +1032,7 @@
     "adinch.com": {
         "epoch": 1582848000.0,
         "expiration_date": "28-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "adincube.com": {
         "epoch": 1614038400.0,
@@ -1452,6 +1452,11 @@
     "adplexity.com": {
         "epoch": 1633219200.0,
         "expiration_date": "03-oct-2021",
+        "state": "future"
+    },
+    "adplus.co.id": {
+        "epoch": 1619308800.0,
+        "expiration_date": "25-apr-2021",
         "state": "future"
     },
     "adplxmd.com": {
