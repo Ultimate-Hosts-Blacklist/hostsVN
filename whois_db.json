@@ -2839,6 +2839,11 @@
         "expiration_date": "02-jul-2020",
         "state": "future"
     },
+    "ajgc1144.online": {
+        "epoch": 1593648000.0,
+        "expiration_date": "02-jul-2020",
+        "state": "future"
+    },
     "ajgc1145.online": {
         "epoch": 1593648000.0,
         "expiration_date": "02-jul-2020",
@@ -3857,6 +3862,11 @@
     "beharmalted.info": {
         "epoch": 1614211200.0,
         "expiration_date": "25-feb-2021",
+        "state": "future"
+    },
+    "behavioralengine.com": {
+        "epoch": 1603065600.0,
+        "expiration_date": "19-oct-2020",
         "state": "future"
     },
     "beikehongbei.com": {
@@ -10657,7 +10667,7 @@
     "mobileoffers-al-download.com": {
         "epoch": 1582848000.0,
         "expiration_date": "28-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "mobileoffers-bm-download.com": {
         "epoch": 1586304000.0,
