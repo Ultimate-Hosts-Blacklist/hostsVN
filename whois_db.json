@@ -809,6 +809,11 @@
         "expiration_date": "22-jan-2021",
         "state": "future"
     },
+    "broaddoor.com": {
+        "epoch": 1596412800.0,
+        "expiration_date": "03-aug-2020",
+        "state": "future"
+    },
     "btez8.xyz": {
         "epoch": 1595808000.0,
         "expiration_date": "27-jul-2020",
@@ -1352,6 +1357,11 @@
     "dsp.io": {
         "epoch": 1604707200.0,
         "expiration_date": "07-nov-2020",
+        "state": "future"
+    },
+    "dspmulti.com": {
+        "epoch": 1613779200.0,
+        "expiration_date": "20-feb-2021",
         "state": "future"
     },
     "dwnloader.com": {
