@@ -11,6 +11,7 @@
 0.0.0.0 152media.adk2x.com
 0.0.0.0 16954.engine.mobileapptracking.com
 0.0.0.0 178852.engine.mobileapptracking.com
+0.0.0.0 18384.engine.mobileapptracking.com
 0.0.0.0 186576.engine.mobileapptracking.com
 0.0.0.0 189732.engine.mobileapptracking.com
 0.0.0.0 192596.engine.mobileapptracking.com
@@ -80,6 +81,7 @@
 0.0.0.0 ad133m.adk2x.com
 0.0.0.0 ad2.ip.ro
 0.0.0.0 ad2.linxcz.cz
+0.0.0.0 ad.aboutit.de
 0.0.0.0 ad.adk2x.com
 0.0.0.0 ad.admarketplace.net
 0.0.0.0 ad.afy11.net
@@ -157,6 +159,7 @@
 0.0.0.0 ads2.mojiva.com
 0.0.0.0 ads3.mojiva.com
 0.0.0.0 ads4-adnow.com
+0.0.0.0 ads4.mojiva.com
 0.0.0.0 ads5.mojiva.com
 0.0.0.0 ads.adasiaholdings.com
 0.0.0.0 ads.ad.gt
@@ -485,8 +488,8 @@
 0.0.0.0 apis-ci.web.analytics.yahoo.com
 0.0.0.0 apis.sharethrough.com
 0.0.0.0 api-ssl.demandbase.com
-0.0.0.0 apis.staging.sharethrough.com
 0.0.0.0 apis-staging.sharethrough.com
+0.0.0.0 apis.staging.sharethrough.com
 0.0.0.0 api-staging.playbuzz.com
 0.0.0.0 apis.web.analytics.yahoo.com
 0.0.0.0 api-tracker.mobfox.com
@@ -525,6 +528,7 @@
 0.0.0.0 asset2.fyber.com
 0.0.0.0 asset3.fyber.com
 0.0.0.0 asset4.fyber.com
+0.0.0.0 assets.acceptance.sharethrough.com
 0.0.0.0 assets-acceptance.sharethrough.com
 0.0.0.0 assets.loomia.com
 0.0.0.0 assets.prebid.org
@@ -750,6 +754,7 @@
 0.0.0.0 cerulean.amplitude.com
 0.0.0.0 cf-admin.doublemax.net
 0.0.0.0 cf-aws-adserver-origin.adtechjp.com
+0.0.0.0 cf-aws-adserver-origin-ap-northeast-1.adtechjp.com
 0.0.0.0 cf-aws-adserver-origin-ap-southeast-1.adtechjp.com
 0.0.0.0 cfbrr.com
 0.0.0.0 cf.doublemax.net
@@ -1002,6 +1007,7 @@
 0.0.0.0 dev-payment.rungrinh.vn
 0.0.0.0 dev-rec.aralego.com
 0.0.0.0 dev.widget.databoxer.mgr.consensu.org
+0.0.0.0 dev-www.taboola.com
 0.0.0.0 dexchangenic.com
 0.0.0.0 df-azure-ext.newrelic.com
 0.0.0.0 dfdsfadfsd.com
@@ -1020,6 +1026,7 @@
 0.0.0.0 dj1083.online
 0.0.0.0 djplazebo.com
 0.0.0.0 dl1sw.baidu.com
+0.0.0.0 dl.client.baidu.com
 0.0.0.0 dlyads.adk2x.com
 0.0.0.0 dmeserv.newsinc.com
 0.0.0.0 dmp2.adop.cc
@@ -1055,6 +1062,7 @@
 0.0.0.0 drmcmm.baidu.com
 0.0.0.0 drone.dmx.districtm.io
 0.0.0.0 ds.ad.gt
+0.0.0.0 ds.clicksor.com
 0.0.0.0 dsf.10eurosbonheur.org
 0.0.0.0 dsg.affaireenligne.org
 0.0.0.0 ds.midasplayer.com
@@ -1353,12 +1361,14 @@
 0.0.0.0 ifc.inmobi.com
 0.0.0.0 ifighi.net
 0.0.0.0 iframe.sharethrough.com
+0.0.0.0 igin.startappservice.com
 0.0.0.0 ih.adk2x.com
 0.0.0.0 ikcode.baidu.com
 0.0.0.0 image1.pubmatic.com
 0.0.0.0 image9.pubmatic.com
 0.0.0.0 image.pubmatic.com
 0.0.0.0 images.eu.criteo.net
+0.0.0.0 images.jp.as.criteo.net
 0.0.0.0 images.millennialmedia.com
 0.0.0.0 images.nytimes.com
 0.0.0.0 images.ny.us.criteo.net
@@ -1396,6 +1406,7 @@
 0.0.0.0 img-origin.adtechus.com
 0.0.0.0 img.propellerads.com
 0.0.0.0 img.securesoft.info
+0.0.0.0 imgtmp.adm.cnzz.com
 0.0.0.0 img.vietad.vn
 0.0.0.0 im.meet.duapps.com
 0.0.0.0 impact-proxy.playbuzz.com
@@ -1609,6 +1620,7 @@
 0.0.0.0 m1.emea.2mdn.net
 0.0.0.0 m4.afs.googleadservices.com
 0.0.0.0 ma.baidu.com
+0.0.0.0 madmin.propellerads.com
 0.0.0.0 mads.aol.com
 0.0.0.0 mads-eu.amazon-adsystem.com
 0.0.0.0 mads-fe.amazon-adsystem.com
@@ -2061,6 +2073,7 @@
 0.0.0.0 rtb3.media.net
 0.0.0.0 rtb.ad-stir.com
 0.0.0.0 rtb-ca1.tapad.com
+0.0.0.0 rtb.districtm.io
 0.0.0.0 rtb.duapps.com
 0.0.0.0 rtb-eq.tapad.com
 0.0.0.0 rtb-eu.tapad.com
@@ -2307,8 +2320,8 @@
 0.0.0.0 static.bilsyndication.com
 0.0.0.0 static.blog.sharethis.com
 0.0.0.0 static.ny.us.criteo.net
-0.0.0.0 static-premiumdsp.ibillboard.com
 0.0.0.0 static.premiumdsp.ibillboard.com
+0.0.0.0 static-premiumdsp.ibillboard.com
 0.0.0.0 static.propellerads.com
 0.0.0.0 static-sio.hotjar.com
 0.0.0.0 static-ssl.exoclick.com
@@ -2594,6 +2607,7 @@
 0.0.0.0 vaes.iad.preprod.amazon-adsystem.com
 0.0.0.0 vaes.pdx.amazon-adsystem.com
 0.0.0.0 vaes.pdx.preprod.amazon-adsystem.com
+0.0.0.0 vaes-preprod.dub.amazon-adsystem.com
 0.0.0.0 vaes-preprod.iad.amazon-adsystem.com
 0.0.0.0 vaes-preprod.pdx.amazon-adsystem.com
 0.0.0.0 va.pixel.prod2.invitemedia.com
@@ -2645,6 +2659,7 @@
 0.0.0.0 view.skyrocket.adtdp.com
 0.0.0.0 vi.gumgum.com
 0.0.0.0 vinaads.vn
+0.0.0.0 vip1.tw.adserver.yahoo.com
 0.0.0.0 vivaki.ndf.weborama.com
 0.0.0.0 vmco.adk2x.com
 0.0.0.0 vogon.srv.media.net
