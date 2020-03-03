@@ -187,6 +187,7 @@ aax-fe.amazon-adsystem.com
 aax-fe-pek.amazon-adsystem.com
 aax-fe-sin.amazon-adsystem.com
 aax-fe-sin-rtb-adx.amazon-adsystem.com
+aax-fe-sin-rtb.amazon-adsystem.com
 a.axmtrack.com
 aax-opf-us-east.amazon-adsystem.com
 aax-us.amazon-adsystem.amazon.com
@@ -1200,8 +1201,8 @@ ads.gplusmedia.com
 ads.gradfinder.com
 ads.grindinggears.com
 adsgroup.qq.com
-ads.gsmexchange.com
 ads.gsm-exchange.com
+ads.gsmexchange.com
 ads.guardian.co.uk
 ads.guardianunlimited.co.uk
 ads.gumgum.com
@@ -2660,8 +2661,8 @@ app.wootric.com
 apr.lijit.com
 aps.amazon.com
 aps.hearstnp.com
-aps.insight.adsrvr.org
 aps-insight.adsrvr.org
+aps.insight.adsrvr.org
 aptest.adx1.com
 apt-insight.adsrvr.org
 apt.insight.adsrvr.org
@@ -3668,6 +3669,7 @@ callloop.com
 callousbrake.com
 calmfoot.com
 calvin.segment.com
+c.amazon-adsystem.com
 c.amazon-adsystems.com
 cam.demdex.net
 c.ameba.d.ad-cloud.rs.adtdp.com
@@ -3920,6 +3922,7 @@ cdn.creative.medialytics.com
 cdn.crwdcntrl.net
 cdn.cxense.com
 cdn-c.yieldlove.com
+cdn-d.amazon-adsystem.com
 cdn.demdex.net
 cdn.digitru.st
 cdn.digitrust.mgr.consensu.org
@@ -4357,8 +4360,8 @@ client-event-reporter.twitch.tv
 client-events.inner-active.mobi
 clientmanagement.lijit.com
 clientmetrics.outbrain.com
-clientmonitor.isnssdk.com
 client_monitor.isnssdk.com
+clientmonitor.isnssdk.com
 client-pages.adnetwork.vn
 client.perimeterx.net
 clients.adcolony.com
@@ -4402,8 +4405,8 @@ cloudflare.cdneval.adnxs.com
 cloudfront.loggly.com
 cloudfront.yieldlove-ad-serving.net
 cloudmobi.net
-cloud-video.unrulymedia.com
 cloud.video.unrulymedia.com
+cloud-video.unrulymedia.com
 c.l.qq.com
 clrstm.com
 cl-stg.perimeterx.net
@@ -6100,6 +6103,7 @@ eu.newrelic.com
 eu-pn1.adserver.yahoo.com
 eu-pn2.adserver.yahoo.com
 eu-pn3.adserver.yahoo.com
+eu-pn4.adserver.yahoo.com
 eu-pulsepoint-rtb.quantserve.com
 eu-px.steelhousemedia.com
 eu-qa-log.swrve.com
@@ -6222,6 +6226,7 @@ exchange.bg
 exchangeclicksonline.com
 exchange.contextweb.com
 exchange-eu-west.powerlinks.com
+exchange.inmobi.com
 exchange-it.com
 exchange.superfastmediation.com
 exchange.unrulymedia.com
@@ -6814,8 +6819,8 @@ git.nextsmarty.com
 git.novaonx.com
 git.younetmedia.com
 giymdemo.pubmatic.com
-gjapplog.uc.cn
 gj.applog.uc.cn
+gjapplog.uc.cn
 gjapplog.ucweb.com
 gj.gds.mmstat.com
 gj.mmstat.com
@@ -7282,8 +7287,8 @@ hsych.com
 ht.alcmpn.com
 ht.casalemedia.com
 ht.indexww.com
-htlb.casalemedia.com
 ht-lb.casalemedia.com
+htlb.casalemedia.com
 ht-lb-sec.casalemedia.com
 html5.adsrvr.org
 html.polyad.net
@@ -7649,6 +7654,7 @@ inabsolor.com
 inaccused.com
 in.admicro.vn
 in.adserver.yahoo.com
+in.analytics.glance.inmobi.com
 in.api.clevertap.com
 in.api.glance.inmobi.com
 inapp.nixozz.com
@@ -8511,6 +8517,7 @@ lizardslaugh.com
 ljb.advertserve.com
 lkqd.net
 lk-td.adnow.com
+ll.atdmt.com
 llo123.com
 l.logly.co.jp
 l.logrocket.io
@@ -8676,8 +8683,8 @@ lookup.propellerads.com
 loong2am4lishu.adx1.com
 loopme.biz
 lop.com
-lotame.users.go.sonobi.com
 lotame-users.go.sonobi.com
+lotame.users.go.sonobi.com
 loudloss.com
 loudlunch.com
 louisianapublishing-d.openx.net
@@ -9731,6 +9738,7 @@ nixozz.com
 nj.fo.startappservice.com
 nj.origin.startappservice.com
 nj.startappservice.com
+nl.adserver.yahoo.com
 nl.alcmpn.com
 nl-geo.cityads.com
 nlog.baidu.com
@@ -10249,6 +10257,7 @@ p.adrta.com
 padstm.com
 p.adsymptotic.com
 pagead2.googleadservices.com
+pagead2.googlesyndication.com
 pagead46.l.doubleclick.net
 pagead-googlehosted.l.google.com
 pagead.l.doubleclick.net
@@ -10707,8 +10716,8 @@ popflawlessads.com
 popmyads.com
 popnc.com
 popub.com
-pop-under.ru
 popunder.ru
+pop-under.ru
 popupmoney.com
 popup.msn.com
 popupnation.com
@@ -11202,8 +11211,8 @@ query-gce.petametrics.com
 query.petametrics.com
 query-us-east1.petametrics.com
 query-us.petametrics.com
-query-us-west1.petametrics.com
 query-us-west-1.petametrics.com
+query-us-west1.petametrics.com
 questaffiliates.net
 questsoftware.sc.omtrdc.net
 queue.simpleanalytics.io
@@ -11272,8 +11281,8 @@ rb.adnxs.com
 rbb.ic.llnwd.net
 r.bidswitch.net
 rbi.eu.qualtrics.com
-rc-app.optimizely.com
 rc.app.optimizely.com
+rc-app.optimizely.com
 r.casalemedia.com
 rc-au.imrworldwide.com
 r.clicktale.net
@@ -11697,8 +11706,8 @@ rtb-facebook.mia.nxtck.com
 rtb-facebook.mrs.nxtck.com
 rtb-google-gus.nxtck.com
 rtb-google-mia.nxtck.com
-rtb-google-mrs.nxtck.com
 rtb-google.mrs.nxtck.com
+rtb-google-mrs.nxtck.com
 rtb.gumgum.com
 rtbgw-eu.adgrx.com
 rtbgw-na-east.adgrx.com
@@ -11715,8 +11724,8 @@ rtb-lc.openx.net
 rtb.lkqd.net
 rtb-mobfox.tenmax.io
 rtb.openx.net
-rtb-other-gus.nxtck.com
 rtb-other.gus.nxtck.com
+rtb-other-gus.nxtck.com
 rtb-other-mia.nxtck.com
 rtb-other.mia.nxtck.com
 rtb-other.mrs.nxtck.com
@@ -11736,8 +11745,8 @@ rtbsnip-c2s-ash.creativecdn.com
 rtbsnip-c2s-sin.creativecdn.com
 rtb-srv.gus.nxtck.com
 rtb-srv.mia.nxtck.com
-rtb-srv.mrs.nxtck.com
 rtb-srv-mrs.nxtck.com
+rtb-srv.mrs.nxtck.com
 rtb-srv.nxtck.com
 rtbtest.send.microad.jp
 rtb.tsyndicate.com
@@ -11808,6 +11817,7 @@ r.w.inmobi.com
 rwrd.socdm.com
 rxcdn.1rx.io
 s0.2mdn.net
+s0.doubleclick.net
 s103.histats.com
 s10.histats.com
 s10.smaato.net
@@ -12827,8 +12837,8 @@ ssum-sec.casalemedia.com
 s.supersonicads.com
 ss.yomedia.vn
 st3.qualtrics.com
-st.a.anthill.vn
 st-a.anthill.vn
+st.a.anthill.vn
 stable.app.optimizely.com
 stabroom.cn
 st.ad.adnow.com
@@ -12970,6 +12980,7 @@ static.adsafeprotected.com
 static-ads.akamaized.net
 staticads.btopenworld.com
 static.adsplay.net
+static.ads-twitter.com
 static-ads.zaloapp.com
 static.adtelligent.com
 staticad.thethao247.vn
@@ -12993,8 +13004,8 @@ static.bam-x.com
 static.bapi.adsafeprotected.com
 static.blueseed.tv
 static.cbsileads.com
-static.cdn.adblade.com
 static-cdn.adblade.com
+static.cdn.adblade.com
 static-cdn.adtelligent.com
 static.chartbeat.com
 static.chartboost.com
@@ -13232,8 +13243,8 @@ stmediagroup-d.openx.net
 st.n.adnow.com
 st-n.adnow.com
 st-n.ads1-adnow.com
-st-n.ads2-adnow.com
 st.n.ads2-adnow.com
+st-n.ads2-adnow.com
 st-n.ads3-adnow.com
 st-n.ads5-adnow.com
 st-n.adxxx.com
@@ -14202,14 +14213,15 @@ tui.taobao.com
 tu.moatads.com
 tune.com
 tunein.adswizz.com
-tune-in-d.openx.net
 tunein-d.openx.net
+tune-in-d.openx.net
 tunion-api.m.taobao.com
 tunnel.twik.io
 tunngle.adspirit.de
 t.update.3lift.com
 t.update.adsrvr.org
 t.update.ap.lijit.com
+t.update.fbsbx.com
 t.update.moatads.com
 t.update.rubiconproject.com
 t.update.spotxchange.com
@@ -14467,8 +14479,8 @@ use.backtrace.io
 use-data.adsrvr.org
 usedeverywhere-d.openx.net
 usedirect.adsrvr.org
-use.fb.adsrvr.org
 usefb.adsrvr.org
+use.fb.adsrvr.org
 useinsider.com
 usercentrics.mgr.consensu.org
 user-data.apptimize.com
@@ -14986,8 +14998,8 @@ website.mediaz.vn
 websponsors.com
 web.stagingf8.pycogroup.com
 webstat.channel4.com
-web-stat.com
 webstat.com
+web-stat.com
 webstat.net
 webstats4u.com
 webtrackerplus.com
@@ -15778,6 +15790,7 @@ www.amung.us
 www.amusecity.com
 www.an1435adserv.online
 www.analytiall.com
+www.analytics.yahoo.com
 www.ancientroom.com
 www.andayiyuan.com
 www.animeonline.net
