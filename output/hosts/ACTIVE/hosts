@@ -66,9 +66,13 @@
 0.0.0.0 ad.nl.doubleclick.net
 0.0.0.0 adnow.com
 0.0.0.0 ad.pl.doubleclick.net
+0.0.0.0 ads1-adnow.com
 0.0.0.0 ads1.jp.msn.com
 0.0.0.0 ads1.msn.com
+0.0.0.0 ads2-adnow.com
 0.0.0.0 ads2.msn.com
+0.0.0.0 ads3-adnow.com
+0.0.0.0 ads5-adnow.com
 0.0.0.0 ads.auctions.yahoo.com
 0.0.0.0 ads.aws.viber.com
 0.0.0.0 ads-bidder-api.twitter.com
@@ -316,6 +320,7 @@
 0.0.0.0 example.mgid.com
 0.0.0.0 exchange.inmobi.com
 0.0.0.0 fa.adnow.com
+0.0.0.0 fclick-adnow.com
 0.0.0.0 fc.yahoo.com
 0.0.0.0 feed.adnow.com
 0.0.0.0 feedads.g.doubleclick.net
@@ -486,8 +491,11 @@
 0.0.0.0 n4403ad.doubleclick.net
 0.0.0.0 na.ads.yahoo.com
 0.0.0.0 n.adnow.com
+0.0.0.0 n.ads1-adnow.com
+0.0.0.0 n.ads2-adnow.com
 0.0.0.0 neptun-vm.mgid.com
 0.0.0.0 news.iadsdk.apple.com
+0.0.0.0 n.fclick-adnow.com
 0.0.0.0 nl.adserver.yahoo.com
 0.0.0.0 no.adserver.yahoo.com
 0.0.0.0 nol.yahoo.com
@@ -576,8 +584,8 @@
 0.0.0.0 rc-studio.inmobi.com
 0.0.0.0 real.sp.analytics.yahoo.com
 0.0.0.0 reaper.pulse.inmobi.com
-0.0.0.0 redge.inmobicdn.net
 0.0.0.0 r.edge.inmobicdn.net
+0.0.0.0 redge.inmobicdn.net
 0.0.0.0 redirection.prod.cms.msn.com
 0.0.0.0 redirector.popcash.net
 0.0.0.0 redirectpopads.com
@@ -665,8 +673,8 @@
 0.0.0.0 stg-reports.web.analytics.yahoo.com
 0.0.0.0 stg-ua.inmobi.com
 0.0.0.0 stg-y.analytics.yahoo.com
-0.0.0.0 st-n.adnow.com
 0.0.0.0 st.n.adnow.com
+0.0.0.0 st-n.adnow.com
 0.0.0.0 stprev.adnow.com
 0.0.0.0 studio.glance.inmobi.com
 0.0.0.0 studio.inmobicdn.net
@@ -773,6 +781,7 @@
 0.0.0.0 www.assoc-amazon.com
 0.0.0.0 www.atdmt.com
 0.0.0.0 www.doubleclick.net
+0.0.0.0 www.fclick-adnow.com
 0.0.0.0 www.googleadservices.com
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www-google-analytics.l.google.com
