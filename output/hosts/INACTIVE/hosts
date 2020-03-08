@@ -2,6 +2,8 @@
 # Date of generation: 2020-03-08T11:13:34.940632
 
 0.0.0.0 a.admob.com
+0.0.0.0 aa-gb.mgid.com
+0.0.0.0 aa.goodsblock.mgid.com
 0.0.0.0 a.analytics.yahoo.com
 0.0.0.0 aan.amazon-adsystem.com
 0.0.0.0 aax.amazon.amazon-adsystem.com
@@ -9,14 +11,23 @@
 0.0.0.0 aax-vx-fe-pdx.amazon-adsystem.com
 0.0.0.0 aax-vx-us-iad.amazon-adsystem.com
 0.0.0.0 aax-vx-us-pdx.amazon-adsystem.com
+0.0.0.0 ab-gb.mgid.com
+0.0.0.0 ab.goodsblock.mgid.com
+0.0.0.0 ac-gb.mgid.com
+0.0.0.0 ad-gb.mgid.com
 0.0.0.0 ads.ak.facebook.com
 0.0.0.0 adservices.google.com
 0.0.0.0 ads-fa.spotify.com
+0.0.0.0 ads.heyzap.com
 0.0.0.0 adtracker.inmobi.com
 0.0.0.0 ad.youtube.com
+0.0.0.0 ae-gb.mgid.com
+0.0.0.0 af-gb.mgid.com
 0.0.0.0 aidl-dev1001.data.corp.inmobi.com
+0.0.0.0 aj-gb.mgid.com
 0.0.0.0 amer.hops.glbdns.microsoft.com
 0.0.0.0 analytics.admob.com
+0.0.0.0 android.heyzap.com
 0.0.0.0 apac.analytics.yahoo.com
 0.0.0.0 api-apac.web.analytics.yahoo.com
 0.0.0.0 api-bg.web.analytics.yahoo.com
@@ -28,6 +39,7 @@
 0.0.0.0 assoc-msdk-fe.amazon-adsystem.com
 0.0.0.0 assoc-msdk-metrics-us.amazon-adsystem.com
 0.0.0.0 au.doubleclick.net
+0.0.0.0 b.blueserving.com
 0.0.0.0 bh1.doubleclick.net
 0.0.0.0 build1500.scm.ev1.inmobi.com
 0.0.0.0 build.ares.inmobi.com
@@ -36,6 +48,7 @@
 0.0.0.0 bw-useast-bidder.appd.inmobi.com
 0.0.0.0 bw-uswest-bidder.appd.inmobi.com
 0.0.0.0 cache.adserver.yahoo.com
+0.0.0.0 c.blueserving.com
 0.0.0.0 cdn-c.amazon-adsystem.com
 0.0.0.0 cdn-eb.syndication.twitter.com
 0.0.0.0 cdn-z.amazon-adsystem.com
@@ -53,6 +66,7 @@
 0.0.0.0 dbcontrol.doubleclick.net
 0.0.0.0 deadpool.ops.ir1.inmobi.com
 0.0.0.0 de.doubleclick.net
+0.0.0.0 diff5.smartadserver.com
 0.0.0.0 dock.inmobi.com
 0.0.0.0 domains.googlesyndication.com
 0.0.0.0 dra-eu.amazon-adsystem.com
@@ -80,6 +94,9 @@
 0.0.0.0 m4.afs.googleadservices.com
 0.0.0.0 mads-eu.amazon-adsystem.com
 0.0.0.0 mads-fe.amazon-adsystem.com
+0.0.0.0 mem1.popcash.net
+0.0.0.0 mem2.popcash.net
+0.0.0.0 mem3.popcash.net
 0.0.0.0 mimageads1.googleadservices.com
 0.0.0.0 mimageads2.googleadservices.com
 0.0.0.0 mimageads3.googleadservices.com
@@ -130,6 +147,8 @@
 0.0.0.0 s.analytics.yahoo.com
 0.0.0.0 s-beta.amazon-adsystem.com
 0.0.0.0 s-beta-opf.amazon-adsystem.com
+0.0.0.0 sdk.heyzap.com
+0.0.0.0 server.popads.net
 0.0.0.0 sp-api.analytics.yahoo.com
 0.0.0.0 spd.atdmt.com
 0.0.0.0 spe.atdmt.com
@@ -140,6 +159,8 @@
 0.0.0.0 sutdio.glance.inmobi.com
 0.0.0.0 syndication.streamads.yahoo.com
 0.0.0.0 tap.ads-twitter.com
+0.0.0.0 tb.popcash.net
+0.0.0.0 tcy.smartadserver.com
 0.0.0.0 test-d.analytics.yahoo.com
 0.0.0.0 thngw1.doubleclick.net
 0.0.0.0 thngw2.doubleclick.net
@@ -151,6 +172,7 @@
 0.0.0.0 uc.csc.adserver.yahoo.com
 0.0.0.0 uk.doubleclick.net
 0.0.0.0 unlockme.corp.inmobi.com
+0.0.0.0 usr.mgid.com
 0.0.0.0 ut.analytics.yahoo.com
 0.0.0.0 ut-api.analytics.yahoo.com
 0.0.0.0 vaes.dub.amazon-adsystem.com
@@ -162,20 +184,27 @@
 0.0.0.0 vaes-preprod.iad.amazon-adsystem.com
 0.0.0.0 vaes-preprod.pdx.amazon-adsystem.com
 0.0.0.0 vid.atdmt.com
+0.0.0.0 video-cdn.mgid.com
 0.0.0.0 vip1.tw.adserver.yahoo.com
+0.0.0.0 web1.popcash.net
 0.0.0.0 web.analytics.yahoo.com
 0.0.0.0 ws-ea.amazon-adsystem.com
+0.0.0.0 wsp.mgid.com
 0.0.0.0 www.ads-twitter.com
 0.0.0.0 www.amazon-adsystem.com
+0.0.0.0 www.blueserving.com
 0.0.0.0 www.googlesyndication.com
 0.0.0.0 www.iad.apple.com
 0.0.0.0 www.iadsdk.apple.com
 0.0.0.0 www.inmobicdn.com
+0.0.0.0 www.inmobicdn.net
+0.0.0.0 www.inmobi.net
 0.0.0.0 www.kinesis.us-east-1.amazonaws.com
 0.0.0.0 www.mobileanalytics.us-east-1.amazonaws.com
 0.0.0.0 www.ocsp.apple.com
 0.0.0.0 www.partner.googleadservices.com
 0.0.0.0 www.pinpoint.us-east-1.amazonaws.com
+0.0.0.0 x.heyzap.com
 0.0.0.0 xpcs.ads.yahoo.com
 0.0.0.0 xray.corp.inmobi.com
 0.0.0.0 y3.analytics.yahoo.com
