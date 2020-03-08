@@ -85,8 +85,8 @@
 0.0.0.0 ads.gmodules.com
 0.0.0.0 ads.inmobi.com
 0.0.0.0 ads.msn.com
-0.0.0.0 ads-twitter.com
 0.0.0.0 ads.twitter.com
+0.0.0.0 ads-twitter.com
 0.0.0.0 ads.viber.com
 0.0.0.0 ads.yahoo.com
 0.0.0.0 ads.yap.yahoo.com
@@ -302,6 +302,7 @@
 0.0.0.0 en.adnow.com
 0.0.0.0 ep-useast.ifc.inmobi.com
 0.0.0.0 eqx.smartadserver.com
+0.0.0.0 es.adnow.com
 0.0.0.0 es.adserver.yahoo.com
 0.0.0.0 et2.w.inmobi.cn
 0.0.0.0 et.w.inmobi.cn
@@ -314,9 +315,12 @@
 0.0.0.0 europe.adserver.yahoo.com
 0.0.0.0 example.mgid.com
 0.0.0.0 exchange.inmobi.com
+0.0.0.0 fa.adnow.com
 0.0.0.0 fc.yahoo.com
+0.0.0.0 feed.adnow.com
 0.0.0.0 feedads.g.doubleclick.net
 0.0.0.0 fi.adserver.yahoo.com
+0.0.0.0 findep.adnow.com
 0.0.0.0 fls-cn.amazon-adsystem.com
 0.0.0.0 fls.doubleclick.net
 0.0.0.0 fls-eu.amazon-adsystem.com
@@ -325,7 +329,9 @@
 0.0.0.0 fls-na.amazon-adsystem.com
 0.0.0.0 fls.uk.doubleclick.net
 0.0.0.0 fp.studio.inmobicdn.net
+0.0.0.0 fr.adnow.com
 0.0.0.0 fr.adserver.yahoo.com
+0.0.0.0 fsavkin.adnow.com
 0.0.0.0 gallery.smartadserver.com
 0.0.0.0 gan.doubleclick.net
 0.0.0.0 g.atdmt.com
@@ -348,6 +354,7 @@
 0.0.0.0 googletagservices.com
 0.0.0.0 gpu4001.ds.ams1.inmobi.com
 0.0.0.0 gpu4001.ds.ev1.inmobi.com
+0.0.0.0 gr.adnow.com
 0.0.0.0 gr.adserver.yahoo.com
 0.0.0.0 graylog.ops.ams1.inmobi.com
 0.0.0.0 graylog.ops.dfw1.inmobi.com
@@ -359,15 +366,19 @@
 0.0.0.0 helix.inmobi.com
 0.0.0.0 helixuat.inmobi.com
 0.0.0.0 heyzap.com
+0.0.0.0 hi.adnow.com
 0.0.0.0 hk.adserver.yahoo.com
 0.0.0.0 iact.atdmt.com
 0.0.0.0 iad.apple.com
 0.0.0.0 iadsdk.apple.com
+0.0.0.0 id.adnow.com
 0.0.0.0 id.adserver.yahoo.com
+0.0.0.0 id.akl.adnow.com
 0.0.0.0 ie.adserver.yahoo.com
 0.0.0.0 ifc.auth.inmobi.com
 0.0.0.0 ifctpads.inmobicdn.net
 0.0.0.0 ifd.et.w.inmobi.com
+0.0.0.0 ilalov.adnow.com
 0.0.0.0 i.l.inmobicdn.net
 0.0.0.0 im2.smartadserver.com
 0.0.0.0 image.atdmt.com
@@ -406,6 +417,7 @@
 0.0.0.0 ir-na.amazon-adsystem.com
 0.0.0.0 ir-na.amazon-adsystems.com
 0.0.0.0 ir-uk.amazon-adsystem.com
+0.0.0.0 it.adnow.com
 0.0.0.0 it.adserver.yahoo.com
 0.0.0.0 it.fc.yahoo.com
 0.0.0.0 itx5-publicidad.smartadserver.com
@@ -413,8 +425,12 @@
 0.0.0.0 iv.doubleclick.net
 0.0.0.0 i.w.inmobi.cn
 0.0.0.0 i.w.inmobi.com
+0.0.0.0 ja.adnow.com
+0.0.0.0 ja.akl.adnow.com
 0.0.0.0 jact.atdmt.com
 0.0.0.0 japan.inmobi.com
+0.0.0.0 jira2.adnow.com
+0.0.0.0 jira.adnow.com
 0.0.0.0 jira.infra.inmobi.com
 0.0.0.0 jobs.smartadserver.com
 0.0.0.0 jsc.mgid.com
@@ -422,6 +438,7 @@
 0.0.0.0 jsn.mgid.com
 0.0.0.0 jsu.mgid.com
 0.0.0.0 js.w.inmobi.com
+0.0.0.0 kavun.adnow.com
 0.0.0.0 kinesis.us-east-1.amazonaws.com
 0.0.0.0 korea.inmobi.com
 0.0.0.0 kr.adserver.yahoo.com
@@ -544,8 +561,8 @@
 0.0.0.0 rc-studio.inmobi.com
 0.0.0.0 real.sp.analytics.yahoo.com
 0.0.0.0 reaper.pulse.inmobi.com
-0.0.0.0 redge.inmobicdn.net
 0.0.0.0 r.edge.inmobicdn.net
+0.0.0.0 redge.inmobicdn.net
 0.0.0.0 redirection.prod.cms.msn.com
 0.0.0.0 redirector.popcash.net
 0.0.0.0 redirectpopads.com
