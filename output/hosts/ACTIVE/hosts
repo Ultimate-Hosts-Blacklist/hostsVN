@@ -85,8 +85,8 @@
 0.0.0.0 ads.gmodules.com
 0.0.0.0 ads.inmobi.com
 0.0.0.0 ads.msn.com
-0.0.0.0 ads.twitter.com
 0.0.0.0 ads-twitter.com
+0.0.0.0 ads.twitter.com
 0.0.0.0 ads.viber.com
 0.0.0.0 ads.yahoo.com
 0.0.0.0 ads.yap.yahoo.com
@@ -267,6 +267,8 @@
 0.0.0.0 dev.findep.adnow.com
 0.0.0.0 device-metrics-us-2.amazon.com
 0.0.0.0 device-metrics-us.amazon.com
+0.0.0.0 dev-self-service.adnow.com
+0.0.0.0 dev-self-service-pay.adnow.com
 0.0.0.0 dev.ups.analytics.yahoo.com
 0.0.0.0 dfp.doubleclick.net
 0.0.0.0 diff1.smartadserver.com
@@ -280,7 +282,9 @@
 0.0.0.0 dmp.mgid.com
 0.0.0.0 dope.ops.inmobi.com
 0.0.0.0 doubleclick.net
+0.0.0.0 downlo.adnow.com
 0.0.0.0 dp.g.doubleclick.net
+0.0.0.0 dpominov.adnow.com
 0.0.0.0 dra.amazon-adsystem.com
 0.0.0.0 dsengine.doubleclick.net
 0.0.0.0 dsp.blueserving.com
@@ -293,7 +297,9 @@
 0.0.0.0 edgy-china-cdn-sproutbuilder.inmobi.com
 0.0.0.0 edgy.inmobi.com
 0.0.0.0 edgy.studioservices.inmobi.com
+0.0.0.0 el.adnow.com
 0.0.0.0 emea.doubleclick.net
+0.0.0.0 en.adnow.com
 0.0.0.0 ep-useast.ifc.inmobi.com
 0.0.0.0 eqx.smartadserver.com
 0.0.0.0 es.adserver.yahoo.com
@@ -538,8 +544,8 @@
 0.0.0.0 rc-studio.inmobi.com
 0.0.0.0 real.sp.analytics.yahoo.com
 0.0.0.0 reaper.pulse.inmobi.com
-0.0.0.0 r.edge.inmobicdn.net
 0.0.0.0 redge.inmobicdn.net
+0.0.0.0 r.edge.inmobicdn.net
 0.0.0.0 redirection.prod.cms.msn.com
 0.0.0.0 redirector.popcash.net
 0.0.0.0 redirectpopads.com
