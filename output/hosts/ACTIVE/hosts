@@ -60,8 +60,8 @@
 0.0.0.0 ad.il.doubleclick.net
 0.0.0.0 admob.com
 0.0.0.0 ad.mo.doubleclick.net
-0.0.0.0 admtd.adnow.com
 0.0.0.0 adm-td.adnow.com
+0.0.0.0 admtd.adnow.com
 0.0.0.0 adn.atdmt.com
 0.0.0.0 ad.nl.doubleclick.net
 0.0.0.0 adnow.com
@@ -88,9 +88,10 @@
 0.0.0.0 ad.sg.doubleclick.net
 0.0.0.0 ads.gmodules.com
 0.0.0.0 ads.inmobi.com
+0.0.0.0 ads.mobclix.com
 0.0.0.0 ads.msn.com
-0.0.0.0 ads-twitter.com
 0.0.0.0 ads.twitter.com
+0.0.0.0 ads-twitter.com
 0.0.0.0 ads.viber.com
 0.0.0.0 ads.yahoo.com
 0.0.0.0 ads.yap.yahoo.com
@@ -259,6 +260,7 @@
 0.0.0.0 dart.l.doubleclick.net
 0.0.0.0 dashboard.mgid.com
 0.0.0.0 dataexchange.inmobi.com
+0.0.0.0 data.mobclix.com
 0.0.0.0 dating.mgid.com
 0.0.0.0 db3aqu.atdmt.com
 0.0.0.0 d.blueserving.com
@@ -477,11 +479,13 @@
 0.0.0.0 mgid.com
 0.0.0.0 mg.mgid.com
 0.0.0.0 mige.adnow.com
+0.0.0.0 mobclix.com
 0.0.0.0 mobileads.msn.com
 0.0.0.0 mobileanalytics.us-east-1.amazonaws.com
 0.0.0.0 mobile-displayads.l.doubleclick.net
 0.0.0.0 mobile.pipe.aria.microsoft.com
 0.0.0.0 mobile.smartadserver.com
+0.0.0.0 mojiva.com
 0.0.0.0 mommy.adnow.com
 0.0.0.0 msnbcmedia.msn.com
 0.0.0.0 mx.adserver.yahoo.com
@@ -493,6 +497,8 @@
 0.0.0.0 n.adnow.com
 0.0.0.0 n.ads1-adnow.com
 0.0.0.0 n.ads2-adnow.com
+0.0.0.0 n.ads3-adnow.com
+0.0.0.0 n.ads5-adnow.com
 0.0.0.0 neptun-vm.mgid.com
 0.0.0.0 news.iadsdk.apple.com
 0.0.0.0 n.fclick-adnow.com
@@ -642,6 +648,7 @@
 0.0.0.0 sink.l.inmobicdn.net
 0.0.0.0 smartadserver.com
 0.0.0.0 smart.styria-digital.com
+0.0.0.0 s.mobclix.com
 0.0.0.0 smoking.adnow.com
 0.0.0.0 sonar-iad.xx.fbcdn.net
 0.0.0.0 sp.analytics.yahoo.com
@@ -673,8 +680,13 @@
 0.0.0.0 stg-reports.web.analytics.yahoo.com
 0.0.0.0 stg-ua.inmobi.com
 0.0.0.0 stg-y.analytics.yahoo.com
-0.0.0.0 st-n.adnow.com
 0.0.0.0 st.n.adnow.com
+0.0.0.0 st-n.adnow.com
+0.0.0.0 st-n.ads1-adnow.com
+0.0.0.0 st.n.ads2-adnow.com
+0.0.0.0 st-n.ads2-adnow.com
+0.0.0.0 st-n.ads3-adnow.com
+0.0.0.0 st-n.ads5-adnow.com
 0.0.0.0 stprev.adnow.com
 0.0.0.0 studio.glance.inmobi.com
 0.0.0.0 studio.inmobicdn.net

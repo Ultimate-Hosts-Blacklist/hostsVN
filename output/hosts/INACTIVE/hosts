@@ -15,7 +15,11 @@
 0.0.0.0 ab.goodsblock.mgid.com
 0.0.0.0 ac-gb.mgid.com
 0.0.0.0 ad-gb.mgid.com
+0.0.0.0 ads1.mojiva.com
+0.0.0.0 ads2.mojiva.com
+0.0.0.0 ads3.mojiva.com
 0.0.0.0 ads4-adnow.com
+0.0.0.0 ads4.mojiva.com
 0.0.0.0 ads.ak.facebook.com
 0.0.0.0 adservices.google.com
 0.0.0.0 ads-fa.spotify.com
@@ -114,6 +118,7 @@
 0.0.0.0 mobileanalytics.us-west-2.amazonaws.com
 0.0.0.0 mobile.analytics.yahoo.com
 0.0.0.0 mpartner.googleadservices.com
+0.0.0.0 n.ads4-adnow.com
 0.0.0.0 o.analytics.yahoo.com
 0.0.0.0 p.admob.com
 0.0.0.0 pagead1.googlesyndication.com
@@ -157,6 +162,11 @@
 0.0.0.0 stats.video.search.yahoo.com
 0.0.0.0 stg.a.analytics.yahoo.com
 0.0.0.0 stg.oem.inmobi.com
+0.0.0.0 st.n.ads1-adnow.com
+0.0.0.0 st.n.ads3-adnow.com
+0.0.0.0 st.n.ads4-adnow.com
+0.0.0.0 st-n.ads4-adnow.com
+0.0.0.0 st.n.ads5-adnow.com
 0.0.0.0 studio.ev1.inmobi.com
 0.0.0.0 sutdio.glance.inmobi.com
 0.0.0.0 syndication.streamads.yahoo.com
@@ -208,7 +218,9 @@
 0.0.0.0 www.inmobicdn.net
 0.0.0.0 www.inmobi.net
 0.0.0.0 www.kinesis.us-east-1.amazonaws.com
+0.0.0.0 www.mobclix.com
 0.0.0.0 www.mobileanalytics.us-east-1.amazonaws.com
+0.0.0.0 www.mojiva.com
 0.0.0.0 www.ocsp.apple.com
 0.0.0.0 www.partner.googleadservices.com
 0.0.0.0 www.pinpoint.us-east-1.amazonaws.com

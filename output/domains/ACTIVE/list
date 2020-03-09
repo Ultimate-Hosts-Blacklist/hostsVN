@@ -88,9 +88,10 @@ ads.finance.yahoo.com
 ad.sg.doubleclick.net
 ads.gmodules.com
 ads.inmobi.com
+ads.mobclix.com
 ads.msn.com
-ads.twitter.com
 ads-twitter.com
+ads.twitter.com
 ads.viber.com
 ads.yahoo.com
 ads.yap.yahoo.com
@@ -259,6 +260,7 @@ dart-apac.l.doubleclick.net
 dart.l.doubleclick.net
 dashboard.mgid.com
 dataexchange.inmobi.com
+data.mobclix.com
 dating.mgid.com
 db3aqu.atdmt.com
 d.blueserving.com
@@ -477,11 +479,13 @@ mg.adnow.com
 mgid.com
 mg.mgid.com
 mige.adnow.com
+mobclix.com
 mobileads.msn.com
 mobileanalytics.us-east-1.amazonaws.com
 mobile-displayads.l.doubleclick.net
 mobile.pipe.aria.microsoft.com
 mobile.smartadserver.com
+mojiva.com
 mommy.adnow.com
 msnbcmedia.msn.com
 mx.adserver.yahoo.com
@@ -493,6 +497,8 @@ na.ads.yahoo.com
 n.adnow.com
 n.ads1-adnow.com
 n.ads2-adnow.com
+n.ads3-adnow.com
+n.ads5-adnow.com
 neptun-vm.mgid.com
 news.iadsdk.apple.com
 n.fclick-adnow.com
@@ -584,8 +590,8 @@ rcm-na.amazon-adsystems.com
 rc-studio.inmobi.com
 real.sp.analytics.yahoo.com
 reaper.pulse.inmobi.com
-redge.inmobicdn.net
 r.edge.inmobicdn.net
+redge.inmobicdn.net
 redirection.prod.cms.msn.com
 redirector.popcash.net
 redirectpopads.com
@@ -642,6 +648,7 @@ sig.atdmt.com
 sink.l.inmobicdn.net
 smartadserver.com
 smart.styria-digital.com
+s.mobclix.com
 smoking.adnow.com
 sonar-iad.xx.fbcdn.net
 sp.analytics.yahoo.com
@@ -673,8 +680,13 @@ stg-cmws.iad.apple.com
 stg-reports.web.analytics.yahoo.com
 stg-ua.inmobi.com
 stg-y.analytics.yahoo.com
-st.n.adnow.com
 st-n.adnow.com
+st.n.adnow.com
+st-n.ads1-adnow.com
+st-n.ads2-adnow.com
+st.n.ads2-adnow.com
+st-n.ads3-adnow.com
+st-n.ads5-adnow.com
 stprev.adnow.com
 studio.glance.inmobi.com
 studio.inmobicdn.net
