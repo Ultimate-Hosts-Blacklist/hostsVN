@@ -58,6 +58,7 @@
 0.0.0.0 ad.fr.doubleclick.net
 0.0.0.0 ad-g.doubleclick.net
 0.0.0.0 ad.il.doubleclick.net
+0.0.0.0 admin.vserv.mobi
 0.0.0.0 admob.com
 0.0.0.0 ad.mo.doubleclick.net
 0.0.0.0 adm-td.adnow.com
@@ -90,8 +91,8 @@
 0.0.0.0 ads.inmobi.com
 0.0.0.0 ads.mobclix.com
 0.0.0.0 ads.msn.com
-0.0.0.0 ads.twitter.com
 0.0.0.0 ads-twitter.com
+0.0.0.0 ads.twitter.com
 0.0.0.0 ads.viber.com
 0.0.0.0 ads.yahoo.com
 0.0.0.0 ads.yap.yahoo.com
@@ -145,6 +146,7 @@
 0.0.0.0 api-td.adnow.com
 0.0.0.0 api.w.inmobi.cn
 0.0.0.0 api.w.inmobi.com
+0.0.0.0 appads.com
 0.0.0.0 applab-sdk.amazon.com
 0.0.0.0 apprep.smartscreen.microsoft.com
 0.0.0.0 apptv.w.inmobi.com
@@ -161,6 +163,7 @@
 0.0.0.0 au.adserver.yahoo.com
 0.0.0.0 au-pn1.adserver.yahoo.com
 0.0.0.0 au.w.inmobi.cn
+0.0.0.0 a.vserv.mobi
 0.0.0.0 b.ads1.msn.com
 0.0.0.0 b.ads2.msn.com
 0.0.0.0 bamboo.adnow.com
@@ -445,6 +448,10 @@
 0.0.0.0 jsn.mgid.com
 0.0.0.0 jsu.mgid.com
 0.0.0.0 js.w.inmobi.com
+0.0.0.0 jupiter1.appads.com
+0.0.0.0 jupiter2.appads.com
+0.0.0.0 jupiter3.appads.com
+0.0.0.0 jupiter.appads.com
 0.0.0.0 kavun.adnow.com
 0.0.0.0 kinesis.us-east-1.amazonaws.com
 0.0.0.0 korea.inmobi.com
@@ -485,6 +492,7 @@
 0.0.0.0 mobile-displayads.l.doubleclick.net
 0.0.0.0 mobile.pipe.aria.microsoft.com
 0.0.0.0 mobile.smartadserver.com
+0.0.0.0 mocean.mobi
 0.0.0.0 mojiva.com
 0.0.0.0 mommy.adnow.com
 0.0.0.0 msnbcmedia.msn.com
@@ -499,6 +507,10 @@
 0.0.0.0 n.ads2-adnow.com
 0.0.0.0 n.ads3-adnow.com
 0.0.0.0 n.ads5-adnow.com
+0.0.0.0 neptune1.appads.com
+0.0.0.0 neptune2.appads.com
+0.0.0.0 neptune3.appads.com
+0.0.0.0 neptune.appads.com
 0.0.0.0 neptun-vm.mgid.com
 0.0.0.0 news.iadsdk.apple.com
 0.0.0.0 n.fclick-adnow.com
@@ -598,6 +610,10 @@
 0.0.0.0 reportcentral.doubleclick.net
 0.0.0.0 reports.inmobi.com
 0.0.0.0 reports.wes.df.telemetry.microsoft.com
+0.0.0.0 req1.appads.com
+0.0.0.0 req2.appads.com
+0.0.0.0 req3.appads.com
+0.0.0.0 req.appads.com
 0.0.0.0 resources.inmobi.net
 0.0.0.0 review.studio.inmobicdn.net
 0.0.0.0 rkhitriy.adnow.com
@@ -623,6 +639,10 @@
 0.0.0.0 sales.adnow.com
 0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 sascdn.com
+0.0.0.0 saturn1.appads.com
+0.0.0.0 saturn2.appads.com
+0.0.0.0 saturn3.appads.com
+0.0.0.0 saturn.appads.com
 0.0.0.0 scribe.twitter.com
 0.0.0.0 sdkm.inmobi.com
 0.0.0.0 sdkm.w.inmobi.cn
@@ -680,11 +700,11 @@
 0.0.0.0 stg-reports.web.analytics.yahoo.com
 0.0.0.0 stg-ua.inmobi.com
 0.0.0.0 stg-y.analytics.yahoo.com
-0.0.0.0 st-n.adnow.com
 0.0.0.0 st.n.adnow.com
+0.0.0.0 st-n.adnow.com
 0.0.0.0 st-n.ads1-adnow.com
-0.0.0.0 st-n.ads2-adnow.com
 0.0.0.0 st.n.ads2-adnow.com
+0.0.0.0 st-n.ads2-adnow.com
 0.0.0.0 st-n.ads3-adnow.com
 0.0.0.0 st-n.ads5-adnow.com
 0.0.0.0 stprev.adnow.com
@@ -758,6 +778,7 @@
 0.0.0.0 visit.webhosting.yahoo.com
 0.0.0.0 vn.adserver.yahoo.com
 0.0.0.0 v-preprod.amazon-adsystem.com
+0.0.0.0 vserv.mobi
 0.0.0.0 vshkanov.adnow.com
 0.0.0.0 watson.telemetry.microsoft.com
 0.0.0.0 website.inmobicdn.net
@@ -814,6 +835,7 @@
 0.0.0.0 www.sascdn.com
 0.0.0.0 www.smartadserver.com
 0.0.0.0 www.styria-digital.com
+0.0.0.0 www.vserv.mobi
 0.0.0.0 xe.adserver.yahoo.com
 0.0.0.0 x.g.l.inmobicdn.net
 0.0.0.0 xkey.adnow.com
