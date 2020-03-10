@@ -10075,6 +10075,381 @@
         },
         "1583778754": {
             "fr.ja.adnow.com": "INACTIVE"
+        },
+        "1583840431": {
+            "None": "INVALID"
+        },
+        "1583840432": {
+            "www.ocsp.apple.com": "INACTIVE"
+        },
+        "1583840434": {
+            "www.iadsdk.apple.com": "INACTIVE"
+        },
+        "1583840435": {
+            "www.iad.apple.com": "INACTIVE"
+        },
+        "1583840437": {
+            "au.doubleclick.net": "INACTIVE"
+        },
+        "1583840438": {
+            "bh1.doubleclick.net": "INACTIVE",
+            "dbcontrol.doubleclick.net": "INACTIVE",
+            "de.doubleclick.net": "INACTIVE"
+        },
+        "1583840439": {
+            "fr.doubleclick.net": "INACTIVE"
+        },
+        "1583840440": {
+            "jp.doubleclick.net": "INACTIVE"
+        },
+        "1583840441": {
+            "rd.intl.doubleclick.net": "INACTIVE",
+            "remarketing.doubleclick.net": "INACTIVE"
+        },
+        "1583840442": {
+            "thngw.doubleclick.net": "INACTIVE",
+            "thngw1.doubleclick.net": "INACTIVE",
+            "thngw2.doubleclick.net": "INACTIVE"
+        },
+        "1583840443": {
+            "adservices.google.com": "INACTIVE",
+            "uk.doubleclick.net": "INACTIVE"
+        },
+        "1583840444": {
+            "c.googlesyndication.com": "INACTIVE",
+            "domains.googlesyndication.com": "INACTIVE",
+            "pagead.googlesyndication.com": "INACTIVE",
+            "www.googlesyndication.com": "INACTIVE"
+        },
+        "1583840445": {
+            "pagead1.googlesyndication.com": "INACTIVE",
+            "pagead3.googlesyndication.com": "INACTIVE",
+            "tic.googlesyndication.com": "INACTIVE"
+        },
+        "1583840446": {
+            "feedads.googleadservices.com": "INACTIVE"
+        },
+        "1583840447": {
+            "m4.afs.googleadservices.com": "INACTIVE",
+            "mimageads.googleadservices.com": "INACTIVE",
+            "mimageads1.googleadservices.com": "INACTIVE",
+            "mimageads2.googleadservices.com": "INACTIVE"
+        },
+        "1583840448": {
+            "mimageads3.googleadservices.com": "INACTIVE",
+            "mimageads4.googleadservices.com": "INACTIVE",
+            "mimageads5.googleadservices.com": "INACTIVE",
+            "mimageads6.googleadservices.com": "INACTIVE",
+            "mimageads8.googleadservices.com": "INACTIVE"
+        },
+        "1583840449": {
+            "mimageads7.googleadservices.com": "INACTIVE",
+            "mimageads9.googleadservices.com": "INACTIVE",
+            "mpartner.googleadservices.com": "INACTIVE"
+        },
+        "1583840450": {
+            "ad.youtube.com": "INACTIVE",
+            "www.partner.googleadservices.com": "INACTIVE"
+        },
+        "1583840452": {
+            "amer.hops.glbdns.microsoft.com": "INACTIVE"
+        },
+        "1583840521": {
+            "rmd.atdmt.com": "INACTIVE",
+            "spd.atdmt.com": "INACTIVE"
+        },
+        "1583840522": {
+            "spe.atdmt.com": "INACTIVE"
+        },
+        "1583840532": {
+            "vid.atdmt.com": "INACTIVE"
+        },
+        "1583840575": {
+            "rad.msn.com": "INACTIVE",
+            "tracking.msadcenter.msn.com": "INACTIVE"
+        },
+        "1583840595": {
+            "aan.amazon-adsystem.com": "INACTIVE",
+            "aax.amazon.amazon-adsystem.com": "INACTIVE"
+        },
+        "1583840604": {
+            "aax-vx-eu-dub.amazon-adsystem.com": "INACTIVE"
+        },
+        "1583840610": {
+            "aax-vx-fe-pdx.amazon-adsystem.com": "INACTIVE",
+            "aax-vx-us-iad.amazon-adsystem.com": "INACTIVE",
+            "aax-vx-us-pdx.amazon-adsystem.com": "INACTIVE"
+        },
+        "1583840611": {
+            "www.amazon-adsystem.com": "INACTIVE"
+        },
+        "1583840646": {
+            "assoc-msdk-fe.amazon-adsystem.com": "INACTIVE",
+            "assoc-msdk-metrics-us.amazon-adsystem.com": "INACTIVE"
+        },
+        "1583840652": {
+            "cdn-c.amazon-adsystem.com": "INACTIVE",
+            "cdn-z.amazon-adsystem.com": "INACTIVE"
+        },
+        "1583840653": {
+            "da-v-eu.amazon-adsystem.com": "INACTIVE",
+            "da-v-fe.amazon-adsystem.com": "INACTIVE",
+            "da-v-na.amazon-adsystem.com": "INACTIVE",
+            "da-v-sin.amazon-adsystem.com": "INACTIVE",
+            "dra-eu.amazon-adsystem.com": "INACTIVE"
+        },
+        "1583840691": {
+            "mads-eu.amazon-adsystem.com": "INACTIVE",
+            "mads-fe.amazon-adsystem.com": "INACTIVE"
+        },
+        "1583840693": {
+            "s-beta-opf.amazon-adsystem.com": "INACTIVE",
+            "s-beta.amazon-adsystem.com": "INACTIVE"
+        },
+        "1583840698": {
+            "vaes.dub.amazon-adsystem.com": "INACTIVE",
+            "vaes.iad.amazon-adsystem.com": "INACTIVE",
+            "vaes.iad.preprod.amazon-adsystem.com": "INACTIVE",
+            "vaes.pdx.amazon-adsystem.com": "INACTIVE"
+        },
+        "1583840699": {
+            "vaes.pdx.preprod.amazon-adsystem.com": "INACTIVE"
+        },
+        "1583840715": {
+            "vaes-preprod.dub.amazon-adsystem.com": "INACTIVE",
+            "vaes-preprod.iad.amazon-adsystem.com": "INACTIVE",
+            "vaes-preprod.pdx.amazon-adsystem.com": "INACTIVE"
+        },
+        "1583840722": {
+            "ws-ea.amazon-adsystem.com": "INACTIVE"
+        },
+        "1583840730": {
+            "www.kinesis.us-east-1.amazonaws.com": "INACTIVE"
+        },
+        "1583840735": {
+            "mobileanalytics.us-east-2.amazonaws.com": "INACTIVE",
+            "mobileanalytics.us-west-1.amazonaws.com": "INACTIVE",
+            "mobileanalytics.us-west-2.amazonaws.com": "INACTIVE",
+            "www.mobileanalytics.us-east-1.amazonaws.com": "INACTIVE",
+            "www.pinpoint.us-east-1.amazonaws.com": "INACTIVE"
+        },
+        "1583840736": {
+            "saber.srvcs.tumblr.com": "INACTIVE"
+        },
+        "1583840737": {
+            "a.analytics.yahoo.com": "INACTIVE"
+        },
+        "1583840749": {
+            "apac.analytics.yahoo.com": "INACTIVE"
+        },
+        "1583840750": {
+            "api-apac.web.analytics.yahoo.com": "INACTIVE"
+        },
+        "1583840751": {
+            "api.web.analytics.yahoo.com": "INACTIVE"
+        },
+        "1583840752": {
+            "api-bg.web.analytics.yahoo.com": "INACTIVE",
+            "api-ono.web.analytics.yahoo.com": "INACTIVE"
+        },
+        "1583840753": {
+            "apis-ci.web.analytics.yahoo.com": "INACTIVE",
+            "apis.web.analytics.yahoo.com": "INACTIVE"
+        },
+        "1583840754": {
+            "apix.web.analytics.yahoo.com": "INACTIVE"
+        },
+        "1583840763": {
+            "cache.adserver.yahoo.com": "INACTIVE"
+        },
+        "1583840765": {
+            "csc.beap.bc.yahoo.com": "INACTIVE",
+            "d.analytics.yahoo.com": "INACTIVE"
+        },
+        "1583840772": {
+            "e.analytics.yahoo.com": "INACTIVE"
+        },
+        "1583840781": {
+            "fr.fc.yahoo.com": "INACTIVE"
+        },
+        "1583840782": {
+            "idsync.analytics.yahoo.com": "INACTIVE"
+        },
+        "1583840784": {
+            "js.analytics.yahoo.com": "INACTIVE",
+            "jssourcetest-bg.web.analytics.yahoo.com": "INACTIVE"
+        },
+        "1583840786": {
+            "mobile.analytics.yahoo.com": "INACTIVE"
+        },
+        "1583840788": {
+            "o.analytics.yahoo.com": "INACTIVE"
+        },
+        "1583840789": {
+            "partners.web.analytics.yahoo.com": "INACTIVE"
+        },
+        "1583840792": {
+            "pr.ydp.yahoo.com": "INACTIVE"
+        },
+        "1583840795": {
+            "repapi-apac.web.analytics.yahoo.com": "INACTIVE"
+        },
+        "1583840796": {
+            "repapi-eu.web.analytics.yahoo.com": "INACTIVE"
+        },
+        "1583840797": {
+            "repapi-bg.web.analytics.yahoo.com": "INACTIVE"
+        },
+        "1583840798": {
+            "repapi-ono.web.analytics.yahoo.com": "INACTIVE",
+            "repapi-us.web.analytics.yahoo.com": "INACTIVE"
+        },
+        "1583840799": {
+            "reports.web.analytics.yahoo.com": "INACTIVE"
+        },
+        "1583840800": {
+            "reports-apac.web.analytics.yahoo.com": "INACTIVE"
+        },
+        "1583840801": {
+            "reports-as.web.analytics.yahoo.com": "INACTIVE",
+            "reports-bg.web.analytics.yahoo.com": "INACTIVE"
+        },
+        "1583840802": {
+            "reports-ono.web.analytics.yahoo.com": "INACTIVE"
+        },
+        "1583840804": {
+            "reports-ci.web.analytics.yahoo.com": "INACTIVE"
+        },
+        "1583840805": {
+            "reports-portal.web.analytics.yahoo.com": "INACTIVE",
+            "reportx.web.analytics.yahoo.com": "INACTIVE"
+        },
+        "1583840806": {
+            "s.analytics.yahoo.com": "INACTIVE"
+        },
+        "1583840813": {
+            "sp-api.analytics.yahoo.com": "INACTIVE"
+        },
+        "1583840816": {
+            "stats.video.search.yahoo.com": "INACTIVE"
+        },
+        "1583840817": {
+            "syndication.streamads.yahoo.com": "INACTIVE"
+        },
+        "1583840819": {
+            "stg.a.analytics.yahoo.com": "INACTIVE"
+        },
+        "1583840821": {
+            "test-d.analytics.yahoo.com": "INACTIVE"
+        },
+        "1583840827": {
+            "uc.csc.adserver.yahoo.com": "INACTIVE"
+        },
+        "1583840828": {
+            "ut.analytics.yahoo.com": "INACTIVE"
+        },
+        "1583840829": {
+            "ut-api.analytics.yahoo.com": "INACTIVE",
+            "vip1.tw.adserver.yahoo.com": "INACTIVE"
+        },
+        "1583840830": {
+            "web.analytics.yahoo.com": "INACTIVE"
+        },
+        "1583840831": {
+            "xpcs.ads.yahoo.com": "INACTIVE"
+        },
+        "1583840833": {
+            "y.analytics.yahoo.com": "INACTIVE",
+            "y3.analytics.yahoo.com": "INACTIVE"
+        },
+        "1583840834": {
+            "z.analytics.yahoo.com": "INACTIVE"
+        },
+        "1583840835": {
+            "ym.analytics.yahoo.com": "INACTIVE"
+        },
+        "1583840836": {
+            "ads.ak.facebook.com": "INACTIVE"
+        },
+        "1583840837": {
+            "creative.ak.facebook.com": "INACTIVE"
+        },
+        "1583840838": {
+            "creative.ak.fbcdn.net": "INACTIVE"
+        },
+        "1583840839": {
+            "www.ads-twitter.com": "INACTIVE"
+        },
+        "1583840841": {
+            "cdn-eb.syndication.twitter.com": "INACTIVE",
+            "s.ads-twitter.com": "INACTIVE"
+        },
+        "1583840842": {
+            "p.twitter.com": "INACTIVE"
+        },
+        "1583840843": {
+            "tap.ads-twitter.com": "INACTIVE"
+        },
+        "1583840844": {
+            "ads-fa.spotify.com": "INACTIVE"
+        },
+        "1583840855": {
+            "a.admob.com": "INACTIVE",
+            "analytics.admob.com": "INACTIVE",
+            "p.admob.com": "INACTIVE"
+        },
+        "1583840861": {
+            "adtracker.inmobi.com": "INACTIVE"
+        },
+        "1583840896": {
+            "aidl-dev1001.data.corp.inmobi.com": "INACTIVE"
+        },
+        "1583840903": {
+            "build.ares.inmobi.com": "INACTIVE"
+        },
+        "1583840908": {
+            "build1500.scm.ev1.inmobi.com": "INACTIVE"
+        },
+        "1583840913": {
+            "bw-euwest-bidder.appd.inmobi.com": "INACTIVE",
+            "bw-useast-bidder.appd.inmobi.com": "INACTIVE",
+            "bw-uswest-bidder.appd.inmobi.com": "INACTIVE",
+            "bw.bidder.inmobi.com": "INACTIVE"
+        },
+        "1583840947": {
+            "corp.inmobi.com": "INACTIVE"
+        },
+        "1583840948": {
+            "crmapi.idsp.inmobi.com": "INACTIVE"
+        },
+        "1583840963": {
+            "deadpool.ops.ir1.inmobi.com": "INACTIVE"
+        },
+        "1583840964": {
+            "dock.inmobi.com": "INACTIVE"
+        },
+        "1583840970": {
+            "e-ltvp.inmobi.com": "INACTIVE",
+            "en-studiotraining.inmobi.com": "INACTIVE",
+            "ep-apsoutheast.ifc.inmobi.com": "INACTIVE",
+            "ep-euwest.ifc.inmobi.com": "INACTIVE",
+            "ep-uswest.ifc.inmobi.com": "INACTIVE",
+            "ep.ifc.inmobi.com": "INACTIVE"
+        },
+        "1583840991": {
+            "heisenberg.cdn.inmobi.com": "INACTIVE"
+        },
+        "1583840996": {
+            "heisenberg-uswest.cdn.inmobi.com": "INACTIVE",
+            "heisenberg.inmobi.com": "INACTIVE"
+        },
+        "1583841007": {
+            "ifc-ep.inmobi.com": "INACTIVE",
+            "ifc.inmobi.com": "INACTIVE",
+            "ifc3.inmobi.com": "INACTIVE"
+        },
+        "1583841042": {
+            "infosec.corp.inmobi.com": "INACTIVE"
         }
     }
 }
