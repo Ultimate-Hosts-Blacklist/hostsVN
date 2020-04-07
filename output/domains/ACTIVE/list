@@ -5,6 +5,7 @@
 a.ads1.msn.com
 a.ads2.msn.com
 aan.amazon.com
+a.applovin.com
 aax.amazon-adsystem.amazon.com
 aax.amazon-adsystem.com
 aax.amazon-adsystems.com
@@ -79,6 +80,7 @@ ads.aws.viber.com
 ads-bidder-api.twitter.com
 ads-bid.l.doubleclick.net
 ads.bing.com
+ads.celtra.com
 ads-d.viber.com
 adserver.bing.com
 adserver.yahoo.com
@@ -91,9 +93,10 @@ ads.gmodules.com
 ads.inmobi.com
 ads.mobclix.com
 ads.msn.com
-ads-twitter.com
 ads.twitter.com
+ads-twitter.com
 ads.viber.com
+ads.vserv.mobi
 ads.yahoo.com
 ads.yap.yahoo.com
 adsyndication.msn.com
@@ -149,12 +152,14 @@ api.w.inmobi.cn
 api.w.inmobi.com
 appads.com
 applab-sdk.amazon.com
+applovin.com
 apprep.smartscreen.microsoft.com
 apptv.w.inmobi.com
 aps.amazon.com
 a.rad.msn.com
 ar.adnow.com
 ar.adserver.yahoo.com
+assets.applovin.com
 assoc-amazon.com
 assoc-msdk-cn.amazon-adsystem.com
 assoc-msdk-eu.amazon-adsystem.com
@@ -196,6 +201,8 @@ c1.popads.net
 c2.popads.net
 c2s.w.inmobi.cn
 ca.adserver.yahoo.com
+cache.celtra.com
+cache-ssl.celtra.com
 c.admob.com
 ca.iadsdk.apple.com
 c.amazon-adsystem.com
@@ -211,6 +218,7 @@ cdn-a.amazon-adsystem.com
 cdn.adnow.com
 cdn-alt.popcash.net
 cdn.atdmt.com
+cdn.celtra.com
 cdn-d.amazon-adsystem.com
 cdn.mgid.com
 cdn.oem.inmobi.net
@@ -220,6 +228,7 @@ cdn.syndication.twitter.com
 cdn-t.amazon-adsystem.com
 ced-ns.sascdn.com
 ced.sascdn.com
+celtra.com
 cf.adserver.yahoo.com
 cf.cdn.inmobi.com
 cf.iadsdk.apple.com
@@ -255,12 +264,14 @@ csc.adserver.yahoo.com
 cs.iadsdk.apple.com
 csync.smartadserver.com
 ct.popcash.net
+c.vserv.mobi
 c.w.inmobi.cn
 c.w.inmobi.com
 c.w.vip.pek1.inmobi.cn
 cx.atdmt.com
 da-cdn.amazon-adsystem.com
 da.inmobi.com
+d.applovin.com
 dart-apac.l.doubleclick.net
 dart.l.doubleclick.net
 dashboard.mgid.com
@@ -665,6 +676,7 @@ service.idsync.analytics.yahoo.com
 servicer.mgid.com
 s-et-rc-w.inmobi.com
 s-et.w.inmobi.com
+sf.vserv.mobi
 sg.adserver.yahoo.com
 s.g.l.inmobicdn.net
 sig.atdmt.com
@@ -739,6 +751,7 @@ tpc.googlesyndication.com
 tpcnc.googlesyndication.com
 trac.admob.com
 track.blueserving.com
+track.celtra.com
 tr.adnow.com
 tr.adserver.yahoo.com
 tr.iadsdk.apple.com
@@ -815,8 +828,10 @@ www3.doubleclick.net
 www.admob.com
 www.adnow.com
 www.analytics.yahoo.com
+www.applovin.com
 www.assoc-amazon.com
 www.atdmt.com
+www.celtra.com
 www.doubleclick.net
 www.fclick-adnow.com
 www.googleadservices.com

@@ -5,6 +5,7 @@
 0.0.0.0 a.ads1.msn.com
 0.0.0.0 a.ads2.msn.com
 0.0.0.0 aan.amazon.com
+0.0.0.0 a.applovin.com
 0.0.0.0 aax.amazon-adsystem.amazon.com
 0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 aax.amazon-adsystems.com
@@ -79,6 +80,7 @@
 0.0.0.0 ads-bidder-api.twitter.com
 0.0.0.0 ads-bid.l.doubleclick.net
 0.0.0.0 ads.bing.com
+0.0.0.0 ads.celtra.com
 0.0.0.0 ads-d.viber.com
 0.0.0.0 adserver.bing.com
 0.0.0.0 adserver.yahoo.com
@@ -94,6 +96,7 @@
 0.0.0.0 ads.twitter.com
 0.0.0.0 ads-twitter.com
 0.0.0.0 ads.viber.com
+0.0.0.0 ads.vserv.mobi
 0.0.0.0 ads.yahoo.com
 0.0.0.0 ads.yap.yahoo.com
 0.0.0.0 adsyndication.msn.com
@@ -149,12 +152,14 @@
 0.0.0.0 api.w.inmobi.com
 0.0.0.0 appads.com
 0.0.0.0 applab-sdk.amazon.com
+0.0.0.0 applovin.com
 0.0.0.0 apprep.smartscreen.microsoft.com
 0.0.0.0 apptv.w.inmobi.com
 0.0.0.0 aps.amazon.com
 0.0.0.0 a.rad.msn.com
 0.0.0.0 ar.adnow.com
 0.0.0.0 ar.adserver.yahoo.com
+0.0.0.0 assets.applovin.com
 0.0.0.0 assoc-amazon.com
 0.0.0.0 assoc-msdk-cn.amazon-adsystem.com
 0.0.0.0 assoc-msdk-eu.amazon-adsystem.com
@@ -196,6 +201,8 @@
 0.0.0.0 c2.popads.net
 0.0.0.0 c2s.w.inmobi.cn
 0.0.0.0 ca.adserver.yahoo.com
+0.0.0.0 cache.celtra.com
+0.0.0.0 cache-ssl.celtra.com
 0.0.0.0 c.admob.com
 0.0.0.0 ca.iadsdk.apple.com
 0.0.0.0 c.amazon-adsystem.com
@@ -211,6 +218,7 @@
 0.0.0.0 cdn.adnow.com
 0.0.0.0 cdn-alt.popcash.net
 0.0.0.0 cdn.atdmt.com
+0.0.0.0 cdn.celtra.com
 0.0.0.0 cdn-d.amazon-adsystem.com
 0.0.0.0 cdn.mgid.com
 0.0.0.0 cdn.oem.inmobi.net
@@ -220,6 +228,7 @@
 0.0.0.0 cdn-t.amazon-adsystem.com
 0.0.0.0 ced-ns.sascdn.com
 0.0.0.0 ced.sascdn.com
+0.0.0.0 celtra.com
 0.0.0.0 cf.adserver.yahoo.com
 0.0.0.0 cf.cdn.inmobi.com
 0.0.0.0 cf.iadsdk.apple.com
@@ -255,12 +264,14 @@
 0.0.0.0 cs.iadsdk.apple.com
 0.0.0.0 csync.smartadserver.com
 0.0.0.0 ct.popcash.net
+0.0.0.0 c.vserv.mobi
 0.0.0.0 c.w.inmobi.cn
 0.0.0.0 c.w.inmobi.com
 0.0.0.0 c.w.vip.pek1.inmobi.cn
 0.0.0.0 cx.atdmt.com
 0.0.0.0 da-cdn.amazon-adsystem.com
 0.0.0.0 da.inmobi.com
+0.0.0.0 d.applovin.com
 0.0.0.0 dart-apac.l.doubleclick.net
 0.0.0.0 dart.l.doubleclick.net
 0.0.0.0 dashboard.mgid.com
@@ -665,6 +676,7 @@
 0.0.0.0 servicer.mgid.com
 0.0.0.0 s-et-rc-w.inmobi.com
 0.0.0.0 s-et.w.inmobi.com
+0.0.0.0 sf.vserv.mobi
 0.0.0.0 sg.adserver.yahoo.com
 0.0.0.0 s.g.l.inmobicdn.net
 0.0.0.0 sig.atdmt.com
@@ -703,8 +715,8 @@
 0.0.0.0 stg-reports.web.analytics.yahoo.com
 0.0.0.0 stg-ua.inmobi.com
 0.0.0.0 stg-y.analytics.yahoo.com
-0.0.0.0 st-n.adnow.com
 0.0.0.0 st.n.adnow.com
+0.0.0.0 st-n.adnow.com
 0.0.0.0 st-n.ads1-adnow.com
 0.0.0.0 st-n.ads2-adnow.com
 0.0.0.0 st.n.ads2-adnow.com
@@ -739,6 +751,7 @@
 0.0.0.0 tpcnc.googlesyndication.com
 0.0.0.0 trac.admob.com
 0.0.0.0 track.blueserving.com
+0.0.0.0 track.celtra.com
 0.0.0.0 tr.adnow.com
 0.0.0.0 tr.adserver.yahoo.com
 0.0.0.0 tr.iadsdk.apple.com
@@ -815,8 +828,10 @@
 0.0.0.0 www.admob.com
 0.0.0.0 www.adnow.com
 0.0.0.0 www.analytics.yahoo.com
+0.0.0.0 www.applovin.com
 0.0.0.0 www.assoc-amazon.com
 0.0.0.0 www.atdmt.com
+0.0.0.0 www.celtra.com
 0.0.0.0 www.doubleclick.net
 0.0.0.0 www.fclick-adnow.com
 0.0.0.0 www.googleadservices.com
