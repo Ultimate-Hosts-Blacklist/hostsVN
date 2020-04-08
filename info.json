@@ -1,6 +1,6 @@
 {
     "current_stats": {
-        "builds": 745,
+        "builds": 746,
         "counter": {
             "down": 0,
             "invalid": 0,
@@ -17,11 +17,11 @@
     "days_until_next_test": 2,
     "end_datetime": "2020-03-03T16:34:45.295605",
     "end_epoch": 1583079186.774743,
+    "issue_link": "https://github.com/bigdargon/hostsVN/issues/new/choose",
     "last_autosave_datetime": "2020-03-03T16:34:45.295620",
     "last_autosave_epoch": 1583245310.968428,
-    "name": "hostsVN",
     "link": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts",
-    "issue_link": "https://github.com/bigdargon/hostsVN/issues/new/choose",
+    "name": "hostsVN",
     "previous_stats": {
         "builds": 67,
         "clean.list": 18630,
