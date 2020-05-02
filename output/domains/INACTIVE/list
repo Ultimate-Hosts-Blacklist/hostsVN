@@ -113,6 +113,7 @@ ads5.mojiva.com
 ads.adasiaholdings.com
 ads.adsrvr.org
 ads.ak.facebook.com
+ads.ams.contextweb.com
 ads.aol.com
 ads.asia1.com.sg
 ads.auctions.yahoo.com
@@ -138,6 +139,7 @@ adserve.gzero.com
 adserver1.mokono.com
 adserver1.ogilvy-interactive.de
 adserver2.popdata.de
+adserver-a-mtc.adtechus.com
 adserver-a-southeast-1.adtechjp.com
 adserver.clashmusic.com
 adserver.flossiemediagroup.com
@@ -247,6 +249,7 @@ affinity.mgr.consensu.org
 affle.bevo.adsnative.com
 af-gb.adskeeper.co.uk
 af-gb.mgid.com
+a.fqtag.com
 afterview.ru
 afx.creativecdn.com
 ag-gb.adskeeper.co.uk
@@ -391,8 +394,8 @@ assets-acceptance.sharethrough.com
 assets.loomia.com
 assets.prebid.org
 assets.sharethrough.com
-assets-staging.sharethrough.com
 assets.staging.sharethrough.com
+assets-staging.sharethrough.com
 associate.microad.jp
 assoc-msdk-fe.amazon-adsystem.com
 assoc-msdk-metrics-us.amazon-adsystem.com
@@ -419,10 +422,12 @@ awesome.bizible.com
 aws-adserver-origin-ap-northeast-1.adtechjp.com
 aws-cni-test.us-west-2.k8s.ops.tune.com
 aws.playbuzz.com
+aws-production-banner-server-eu-west-1.banner-server.fyber.com
 aws-production-banner-server-us-west-2.banner-server.fyber.com
 aws-staging-banner-eu-west-1.staging-banner.fyber.com
 azfront.com
 b1.midasplayer.com
+ba1.midasplayer.com
 babanetwork.adk2x.com
 bam-2.nr-data.net
 bam-3.nr-data.net
@@ -574,6 +579,7 @@ chocolate-trackers.us-east-1.resources.vdopia.com
 ci-mpsnare.iesnare.com
 cinstein.com
 cj1083.online
+ck.surfcountor.com
 cl.adserver.yahoo.com
 clariad.adk2x.com
 cldfm.adtdp.com
@@ -606,6 +612,7 @@ cmap.pub.ace.advertising.com
 c.mdotm.com
 cm.doublemax.net
 c.microsoft.com
+cmp.redpineapplemedia.mgr.consensu.org
 cmp.sibboventures.mgr.consensu.org
 cm.revcontent.com
 cms.laydata.com
@@ -866,6 +873,8 @@ es.weborama.com
 ethicalads.net
 ets-ap-southeast-1.smaato.net
 ets-cn-north-1.smaato.net
+ets-cn-north-1.track.smaato.net
+ets-us-east-1.smaato.net
 eu-api.swrve.com
 eu-content.swrve.com
 eu-de-user.bidswitch.net
@@ -903,6 +912,7 @@ fe4-uk.imrworldwide.com
 featurestack136-mitm-api.swrve.com
 feedads.googleadservices.com
 feeds.mediaforge.com
+fenxi.cnzz.com
 file.askingpoint.com
 file.message.cnzz.com
 file.pinetech.vn
@@ -1008,6 +1018,7 @@ ibp.3lift.com
 iceland.simpleanalytics.io
 i.cnzz.com
 id.districtm.io
+ideas.viglink.com
 identity.swrve.com
 idp.adsrvr.org
 idsync.analytics.yahoo.com
@@ -1030,6 +1041,7 @@ images.propellerads.com
 images.v3.com
 images.vads.vn
 imap.propellerads.com
+imedia.adk2x.com
 imf.cnzz.com
 img-1.3lift.com
 img-3.3lift.com
@@ -1046,6 +1058,7 @@ img.ads4.mocean.mobi
 img.ads4.mojiva.com
 img.ads.mocean.mobi
 img.ads.mojiva.com
+img-cdn.steepto.com
 img.jsecoin.com
 img.m.cnzz.com
 img-origin.adtechus.com
@@ -1066,6 +1079,7 @@ inplay-rcv03.scanscout.com
 inplay-rcv06.scanscout.com
 inplay-rcv07.scanscout.com
 inplay-rcv15.scanscout.com
+ins10.hotjar.com
 ins11.hotjar.com
 ins13.hotjar.com
 ins14.hotjar.com
@@ -1172,6 +1186,7 @@ loadvxsc.exelator.com
 local.hotjar.com
 location.data.cnzz.com
 log2.adop.cc
+log3.adsplay.xyz
 logb20.vietad.vn
 logb3.vietad.vn
 log.client.optimizely.com
@@ -1217,6 +1232,7 @@ maxcdn.quantserve.com
 maxis.krxd.net
 m.baidu.com.zhiduo.org
 mbe-cdn-rtb.fyber.com
+mbe-cdn-rtb-staging.fyber.com
 mbe-monitoring.fyber.com
 mc.propellerads.com
 mc.servebom.com
@@ -1261,6 +1277,7 @@ mobileanalytics.us-east-2.amazonaws.com
 mobileanalytics.us-west-1.amazonaws.com
 mobileanalytics.us-west-2.amazonaws.com
 mobile.analytics.yahoo.com
+mobile.scanscout.com
 mobilevideorefocused.smaato.com
 mobilewithsms.net
 mobk2.adk2x.com
@@ -1332,6 +1349,7 @@ odoo.mangoads.vn
 oem.inmobi.com
 og-images.segment.com
 ohgooo.com
+oops.lijit.com
 open.plugin.tui.cnzz.com
 ops-prod-a.us-west-1.k8s.tune.com
 ops-prod-a.us-west-2.k8s.tune.com
@@ -1400,6 +1418,7 @@ platform.mdotm.com
 platform.mobileapptracking.com
 playads.applift.com
 playbook.segment.com
+playground.optimizely.com
 playlist.ma.tune.com
 p.lkqd.net
 plugin.innity.net
@@ -1533,6 +1552,7 @@ rtb.persona.ly
 rtb-quantum-geu.nxtck.com
 rtb-trk.adcolony.com
 rtb-us-east.tapad.com
+rtg.ml314.com
 rubick.gameanalytics.com
 rudy-ap-southeast-1.adsnative.com
 rudy-eu-west-1.adsnative.com
@@ -1650,6 +1670,7 @@ sonic-dev.supersonicads.com
 sonic-us.supersonicads.com
 s.optvx.com
 sp-api.analytics.yahoo.com
+sp.backtrace.io
 spcode.baidu.com
 spd.atdmt.com
 spe.atdmt.com
@@ -1709,6 +1730,7 @@ static-premiumdsp.ibillboard.com
 static.propellerads.com
 static-staging.sharethrough.com
 statistics.dev.aatkit.com
+stats-cluster.mediaforge.com
 stats-d1316.epom.com
 stats-d1328.epom.com
 stats-d1345.epom.com
@@ -1733,8 +1755,8 @@ stg-ua.inmobi.com
 stg-y.analytics.yahoo.com
 st.n.ads1-adnow.com
 st.n.ads3-adnow.com
-st-n.ads4-adnow.com
 st.n.ads4-adnow.com
+st-n.ads4-adnow.com
 st.n.ads5-adnow.com
 sto.midasplayer.com
 streamate.doublepimp.com
@@ -1919,6 +1941,7 @@ va.px.invitemedia.com
 vars-edgecast.hotjar.com
 vars-sio.hotjar.com
 vasco.send.microad.jp
+vastgt.richmediaads.com
 vast.prebid.org
 vast.video-td.adnow.com
 va.us.criteo.net
@@ -1942,14 +1965,15 @@ video-aws-staging.fyber.com
 video-cdn.mgid.com
 video.content.ad
 videology.ndf.weborama.com
-videos.acceptance.sharethrough.com
 videos-acceptance.sharethrough.com
+videos.acceptance.sharethrough.com
 videos.sharethrough.com
 videos.staging.sharethrough.com
 vietad.vn
 vi.gumgum.com
 vip1.tw.adserver.yahoo.com
 v.ladicdn.com
+voicefive-sb-ec.adtechus.com
 voxel.read.admin.mpx.mopub.com
 voxel.read.mongostats.mopub.com
 voxel.write.admin.mpx.mopub.com
@@ -1966,6 +1990,7 @@ web1.popcash.net
 web.analytics.yahoo.com
 webchirashi-staging.microad.jp
 webdisk.asia-web1.doublemax.net
+web.f8.pyco.vn
 web.leanplum.com
 website.adsnative.com
 widget.databoxer.mgr.consensu.org
@@ -2117,6 +2142,7 @@ www.aromamirror.com
 www.askaspalb.online
 www.askingpoint.com
 www.aspboxant.club
+www.ati-host.net
 www.atwola.com
 www.audrte.com
 www.automaticflock.com
@@ -2207,6 +2233,7 @@ www.concernrain.com
 www.confirmed-profits.com
 www.constintptr.com
 www.constrongyfe.site
+www.contehos.com
 www.content-ad.net
 www.contineljs.com
 www.coordinatedcub.com
@@ -2320,6 +2347,7 @@ www.flakyfeast.com
 www.flavordecision.com
 www.flimsycircle.com
 www.floodprincipal.com
+www.foreignmelody.com
 www.fourarithmetic.com
 www.frailoffer.com
 www.frightenedpotato.com
@@ -2657,6 +2685,7 @@ www.sail-horizon.com
 www.saysidewalk.com
 www.scarcesign.com
 www.scarcestream.com
+www.schibsted.io
 www.scoota.co
 www.screechingfurniture.com
 www.screenshielded.com
@@ -2664,6 +2693,7 @@ www.scrubsky.com
 www.scrubswim.com
 www.sc-static.net
 www.seaboblit.com
+www.searchfeast.com
 www.secretspiders.com
 www.securedashfuyiersa.com
 www.secured-cleaner.club
@@ -2756,6 +2786,7 @@ www.tranquilside.com
 www.trazk.com
 www.trending.vn
 www.trhunt.com
+www.trickycelery.com
 www.tritetongue.com
 www.truckstomatoes.com
 www.tvas-a.pw
