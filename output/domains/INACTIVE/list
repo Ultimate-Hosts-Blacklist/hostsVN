@@ -137,6 +137,7 @@ ads5.mojiva.com
 ads.adasiaholdings.com
 ads.adsrvr.org
 ads.ak.facebook.com
+ads.allvatar.com
 ads.ams.contextweb.com
 ads.aol.com
 ads.asia1.com.sg
@@ -443,6 +444,7 @@ applelink.store
 apple.taplytics.com
 appmetrica.yandex.net
 appnexus-rtb.svc.adhaven.com
+app.response.demandbase.com
 app.scanscout.com
 apps.propellerads.com
 apptesting.appsee.com
@@ -479,6 +481,7 @@ at-gb.adskeeper.co.uk
 atlassian2.fyber.com
 atlassian.fyber.com
 atwola-sb-ec.adtechus.com
+atwola-sb-wc.adtechus.com
 au.adserver.yahoo.com
 auction-master.ads.prd.ie.internal.unity3d.com
 audiences.tune.com
@@ -536,6 +539,7 @@ banners.sexsearch.com
 bannertest.adtechus.com
 banner.vietad.vn
 banner.wirenode.com
+bans.adserver.co.il
 b.aol.com
 b.apptentive.com
 bats.video.yahoo.com
@@ -555,7 +559,9 @@ beap.adx.yahoo.com
 be.fyber.com
 bell-ads.acuityplatform.com
 bell-ex.acuityplatform.com
+bell-img.acuityplatform.com
 bell-serve.acuityplatform.com
+b-endpoint-elb-307841411.adomik.com
 b.engadget.com
 beta-adserver.adtechus.com
 beta-develop-kitchen.juicer.cc
@@ -629,6 +635,7 @@ catalog.mediarithmics.com
 catalog.viglink.com
 c.baidu.com
 c.blueserving.com
+cc1.midasplayer.com
 c.compete.com
 cd-lb.propellerads.com
 cdn10.mdotm.com
@@ -763,6 +770,7 @@ confluence.corp.ligatus.com
 conforama.ugc.bazaarvoice.com
 conges.weborama.com
 connected.ma.tune.com
+connection.weborama.com
 consciouscabbage.com
 console.adflex.asia
 console.adsnative.com
@@ -955,6 +963,7 @@ dmp2.adop.cc
 dmp3.adop.cc
 dmp4.adop.cc
 dmp.adop.cc
+dmp.app-adforce.jp
 dmp-eu.adform.net
 dmx.eu-west-1.districtm.io
 dmx.us-east-2.districtm.io
@@ -1127,7 +1136,9 @@ funnel0.adinfuse.com
 f.vietnamnetad.vn
 fvpn.propellerads.com
 fwcf.adsafeprotected.com
+fync.bfmio.com
 g2.mdotm.com
+g5.mdotm.com
 g.agkn.com
 gannett-sb-ec.adtechus.com
 gapi.adsymptotic.com
@@ -1142,6 +1153,7 @@ geoinfo.i2w.io
 geoloc.ayads.co
 geo.smaato.net
 get.hotjar.com
+get.leanplum.com
 gingermedia.adk2x.com
 gitlab.build.ligatus.com
 gkng.ayads.co
@@ -1202,6 +1214,7 @@ heisenberg-uswest.cdn.inmobi.com
 hezuo.cnzz.com
 highpin.growingio.com
 hit-ranking.de
+hk4.nexage.com
 hk.adserver.yahoo.com
 hls.vdo.ai
 home.twik.io
@@ -1247,6 +1260,7 @@ image9.pubmatic.com
 imageads.googleadservices.com
 image.pubmatic.com
 images-geo.outbrain.com
+images.jp.as.criteo.net
 images.millennialmedia.com
 images.nytimes.com
 images.ny.us.criteo.net
@@ -1473,6 +1487,7 @@ main.clicksor.com
 main.optvx.com
 m.ambientplatform.vn
 manage.problem.securedashfuyiersa.com
+manager.ui.weborama.com
 manwaringweb.advertserve.com
 maplefarmmedia.com
 marathon.prd.fyber.com
@@ -1586,6 +1601,7 @@ new.api.ad.xiaomi.com
 new.clicksor.com
 new.hotjar.com
 news.genapi.euapi.pubnative.net
+newsmax.bevo.adsnative.com
 newsmax.cdn.adsnative.com
 new-www.outbrain.com
 nexac.sharethis.com
@@ -1875,6 +1891,7 @@ ruem-collector.pingdom.net
 rum-static-2.pingdom.net
 rundeck.bi.fyber.com
 rythmxchange.com
+s13.ayads.co
 s1ns1.adtechjp.com
 s1ns1.adtechus.com
 s1.vdo.ai
@@ -2079,8 +2096,8 @@ static.asia.rtbid.me
 static.bilsyndication.com
 static.blog.sharethis.com
 static.ny.us.criteo.net
-static.premiumdsp.ibillboard.com
 static-premiumdsp.ibillboard.com
+static.premiumdsp.ibillboard.com
 static.propellerads.com
 static-sio.hotjar.com
 static-ssl.exoclick.com
@@ -2118,8 +2135,8 @@ stkjw.net
 stmp.ad.daum.net
 st.n.ads1-adnow.com
 st.n.ads3-adnow.com
-st.n.ads4-adnow.com
 st-n.ads4-adnow.com
+st.n.ads4-adnow.com
 st.n.ads5-adnow.com
 sto.midasplayer.com
 st-rbc-api-data.pingdom.net
@@ -2206,6 +2223,7 @@ tm.adk2x.com
 t.medialytics.com
 tm.inmobi.com
 tm.sharethis.com
+token.ad
 token.corp.inmobi.com
 tokyo-my.mobfox.com
 toluna.ndf.weborama.com
@@ -2219,6 +2237,7 @@ tor.rtb.adsrvr.org
 tourneau.bounceexchange.com
 tp.doublemax.net
 t.pubnative.net
+t.purch.com
 t.pusk.ru
 tracedesire.com
 track6.aniview.com
@@ -2257,6 +2276,7 @@ tritetongue.com
 trk2.us-east-1.resources.vdopia.com
 trk2.vdopia.com
 trk5.vdopia.com
+trkclk.adk2x.com
 trk.helios.ligatus.com
 trk.us-east-1.resources.vdopia.com
 trk.vdopia.com
@@ -2366,11 +2386,11 @@ video-aws-staging.fyber.com
 video-cdn.mgid.com
 video.content.ad
 videology.ndf.weborama.com
-videos-acceptance.sharethrough.com
 videos.acceptance.sharethrough.com
+videos-acceptance.sharethrough.com
 videos.sharethrough.com
-videos-staging.sharethrough.com
 videos.staging.sharethrough.com
+videos-staging.sharethrough.com
 vi.dev.fwmrm.net
 vietad.vn
 vi.gumgum.com
@@ -3227,12 +3247,14 @@ www.rentimeinvz.com
 www.resolutekey.com
 www.reson8.com
 www.revmob.com
+www.rfrl.pw
 www.richstring.com
 www.ringsrecord.com
 www.rituationscardb.info
 www.ritzykey.com
 www.rmiesnorthur.pro
 www.rmtag.com
+www.robinkornett.com
 www.rockabox.co
 wwwr.opecloud.com
 www.rotabanner.com
@@ -3373,6 +3395,7 @@ www.terribleturkey.com
 www.tharbadir.com
 www.theads.me
 www.thighlykamsh.site
+www.thinkablerice.com
 www.thirdrespect.com
 www.thirstytwig.com
 www.threechurch.com
@@ -3381,6 +3404,7 @@ www.throattrees.com
 www.ticklesign.com
 www.tithewtog.com
 www.toecircle.com
+www.token.ad
 www.toothbrushnote.com
 www.topacity.info
 www.topblogarea.se
