@@ -466,8 +466,8 @@
 0.0.0.0 assets.prebid.org
 0.0.0.0 assets.publift.com
 0.0.0.0 assets.sharethrough.com
-0.0.0.0 assets-staging.sharethrough.com
 0.0.0.0 assets.staging.sharethrough.com
+0.0.0.0 assets-staging.sharethrough.com
 0.0.0.0 associate.microad.jp
 0.0.0.0 assoc-msdk-fe.amazon-adsystem.com
 0.0.0.0 assoc-msdk-metrics-us.amazon-adsystem.com
@@ -477,6 +477,7 @@
 0.0.0.0 atd.im-apps.net
 0.0.0.0 at-gb.adskeeper.co.uk
 0.0.0.0 atlassian2.fyber.com
+0.0.0.0 atlassian.fyber.com
 0.0.0.0 atwola-sb-ec.adtechus.com
 0.0.0.0 au.adserver.yahoo.com
 0.0.0.0 auction-master.ads.prd.ie.internal.unity3d.com
@@ -809,6 +810,7 @@
 0.0.0.0 creative.ak.fbcdn.net
 0.0.0.0 creative.clicksor.com
 0.0.0.0 creativelibrary.millennialmedia.com
+0.0.0.0 creatives.acceptance.sharethrough.com
 0.0.0.0 creatives.as4x.tmcs.net
 0.0.0.0 creative.skyrocket.adtdp.com
 0.0.0.0 creatives.staging.sharethrough.com
@@ -1012,6 +1014,7 @@
 0.0.0.0 elastikube.vungle.com
 0.0.0.0 elisaart.it
 0.0.0.0 e-ltvp.inmobi.com
+0.0.0.0 email.optimizely.com
 0.0.0.0 embed.vietad.vn
 0.0.0.0 emonitor.takeit.cz
 0.0.0.0 emu.sharethis.com
@@ -1141,6 +1144,7 @@
 0.0.0.0 get.hotjar.com
 0.0.0.0 gingermedia.adk2x.com
 0.0.0.0 gitlab.build.ligatus.com
+0.0.0.0 gkng.ayads.co
 0.0.0.0 glados.urbanairship.com
 0.0.0.0 glb-ads2.atwola.adtechus.com
 0.0.0.0 glb-ads.atrhw.adtechus.com
@@ -1286,6 +1290,7 @@
 0.0.0.0 incrediblesugar.com
 0.0.0.0 infinity-dev.youbora.com
 0.0.0.0 infosec.corp.inmobi.com
+0.0.0.0 i.n.jwpltx.com
 0.0.0.0 in.jwpltx.com
 0.0.0.0 inline.sharethis.com
 0.0.0.0 in.meet.ssl2.duapps.com
@@ -1845,6 +1850,7 @@
 0.0.0.0 rtb.duapps.com
 0.0.0.0 rtb-eq.tapad.com
 0.0.0.0 rtb-eu.tapad.com
+0.0.0.0 rtb-fe-us-e1.content.ad
 0.0.0.0 rtb-fe-us-e2.content.ad
 0.0.0.0 rtb-fe-us-e3.content.ad
 0.0.0.0 rtb-fe-us-e4.content.ad
@@ -1877,6 +1883,7 @@
 0.0.0.0 s2ns2.adtechus.com
 0.0.0.0 s2s.prebid.org
 0.0.0.0 s3ns3.adtechus.com
+0.0.0.0 s4ns4.adtechus.com
 0.0.0.0 s8.ayads.co
 0.0.0.0 saber.srvcs.tumblr.com
 0.0.0.0 sad.qa.sharethis.com
@@ -2340,6 +2347,7 @@
 0.0.0.0 vcenter.corp.appdynamics.com
 0.0.0.0 vd1.propellerads.com
 0.0.0.0 velis.adk2x.com
+0.0.0.0 verity-api-internal.gumgum.com
 0.0.0.0 verity-api-test.gumgum.com
 0.0.0.0 vhosts-ap.tapad.com
 0.0.0.0 vhosts-ca1.tapad.com
@@ -2435,6 +2443,7 @@
 0.0.0.0 www.abserv123.com
 0.0.0.0 www.absorbingband.com
 0.0.0.0 www.absurdwater.com
+0.0.0.0 www.abutparker.com
 0.0.0.0 www.acidityfoamy.com
 0.0.0.0 www.acridtwist.com
 0.0.0.0 www.actuallysheep.com
@@ -2710,6 +2719,7 @@
 0.0.0.0 www.creafi.com
 0.0.0.0 www.creativecdn.com
 0.0.0.0 www.criteo.net
+0.0.0.0 www.critictruck.com
 0.0.0.0 www.crocopop.com
 0.0.0.0 www.crownrecluse.com
 0.0.0.0 www.crsspxl.com
@@ -2753,6 +2763,7 @@
 0.0.0.0 www.desertedrat.com
 0.0.0.0 www.detailedglue.com
 0.0.0.0 www.detailedgovernment.com
+0.0.0.0 www.detectdiscovery.com
 0.0.0.0 www.dexchangenic.com
 0.0.0.0 www.dfnhosting.com
 0.0.0.0 www.diamonddentpress.com
@@ -2980,6 +2991,7 @@
 0.0.0.0 www.mancehostic.site
 0.0.0.0 www.maplefarmmedia.com
 0.0.0.0 www.marfeelcache.com
+0.0.0.0 www.marfeelcdn.com
 0.0.0.0 www.marfeelrev.com
 0.0.0.0 www.markedcrayon.com
 0.0.0.0 www.markedpail.com
@@ -3269,6 +3281,7 @@
 0.0.0.0 www.shakesuggestion.com
 0.0.0.0 www.shakytaste.com
 0.0.0.0 www.shallowschool.com
+0.0.0.0 www.shallowsmile.com
 0.0.0.0 www.sharks.vn
 0.0.0.0 www.sharppatch.com
 0.0.0.0 www.shelterstraw.com
@@ -3298,6 +3311,7 @@
 0.0.0.0 www.snapads.com
 0.0.0.0 www.sneaklevel.com
 0.0.0.0 www.socdm.com
+0.0.0.0 www.soidc.com
 0.0.0.0 www.sombersquirrel.com
 0.0.0.0 www.sombersurprise.com
 0.0.0.0 www.sourcetobin.com

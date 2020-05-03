@@ -466,8 +466,8 @@ assets.loomia.com
 assets.prebid.org
 assets.publift.com
 assets.sharethrough.com
-assets.staging.sharethrough.com
 assets-staging.sharethrough.com
+assets.staging.sharethrough.com
 associate.microad.jp
 assoc-msdk-fe.amazon-adsystem.com
 assoc-msdk-metrics-us.amazon-adsystem.com
@@ -477,6 +477,7 @@ asvn.innity.com
 atd.im-apps.net
 at-gb.adskeeper.co.uk
 atlassian2.fyber.com
+atlassian.fyber.com
 atwola-sb-ec.adtechus.com
 au.adserver.yahoo.com
 auction-master.ads.prd.ie.internal.unity3d.com
@@ -809,6 +810,7 @@ creative.ak.facebook.com
 creative.ak.fbcdn.net
 creative.clicksor.com
 creativelibrary.millennialmedia.com
+creatives.acceptance.sharethrough.com
 creatives.as4x.tmcs.net
 creative.skyrocket.adtdp.com
 creatives.staging.sharethrough.com
@@ -1012,6 +1014,7 @@ elasticsearch.mangoads.vn
 elastikube.vungle.com
 elisaart.it
 e-ltvp.inmobi.com
+email.optimizely.com
 embed.vietad.vn
 emonitor.takeit.cz
 emu.sharethis.com
@@ -1141,6 +1144,7 @@ geo.smaato.net
 get.hotjar.com
 gingermedia.adk2x.com
 gitlab.build.ligatus.com
+gkng.ayads.co
 glados.urbanairship.com
 glb-ads2.atwola.adtechus.com
 glb-ads.atrhw.adtechus.com
@@ -1286,6 +1290,7 @@ inapp.districtm.io
 incrediblesugar.com
 infinity-dev.youbora.com
 infosec.corp.inmobi.com
+i.n.jwpltx.com
 in.jwpltx.com
 inline.sharethis.com
 in.meet.ssl2.duapps.com
@@ -1845,6 +1850,7 @@ rtb.districtm.io
 rtb.duapps.com
 rtb-eq.tapad.com
 rtb-eu.tapad.com
+rtb-fe-us-e1.content.ad
 rtb-fe-us-e2.content.ad
 rtb-fe-us-e3.content.ad
 rtb-fe-us-e4.content.ad
@@ -1877,6 +1883,7 @@ s2ns2.adtechjp.com
 s2ns2.adtechus.com
 s2s.prebid.org
 s3ns3.adtechus.com
+s4ns4.adtechus.com
 s8.ayads.co
 saber.srvcs.tumblr.com
 sad.qa.sharethis.com
@@ -2064,16 +2071,16 @@ start.adpushup.com
 start.siftscience.com
 stat.dsp.batmobi.net
 static-2.3lift.com
-static-acceptance.sharethrough.com
 static.acceptance.sharethrough.com
+static-acceptance.sharethrough.com
 static.adpushup.com
 static.adsnative.com
 static.asia.rtbid.me
 static.bilsyndication.com
 static.blog.sharethis.com
 static.ny.us.criteo.net
-static-premiumdsp.ibillboard.com
 static.premiumdsp.ibillboard.com
+static-premiumdsp.ibillboard.com
 static.propellerads.com
 static-sio.hotjar.com
 static-ssl.exoclick.com
@@ -2111,8 +2118,8 @@ stkjw.net
 stmp.ad.daum.net
 st.n.ads1-adnow.com
 st.n.ads3-adnow.com
-st-n.ads4-adnow.com
 st.n.ads4-adnow.com
+st-n.ads4-adnow.com
 st.n.ads5-adnow.com
 sto.midasplayer.com
 st-rbc-api-data.pingdom.net
@@ -2340,6 +2347,7 @@ vbp1den1.lijit.com
 vcenter.corp.appdynamics.com
 vd1.propellerads.com
 velis.adk2x.com
+verity-api-internal.gumgum.com
 verity-api-test.gumgum.com
 vhosts-ap.tapad.com
 vhosts-ca1.tapad.com
@@ -2358,11 +2366,11 @@ video-aws-staging.fyber.com
 video-cdn.mgid.com
 video.content.ad
 videology.ndf.weborama.com
-videos.acceptance.sharethrough.com
 videos-acceptance.sharethrough.com
+videos.acceptance.sharethrough.com
 videos.sharethrough.com
-videos.staging.sharethrough.com
 videos-staging.sharethrough.com
+videos.staging.sharethrough.com
 vi.dev.fwmrm.net
 vietad.vn
 vi.gumgum.com
@@ -2435,6 +2443,7 @@ www.absentstream.com
 www.abserv123.com
 www.absorbingband.com
 www.absurdwater.com
+www.abutparker.com
 www.acidityfoamy.com
 www.acridtwist.com
 www.actuallysheep.com
@@ -2710,6 +2719,7 @@ www.crawlclocks.com
 www.creafi.com
 www.creativecdn.com
 www.criteo.net
+www.critictruck.com
 www.crocopop.com
 www.crownrecluse.com
 www.crsspxl.com
@@ -2753,6 +2763,7 @@ www.desertedbreath.com
 www.desertedrat.com
 www.detailedglue.com
 www.detailedgovernment.com
+www.detectdiscovery.com
 www.dexchangenic.com
 www.dfnhosting.com
 www.diamonddentpress.com
@@ -2980,6 +2991,7 @@ www.magnificentmist.com
 www.mancehostic.site
 www.maplefarmmedia.com
 www.marfeelcache.com
+www.marfeelcdn.com
 www.marfeelrev.com
 www.markedcrayon.com
 www.markedpail.com
@@ -3269,6 +3281,7 @@ www.sexaddpro.de
 www.shakesuggestion.com
 www.shakytaste.com
 www.shallowschool.com
+www.shallowsmile.com
 www.sharks.vn
 www.sharppatch.com
 www.shelterstraw.com
@@ -3298,6 +3311,7 @@ www.snakesort.com
 www.snapads.com
 www.sneaklevel.com
 www.socdm.com
+www.soidc.com
 www.sombersquirrel.com
 www.sombersurprise.com
 www.sourcetobin.com
