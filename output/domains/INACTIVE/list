@@ -75,6 +75,7 @@ adexchangeprediction.adk2x.com
 adfarm.mediaplex.com
 adflbk.adk2x.com
 adfly.propellerads.com
+adframe.mediaplex.com
 ad-gb.adskeeper.co.uk
 ad-gb.mgid.com
 ad-hcm.24hstatic.com
@@ -297,6 +298,7 @@ ai-personalization-prod-api.demandbase.com
 airartapt.site
 airtrack.adtdp.com
 aj1101.online
+aj1760.online
 aj1769.online
 aj1836.online
 aj1870.online
@@ -440,6 +442,7 @@ assets.staging.sharethrough.com
 associate.microad.jp
 assoc-msdk-fe.amazon-adsystem.com
 assoc-msdk-metrics-us.amazon-adsystem.com
+astats.bidgear.com
 as.vietad.vn
 asvn.innity.com
 atd.im-apps.net
@@ -484,6 +487,7 @@ bango.combango.org
 banlv.baidu.com
 banner.blogranking.net
 bannerexchange.cjb.net
+bannerfarm.ace.advertising.com
 banner.featuredusers.com
 banner.getgo.de
 banner.jobsahead.com
@@ -619,6 +623,7 @@ cdn.innity.com
 cdn.mdotm.com
 cdn.millennialmedia.com
 cdn.mobileapptracking.com
+cdn.mppmnetwork.com
 cdn.rungrinh.vn
 cdn-s.amazon-adsystem.com
 cdn.sharethis.com
@@ -704,6 +709,7 @@ conference-3-freewheelcupscluster.fwmrm.net
 conference-3-standalonecluster7a91e.fwmrm.net
 config.789wed.com
 configuration.ma.tune.com
+confluence.corp.ligatus.com
 conforama.ugc.bazaarvoice.com
 conges.weborama.com
 connected.ma.tune.com
@@ -899,6 +905,7 @@ doushimm.com
 downloads.apptentive.com
 dpm.adsnative.com
 dql2sdu63f1cw.cloudfront.net
+dr1.a.socdm.com
 dr3.socdm.com
 dra-eu.amazon-adsystem.com
 dra.iesnare.com
@@ -1075,10 +1082,12 @@ go7.aniview.com
 go.adinfuse.com
 gocalls-dev.districtm.net
 go.heapanalytics.com
+goubunto.aniview.com
 goviral.hs.llnwd.net
 go.weborama.com
 gpe.midasplayer.com
 gr.adserver.yahoo.com
+grafana.prd.fyber.com
 graylog.hotjar.com
 graylog.ops.dfw2.inmobi.com
 gs.rec.duapps.com
@@ -1091,6 +1100,7 @@ g.uusee.com
 gymboree.hs.llnwd.net
 h12srv.adk2x.com
 habit.firstimpression.io
+hackathon.localytics.com
 hahajknew.bnmla.com
 halo.smamuhh1metro.com
 haproxy001.iad3.collective-media.net
@@ -1209,6 +1219,7 @@ ins15.hotjar.com
 ins16.hotjar.com
 ins18.hotjar.com
 ins1.hotjar.com
+ins2.hotjar.com
 ins3.hotjar.com
 ins5.hotjar.com
 ins8.hotjar.com
@@ -1340,6 +1351,7 @@ lp.xapads.com
 lw2cdn.cpmstar.com
 lw3cdn.cpmstar.com
 lwcdn.cpmstar.com
+lwfjd.today
 m12n.servebom.com
 m3.2mdn.net
 m4.2mdn.net
@@ -1515,6 +1527,7 @@ optimized-by-adv.rubiconproject.com
 optimized-rtp-us-west.rubiconproject.com
 orange-fr.adinfuse.com
 orangeuk-mc.adinfuse.com
+origin.collective-media.net
 origin-ui.revcontent.com
 os.dev.midasplayer.com
 outside.hotjar.com
@@ -1629,6 +1642,7 @@ p.twitter.com
 public.billing.master.postgres.mopub.com
 publift.fuseplatform.net
 publisher.advertising.com
+publisher.uniad.vn
 pubportal.advertising.com
 pubs.lemonde.fr
 pubster.twitch.tv
@@ -1731,6 +1745,7 @@ rtb-quantum-geu.nxtck.com
 rtb-trk.adcolony.com
 rtb-us-east.tapad.com
 rtg.ml314.com
+rts-lga-lb.contextweb.com
 rubick.gameanalytics.com
 rudy-ap-southeast-1.adsnative.com
 rudy-eu-west-1.adsnative.com
@@ -1754,6 +1769,7 @@ s.ads-twitter.com
 sal.aws.branch.io
 samples.adxxx.com
 s.analytics.yahoo.com
+sana.newsinc.com
 san.casalemedia.com
 sandbox.api.powerlinks.com
 san.fyber.com
@@ -1824,6 +1840,7 @@ sitesync.wywy.com
 sj16.bnmla.com
 sj21.bnmla.com
 sjc-ads-weighted.contextweb.com
+sjc-bid-weighted.contextweb.com
 sjc.contextweb.com
 s.jwpltx.com
 skd.midasplayer.com
@@ -1919,8 +1936,8 @@ start.adpushup.com
 start.siftscience.com
 stat.dsp.batmobi.net
 static-2.3lift.com
-static-acceptance.sharethrough.com
 static.acceptance.sharethrough.com
+static-acceptance.sharethrough.com
 static.adpushup.com
 static.adsnative.com
 static.asia.rtbid.me
@@ -1953,6 +1970,7 @@ st.display.ad.daum.net
 st.doublemax.net
 stg.a.analytics.yahoo.com
 stg-ads.inmobi.com
+stg.ads.internal.unity3d.com
 stg-j-serval.adtdp.com
 stg.oem.inmobi.com
 stg-reports.web.analytics.yahoo.com
@@ -1961,8 +1979,8 @@ stg-y.analytics.yahoo.com
 stmp.ad.daum.net
 st.n.ads1-adnow.com
 st.n.ads3-adnow.com
-st.n.ads4-adnow.com
 st-n.ads4-adnow.com
+st.n.ads4-adnow.com
 st.n.ads5-adnow.com
 sto.midasplayer.com
 streamate.doublepimp.com
@@ -2049,6 +2067,7 @@ token.corp.inmobi.com
 tokyo-my.mobfox.com
 toluna.ndf.weborama.com
 tools.millennialmedia.com
+topacity.info
 topbarh.box.sk
 toro-dal-01.collective-media.net
 toromedia.adk2x.com
@@ -2163,6 +2182,7 @@ vaes.pdx.preprod.amazon-adsystem.com
 vaes-preprod.dub.amazon-adsystem.com
 vaes-preprod.iad.amazon-adsystem.com
 vaes-preprod.pdx.amazon-adsystem.com
+vapi.connatix.com
 va.pixel.prod2.invitemedia.com
 va.px.invitemedia.com
 vars-edgecast.hotjar.com
@@ -2187,14 +2207,15 @@ vhosts-us-west.tapad.com
 vhostxo.com
 viber.cdn.adsnative.com
 viber.console.adsnative.com
+vibrant.mgr.consensu.org
 vid.atdmt.com
 video.adsrvr.org
 video-aws-staging.fyber.com
 video-cdn.mgid.com
 video.content.ad
 videology.ndf.weborama.com
-videos.acceptance.sharethrough.com
 videos-acceptance.sharethrough.com
+videos.acceptance.sharethrough.com
 videos.sharethrough.com
 videos.staging.sharethrough.com
 videos-staging.sharethrough.com
@@ -2338,6 +2359,7 @@ www.aj1538.online
 www.aj1562.online
 www.aj1645.online
 www.aj1740.online
+www.aj1760.online
 www.aj1769.online
 www.aj1773.online
 www.aj1795.online
@@ -2519,6 +2541,7 @@ www.criteo.net
 www.crocopop.com
 www.crsspxl.com
 www.ctnet2.in
+www.cumbersomecloud.com
 www.curtaincows.com
 www.cutecushion.com
 www.cuteturkey.com
@@ -2581,6 +2604,7 @@ www.dq95d35.com
 www.dql2sdu63f1cw.cloudfront.net
 www.drabsize.com
 www.dragzebra.com
+www.drydrum.com
 www.dsp.io
 www.dspmulti.com
 www.du8783wkf05yr.cloudfront.net
@@ -2628,7 +2652,9 @@ www.flimsycircle.com
 www.floodprincipal.com
 www.foamybox.com
 www.foreignmelody.com
+www.fortt-rade.com
 www.fourarithmetic.com
+www.fout.jp
 www.frailoffer.com
 www.frightenedpotato.com
 www.fryawlauk.com
@@ -2756,6 +2782,7 @@ www.loudloss.com
 www.loudlunch.com
 www.lp3tdqle.com
 www.lumpyleaf.com
+www.lwfjd.today
 www.made2you.com
 www.magnificentmist.com
 www.mancehostic.site
@@ -2770,6 +2797,7 @@ www.matheranalytics.com
 www.mdotm.com
 www.mediadvertising.ro
 www.media.innity.net
+www.medialets.com
 www.mediatrking.com
 www.medyanetads.com
 www.megago.com
@@ -2836,6 +2864,7 @@ www.nbjmp.com
 www.nedstat.com
 www.nedstat.nl
 www.nedstatpro.net
+www.neighborlywatch.com
 www.nephritish.com
 www.newstarads.com
 www.nexac.com
@@ -2983,6 +3012,7 @@ www.richstring.com
 www.ringsrecord.com
 www.rituationscardb.info
 www.ritzykey.com
+www.rmiesnorthur.pro
 www.rmtag.com
 www.rockabox.co
 wwwr.opecloud.com
@@ -3033,6 +3063,7 @@ www.shermore.info
 www.shiveringsail.com
 www.shockingswing.com
 www.shofteph.com
+www.shorteh.com
 www.sicksmash.com
 www.signalhq.com
 www.siliconclasses.in
@@ -3072,6 +3103,7 @@ www.starbolt.io
 www.startappservice.com
 www.static.addtoany.com
 www.stat-rock.com
+www.stazumik.net
 www.steadfastsystem.com
 www.stormyachiever.com
 www.stormysponge.com
@@ -3112,6 +3144,7 @@ www.ticklesign.com
 www.tithewtog.com
 www.toecircle.com
 www.toothbrushnote.com
+www.topacity.info
 www.tracedesire.com
 www.trackcmp.net
 www.trackedweb.net
