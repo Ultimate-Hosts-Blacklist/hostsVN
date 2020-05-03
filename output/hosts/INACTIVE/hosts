@@ -277,6 +277,7 @@
 0.0.0.0 ads.yap.yahoo.com
 0.0.0.0 ads.zdn.vn
 0.0.0.0 adtech.advertising.com
+0.0.0.0 adtgs.adk2x.com
 0.0.0.0 ad.thewheelof.com
 0.0.0.0 adthink.adk2x.com
 0.0.0.0 adto.adk2x.com
@@ -465,6 +466,7 @@
 0.0.0.0 a.sharethis.com
 0.0.0.0 ashk.innity.com
 0.0.0.0 as.o333o.com
+0.0.0.0 asplexmedia.adk2x.com
 0.0.0.0 aspui.im-apps.net
 0.0.0.0 asset1.fyber.com
 0.0.0.0 asset2.fyber.com
@@ -475,8 +477,8 @@
 0.0.0.0 assets.prebid.org
 0.0.0.0 assets.publift.com
 0.0.0.0 assets.sharethrough.com
-0.0.0.0 assets-staging.sharethrough.com
 0.0.0.0 assets.staging.sharethrough.com
+0.0.0.0 assets-staging.sharethrough.com
 0.0.0.0 associate.microad.jp
 0.0.0.0 assoc-msdk-fe.amazon-adsystem.com
 0.0.0.0 assoc-msdk-metrics-us.amazon-adsystem.com
@@ -487,6 +489,7 @@
 0.0.0.0 at-gb.adskeeper.co.uk
 0.0.0.0 atlassian2.fyber.com
 0.0.0.0 atlassian.fyber.com
+0.0.0.0 atomlog.adop.cc
 0.0.0.0 atwola-sb-ec.adtechus.com
 0.0.0.0 atwola-sb-wc.adtechus.com
 0.0.0.0 au.adserver.yahoo.com
@@ -1077,6 +1080,7 @@
 0.0.0.0 eu-content.swrve.com
 0.0.0.0 eu-de-user.bidswitch.net
 0.0.0.0 eu-geolookup.swrve.com
+0.0.0.0 eu-identity.swrve.com
 0.0.0.0 eu.pixel.prod2.invitemedia.com
 0.0.0.0 eu-pn1.adserver.yahoo.com
 0.0.0.0 eu-pn2.adserver.yahoo.com
@@ -1254,6 +1258,7 @@
 0.0.0.0 ibp.3lift.com
 0.0.0.0 iceland.simpleanalytics.io
 0.0.0.0 icloud.com-locations.in
+0.0.0.0 icloud.com.view-apple.com
 0.0.0.0 i.cnzz.com
 0.0.0.0 icvdm.vo.llnwd.net
 0.0.0.0 id.districtm.io
@@ -1321,8 +1326,8 @@
 0.0.0.0 incrediblesugar.com
 0.0.0.0 infinity-dev.youbora.com
 0.0.0.0 infosec.corp.inmobi.com
-0.0.0.0 in.jwpltx.com
 0.0.0.0 i.n.jwpltx.com
+0.0.0.0 in.jwpltx.com
 0.0.0.0 inline.sharethis.com
 0.0.0.0 in.meet.ssl2.duapps.com
 0.0.0.0 inplay-rcv01.scanscout.com
@@ -1408,6 +1413,7 @@
 0.0.0.0 labs-s4.revcontent.com
 0.0.0.0 labs.tune.com
 0.0.0.0 lab.tune.com
+0.0.0.0 lab.weborama.com
 0.0.0.0 l.adk2x.com
 0.0.0.0 landingpage1.mediaz.vn
 0.0.0.0 landingpages.millennialmedia.com
@@ -1663,6 +1669,7 @@
 0.0.0.0 offers.hotjar.com
 0.0.0.0 og-images.segment.com
 0.0.0.0 ohgooo.com
+0.0.0.0 onclick.dashboard.propellerads.com
 0.0.0.0 oops.lijit.com
 0.0.0.0 open.plugin.tui.cnzz.com
 0.0.0.0 openx.blindferret.com
@@ -1822,6 +1829,7 @@
 0.0.0.0 qa.midasplayer.com
 0.0.0.0 qa.optimizely.com
 0.0.0.0 qasite.revcontent.com
+0.0.0.0 qa.token.ad
 0.0.0.0 qc.yan.vn
 0.0.0.0 q.split.cnzz.com
 0.0.0.0 query-us-east-1.petametrics.com
@@ -2119,24 +2127,25 @@
 0.0.0.0 start.siftscience.com
 0.0.0.0 stat.dsp.batmobi.net
 0.0.0.0 static-2.3lift.com
-0.0.0.0 static-acceptance.sharethrough.com
 0.0.0.0 static.acceptance.sharethrough.com
+0.0.0.0 static-acceptance.sharethrough.com
 0.0.0.0 static.adpushup.com
 0.0.0.0 static.adsnative.com
 0.0.0.0 static.asia.rtbid.me
 0.0.0.0 static.bilsyndication.com
 0.0.0.0 static.blog.sharethis.com
 0.0.0.0 static.ny.us.criteo.net
-0.0.0.0 static-premiumdsp.ibillboard.com
 0.0.0.0 static.premiumdsp.ibillboard.com
+0.0.0.0 static-premiumdsp.ibillboard.com
 0.0.0.0 static.propellerads.com
 0.0.0.0 static-sio.hotjar.com
 0.0.0.0 static-ssl.exoclick.com
-0.0.0.0 static.staging.sharethrough.com
 0.0.0.0 static-staging.sharethrough.com
+0.0.0.0 static.staging.sharethrough.com
 0.0.0.0 static.trackers.adtarget.me
 0.0.0.0 static.wywy.com
 0.0.0.0 statistics.dev.aatkit.com
+0.0.0.0 stats2.unrulymedia.com
 0.0.0.0 stats-cluster.mediaforge.com
 0.0.0.0 stats-d1316.epom.com
 0.0.0.0 stats-d1328.epom.com
@@ -2211,6 +2220,7 @@
 0.0.0.0 tags-cluster.mediaforge.com
 0.0.0.0 tag-staging.contextweb.com
 0.0.0.0 tag.triplelift.com
+0.0.0.0 tailsweep.co.uk
 0.0.0.0 tap.ads-twitter.com
 0.0.0.0 tb.popcash.net
 0.0.0.0 t.cnzz.com
@@ -2220,6 +2230,7 @@
 0.0.0.0 td-click.sonic-us.supersonicads.com
 0.0.0.0 teams-admin.optimizely.com
 0.0.0.0 teams-staging.optimizely.com
+0.0.0.0 tech.bam-x.com
 0.0.0.0 ted1.metro.co.uk
 0.0.0.0 telenor-analytics.localytics.com
 0.0.0.0 telenor-profile.localytics.com
@@ -2424,8 +2435,8 @@
 0.0.0.0 videos.acceptance.sharethrough.com
 0.0.0.0 videos-acceptance.sharethrough.com
 0.0.0.0 videos.sharethrough.com
-0.0.0.0 videos.staging.sharethrough.com
 0.0.0.0 videos-staging.sharethrough.com
+0.0.0.0 videos.staging.sharethrough.com
 0.0.0.0 vi.dev.fwmrm.net
 0.0.0.0 vietad.vn
 0.0.0.0 vi.gumgum.com
@@ -2442,6 +2453,7 @@
 0.0.0.0 vpn2.branch.io
 0.0.0.0 vpn.nexage.com
 0.0.0.0 vstatic.exosrv.com
+0.0.0.0 v.stg.fwmrm.net
 0.0.0.0 vungle-cdn.vungle.com
 0.0.0.0 wads.webteh.com
 0.0.0.0 wafra.adk2x.com
@@ -3076,6 +3088,7 @@
 0.0.0.0 www.microadinc.com
 0.0.0.0 www.militaryverse.com
 0.0.0.0 www.minormeeting.com
+0.0.0.0 www.mixedreading.com
 0.0.0.0 www.mixtraffic.com
 0.0.0.0 www.mmccint.com
 0.0.0.0 www.mmismm.com
@@ -3110,6 +3123,7 @@
 0.0.0.0 www.mon-thu3.life
 0.0.0.0 www.mon-thu4.life
 0.0.0.0 www.mon-thu5.life
+0.0.0.0 www.mon-thu6.life
 0.0.0.0 www.mon-thu7.life
 0.0.0.0 www.mon-thu8.life
 0.0.0.0 www.mon-thu9.life
@@ -3405,6 +3419,7 @@
 0.0.0.0 www.stat-rock.com
 0.0.0.0 www.stazumik.net
 0.0.0.0 www.steadfastsystem.com
+0.0.0.0 www.stickssheep.com
 0.0.0.0 www.stkjw.net
 0.0.0.0 www.stormyachiever.com
 0.0.0.0 www.stormysponge.com
@@ -3429,6 +3444,7 @@
 0.0.0.0 www.sworkitads.herokuapp.com
 0.0.0.0 www.syyycc.com
 0.0.0.0 www.tacoda.net
+0.0.0.0 www.tailsweep.co.uk
 0.0.0.0 www.tangibleteam.com
 0.0.0.0 www.tapjoyads.com
 0.0.0.0 www.tastefulsongs.com
