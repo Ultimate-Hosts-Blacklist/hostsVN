@@ -138,6 +138,7 @@
 0.0.0.0 ads.adasiaholdings.com
 0.0.0.0 ads.adhaven.com
 0.0.0.0 ads.adsrvr.org
+0.0.0.0 ads.adultswim.com
 0.0.0.0 ads.ak.facebook.com
 0.0.0.0 ads.allvatar.com
 0.0.0.0 ads.ams.contextweb.com
@@ -266,6 +267,7 @@
 0.0.0.0 ads.techweb.com
 0.0.0.0 ads.telegraph.co.uk
 0.0.0.0 ads.theglobeandmail.com
+0.0.0.0 ads.thewebfreaks.com
 0.0.0.0 ads.timeout.com
 0.0.0.0 ad-stinger.prod.bidr.io
 0.0.0.0 ads.tinmoi.vn
@@ -701,6 +703,7 @@
 0.0.0.0 cf.doublemax.net
 0.0.0.0 cflcs.media.net
 0.0.0.0 cf-test.doublemax.net
+0.0.0.0 cf-wp-prod.sharethis.com
 0.0.0.0 c.googlesyndication.com
 0.0.0.0 chatbot.taxel.jp
 0.0.0.0 chat.urbanairship.com
@@ -727,6 +730,7 @@
 0.0.0.0 clickthrucash.com
 0.0.0.0 clicktrack.bnmla.com
 0.0.0.0 click.uniad.vn
+0.0.0.0 click.xdeal.vn
 0.0.0.0 client.build.optimizely.com
 0.0.0.0 client-error-log.dz.optimizely.com
 0.0.0.0 client.fff.com.vn
@@ -1011,6 +1015,7 @@
 0.0.0.0 dsp.aralego.com
 0.0.0.0 dsp-dmp.aralego.com
 0.0.0.0 dspportal.smaato.com
+0.0.0.0 dspportal.smaato.net
 0.0.0.0 dsp.send.microadinc.com
 0.0.0.0 dsp-token.aws.rubiconproject.com
 0.0.0.0 dtac.tapad.com
@@ -1169,6 +1174,7 @@
 0.0.0.0 gemini.yahoo.com
 0.0.0.0 geoinfo.i2w.io
 0.0.0.0 geoloc.ayads.co
+0.0.0.0 geolookup.swrve.com
 0.0.0.0 geo.smaato.net
 0.0.0.0 get.hotjar.com
 0.0.0.0 get.leanplum.com
@@ -1326,8 +1332,8 @@
 0.0.0.0 incrediblesugar.com
 0.0.0.0 infinity-dev.youbora.com
 0.0.0.0 infosec.corp.inmobi.com
-0.0.0.0 i.n.jwpltx.com
 0.0.0.0 in.jwpltx.com
+0.0.0.0 i.n.jwpltx.com
 0.0.0.0 inline.sharethis.com
 0.0.0.0 in.meet.ssl2.duapps.com
 0.0.0.0 inplay-rcv01.scanscout.com
@@ -1452,6 +1458,8 @@
 0.0.0.0 lga-tag-stage00.contextweb.com
 0.0.0.0 lga-tag-weighted.contextweb.com
 0.0.0.0 lick.startappservice.com
+0.0.0.0 liepin.growingio.com
+0.0.0.0 lift.mixpanel.com
 0.0.0.0 linear-dev-v2.dev.linear.aws.fwmrm.net
 0.0.0.0 linear-stg.stg.linear.aws.fwmrm.net
 0.0.0.0 link.ad-brix.com
@@ -2082,6 +2090,7 @@
 0.0.0.0 speednetwork1.adk2x.com
 0.0.0.0 speednetwork2.adk2x.com
 0.0.0.0 speednetwork6.adk2x.com
+0.0.0.0 spottysense.com
 0.0.0.0 spunjbox.adoptimize.com
 0.0.0.0 spx.smaato.net
 0.0.0.0 sql.segment.com
@@ -2135,18 +2144,19 @@
 0.0.0.0 static.bilsyndication.com
 0.0.0.0 static.blog.sharethis.com
 0.0.0.0 static.ny.us.criteo.net
-0.0.0.0 static.premiumdsp.ibillboard.com
 0.0.0.0 static-premiumdsp.ibillboard.com
+0.0.0.0 static.premiumdsp.ibillboard.com
 0.0.0.0 static.propellerads.com
 0.0.0.0 static-sio.hotjar.com
 0.0.0.0 static-ssl.exoclick.com
-0.0.0.0 static-staging.sharethrough.com
 0.0.0.0 static.staging.sharethrough.com
+0.0.0.0 static-staging.sharethrough.com
 0.0.0.0 static.trackers.adtarget.me
 0.0.0.0 static.wywy.com
 0.0.0.0 statistics.dev.aatkit.com
 0.0.0.0 stats2.unrulymedia.com
 0.0.0.0 stats-cluster.mediaforge.com
+0.0.0.0 stats.cts-bv.nl
 0.0.0.0 stats-d1316.epom.com
 0.0.0.0 stats-d1328.epom.com
 0.0.0.0 stats-d1345.epom.com
@@ -2435,8 +2445,8 @@
 0.0.0.0 videos.acceptance.sharethrough.com
 0.0.0.0 videos-acceptance.sharethrough.com
 0.0.0.0 videos.sharethrough.com
-0.0.0.0 videos-staging.sharethrough.com
 0.0.0.0 videos.staging.sharethrough.com
+0.0.0.0 videos-staging.sharethrough.com
 0.0.0.0 vi.dev.fwmrm.net
 0.0.0.0 vietad.vn
 0.0.0.0 vi.gumgum.com
@@ -2477,6 +2487,7 @@
 0.0.0.0 winwin.adk2x.com
 0.0.0.0 wip.powerlinks.com
 0.0.0.0 wi.yieldlove.com
+0.0.0.0 wizard.triplelift.com
 0.0.0.0 wmedia.adk2x.com
 0.0.0.0 wordpressv2.twik.io
 0.0.0.0 wp-status.breaktime.com.tw
@@ -2889,6 +2900,7 @@
 0.0.0.0 www.ethicalads.net
 0.0.0.0 www.eventbeacon.ca
 0.0.0.0 www.excellentpub.com
+0.0.0.0 www.exclusivebrass.com
 0.0.0.0 www.exitexchange.com
 0.0.0.0 www.exogripper.com
 0.0.0.0 www.exosrv.com
@@ -3270,6 +3282,7 @@
 0.0.0.0 www.puffypurpose.com
 0.0.0.0 www.pushazam.com
 0.0.0.0 www.pushazer.com
+0.0.0.0 www.pushlaram.com
 0.0.0.0 www.pushlum.com
 0.0.0.0 www.pushno.com
 0.0.0.0 www.pushokey.com
@@ -3393,6 +3406,7 @@
 0.0.0.0 www.snakesort.com
 0.0.0.0 www.snapads.com
 0.0.0.0 www.sneaklevel.com
+0.0.0.0 www.sneakystamp.com
 0.0.0.0 www.socdm.com
 0.0.0.0 www.soidc.com
 0.0.0.0 www.sombersquirrel.com
@@ -3404,6 +3418,7 @@
 0.0.0.0 www.spiffymachine.com
 0.0.0.0 www.spirebaboon.com
 0.0.0.0 www.spotscenered.info
+0.0.0.0 www.spottysense.com
 0.0.0.0 www.spurioussteam.com
 0.0.0.0 www.spywords.com
 0.0.0.0 www.squeamishscarecrow.com
@@ -3489,6 +3504,7 @@
 0.0.0.0 www.trillianu.info
 0.0.0.0 www.tritetongue.com
 0.0.0.0 www.truckstomatoes.com
+0.0.0.0 www.tsyndicate.com
 0.0.0.0 www.tvas-a.pw
 0.0.0.0 www.tvas-c.pw
 0.0.0.0 www.twenticiseflo.site
