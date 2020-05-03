@@ -457,6 +457,7 @@
 0.0.0.0 a-sb-ec.adtechus.com
 0.0.0.0 as-gb.adskeeper.co.uk
 0.0.0.0 a.sharethis.com
+0.0.0.0 ashk.innity.com
 0.0.0.0 as.o333o.com
 0.0.0.0 aspui.im-apps.net
 0.0.0.0 asset1.fyber.com
@@ -775,6 +776,7 @@
 0.0.0.0 console.adflex.asia
 0.0.0.0 console.adsnative.com
 0.0.0.0 console.cignal.io
+0.0.0.0 console.wywy.com
 0.0.0.0 content-acceptance.sharethrough.com
 0.0.0.0 content.activision.swrve.com
 0.0.0.0 content-cluster.mediaforge.com
@@ -848,9 +850,11 @@
 0.0.0.0 cybertraff.advertserve.com
 0.0.0.0 d2.ligatus.com
 0.0.0.0 d3.adsplay.xyz
+0.0.0.0 d47xnnr8b1rki.cloudfront.net
 0.0.0.0 d5.server.cpmstar.com
 0.0.0.0 d6.adsplay.xyz
 0.0.0.0 d.adgrx.com
+0.0.0.0 da.midasplayer.com
 0.0.0.0 d.analytics.yahoo.com
 0.0.0.0 darriens.adk2x.com
 0.0.0.0 dashboard.alpha.branch.io
@@ -966,6 +970,7 @@
 0.0.0.0 dmp.app-adforce.jp
 0.0.0.0 dmp-eu.adform.net
 0.0.0.0 dmx.eu-west-1.districtm.io
+0.0.0.0 dmx.us-east-1.districtm.io
 0.0.0.0 dmx.us-east-2.districtm.io
 0.0.0.0 dmx.us-west-1.districtm.io
 0.0.0.0 dna1.mookie1.com
@@ -1292,6 +1297,7 @@
 0.0.0.0 img.m.cnzz.com
 0.0.0.0 img-origin.adtechus.com
 0.0.0.0 img.propellerads.com
+0.0.0.0 imgtmp.adm.cnzz.com
 0.0.0.0 img.vietad.vn
 0.0.0.0 im.meet.duapps.com
 0.0.0.0 impact-proxy.playbuzz.com
@@ -1561,8 +1567,10 @@
 0.0.0.0 mobk2.adk2x.com
 0.0.0.0 mobojoy.baidu.com
 0.0.0.0 mobviks.adk2x.com
+0.0.0.0 mockdsp.cluster.pubnative.net
 0.0.0.0 momonitor.mopub.com
 0.0.0.0 m.optvx.com
+0.0.0.0 mottnow.adk2x.com
 0.0.0.0 mpartner.googleadservices.com
 0.0.0.0 mp.twitch.tv
 0.0.0.0 mrp.rubiconproject.com
@@ -1628,6 +1636,7 @@
 0.0.0.0 nv-ad-hcm.24hstatic.com
 0.0.0.0 nv-ad-hn.24hstatic.com
 0.0.0.0 nvirginia-callbacks.mobfox.com
+0.0.0.0 nytelecom.vo.llnwd.net
 0.0.0.0 o.analytics.yahoo.com
 0.0.0.0 oas.foxnews.com
 0.0.0.0 oas.salon.com
@@ -1641,6 +1650,7 @@
 0.0.0.0 ohgooo.com
 0.0.0.0 oops.lijit.com
 0.0.0.0 open.plugin.tui.cnzz.com
+0.0.0.0 openx.blindferret.com
 0.0.0.0 ops-prod-a.us-east-1.k8s.tune.com
 0.0.0.0 ops-prod-a.us-west-1.k8s.tune.com
 0.0.0.0 ops-prod-a.us-west-2.k8s.tune.com
@@ -1845,12 +1855,15 @@
 0.0.0.0 results.optimizely.com
 0.0.0.0 rev2pub.adk2x.com
 0.0.0.0 revenuehits.adk2x.com
+0.0.0.0 revenuetool.aatkit.com
 0.0.0.0 rewards.advertserve.com
 0.0.0.0 rfm.rubiconproject.com
+0.0.0.0 ris-gateway.supersonicads.com
 0.0.0.0 r.ligatus.com
 0.0.0.0 rmarepo.richmediaads.com
 0.0.0.0 rmd.atdmt.com
 0.0.0.0 rnd-sandbox.bidswitch.net
+0.0.0.0 rossel.mgr.consensu.org
 0.0.0.0 r-p3.ladsp.com
 0.0.0.0 r.playbuzz.com
 0.0.0.0 rpm-instart.newrelic.com
@@ -2088,19 +2101,20 @@
 0.0.0.0 start.siftscience.com
 0.0.0.0 stat.dsp.batmobi.net
 0.0.0.0 static-2.3lift.com
-0.0.0.0 static-acceptance.sharethrough.com
 0.0.0.0 static.acceptance.sharethrough.com
+0.0.0.0 static-acceptance.sharethrough.com
 0.0.0.0 static.adpushup.com
 0.0.0.0 static.adsnative.com
 0.0.0.0 static.asia.rtbid.me
 0.0.0.0 static.bilsyndication.com
 0.0.0.0 static.blog.sharethis.com
 0.0.0.0 static.ny.us.criteo.net
-0.0.0.0 static-premiumdsp.ibillboard.com
 0.0.0.0 static.premiumdsp.ibillboard.com
+0.0.0.0 static-premiumdsp.ibillboard.com
 0.0.0.0 static.propellerads.com
 0.0.0.0 static-sio.hotjar.com
 0.0.0.0 static-ssl.exoclick.com
+0.0.0.0 static.staging.sharethrough.com
 0.0.0.0 static-staging.sharethrough.com
 0.0.0.0 static.trackers.adtarget.me
 0.0.0.0 static.wywy.com
@@ -2386,8 +2400,8 @@
 0.0.0.0 video-cdn.mgid.com
 0.0.0.0 video.content.ad
 0.0.0.0 videology.ndf.weborama.com
-0.0.0.0 videos.acceptance.sharethrough.com
 0.0.0.0 videos-acceptance.sharethrough.com
+0.0.0.0 videos.acceptance.sharethrough.com
 0.0.0.0 videos.sharethrough.com
 0.0.0.0 videos.staging.sharethrough.com
 0.0.0.0 videos-staging.sharethrough.com
@@ -2643,6 +2657,7 @@
 0.0.0.0 www.bidgear-dsp.network
 0.0.0.0 www.bigclicker.me
 0.0.0.0 www.bioniccuddle.com
+0.0.0.0 www.bitsngo.net
 0.0.0.0 www.bj1083.online
 0.0.0.0 www.bj1740.online
 0.0.0.0 www.blacurlik.com
@@ -2762,6 +2777,7 @@
 0.0.0.0 www.d31qbv1cthcecs.cloudfront.net
 0.0.0.0 www.d3dkhq0wwdwodv.cloudfront.net
 0.0.0.0 www.d3luypns9uh4a4.cloudfront.net
+0.0.0.0 www.d47xnnr8b1rki.cloudfront.net
 0.0.0.0 www.damdoor.com
 0.0.0.0 www.danban.com
 0.0.0.0 www.dancemistake.com
@@ -3272,6 +3288,7 @@
 0.0.0.0 www.s9.cnzz.com
 0.0.0.0 www.sacchaeleduk.com
 0.0.0.0 www.sail-horizon.com
+0.0.0.0 www.sandsitedrhec.club
 0.0.0.0 www.saysidewalk.com
 0.0.0.0 www.scarcesign.com
 0.0.0.0 www.scarcestream.com
@@ -3316,6 +3333,7 @@
 0.0.0.0 www.signalhq.com
 0.0.0.0 www.siliconclasses.in
 0.0.0.0 www.silkysquirrel.com
+0.0.0.0 www.sillyscrew.com
 0.0.0.0 www.similarsabine.com
 0.0.0.0 www.simplisticnose.com
 0.0.0.0 www.sincerebuffalo.com
@@ -3347,6 +3365,7 @@
 0.0.0.0 www.spywords.com
 0.0.0.0 www.squeamishscarecrow.com
 0.0.0.0 www.squirrelhands.com
+0.0.0.0 www.ss2.us
 0.0.0.0 www.sta-ads.com
 0.0.0.0 www.stakingscrew.com
 0.0.0.0 www.stakingslope.com
