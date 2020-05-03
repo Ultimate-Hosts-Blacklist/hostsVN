@@ -202,6 +202,7 @@ ads.lga.contextweb.com
 ads.linuxjournal.com
 ads.linuxsecurity.com
 ads.mdotm.com
+ads.mediaplayer.one
 ads.moceanads.com
 ads.movieflix.com
 ads.nationalgeographic.com
@@ -379,6 +380,7 @@ api.connatix.com
 api-dev.demandbase.com
 api.dsp.batmobi.net
 api.epom.com
+api-eu-central-1.petametrics.com
 api-eu-west-1.adsnative.com
 api-external-test.demandbase.com
 api.glispa.com
@@ -437,8 +439,8 @@ assets-acceptance.sharethrough.com
 assets.loomia.com
 assets.prebid.org
 assets.sharethrough.com
-assets-staging.sharethrough.com
 assets.staging.sharethrough.com
+assets-staging.sharethrough.com
 associate.microad.jp
 assoc-msdk-fe.amazon-adsystem.com
 assoc-msdk-metrics-us.amazon-adsystem.com
@@ -757,6 +759,7 @@ creativelibrary.millennialmedia.com
 creatives.as4x.tmcs.net
 creative.skyrocket.adtdp.com
 creatives.staging.sharethrough.com
+cript.hotjar.com
 criteo.cignal.io
 crmapi.idsp.inmobi.com
 crm.cleverads.vn
@@ -827,6 +830,7 @@ delightdriving.com
 deliveredby.connectad.io
 deliver.marketo.com
 delivery2.lavanetwork.net
+delivery.hyde.ligatus.com
 delivery.sharks.vn
 demandbase.demandbase.com
 demo.amplitude.com
@@ -978,6 +982,7 @@ ethicalads.net
 ets-ap-southeast-1.smaato.net
 ets-cn-north-1.smaato.net
 ets-cn-north-1.track.smaato.net
+ets-eu-west-1.smaato.net
 ets-us-east-1.smaato.net
 eu-api.swrve.com
 eu-content.swrve.com
@@ -1155,6 +1160,7 @@ iebar.baidu.com
 ifc3.inmobi.com
 ifc-ep.inmobi.com
 ifc.inmobi.com
+igin.startappservice.com
 ih.adk2x.com
 ikcode.baidu.com
 image1.pubmatic.com
@@ -1509,11 +1515,13 @@ nv-ad-hn.24hstatic.com
 nvirginia-callbacks.mobfox.com
 o.analytics.yahoo.com
 oas.foxnews.com
+oas.salon.com
 observium.prd.fyber.com
 ocm.revcontent.com
 oc.umeng.co
 odoo.mangoads.vn
 oem.inmobi.com
+offers.hotjar.com
 og-images.segment.com
 ohgooo.com
 oops.lijit.com
@@ -1522,6 +1530,7 @@ ops-prod-a.us-west-1.k8s.tune.com
 ops-prod-a.us-west-2.k8s.tune.com
 ops-prod.us-west-2.k8s.ops.tune.com
 ops-stage-a.us-east-1.k8s.tune.com
+ops-stage-a.us-west-2.k8s.tune.com
 ops-stage.us-west-2.k8s.ops.tune.com
 optimized-by-adv.rubiconproject.com
 optimized-rtp-us-west.rubiconproject.com
@@ -1534,6 +1543,7 @@ outside.hotjar.com
 ox-d.mediaforge.com
 ox-d.zergnet.com
 p13nlog.dz.optimizely.com
+p1.midasplayer.com
 p2.ad.gt
 p3.server.cpmstar.com
 pa-1.socdm.com
@@ -1632,6 +1642,7 @@ prom.fullstory.com
 proof.mediaz.vn
 propellerad.adk2x.com
 protection-iphone.site
+provideplant.com
 pr.safedk.com
 pr.ydp.yahoo.com
 pso-imbot.inmobi.com
@@ -2188,6 +2199,7 @@ va.px.invitemedia.com
 vars-edgecast.hotjar.com
 vars-sio.hotjar.com
 vasco.send.microad.jp
+vast.adsnative.com
 vastgt.richmediaads.com
 vast.prebid.org
 vast.richmediaads.com
@@ -2210,6 +2222,7 @@ viber.console.adsnative.com
 vibrant.mgr.consensu.org
 vid.atdmt.com
 video.adsrvr.org
+video.aniview.com
 video-aws-staging.fyber.com
 video-cdn.mgid.com
 video.content.ad
@@ -2277,6 +2290,7 @@ www.88-f.net
 www.a3cloud.net
 www.aaddcount.com
 www.aaxads.com
+www.abackchain.com
 www.abandonedclover.com
 www.abruptroad.com
 www.absentstream.com
@@ -2305,6 +2319,7 @@ www.adform.net
 www.adhaven.com
 www.adimg.net
 www.adjuggler.com
+www.adk2x.com
 www.admotion.com.ar
 www.adoptimize.info
 www.adprojekt.pl
@@ -2318,6 +2333,7 @@ www.ads4-adnow.com
 www.ads5-adnow.com
 www.ads.cc
 www.adsdailystkitts.com
+www.adsdk.com
 www.adsellers.net
 www.adservinginternational.com
 www.adsfac.net
@@ -2438,6 +2454,7 @@ www.beabsolom.com
 www.beamkite.com
 www.beeashale.club
 www.bestadbid.com
+www.bestboundary.com
 www.beverly-downing.xyz
 www.bewilderedblade.com
 www.bhcumsc.com
@@ -2637,6 +2654,7 @@ www.familiarfloor.com
 www.famousquarter.com
 www.fanaticalfly.com
 www.farmergoldfish.com
+www.fascinatedfeather.com
 www.faultycanvas.com
 www.faultyfowl.com
 www.fb-promotions.com
@@ -2734,6 +2752,7 @@ www.innocentwax.com
 www.inpagepush.com
 www.instantresp.com
 www.instrumentsponge.com
+www.intentmedia.net
 www.intercomcdn.com
 www.iphone-fix.org
 www.irncdn.com
@@ -2884,11 +2903,13 @@ www.notification-booster.club
 www.notification-cleaner.club
 www.notification-device.club
 www.nr-data.net
+www.ns1p.net
 www.ntv.io
 www.nuttyorganization.com
 www.nxtck.com
 www.oalselry.com
 www.obscenesidewalk.com
+www.observantice.com
 www.oclasrv.com
 www.ocsp.apple.com
 www.offerfusion.com
@@ -2915,6 +2936,7 @@ www.ousseventi.info
 www.overture.com
 www.owlsr.us
 www.padstm.com
+www.pagefair.net
 www.pagerank4u.eu
 www.pagerank-ranking.com
 www.pagerank-submitter.com
@@ -2938,6 +2960,7 @@ www.phone-notification.com
 www.photographpan.com
 www.picadmedia.com
 www.piet2eix3l.com
+www.pietexture.com
 www.pinpoint.us-east-1.amazonaws.com
 www.pippio.com
 www.piquantpigs.com
@@ -2965,6 +2988,7 @@ www.protection-iphone.site
 www.protection-phone.fun
 www.protection-phone.site
 www.providentsopport.site
+www.provideplant.com
 www.psstt.com
 www.pubmine.com
 www.pub.network
@@ -3043,6 +3067,7 @@ www.scrubsky.com
 www.scrubswim.com
 www.sc-static.net
 www.seaboblit.com
+www.seadform.net
 www.searchfeast.com
 www.secretspiders.com
 www.securedashfuyiersa.com
@@ -3053,6 +3078,7 @@ www.selectivesummer.com
 www.semasio.net
 www.servedby.advertising.com
 www.servedby-buysellads.com
+www.serving1.net
 www.sexaddpro.de
 www.shakytaste.com
 www.shallowschool.com
@@ -3072,6 +3098,7 @@ www.similarsabine.com
 www.sincerebuffalo.com
 www.sincerespy.com
 www.sitemerkezi.net
+www.sitestat.com
 www.sixscissors.com
 www.sleepcartoon.com
 www.slipperysack.com
@@ -3126,6 +3153,7 @@ www.swordgoose.com
 www.sworkitads.herokuapp.com
 www.syyycc.com
 www.tangibleteam.com
+www.tapjoyads.com
 www.tastefulsongs.com
 www.tawdryson.com
 www.taxel.jp
