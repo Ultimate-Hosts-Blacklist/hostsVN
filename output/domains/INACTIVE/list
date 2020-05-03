@@ -203,6 +203,7 @@ ads.mdotm.com
 ads.moceanads.com
 ads.movieflix.com
 ads.nationalgeographic.com
+ads.netclusive.de
 ads.netmechanic.com
 ads.newdream.net
 ads.newtention.net
@@ -250,6 +251,7 @@ adtech.advertising.com
 ad.thewheelof.com
 adthink.adk2x.com
 adto.adk2x.com
+ad.top50.to
 adtracker.inmobi.com
 adultadmedia.com
 advantech.vo.llnwd.net
@@ -455,6 +457,7 @@ autodiscover.mm.marketo.com
 autopilot.dz.optimizely.com
 avr2.smaato.net
 avr3.smaato.net
+avr.smaato.net
 avvn.innity.com
 awesome.bizible.com
 aws-adserver-origin.adtechjp.com
@@ -490,6 +493,7 @@ banners.ebay.com
 banners.lifeserv.com
 banners.sexsearch.com
 bannertest.adtechus.com
+banner.vietad.vn
 banner.wirenode.com
 b.aol.com
 b.apptentive.com
@@ -565,6 +569,7 @@ bw.bidder.inmobi.com
 bw-euwest-bidder.appd.inmobi.com
 bw-useast-bidder.appd.inmobi.com
 bw-uswest-bidder.appd.inmobi.com
+c1.bitmedia.io
 ca.adserver.yahoo.com
 cache.adserver.yahoo.com
 cameri.advertserve.com
@@ -593,6 +598,7 @@ cdn.accelerator.arsdev.net
 cdn.adasiaholdings.com
 cdn.adk2x.com
 cdn.adsaro.net
+cdn.adsnative.com
 cdna.mdotm.com
 cdn-ap.33across.com
 cdn.bebi.com
@@ -732,6 +738,7 @@ cpmcontrol.adk2x.com
 cpm-exchange.adflex.asia
 cpmrocket.adk2x.com
 cpm-track.adflex.asia
+cpp.imp.mpx.mopub.com
 cpro.baidu.cn
 crash.amplitude.com
 creative.ak.facebook.com
@@ -766,6 +773,7 @@ cxi-api-demo.wootric.com
 cybertraff.advertserve.com
 d3.adsplay.xyz
 d5.server.cpmstar.com
+d6.adsplay.xyz
 d.adgrx.com
 d.analytics.yahoo.com
 dashboard.alpha.branch.io
@@ -874,6 +882,7 @@ dmp4.adop.cc
 dmp.adop.cc
 dmp-eu.adform.net
 dmx.eu-west-1.districtm.io
+dmx.us-east-2.districtm.io
 dmx.us-west-1.districtm.io
 dna1.mookie1.com
 dna2.mookie1.com
@@ -907,9 +916,11 @@ dtzads.adk2x.com
 du.88-f.net
 dw.adsafeprotected.com
 dynalyst-auc.adtdp.com
+dynalyst-imp-us.adtdp.com
 dyn-message.mathtag.com
 dyn-pixel.mathtag.com
 e1.komoona.com
+e3.geo.adpushup.com
 ead.qa.sharethis.com
 ead.sharethis.com
 ea.logging.admicro.vn
@@ -1038,6 +1049,7 @@ gbanners.hornymatches.com
 gbc.criteo.net
 gd1.mookie1.com
 gemini.yahoo.com
+geoinfo.i2w.io
 geoloc.ayads.co
 geo.smaato.net
 get.hotjar.com
@@ -1322,6 +1334,7 @@ lookbookhq.demandbase.com
 lopsidedspoon.com
 lorigin.collective-media.net
 lp.xapads.com
+lw2cdn.cpmstar.com
 lw3cdn.cpmstar.com
 lwcdn.cpmstar.com
 m12n.servebom.com
@@ -1495,6 +1508,7 @@ ops-prod.us-west-2.k8s.ops.tune.com
 ops-stage-a.us-east-1.k8s.tune.com
 ops-stage.us-west-2.k8s.ops.tune.com
 optimized-by-adv.rubiconproject.com
+optimized-rtp-us-west.rubiconproject.com
 orange-fr.adinfuse.com
 orangeuk-mc.adinfuse.com
 origin-ui.revcontent.com
@@ -1523,6 +1537,7 @@ partners.web.analytics.yahoo.com
 partner.topcities.com
 partner.vietnamnetad.vn
 payment.rungrinh.vn
+pb.bilsyndication.com
 pbbl.agkn.com
 pb.breaktime.com.tw
 pbs.dc-1.net
@@ -1897,8 +1912,8 @@ start.adpushup.com
 start.siftscience.com
 stat.dsp.batmobi.net
 static-2.3lift.com
-static-acceptance.sharethrough.com
 static.acceptance.sharethrough.com
+static-acceptance.sharethrough.com
 static.adpushup.com
 static.adsnative.com
 static.asia.rtbid.me
@@ -1914,6 +1929,7 @@ stats-cluster.mediaforge.com
 stats-d1316.epom.com
 stats-d1328.epom.com
 stats-d1345.epom.com
+stats-d272.epom.com
 stats.directnic.com
 stats-dss1402.epom.com
 stats.jscount.com
@@ -2043,6 +2059,7 @@ tracking.adxxx.com
 tracking.a-mo.net
 tracking.cp.ligatus.com
 tracking.hyde.ligatus.com
+tracking.i2w.io
 tracking.msadcenter.msn.com
 tracking.servebom.com
 tracking-thirdparty.i2w.io
@@ -2089,6 +2106,7 @@ uk.doubleclick.net
 ukp.rtb.adsrvr.org
 ulic.baidu.com
 ulv.statistics.aatkit.com
+ums-toy.adtechjp.com
 unit.content-ad.net
 unlockme.corp.inmobi.com
 unveilmedia.mgr.consensu.org
@@ -2165,11 +2183,11 @@ video-aws-staging.fyber.com
 video-cdn.mgid.com
 video.content.ad
 videology.ndf.weborama.com
-videos.acceptance.sharethrough.com
 videos-acceptance.sharethrough.com
+videos.acceptance.sharethrough.com
 videos.sharethrough.com
-videos-staging.sharethrough.com
 videos.staging.sharethrough.com
+videos-staging.sharethrough.com
 vietad.vn
 vi.gumgum.com
 vip1.tw.adserver.yahoo.com
@@ -2297,6 +2315,7 @@ www.ailalbapt.club
 www.aimaniape.club
 www.aimaptair.club
 www.airartapt.site
+www.aiservice.vn
 www.aistat.net
 www.aj1099.online
 www.aj1101.online
@@ -2642,6 +2661,7 @@ www.htmlhubing.xyz
 www.hubapi.com
 www.hurtteeth.com
 www.hystericalhelp.com
+www.i1img.com
 www.iad.apple.com
 www.iadsdk.apple.com
 www.iasds01.com
@@ -2661,6 +2681,7 @@ www.imrworldwide.com
 www.imrworldwide.com.au
 www.inabsolor.com
 www.incrediblesugar.com
+www.indexstats.com
 www.indexww.com
 www.inmobicdn.com
 www.inmobicdn.net
@@ -2834,6 +2855,7 @@ www.online-metrix.net
 www.on-mobi.com
 www.onvictinitor.com
 www.oodsotso.com
+www.opecloud.com
 www.operationkettle.com
 www.opsivesh.net
 www.optad360.io
@@ -3020,6 +3042,7 @@ www.spidersboats.com
 www.spiffymachine.com
 www.spirebaboon.com
 www.spotscenered.info
+www.spurioussteam.com
 www.spywords.com
 www.squeamishscarecrow.com
 www.squirrelhands.com
@@ -3115,6 +3138,7 @@ www.villandoping.site
 www.vinaads.vn
 www.vi-serve.com
 www.vmweb.net
+www.vntsm.com
 www.voicevegetable.com
 wwww.a-ads.com
 www.wantmobi.bid
