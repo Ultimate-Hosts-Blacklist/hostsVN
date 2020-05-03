@@ -84,6 +84,7 @@ adi.mainichi.co.jp
 aditmedia.go2afse.com
 ad.leadboltmobile.net
 ad.lijit.com
+ad-m.24hstatic.com
 admaven.adk2x.com
 adm.cnzz.com
 admeta.vo.llnwd.net
@@ -236,6 +237,7 @@ ads.sptimes.com
 ads.stationplay.com
 ads.telegraph.co.uk
 ads.timeout.com
+ad-stinger.prod.bidr.io
 ads.tinmoi.vn
 adstrac.adk2x.com
 ads.v3.com
@@ -266,6 +268,7 @@ adwords.mediaz.vn
 adworx.be
 adwww.pubnative.net
 ad.youtube.com
+ae-gb.adskeeper.co.uk
 ae-gb.mgid.com
 aff.creativecdn.com
 affiliate.7host.com
@@ -387,6 +390,7 @@ apis-ci.web.analytics.yahoo.com
 api.sharethis.com
 apis.sharethrough.com
 api-ssl.demandbase.com
+apis.staging.sharethrough.com
 api.staging.connatix.com
 api-staging.playbuzz.com
 apis.web.analytics.yahoo.com
@@ -426,8 +430,8 @@ assets-acceptance.sharethrough.com
 assets.loomia.com
 assets.prebid.org
 assets.sharethrough.com
-assets.staging.sharethrough.com
 assets-staging.sharethrough.com
+assets.staging.sharethrough.com
 associate.microad.jp
 assoc-msdk-fe.amazon-adsystem.com
 assoc-msdk-metrics-us.amazon-adsystem.com
@@ -516,6 +520,7 @@ bevo.adsnative.com
 bevo-ap-southeast-1.adsnative.com
 bevo-eu-west-1.adsnative.com
 bevo-us-central1.adsnative.com
+bevo-us-east-1.adsnative.com
 bfp.bidgear.com
 bh1.doubleclick.net
 biddr.socdm.com
@@ -645,6 +650,7 @@ clicktrack.bnmla.com
 click.uniad.vn
 client.build.optimizely.com
 client-error-log.dz.optimizely.com
+client.fff.com.vn
 clientmanagement.aws.lijit.com
 client.optimizely.com
 client-portal.fuseplatform.net
@@ -668,6 +674,7 @@ c.microsoft.com
 cmp.redpineapplemedia.mgr.consensu.org
 cmp.sibboventures.mgr.consensu.org
 cm.revcontent.com
+cms.advertising.com
 cms.laydata.com
 cms.vinaads.vn
 cm-us-central1.adsnative.com
@@ -1084,6 +1091,7 @@ hdl1.midasplayer.com
 heisenberg.cdn.inmobi.com
 heisenberg.inmobi.com
 heisenberg-uswest.cdn.inmobi.com
+hezuo.cnzz.com
 highpin.growingio.com
 hit-ranking.de
 hk.adserver.yahoo.com
@@ -1201,6 +1209,7 @@ intergi-sb-ec.adtechus.com
 int.midasplayer.com
 intouch.adinfuse.com
 int.propellerads.com
+intra.fyber.com
 i.po.st
 iqreport.adtechus.com
 ir-na.amazon-adsystems.com
@@ -1222,6 +1231,7 @@ jp.doubleclick.net
 jp.mediaforge.com
 js.adskeeper.co.uk
 js.analytics.yahoo.com
+js.atf.microad.jp
 j-serval.adtdp.com
 js.mobojoy.baidu.com
 jssourcetest-bg.web.analytics.yahoo.com
@@ -1257,6 +1267,7 @@ lb.midasplayer.com
 lbnative.bidtellect.com
 lb-si.mdotm.com
 lb-sj.mdotm.com
+lb-us-east1-00.bigsea.weborama.com
 lb-us-east1-02.bigsea.weborama.com
 lb-wdc.mdotm.com
 lb-www2.mdotm.com
@@ -1278,6 +1289,7 @@ lga-ads-weighted.contextweb.com
 lga-bh-weighted.contextweb.com
 lga-bid-weighted.contextweb.com
 lga.contextweb.com
+lga-tag-stage00.contextweb.com
 lick.startappservice.com
 linear-dev-v2.dev.linear.aws.fwmrm.net
 linear-stg.stg.linear.aws.fwmrm.net
@@ -1285,6 +1297,7 @@ link.ad-brix.com
 link.alpha.branch.io
 link.beta.branch.io
 liuyan.cnzz.com
+liverail.bid.invitemedia.com
 liverail.rtb.tapad.com
 ll.startappservice.com
 lmi.advertserve.com
@@ -1331,6 +1344,7 @@ main.optvx.com
 m.ambientplatform.vn
 manage.problem.securedashfuyiersa.com
 manwaringweb.advertserve.com
+maplefarmmedia.com
 marathon.prd.fyber.com
 marketing.demandbase.com
 marketing.heapanalytics.com
@@ -1597,6 +1611,7 @@ publift.fuseplatform.net
 publisher.advertising.com
 pubportal.advertising.com
 pubs.lemonde.fr
+pubster.twitch.tv
 pub.uniad.vn
 pulse-uat.inmobi.com
 puppet.aws.branch.io
@@ -1807,6 +1822,7 @@ sng-vpn.appdynamics.com
 snopes.s1.proper.io
 snwmedia.adk2x.com
 so.2mdn.net
+socialab.sharethis.com
 social-data-collection.playbuzz.com
 socialhub.innity.com
 socialhub.innity.net
@@ -1846,6 +1862,7 @@ s.send.microad.jp
 ssltest.branch.io
 ssp.ad.xiaomi.com
 ssp.content.ad
+ssp.content-ad.net
 ssp-fe-us-e1.content.ad
 ssp-fe-us-e2.content.ad
 ssp.microad.jp
@@ -1920,8 +1937,8 @@ stg-y.analytics.yahoo.com
 stmp.ad.daum.net
 st.n.ads1-adnow.com
 st.n.ads3-adnow.com
-st-n.ads4-adnow.com
 st.n.ads4-adnow.com
+st-n.ads4-adnow.com
 st.n.ads5-adnow.com
 sto.midasplayer.com
 streamate.doublepimp.com
@@ -2034,6 +2051,7 @@ track.msadcenter.eqq.com
 track-premiumdsp.ibillboard.com
 track.publeadmedia.com
 track.statistics.aatkit.com
+trackv3.aniview.com
 track.vatgia.com
 trafficcdn.liveuniversenetwork.com
 trafficedge.adk2x.com
@@ -2147,8 +2165,8 @@ video-aws-staging.fyber.com
 video-cdn.mgid.com
 video.content.ad
 videology.ndf.weborama.com
-videos-acceptance.sharethrough.com
 videos.acceptance.sharethrough.com
+videos-acceptance.sharethrough.com
 videos.sharethrough.com
 videos-staging.sharethrough.com
 videos.staging.sharethrough.com
@@ -2501,6 +2519,7 @@ www.deqik.com
 www.desertedbreath.com
 www.desertedrat.com
 www.detailedglue.com
+www.detailedgovernment.com
 www.dexchangenic.com
 www.dfnhosting.com
 www.diamonddentpress.com
@@ -2602,6 +2621,7 @@ www.greyinstrument.com
 www.gssprt.jp
 www.guardedschool.com
 www.guitarbelieve.com
+www.hammerhearing.com
 www.handyfield.com
 www.hardtofindmilk.com
 www.harrenmedianetwork.com
@@ -2701,6 +2721,7 @@ www.lumpyleaf.com
 www.made2you.com
 www.magnificentmist.com
 www.mancehostic.site
+www.maplefarmmedia.com
 www.marfeelcache.com
 www.marfeelrev.com
 www.markedcrayon.com
@@ -2885,6 +2906,7 @@ www.puffypurpose.com
 www.pushazam.com
 www.pushazer.com
 www.pushlum.com
+www.pushno.com
 www.pushokey.com
 www.pushqwer.com
 www.quacksquirrel.com
@@ -3074,6 +3096,7 @@ www.ultramercial.com
 www.ultraoranges.com
 www.ultsearch.com
 www.umeng.co
+www.unreshiramor.com
 www.untidyquestion.com
 www.unwrittenspot.com
 www.updated.com
