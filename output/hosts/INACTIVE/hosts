@@ -186,6 +186,7 @@
 0.0.0.0 adserver-live.yoc.mobi
 0.0.0.0 adserver.motorpresse.de
 0.0.0.0 adserver.nexage.com
+0.0.0.0 adserver-origin.adtechjp.com
 0.0.0.0 adserver-origin-ap-northeast-1.adtechjp.com
 0.0.0.0 adserver-origin-ap-southeast-1.adtechjp.com
 0.0.0.0 adserver.portalofevil.com
@@ -490,8 +491,8 @@
 0.0.0.0 assets.prebid.org
 0.0.0.0 assets.publift.com
 0.0.0.0 assets.sharethrough.com
-0.0.0.0 assets-staging.sharethrough.com
 0.0.0.0 assets.staging.sharethrough.com
+0.0.0.0 assets-staging.sharethrough.com
 0.0.0.0 associate.microad.jp
 0.0.0.0 assoc-msdk-fe.amazon-adsystem.com
 0.0.0.0 assoc-msdk-metrics-us.amazon-adsystem.com
@@ -1220,6 +1221,7 @@
 0.0.0.0 goubunto.aniview.com
 0.0.0.0 goviral.hs.llnwd.net
 0.0.0.0 go.weborama.com
+0.0.0.0 gparse.propellerads.com
 0.0.0.0 gpe.midasplayer.com
 0.0.0.0 gr.adserver.yahoo.com
 0.0.0.0 grafana.prd.fyber.com
@@ -1512,6 +1514,7 @@
 0.0.0.0 logb3.vietad.vn
 0.0.0.0 log.client.optimizely.com
 0.0.0.0 logging.adrecover.com
+0.0.0.0 logging.vungle.com
 0.0.0.0 loghost.in.backtrace.io
 0.0.0.0 logo.demandbase.com
 0.0.0.0 logs.cln.unionstatistics.com
@@ -1717,6 +1720,7 @@
 0.0.0.0 optimized-rtp-us-west.rubiconproject.com
 0.0.0.0 orange-fr.adinfuse.com
 0.0.0.0 orangeuk-mc.adinfuse.com
+0.0.0.0 ord1.powerlinks.com
 0.0.0.0 origin.collective-media.net
 0.0.0.0 origin-ui.revcontent.com
 0.0.0.0 os.dev.midasplayer.com
@@ -2172,16 +2176,16 @@
 0.0.0.0 start.siftscience.com
 0.0.0.0 stat.dsp.batmobi.net
 0.0.0.0 static-2.3lift.com
-0.0.0.0 static-acceptance.sharethrough.com
 0.0.0.0 static.acceptance.sharethrough.com
+0.0.0.0 static-acceptance.sharethrough.com
 0.0.0.0 static.adpushup.com
 0.0.0.0 static.adsnative.com
 0.0.0.0 static.asia.rtbid.me
 0.0.0.0 static.bilsyndication.com
 0.0.0.0 static.blog.sharethis.com
 0.0.0.0 static.ny.us.criteo.net
-0.0.0.0 static.premiumdsp.ibillboard.com
 0.0.0.0 static-premiumdsp.ibillboard.com
+0.0.0.0 static.premiumdsp.ibillboard.com
 0.0.0.0 static.propellerads.com
 0.0.0.0 static-sio.hotjar.com
 0.0.0.0 static-ssl.exoclick.com
@@ -2223,8 +2227,8 @@
 0.0.0.0 stmp.ad.daum.net
 0.0.0.0 st.n.ads1-adnow.com
 0.0.0.0 st.n.ads3-adnow.com
-0.0.0.0 st.n.ads4-adnow.com
 0.0.0.0 st-n.ads4-adnow.com
+0.0.0.0 st.n.ads4-adnow.com
 0.0.0.0 st.n.ads5-adnow.com
 0.0.0.0 sto.midasplayer.com
 0.0.0.0 st-rbc-api-data.pingdom.net
@@ -2486,8 +2490,8 @@
 0.0.0.0 videos.acceptance.sharethrough.com
 0.0.0.0 videos-acceptance.sharethrough.com
 0.0.0.0 videos.sharethrough.com
-0.0.0.0 videos-staging.sharethrough.com
 0.0.0.0 videos.staging.sharethrough.com
+0.0.0.0 videos-staging.sharethrough.com
 0.0.0.0 vi.dev.fwmrm.net
 0.0.0.0 vidstream.advertserve.com
 0.0.0.0 vietad.vn
@@ -2838,6 +2842,7 @@
 0.0.0.0 www.contehos.com
 0.0.0.0 www.content-ad.net
 0.0.0.0 www.contineljs.com
+0.0.0.0 www.convrse.media
 0.0.0.0 www.coordinatedcub.com
 0.0.0.0 www.copperchickens.com
 0.0.0.0 www.copycarpenter.com
@@ -2947,6 +2952,7 @@
 0.0.0.0 www.ellads.com
 0.0.0.0 www.ellcurvth.com
 0.0.0.0 www.emxdgt.com
+0.0.0.0 www.encouragingwilderness.com
 0.0.0.0 www.endurableshop.com
 0.0.0.0 www.enthusiasticdad.com
 0.0.0.0 www.enviousthread.com
@@ -3360,6 +3366,7 @@
 0.0.0.0 www.rapidkittens.com
 0.0.0.0 www.raresummer.com
 0.0.0.0 www.readgoldfish.com
+0.0.0.0 www.readingguilt.com
 0.0.0.0 www.readingopera.com
 0.0.0.0 www.readymoon.com
 0.0.0.0 www.realtracker.com
