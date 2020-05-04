@@ -6797,7 +6797,7 @@
     "displayadsmedia.com": {
         "epoch": 1584230400.0,
         "expiration_date": "15-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "displaypagerank.com": {
         "epoch": 1602028800.0,
@@ -8105,8 +8105,8 @@
         "state": "past"
     },
     "fleshlightcash.com": {
-        "epoch": 1588464000.0,
-        "expiration_date": "03-may-2020",
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
         "state": "future"
     },
     "flexbanner.com": {
@@ -14737,6 +14737,11 @@
     "riverhit.com": {
         "epoch": 1633651200.0,
         "expiration_date": "08-oct-2021",
+        "state": "future"
+    },
+    "rkdms.com": {
+        "epoch": 1612742400.0,
+        "expiration_date": "08-feb-2021",
         "state": "future"
     },
     "rlcdn.com": {
