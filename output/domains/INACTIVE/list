@@ -463,8 +463,8 @@ apis-ci.web.analytics.yahoo.com
 api.sharethis.com
 apis.sharethrough.com
 api-ssl.demandbase.com
-apis-staging.sharethrough.com
 apis.staging.sharethrough.com
+apis-staging.sharethrough.com
 api.staging.connatix.com
 api-staging.playbuzz.com
 apis.web.analytics.yahoo.com
@@ -512,8 +512,8 @@ assets.loomia.com
 assets.prebid.org
 assets.publift.com
 assets.sharethrough.com
-assets.staging.sharethrough.com
 assets-staging.sharethrough.com
+assets.staging.sharethrough.com
 associate.microad.jp
 assoc-msdk-fe.amazon-adsystem.com
 assoc-msdk-metrics-us.amazon-adsystem.com
@@ -546,6 +546,7 @@ avvn.innity.com
 awesome.bizible.com
 aws-adserver-origin.adtechjp.com
 aws-adserver-origin-ap-northeast-1.adtechjp.com
+aws-adserver-origin-ap-southeast-1.adtechjp.com
 aws-cni-test.us-west-2.k8s.ops.tune.com
 aws.playbuzz.com
 aws-production-banner-server-eu-west-1.banner-server.fyber.com
@@ -1223,6 +1224,7 @@ gateway.supersonicads.com
 gateway.twik.io
 gbanners.hornymatches.com
 gbc.criteo.net
+gcp-ad.doublemax.net
 gd1.mookie1.com
 gemini.yahoo.com
 geoinfo.i2w.io
@@ -1287,6 +1289,7 @@ haproxy003.sjc4.collective-media.net
 harvardbp.vo.llnwd.net
 has1.midasplayer.com
 hb-endpoint-elb-307841411.adomik.com
+hb.fidelity-media.com
 hb-imp.bidgear.com
 hbpub.vo.llnwd.net
 hbt.firstimpression.io
@@ -2207,6 +2210,7 @@ ssp.microad.jp
 ssp-px.content.ad
 ssp-test-be.bidswitch.net
 ssp-test-or.bidswitch.net
+ssp-test-sc.bidswitch.net
 sta-ads.com
 stage.adtag.ad-stir.com
 stage-bevo.adsnative.com
@@ -2238,16 +2242,16 @@ start.adrecover.com
 start.siftscience.com
 stat.dsp.batmobi.net
 static-2.3lift.com
-static.acceptance.sharethrough.com
 static-acceptance.sharethrough.com
+static.acceptance.sharethrough.com
 static.adpushup.com
 static.adsnative.com
 static.asia.rtbid.me
 static.bilsyndication.com
 static.blog.sharethis.com
 static.ny.us.criteo.net
-static.premiumdsp.ibillboard.com
 static-premiumdsp.ibillboard.com
+static.premiumdsp.ibillboard.com
 static.propellerads.com
 static-sio.hotjar.com
 static-ssl.exoclick.com
@@ -2289,8 +2293,8 @@ stkjw.net
 stmp.ad.daum.net
 st.n.ads1-adnow.com
 st.n.ads3-adnow.com
-st.n.ads4-adnow.com
 st-n.ads4-adnow.com
+st.n.ads4-adnow.com
 st.n.ads5-adnow.com
 sto.midasplayer.com
 st-rbc-api-data.pingdom.net
@@ -2420,6 +2424,7 @@ track.mobfox.com
 track.msadcenter.eqq.com
 track-premiumdsp.ibillboard.com
 track.publeadmedia.com
+track.srv.vietnamnet.vn
 track.statistics.aatkit.com
 trackv3.aniview.com
 track.vatgia.com
@@ -2556,8 +2561,8 @@ video.batmobi.net
 video-cdn.mgid.com
 video.content.ad
 videology.ndf.weborama.com
-videos.acceptance.sharethrough.com
 videos-acceptance.sharethrough.com
+videos.acceptance.sharethrough.com
 videos.sharethrough.com
 videos.staging.sharethrough.com
 videos-staging.sharethrough.com
@@ -2668,6 +2673,7 @@ www.adhaven.com
 www.adimg.net
 www.adjuggler.com
 www.adk2x.com
+www.adlike.com
 www.admerize.be
 www.admotion.com.ar
 www.adoptimize.info
@@ -3612,6 +3618,7 @@ www.structurerod.com
 www.stupendoussleet.com
 www.suavalds.com
 www.suddensidewalk.com
+www.sugarcurtain.com
 www.suitarserviku.site
 www.sukientraogiaizalo.com
 www.sulkybutter.com
@@ -3733,6 +3740,7 @@ www.widdit.com
 www.wirecomic.com
 www.womanear.com
 www.wonderlandads.com
+www.worriednumber.com
 www.worrybutter.com
 www.wowreality.info
 www.wpu.sh
