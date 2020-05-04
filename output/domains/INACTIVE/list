@@ -270,6 +270,7 @@ adsrv-us-west.tapad.com
 ads.s3.sitepoint.com
 ads.savannahnow.com
 ads.sjc.contextweb.com
+ads.slim.com
 ads.smaato.net
 ads.sptimes.com
 ads.stationplay.com
@@ -357,6 +358,7 @@ al1.sharethis.com
 alav.propellerads.com
 albawaba.advertserve.com
 alea.adam.ad.daum.net
+alexa.propellerads.com
 al-gb.adskeeper.co.uk
 allan1qa.midasplayer.com
 alldcs-distinct.outbrain.com
@@ -403,6 +405,7 @@ answersden.indexexchange.com
 an.tacoda.net
 anticarredodolomiti.com
 anvil.rubiconproject.com
+ao-gb.adskeeper.co.uk
 ap.33across.com
 apac.analytics.yahoo.com
 apac-sg.bidswitch.net
@@ -448,6 +451,7 @@ apis-ci.web.analytics.yahoo.com
 api.sharethis.com
 apis.sharethrough.com
 api-ssl.demandbase.com
+apis-staging.sharethrough.com
 apis.staging.sharethrough.com
 api.staging.connatix.com
 api-staging.playbuzz.com
@@ -769,6 +773,7 @@ cmap.at.ace.advertising.com
 cmap.dc.ace.advertising.com
 cmap.ox.ace.advertising.com
 cmap.pub.ace.advertising.com
+cmap.rub.ace.advertising.com
 c.mdotm.com
 cm.doublemax.net
 c.microsoft.com
@@ -963,6 +968,7 @@ dev.demobuilder.gumgum.com
 dev-desk.adasiaholdings.com
 dev-dmx.districtm.io
 developer.pubnative.net
+developer.sharethis.com
 developers.mobileapptracking.com
 developers.supersonicads.com
 develop.twik.io
@@ -1012,6 +1018,7 @@ dmx.us-west-1.districtm.io
 dna1.mookie1.com
 dna2.mookie1.com
 dna3.mookie1.com
+dnads.directnic.com
 dn.komoona.com
 dns4.weborama.com
 docker-registry.adswizz.com
@@ -1361,8 +1368,8 @@ inapp.districtm.io
 incrediblesugar.com
 infinity-dev.youbora.com
 infosec.corp.inmobi.com
-i.n.jwpltx.com
 in.jwpltx.com
+i.n.jwpltx.com
 inline.sharethis.com
 in.meet.ssl2.duapps.com
 inplay-rcv01.scanscout.com
@@ -1496,6 +1503,7 @@ lifestyleexpress.advertserve.com
 lift.mixpanel.com
 linear-dev-v2.dev.linear.aws.fwmrm.net
 linear-stg.stg.linear.aws.fwmrm.net
+link.activision.swrve.com
 link.ad-brix.com
 link.alpha.branch.io
 link.beta.branch.io
@@ -1597,6 +1605,7 @@ memorix.sdv.fr
 metabase.simpleanalytics.io
 mf.adsymptotic.com
 mgr.consensu.org
+mgt.midasplayer.com
 mi1.midasplayer.com
 mi2.midasplayer.com
 mi3.midasplayer.com
@@ -1673,6 +1682,7 @@ new.api.ad.xiaomi.com
 new.clicksor.com
 new.hotjar.com
 news.genapi.euapi.pubnative.net
+newsite.instartlogic.com
 newsmax.bevo.adsnative.com
 newsmax.cdn.adsnative.com
 new-www.outbrain.com
@@ -1928,6 +1938,7 @@ results.optimizely.com
 rev2pub.adk2x.com
 revenuehits.adk2x.com
 revenuetool.aatkit.com
+revive.yieldlove-ad-serving.net
 rewards.advertserve.com
 rfm.rubiconproject.com
 ris-gateway.supersonicads.com
@@ -2074,6 +2085,7 @@ simplisticnose.com
 s.infogr.am
 sitebrand.geeks.com
 sitemerkezi.net
+site.qwapi.com
 sitesynctest.wywy.com
 sitesync.wywy.com
 sj16.bnmla.com
@@ -2171,12 +2183,14 @@ staging.dashboard.clevertap.com
 staging.demandbase.com
 staging-eu-gce.bidswitch.net
 staging-eu-gce-sync.bidswitch.net
+staging-gce-be.bidswitch.net
 staging-p.alcmpn.com
 staging.pluto.mgr.consensu.org
 staging.snip.answers.com
 staging-sync.alcmpn.com
 staging.twik.io
 staging-video-broker.fyber.com
+sta.midasplayer.com
 stamp1-azure-ext.newrelic.com
 stamp2-azure-ext.newrelic.com
 start.adpushup.com
@@ -2184,21 +2198,21 @@ start.adrecover.com
 start.siftscience.com
 stat.dsp.batmobi.net
 static-2.3lift.com
-static.acceptance.sharethrough.com
 static-acceptance.sharethrough.com
+static.acceptance.sharethrough.com
 static.adpushup.com
 static.adsnative.com
 static.asia.rtbid.me
 static.bilsyndication.com
 static.blog.sharethis.com
 static.ny.us.criteo.net
-static.premiumdsp.ibillboard.com
 static-premiumdsp.ibillboard.com
+static.premiumdsp.ibillboard.com
 static.propellerads.com
 static-sio.hotjar.com
 static-ssl.exoclick.com
-static.staging.sharethrough.com
 static-staging.sharethrough.com
+static.staging.sharethrough.com
 static.trackers.adtarget.me
 static.wywy.com
 statistics.dev.aatkit.com
@@ -2432,6 +2446,7 @@ use-foreman4.use.adsrvr.org
 userdata-maxis.krxd.net
 userdocs.urbanairship.com
 usermatch-prod.targeting.unrulymedia.com
+usermatch-spike.targeting.unrulymedia.com
 us.gmads.mookie1.com
 usmsad.tom.com
 us.ndf.weborama.com
@@ -2496,8 +2511,8 @@ video.batmobi.net
 video-cdn.mgid.com
 video.content.ad
 videology.ndf.weborama.com
-videos.acceptance.sharethrough.com
 videos-acceptance.sharethrough.com
+videos.acceptance.sharethrough.com
 videos.sharethrough.com
 videos.staging.sharethrough.com
 videos-staging.sharethrough.com
@@ -2671,6 +2686,7 @@ www.aj1773.online
 www.aj1795.online
 www.aj1796.online
 www.aj1797.online
+www.aj1832.online
 www.aj1835.online
 www.aj1836.online
 www.aj1858.online
@@ -2945,6 +2961,7 @@ www.dragzebra.com
 www.drydrum.com
 www.dsp.io
 www.dspmulti.com
+www.dtxngr.com
 www.du8783wkf05yr.cloudfront.net
 www.earthquakescarf.com
 www.earthycopy.com
@@ -2968,6 +2985,7 @@ www.enthusiasticdad.com
 www.enviousthread.com
 www.errortablet.com
 www.ethicalads.net
+www.euroclick.com
 www.eventbeacon.ca
 www.excellentpub.com
 www.exclusivebrass.com

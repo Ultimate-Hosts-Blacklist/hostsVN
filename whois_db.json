@@ -2804,6 +2804,11 @@
         "expiration_date": "04-oct-2020",
         "state": "future"
     },
+    "aj1431.online": {
+        "epoch": 1606521600.0,
+        "expiration_date": "28-nov-2020",
+        "state": "future"
+    },
     "aj1432.online": {
         "epoch": 1606521600.0,
         "expiration_date": "28-nov-2020",
@@ -2930,8 +2935,8 @@
         "state": "future"
     },
     "aj1832.online": {
-        "epoch": 1587859200.0,
-        "expiration_date": "26-apr-2020",
+        "epoch": 1619395200.0,
+        "expiration_date": "26-apr-2021",
         "state": "future"
     },
     "aj1835.online": {
@@ -6749,6 +6754,11 @@
         "expiration_date": "04-jun-2020",
         "state": "future"
     },
+    "directionforest.com": {
+        "epoch": 1606176000.0,
+        "expiration_date": "24-nov-2020",
+        "state": "future"
+    },
     "directivepub.com": {
         "epoch": 1590192000.0,
         "expiration_date": "23-may-2020",
@@ -7047,6 +7057,11 @@
     "dtstesting.com": {
         "epoch": 1835827200.0,
         "expiration_date": "05-mar-2028",
+        "state": "future"
+    },
+    "dtxngr.com": {
+        "epoch": 1609718400.0,
+        "expiration_date": "04-jan-2021",
         "state": "future"
     },
     "duapps.com": {
@@ -10600,8 +10615,8 @@
         "state": "future"
     },
     "lem-computers.net": {
-        "epoch": 1586131200.0,
-        "expiration_date": "06-apr-2020",
+        "epoch": 1617667200.0,
+        "expiration_date": "06-apr-2021",
         "state": "future"
     },
     "leslascarsgays.fr": {
@@ -12335,8 +12350,8 @@
         "state": "future"
     },
     "n1809adserv.xyz": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
         "state": "future"
     },
     "n1835adserv.xyz": {
@@ -14352,6 +14367,11 @@
     "rate.ru": {
         "epoch": 1596240000.0,
         "expiration_date": "01-aug-2020",
+        "state": "future"
+    },
+    "ravenad.com": {
+        "epoch": 1592438400.0,
+        "expiration_date": "18-jun-2020",
         "state": "future"
     },
     "rayjump.com": {
@@ -17190,8 +17210,8 @@
         "state": "future"
     },
     "trafficswarm.com": {
-        "epoch": 1584748800.0,
-        "expiration_date": "21-mar-2020",
+        "epoch": 1616284800.0,
+        "expiration_date": "21-mar-2021",
         "state": "future"
     },
     "traffictrader.net": {

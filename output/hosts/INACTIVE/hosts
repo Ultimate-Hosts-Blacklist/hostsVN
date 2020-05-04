@@ -270,6 +270,7 @@
 0.0.0.0 ads.s3.sitepoint.com
 0.0.0.0 ads.savannahnow.com
 0.0.0.0 ads.sjc.contextweb.com
+0.0.0.0 ads.slim.com
 0.0.0.0 ads.smaato.net
 0.0.0.0 ads.sptimes.com
 0.0.0.0 ads.stationplay.com
@@ -357,6 +358,7 @@
 0.0.0.0 alav.propellerads.com
 0.0.0.0 albawaba.advertserve.com
 0.0.0.0 alea.adam.ad.daum.net
+0.0.0.0 alexa.propellerads.com
 0.0.0.0 al-gb.adskeeper.co.uk
 0.0.0.0 allan1qa.midasplayer.com
 0.0.0.0 alldcs-distinct.outbrain.com
@@ -403,6 +405,7 @@
 0.0.0.0 an.tacoda.net
 0.0.0.0 anticarredodolomiti.com
 0.0.0.0 anvil.rubiconproject.com
+0.0.0.0 ao-gb.adskeeper.co.uk
 0.0.0.0 ap.33across.com
 0.0.0.0 apac.analytics.yahoo.com
 0.0.0.0 apac-sg.bidswitch.net
@@ -448,6 +451,7 @@
 0.0.0.0 api.sharethis.com
 0.0.0.0 apis.sharethrough.com
 0.0.0.0 api-ssl.demandbase.com
+0.0.0.0 apis-staging.sharethrough.com
 0.0.0.0 apis.staging.sharethrough.com
 0.0.0.0 api.staging.connatix.com
 0.0.0.0 api-staging.playbuzz.com
@@ -769,6 +773,7 @@
 0.0.0.0 cmap.dc.ace.advertising.com
 0.0.0.0 cmap.ox.ace.advertising.com
 0.0.0.0 cmap.pub.ace.advertising.com
+0.0.0.0 cmap.rub.ace.advertising.com
 0.0.0.0 c.mdotm.com
 0.0.0.0 cm.doublemax.net
 0.0.0.0 c.microsoft.com
@@ -963,6 +968,7 @@
 0.0.0.0 dev-desk.adasiaholdings.com
 0.0.0.0 dev-dmx.districtm.io
 0.0.0.0 developer.pubnative.net
+0.0.0.0 developer.sharethis.com
 0.0.0.0 developers.mobileapptracking.com
 0.0.0.0 developers.supersonicads.com
 0.0.0.0 develop.twik.io
@@ -1012,6 +1018,7 @@
 0.0.0.0 dna1.mookie1.com
 0.0.0.0 dna2.mookie1.com
 0.0.0.0 dna3.mookie1.com
+0.0.0.0 dnads.directnic.com
 0.0.0.0 dn.komoona.com
 0.0.0.0 dns4.weborama.com
 0.0.0.0 docker-registry.adswizz.com
@@ -1361,8 +1368,8 @@
 0.0.0.0 incrediblesugar.com
 0.0.0.0 infinity-dev.youbora.com
 0.0.0.0 infosec.corp.inmobi.com
-0.0.0.0 i.n.jwpltx.com
 0.0.0.0 in.jwpltx.com
+0.0.0.0 i.n.jwpltx.com
 0.0.0.0 inline.sharethis.com
 0.0.0.0 in.meet.ssl2.duapps.com
 0.0.0.0 inplay-rcv01.scanscout.com
@@ -1496,6 +1503,7 @@
 0.0.0.0 lift.mixpanel.com
 0.0.0.0 linear-dev-v2.dev.linear.aws.fwmrm.net
 0.0.0.0 linear-stg.stg.linear.aws.fwmrm.net
+0.0.0.0 link.activision.swrve.com
 0.0.0.0 link.ad-brix.com
 0.0.0.0 link.alpha.branch.io
 0.0.0.0 link.beta.branch.io
@@ -1597,6 +1605,7 @@
 0.0.0.0 metabase.simpleanalytics.io
 0.0.0.0 mf.adsymptotic.com
 0.0.0.0 mgr.consensu.org
+0.0.0.0 mgt.midasplayer.com
 0.0.0.0 mi1.midasplayer.com
 0.0.0.0 mi2.midasplayer.com
 0.0.0.0 mi3.midasplayer.com
@@ -1673,6 +1682,7 @@
 0.0.0.0 new.clicksor.com
 0.0.0.0 new.hotjar.com
 0.0.0.0 news.genapi.euapi.pubnative.net
+0.0.0.0 newsite.instartlogic.com
 0.0.0.0 newsmax.bevo.adsnative.com
 0.0.0.0 newsmax.cdn.adsnative.com
 0.0.0.0 new-www.outbrain.com
@@ -1928,6 +1938,7 @@
 0.0.0.0 rev2pub.adk2x.com
 0.0.0.0 revenuehits.adk2x.com
 0.0.0.0 revenuetool.aatkit.com
+0.0.0.0 revive.yieldlove-ad-serving.net
 0.0.0.0 rewards.advertserve.com
 0.0.0.0 rfm.rubiconproject.com
 0.0.0.0 ris-gateway.supersonicads.com
@@ -2074,6 +2085,7 @@
 0.0.0.0 s.infogr.am
 0.0.0.0 sitebrand.geeks.com
 0.0.0.0 sitemerkezi.net
+0.0.0.0 site.qwapi.com
 0.0.0.0 sitesynctest.wywy.com
 0.0.0.0 sitesync.wywy.com
 0.0.0.0 sj16.bnmla.com
@@ -2171,12 +2183,14 @@
 0.0.0.0 staging.demandbase.com
 0.0.0.0 staging-eu-gce.bidswitch.net
 0.0.0.0 staging-eu-gce-sync.bidswitch.net
+0.0.0.0 staging-gce-be.bidswitch.net
 0.0.0.0 staging-p.alcmpn.com
 0.0.0.0 staging.pluto.mgr.consensu.org
 0.0.0.0 staging.snip.answers.com
 0.0.0.0 staging-sync.alcmpn.com
 0.0.0.0 staging.twik.io
 0.0.0.0 staging-video-broker.fyber.com
+0.0.0.0 sta.midasplayer.com
 0.0.0.0 stamp1-azure-ext.newrelic.com
 0.0.0.0 stamp2-azure-ext.newrelic.com
 0.0.0.0 start.adpushup.com
@@ -2184,8 +2198,8 @@
 0.0.0.0 start.siftscience.com
 0.0.0.0 stat.dsp.batmobi.net
 0.0.0.0 static-2.3lift.com
-0.0.0.0 static-acceptance.sharethrough.com
 0.0.0.0 static.acceptance.sharethrough.com
+0.0.0.0 static-acceptance.sharethrough.com
 0.0.0.0 static.adpushup.com
 0.0.0.0 static.adsnative.com
 0.0.0.0 static.asia.rtbid.me
@@ -2235,8 +2249,8 @@
 0.0.0.0 stmp.ad.daum.net
 0.0.0.0 st.n.ads1-adnow.com
 0.0.0.0 st.n.ads3-adnow.com
-0.0.0.0 st-n.ads4-adnow.com
 0.0.0.0 st.n.ads4-adnow.com
+0.0.0.0 st-n.ads4-adnow.com
 0.0.0.0 st.n.ads5-adnow.com
 0.0.0.0 sto.midasplayer.com
 0.0.0.0 st-rbc-api-data.pingdom.net
@@ -2432,6 +2446,7 @@
 0.0.0.0 userdata-maxis.krxd.net
 0.0.0.0 userdocs.urbanairship.com
 0.0.0.0 usermatch-prod.targeting.unrulymedia.com
+0.0.0.0 usermatch-spike.targeting.unrulymedia.com
 0.0.0.0 us.gmads.mookie1.com
 0.0.0.0 usmsad.tom.com
 0.0.0.0 us.ndf.weborama.com
@@ -2671,6 +2686,7 @@
 0.0.0.0 www.aj1795.online
 0.0.0.0 www.aj1796.online
 0.0.0.0 www.aj1797.online
+0.0.0.0 www.aj1832.online
 0.0.0.0 www.aj1835.online
 0.0.0.0 www.aj1836.online
 0.0.0.0 www.aj1858.online
@@ -2945,6 +2961,7 @@
 0.0.0.0 www.drydrum.com
 0.0.0.0 www.dsp.io
 0.0.0.0 www.dspmulti.com
+0.0.0.0 www.dtxngr.com
 0.0.0.0 www.du8783wkf05yr.cloudfront.net
 0.0.0.0 www.earthquakescarf.com
 0.0.0.0 www.earthycopy.com
@@ -2968,6 +2985,7 @@
 0.0.0.0 www.enviousthread.com
 0.0.0.0 www.errortablet.com
 0.0.0.0 www.ethicalads.net
+0.0.0.0 www.euroclick.com
 0.0.0.0 www.eventbeacon.ca
 0.0.0.0 www.excellentpub.com
 0.0.0.0 www.exclusivebrass.com
