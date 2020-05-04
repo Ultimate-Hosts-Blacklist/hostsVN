@@ -140,6 +140,7 @@
 0.0.0.0 ads.adasiaholdings.com
 0.0.0.0 ads.ad.gt
 0.0.0.0 ads.adhaven.com
+0.0.0.0 ads.adk2x.com
 0.0.0.0 ads.adsrvr.org
 0.0.0.0 ads.adultswim.com
 0.0.0.0 ads.ak.facebook.com
@@ -173,12 +174,14 @@
 0.0.0.0 adserve.gzero.com
 0.0.0.0 adserver1.mokono.com
 0.0.0.0 adserver1.ogilvy-interactive.de
+0.0.0.0 adserver2.juicyads.com
 0.0.0.0 adserver2.popdata.de
 0.0.0.0 adserver-a-mtc.adtechus.com
 0.0.0.0 adserver-a-northeast-1.adtechjp.com
 0.0.0.0 adserver-a-southeast-1.adtechjp.com
 0.0.0.0 adserver.clashmusic.com
 0.0.0.0 adserver.flossiemediagroup.com
+0.0.0.0 adserver.freenet.de
 0.0.0.0 adserver.hotfix.adswizz.com
 0.0.0.0 adserver-live.yoc.mobi
 0.0.0.0 adserver.motorpresse.de
@@ -350,6 +353,7 @@
 0.0.0.0 albawaba.advertserve.com
 0.0.0.0 alea.adam.ad.daum.net
 0.0.0.0 al-gb.adskeeper.co.uk
+0.0.0.0 allan1qa.midasplayer.com
 0.0.0.0 alldcs-distinct.outbrain.com
 0.0.0.0 all.fc.yahoo.com
 0.0.0.0 alog.umeng.co
@@ -655,6 +659,7 @@
 0.0.0.0 c.baidu.com
 0.0.0.0 c.blueserving.com
 0.0.0.0 cc1.midasplayer.com
+0.0.0.0 ccde.events.marketo.com
 0.0.0.0 c.compete.com
 0.0.0.0 cd-lb.propellerads.com
 0.0.0.0 cdn10.mdotm.com
@@ -1117,6 +1122,7 @@
 0.0.0.0 eyewond.hs.llnwd.net
 0.0.0.0 f1.midasplayer.com
 0.0.0.0 f2.ad.gt
+0.0.0.0 f2.midasplayer.com
 0.0.0.0 f3.midasplayer.com
 0.0.0.0 facefone.laydata.com
 0.0.0.0 familiarfloor.com
@@ -1186,6 +1192,7 @@
 0.0.0.0 geo.smaato.net
 0.0.0.0 get.hotjar.com
 0.0.0.0 get.leanplum.com
+0.0.0.0 getlegal.advertserve.com
 0.0.0.0 gingermedia.adk2x.com
 0.0.0.0 gitlab.build.ligatus.com
 0.0.0.0 gkng.ayads.co
@@ -1404,6 +1411,8 @@
 0.0.0.0 js.mobojoy.baidu.com
 0.0.0.0 jssourcetest-bg.web.analytics.yahoo.com
 0.0.0.0 k8dev.adsrvr.org
+0.0.0.0 k8int.adsrvr.org
+0.0.0.0 k8prd.adsrvr.org
 0.0.0.0 ka.display.ad.daum.net
 0.0.0.0 kaingi.tenmax.io
 0.0.0.0 kakaku.com-tabelog-tracking.app-adforce.jp
@@ -1777,6 +1786,7 @@
 0.0.0.0 pluto.mgr.consensu.org
 0.0.0.0 pm.adpia.vn
 0.0.0.0 pmm.prd-aws.fyber.com
+0.0.0.0 pmm.stg-aws.fyber.com
 0.0.0.0 politads.com
 0.0.0.0 portal-fynd.headlinerlabs.com
 0.0.0.0 positexte.weborama.com
@@ -2456,14 +2466,15 @@
 0.0.0.0 video.adsrvr.org
 0.0.0.0 video.aniview.com
 0.0.0.0 video-aws-staging.fyber.com
+0.0.0.0 video.batmobi.net
 0.0.0.0 video-cdn.mgid.com
 0.0.0.0 video.content.ad
 0.0.0.0 videology.ndf.weborama.com
 0.0.0.0 videos.acceptance.sharethrough.com
 0.0.0.0 videos-acceptance.sharethrough.com
 0.0.0.0 videos.sharethrough.com
-0.0.0.0 videos.staging.sharethrough.com
 0.0.0.0 videos-staging.sharethrough.com
+0.0.0.0 videos.staging.sharethrough.com
 0.0.0.0 vi.dev.fwmrm.net
 0.0.0.0 vidstream.advertserve.com
 0.0.0.0 vietad.vn
@@ -2642,6 +2653,7 @@
 0.0.0.0 www.aj1868.online
 0.0.0.0 www.aj1869.online
 0.0.0.0 www.aj1870.online
+0.0.0.0 www.aj1871.online
 0.0.0.0 www.aj1873.online
 0.0.0.0 www.aj1874.online
 0.0.0.0 www.ajx159.online
@@ -3562,6 +3574,7 @@
 0.0.0.0 www.vietad.vn
 0.0.0.0 www.vietnamnetad.vn
 0.0.0.0 www.view-appleid.com
+0.0.0.0 www.villandopingcon.site
 0.0.0.0 www.villandoping.site
 0.0.0.0 www.vinaads.vn
 0.0.0.0 www.vi-serve.com
