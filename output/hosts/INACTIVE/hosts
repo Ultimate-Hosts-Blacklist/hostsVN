@@ -512,8 +512,8 @@
 0.0.0.0 assets.prebid.org
 0.0.0.0 assets.publift.com
 0.0.0.0 assets.sharethrough.com
-0.0.0.0 assets.staging.sharethrough.com
 0.0.0.0 assets-staging.sharethrough.com
+0.0.0.0 assets.staging.sharethrough.com
 0.0.0.0 associate.microad.jp
 0.0.0.0 assoc-msdk-fe.amazon-adsystem.com
 0.0.0.0 assoc-msdk-metrics-us.amazon-adsystem.com
@@ -1268,6 +1268,7 @@
 0.0.0.0 graylog.ops.dfw2.inmobi.com
 0.0.0.0 gs.rec.duapps.com
 0.0.0.0 gtm1.powerlinks.com
+0.0.0.0 gtm2.powerlinks.com
 0.0.0.0 gtp.advertserve.com
 0.0.0.0 guanjia.baidu.com
 0.0.0.0 guitarbelieve.com
@@ -1396,8 +1397,8 @@
 0.0.0.0 incrediblesugar.com
 0.0.0.0 infinity-dev.youbora.com
 0.0.0.0 infosec.corp.inmobi.com
-0.0.0.0 i.n.jwpltx.com
 0.0.0.0 in.jwpltx.com
+0.0.0.0 i.n.jwpltx.com
 0.0.0.0 inline.sharethis.com
 0.0.0.0 in.meet.ssl2.duapps.com
 0.0.0.0 inplay-rcv01.scanscout.com
@@ -1743,6 +1744,7 @@
 0.0.0.0 ns3.mediaz.vn
 0.0.0.0 ns4.mediaz.vn
 0.0.0.0 ns5.adk2x.com
+0.0.0.0 ns6.adk2x.com
 0.0.0.0 ns7.adk2x.com
 0.0.0.0 ns8.adk2x.com
 0.0.0.0 ns.steepto.com
@@ -2242,16 +2244,16 @@
 0.0.0.0 start.siftscience.com
 0.0.0.0 stat.dsp.batmobi.net
 0.0.0.0 static-2.3lift.com
-0.0.0.0 static-acceptance.sharethrough.com
 0.0.0.0 static.acceptance.sharethrough.com
+0.0.0.0 static-acceptance.sharethrough.com
 0.0.0.0 static.adpushup.com
 0.0.0.0 static.adsnative.com
 0.0.0.0 static.asia.rtbid.me
 0.0.0.0 static.bilsyndication.com
 0.0.0.0 static.blog.sharethis.com
 0.0.0.0 static.ny.us.criteo.net
-0.0.0.0 static.premiumdsp.ibillboard.com
 0.0.0.0 static-premiumdsp.ibillboard.com
+0.0.0.0 static.premiumdsp.ibillboard.com
 0.0.0.0 static.propellerads.com
 0.0.0.0 static-sio.hotjar.com
 0.0.0.0 static-ssl.exoclick.com
@@ -2293,8 +2295,8 @@
 0.0.0.0 stmp.ad.daum.net
 0.0.0.0 st.n.ads1-adnow.com
 0.0.0.0 st.n.ads3-adnow.com
-0.0.0.0 st.n.ads4-adnow.com
 0.0.0.0 st-n.ads4-adnow.com
+0.0.0.0 st.n.ads4-adnow.com
 0.0.0.0 st.n.ads5-adnow.com
 0.0.0.0 sto.midasplayer.com
 0.0.0.0 st-rbc-api-data.pingdom.net
@@ -2332,6 +2334,7 @@
 0.0.0.0 tag-direct.ams.contextweb.com
 0.0.0.0 tag-direct.lga.contextweb.com
 0.0.0.0 tag-direct.sjc.contextweb.com
+0.0.0.0 tagger-hoydigital.opecloud.com
 0.0.0.0 tagila.adk2x.com
 0.0.0.0 tagmanager.ligatus.com
 0.0.0.0 tag-premiumdsp.ibillboard.com
@@ -2773,6 +2776,7 @@
 0.0.0.0 www.ambitiousagreement.com
 0.0.0.0 www.amcdn.vn
 0.0.0.0 www.amgdgt.com
+0.0.0.0 www.a-mo.net
 0.0.0.0 www.anahtars.com
 0.0.0.0 www.analytics.google.com
 0.0.0.0 www.anhui-attorney.com
@@ -3103,6 +3107,7 @@
 0.0.0.0 www.globaltakeoff.net
 0.0.0.0 www.glossysense.com
 0.0.0.0 www.glossyvolume.com
+0.0.0.0 www.go2affise.com
 0.0.0.0 www.go-mpulse.net
 0.0.0.0 www.gondolagnome.com
 0.0.0.0 www.googlesyndication.com
@@ -3796,6 +3801,7 @@
 0.0.0.0 yt.srs.doubleverify.com
 0.0.0.0 z2.mookie1.com
 0.0.0.0 zabbix.powerlinks.com
+0.0.0.0 zaloapp.ads.zdn.vn
 0.0.0.0 z.analytics.yahoo.com
 0.0.0.0 zap2.mookie1.com
 0.0.0.0 zap.mookie1.com
