@@ -239,6 +239,11 @@
         "expiration_date": "08-jul-2020",
         "state": "future"
     },
+    "4wnet.com": {
+        "epoch": 1614038400.0,
+        "expiration_date": "23-feb-2021",
+        "state": "future"
+    },
     "5-g.cn": {
         "epoch": 1604793600.0,
         "expiration_date": "08-nov-2020",
@@ -2985,6 +2990,11 @@
         "state": "future"
     },
     "aj1865.online": {
+        "epoch": 1590105600.0,
+        "expiration_date": "22-may-2020",
+        "state": "future"
+    },
+    "aj1866.online": {
         "epoch": 1590105600.0,
         "expiration_date": "22-may-2020",
         "state": "future"
@@ -6575,8 +6585,8 @@
         "state": "future"
     },
     "decisiveducks.com": {
-        "epoch": 1585872000.0,
-        "expiration_date": "03-apr-2020",
+        "epoch": 1617408000.0,
+        "expiration_date": "03-apr-2021",
         "state": "future"
     },
     "decknetwork.net": {
@@ -17502,6 +17512,11 @@
     "twyn.com": {
         "epoch": 1619913600.0,
         "expiration_date": "02-may-2021",
+        "state": "future"
+    },
+    "txtimpact.com": {
+        "epoch": 1607904000.0,
+        "expiration_date": "14-dec-2020",
         "state": "future"
     },
     "tynt.com": {
