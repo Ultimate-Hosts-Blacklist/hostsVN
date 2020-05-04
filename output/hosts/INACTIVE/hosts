@@ -509,8 +509,8 @@
 0.0.0.0 assets.prebid.org
 0.0.0.0 assets.publift.com
 0.0.0.0 assets.sharethrough.com
-0.0.0.0 assets.staging.sharethrough.com
 0.0.0.0 assets-staging.sharethrough.com
+0.0.0.0 assets.staging.sharethrough.com
 0.0.0.0 associate.microad.jp
 0.0.0.0 assoc-msdk-fe.amazon-adsystem.com
 0.0.0.0 assoc-msdk-metrics-us.amazon-adsystem.com
@@ -717,6 +717,7 @@
 0.0.0.0 cdne.cpmstar.com
 0.0.0.0 cdn.freefacti.com
 0.0.0.0 cdn.fyber.com
+0.0.0.0 cdngs.mdotm.com
 0.0.0.0 cdnh1.mdotm.com
 0.0.0.0 cdnh.mdotm.com
 0.0.0.0 cdn.innity.com
@@ -1279,6 +1280,7 @@
 0.0.0.0 haproxy002.iad3.collective-media.net
 0.0.0.0 haproxy002.sjc4.collective-media.net
 0.0.0.0 haproxy003.iad3.collective-media.net
+0.0.0.0 haproxy003.sjc4.collective-media.net
 0.0.0.0 harvardbp.vo.llnwd.net
 0.0.0.0 has1.midasplayer.com
 0.0.0.0 hb-endpoint-elb-307841411.adomik.com
@@ -2047,6 +2049,7 @@
 0.0.0.0 savantmedia.advertserve.com
 0.0.0.0 s-beta.amazon-adsystem.com
 0.0.0.0 s-beta-opf.amazon-adsystem.com
+0.0.0.0 sbox1-bevo.adsnative.com
 0.0.0.0 sbpixel1.adtechus.com
 0.0.0.0 scarcestream.com
 0.0.0.0 scavenger.localytics.com
@@ -2242,8 +2245,8 @@
 0.0.0.0 static.propellerads.com
 0.0.0.0 static-sio.hotjar.com
 0.0.0.0 static-ssl.exoclick.com
-0.0.0.0 static-staging.sharethrough.com
 0.0.0.0 static.staging.sharethrough.com
+0.0.0.0 static-staging.sharethrough.com
 0.0.0.0 static.trackers.adtarget.me
 0.0.0.0 static.wywy.com
 0.0.0.0 statistics.dev.aatkit.com
@@ -2280,8 +2283,8 @@
 0.0.0.0 stmp.ad.daum.net
 0.0.0.0 st.n.ads1-adnow.com
 0.0.0.0 st.n.ads3-adnow.com
-0.0.0.0 st.n.ads4-adnow.com
 0.0.0.0 st-n.ads4-adnow.com
+0.0.0.0 st.n.ads4-adnow.com
 0.0.0.0 st.n.ads5-adnow.com
 0.0.0.0 sto.midasplayer.com
 0.0.0.0 st-rbc-api-data.pingdom.net
@@ -2513,6 +2516,7 @@
 0.0.0.0 va.px.invitemedia.com
 0.0.0.0 vars-edgecast.hotjar.com
 0.0.0.0 vars-sio.hotjar.com
+0.0.0.0 vasco.microad.jp
 0.0.0.0 vasco.send.microad.jp
 0.0.0.0 vast.adsnative.com
 0.0.0.0 vastgt.richmediaads.com
@@ -3131,6 +3135,7 @@
 0.0.0.0 www.ilbanner.com
 0.0.0.0 www.illfatedsnail.com
 0.0.0.0 www.illustriousoatmeal.com
+0.0.0.0 www.ilovecheating.com
 0.0.0.0 www.ilyonanalytics.herokuapp.com
 0.0.0.0 www.im-apps.net
 0.0.0.0 www.immensehoney.com
@@ -3409,6 +3414,7 @@
 0.0.0.0 www.previouspotato.com
 0.0.0.0 www.primaryads.com
 0.0.0.0 www.profitrumour.com
+0.0.0.0 www.pro-market.net
 0.0.0.0 www.protection-cellphone.fun
 0.0.0.0 www.protection-cellphone.site
 0.0.0.0 www.protection-cleaner.fun
@@ -3551,6 +3557,7 @@
 0.0.0.0 www.smaato.net
 0.0.0.0 www.smartpx.io
 0.0.0.0 www.smashsurprise.com
+0.0.0.0 www.smilingwaves.com
 0.0.0.0 www.snakesort.com
 0.0.0.0 www.snapads.com
 0.0.0.0 www.sneaklevel.com
