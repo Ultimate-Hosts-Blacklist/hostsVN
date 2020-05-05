@@ -5224,6 +5224,11 @@
         "expiration_date": "08-may-2020",
         "state": "future"
     },
+    "casesweetcube.com": {
+        "epoch": 1606176000.0,
+        "expiration_date": "24-nov-2020",
+        "state": "future"
+    },
     "cash4members.com": {
         "epoch": 1596672000.0,
         "expiration_date": "06-aug-2020",
@@ -12222,6 +12227,11 @@
     "mparticle.com": {
         "epoch": 1593648000.0,
         "expiration_date": "02-jul-2020",
+        "state": "future"
+    },
+    "mppmnetwork.com": {
+        "epoch": 1606435200.0,
+        "expiration_date": "27-nov-2020",
         "state": "future"
     },
     "mpstat.us": {
