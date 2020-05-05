@@ -8264,6 +8264,11 @@
         "expiration_date": "04-feb-2021",
         "state": "future"
     },
+    "fogcollision.com": {
+        "epoch": 1606176000.0,
+        "expiration_date": "24-nov-2020",
+        "state": "future"
+    },
     "fonecta.fi": {
         "epoch": 1601251200.0,
         "expiration_date": "28-sep-2020",
@@ -11739,6 +11744,11 @@
         "expiration_date": "02-aug-2020",
         "state": "future"
     },
+    "microstatic.pl": {
+        "epoch": 1615852800.0,
+        "expiration_date": "16-mar-2021",
+        "state": "future"
+    },
     "microticker.com": {
         "epoch": 1618876800.0,
         "expiration_date": "20-apr-2021",
@@ -14385,9 +14395,9 @@
         "state": "future"
     },
     "q2melbourne.com": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
-        "state": "past"
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
+        "state": "future"
     },
     "qctop.com": {
         "epoch": 1614038400.0,
@@ -17215,8 +17225,8 @@
         "state": "future"
     },
     "topgamesites.net": {
-        "epoch": 1587081600.0,
-        "expiration_date": "17-apr-2020",
+        "epoch": 1618617600.0,
+        "expiration_date": "17-apr-2021",
         "state": "future"
     },
     "toplist.cz": {
