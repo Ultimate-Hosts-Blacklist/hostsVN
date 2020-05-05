@@ -13239,6 +13239,11 @@
         "expiration_date": "21-jan-2021",
         "state": "future"
     },
+    "owncutone.com": {
+        "epoch": 1614297600.0,
+        "expiration_date": "26-feb-2021",
+        "state": "future"
+    },
     "owneriq.net": {
         "epoch": 1601769600.0,
         "expiration_date": "04-oct-2020",
@@ -16705,8 +16710,8 @@
         "state": "future"
     },
     "targetingnow.com": {
-        "epoch": 1588464000.0,
-        "expiration_date": "03-may-2020",
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
         "state": "future"
     },
     "targetnet.com": {

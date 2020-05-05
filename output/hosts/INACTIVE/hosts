@@ -332,6 +332,7 @@
 0.0.0.0 ae-gb.mgid.com
 0.0.0.0 aff.creativecdn.com
 0.0.0.0 affiliate.7host.com
+0.0.0.0 affiliates.ige.com
 0.0.0.0 affiliates.internationaljock.com
 0.0.0.0 affiliates.jlist.com
 0.0.0.0 affinity.mgr.consensu.org
@@ -466,8 +467,8 @@
 0.0.0.0 api.sharethis.com
 0.0.0.0 apis.sharethrough.com
 0.0.0.0 api-ssl.demandbase.com
-0.0.0.0 apis.staging.sharethrough.com
 0.0.0.0 apis-staging.sharethrough.com
+0.0.0.0 apis.staging.sharethrough.com
 0.0.0.0 api.staging.connatix.com
 0.0.0.0 api-staging.playbuzz.com
 0.0.0.0 apis.web.analytics.yahoo.com
@@ -741,6 +742,7 @@
 0.0.0.0 cdn.sharethis.com
 0.0.0.0 cdn.skyrocket.adtdp.com
 0.0.0.0 cdns.o333o.com
+0.0.0.0 cdnv1.mdotm.com
 0.0.0.0 cdn-z.amazon-adsystem.com
 0.0.0.0 ceast.adsymptotic.com
 0.0.0.0 cerulean.amplitude.com
@@ -750,6 +752,7 @@
 0.0.0.0 cf-aws-adserver-origin-ap-southeast-1.adtechjp.com
 0.0.0.0 cf.doublemax.net
 0.0.0.0 cflcs.media.net
+0.0.0.0 cftest.adsnative.com
 0.0.0.0 cf-test.doublemax.net
 0.0.0.0 cf-wp-prod.sharethis.com
 0.0.0.0 c.googlesyndication.com
@@ -998,6 +1001,7 @@
 0.0.0.0 dev.demobuilder.gumgum.com
 0.0.0.0 dev-desk.adasiaholdings.com
 0.0.0.0 dev-dmx.districtm.io
+0.0.0.0 developer.millennialmedia.com
 0.0.0.0 developer.pubnative.net
 0.0.0.0 developer.sharethis.com
 0.0.0.0 developers.mobileapptracking.com
@@ -1183,6 +1187,7 @@
 0.0.0.0 fdc.tapjoy.com
 0.0.0.0 fe1-fi.imrworldwide.com
 0.0.0.0 fe1-it.imrworldwide.com
+0.0.0.0 fe3-gc.imrworldwide.com
 0.0.0.0 fe3-uk.imrworldwide.com
 0.0.0.0 fe4-uk.imrworldwide.com
 0.0.0.0 featurestack136-mitm-api.swrve.com
@@ -1314,6 +1319,7 @@
 0.0.0.0 hit-ranking.de
 0.0.0.0 hk4.nexage.com
 0.0.0.0 hk.adserver.yahoo.com
+0.0.0.0 hlamedia.adk2x.com
 0.0.0.0 hls.vdo.ai
 0.0.0.0 home.twik.io
 0.0.0.0 ho-prod-a.us-east-1.k8s.tune.com
@@ -1505,6 +1511,7 @@
 0.0.0.0 labs.tune.com
 0.0.0.0 lab.tune.com
 0.0.0.0 lab.weborama.com
+0.0.0.0 la-chi.outbrain.com
 0.0.0.0 l.adk2x.com
 0.0.0.0 landingpage1.mediaz.vn
 0.0.0.0 landingpages.millennialmedia.com
@@ -2265,16 +2272,16 @@
 0.0.0.0 start.siftscience.com
 0.0.0.0 stat.dsp.batmobi.net
 0.0.0.0 static-2.3lift.com
-0.0.0.0 static-acceptance.sharethrough.com
 0.0.0.0 static.acceptance.sharethrough.com
+0.0.0.0 static-acceptance.sharethrough.com
 0.0.0.0 static.adpushup.com
 0.0.0.0 static.adsnative.com
 0.0.0.0 static.asia.rtbid.me
 0.0.0.0 static.bilsyndication.com
 0.0.0.0 static.blog.sharethis.com
 0.0.0.0 static.ny.us.criteo.net
-0.0.0.0 static.premiumdsp.ibillboard.com
 0.0.0.0 static-premiumdsp.ibillboard.com
+0.0.0.0 static.premiumdsp.ibillboard.com
 0.0.0.0 static.propellerads.com
 0.0.0.0 static-sio.hotjar.com
 0.0.0.0 static-ssl.exoclick.com
@@ -2587,8 +2594,8 @@
 0.0.0.0 video-cdn.mgid.com
 0.0.0.0 video.content.ad
 0.0.0.0 videology.ndf.weborama.com
-0.0.0.0 videos.acceptance.sharethrough.com
 0.0.0.0 videos-acceptance.sharethrough.com
+0.0.0.0 videos.acceptance.sharethrough.com
 0.0.0.0 videos.sharethrough.com
 0.0.0.0 videos-staging.sharethrough.com
 0.0.0.0 videos.staging.sharethrough.com
@@ -3098,6 +3105,7 @@
 0.0.0.0 www.familiarfloor.com
 0.0.0.0 www.famousquarter.com
 0.0.0.0 www.fanaticalfly.com
+0.0.0.0 www.farethief.com
 0.0.0.0 www.farmergoldfish.com
 0.0.0.0 www.fascinatedfeather.com
 0.0.0.0 www.faultycanvas.com
@@ -3414,6 +3422,7 @@
 0.0.0.0 www.ousseventi.info
 0.0.0.0 www.overture.com
 0.0.0.0 www.owlsr.us
+0.0.0.0 www.owncutone.com
 0.0.0.0 www.padstm.com
 0.0.0.0 www.pagefair.net
 0.0.0.0 www.pagerank4u.eu
@@ -3629,6 +3638,7 @@
 0.0.0.0 www.spirebaboon.com
 0.0.0.0 www.spotscenered.info
 0.0.0.0 www.spottysense.com
+0.0.0.0 www.springaftermath.com
 0.0.0.0 www.spurioussteam.com
 0.0.0.0 www.spywords.com
 0.0.0.0 www.squeamishscarecrow.com
