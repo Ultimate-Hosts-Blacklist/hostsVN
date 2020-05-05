@@ -12344,6 +12344,11 @@
         "expiration_date": "13-jan-2021",
         "state": "future"
     },
+    "myaffiliates.com": {
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
+        "state": "future"
+    },
     "mybestmv.com": {
         "epoch": 1614902400.0,
         "expiration_date": "05-mar-2021",
@@ -18402,6 +18407,11 @@
     "wda.com": {
         "epoch": 1746921600.0,
         "expiration_date": "11-may-2025",
+        "state": "future"
+    },
+    "wearemiq.com": {
+        "epoch": 1644710400.0,
+        "expiration_date": "13-feb-2022",
         "state": "future"
     },
     "web-stat.com": {
