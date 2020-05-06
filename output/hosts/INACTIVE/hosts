@@ -484,8 +484,8 @@
 0.0.0.0 api.sharethis.com
 0.0.0.0 apis.sharethrough.com
 0.0.0.0 api-ssl.demandbase.com
-0.0.0.0 apis.staging.sharethrough.com
 0.0.0.0 apis-staging.sharethrough.com
+0.0.0.0 apis.staging.sharethrough.com
 0.0.0.0 api.staging.connatix.com
 0.0.0.0 api-staging.playbuzz.com
 0.0.0.0 apis.web.analytics.yahoo.com
@@ -528,8 +528,8 @@
 0.0.0.0 asset2.fyber.com
 0.0.0.0 asset3.fyber.com
 0.0.0.0 asset4.fyber.com
-0.0.0.0 assets-acceptance.sharethrough.com
 0.0.0.0 assets.acceptance.sharethrough.com
+0.0.0.0 assets-acceptance.sharethrough.com
 0.0.0.0 assets.loomia.com
 0.0.0.0 assets.prebid.org
 0.0.0.0 assets.publift.com
@@ -899,6 +899,7 @@
 0.0.0.0 count6.rbc.ru
 0.0.0.0 counter.avtoindex.com
 0.0.0.0 counters.gigya.com
+0.0.0.0 counter.webtrends.com
 0.0.0.0 count.rbc.ru
 0.0.0.0 cpa.clicksor.com
 0.0.0.0 cpanel.adoptimize.com
@@ -1462,8 +1463,8 @@
 0.0.0.0 incrediblesugar.com
 0.0.0.0 infinity-dev.youbora.com
 0.0.0.0 infosec.corp.inmobi.com
-0.0.0.0 in.jwpltx.com
 0.0.0.0 i.n.jwpltx.com
+0.0.0.0 in.jwpltx.com
 0.0.0.0 inline.sharethis.com
 0.0.0.0 in.meet.ssl2.duapps.com
 0.0.0.0 inplay-rcv01.scanscout.com
@@ -2339,8 +2340,8 @@
 0.0.0.0 stat.dsp.batmobi.net
 0.0.0.0 static02.adsafeprotected.com
 0.0.0.0 static-2.3lift.com
-0.0.0.0 static.acceptance.sharethrough.com
 0.0.0.0 static-acceptance.sharethrough.com
+0.0.0.0 static.acceptance.sharethrough.com
 0.0.0.0 static.adpushup.com
 0.0.0.0 static.adsnative.com
 0.0.0.0 static.asia.rtbid.me
@@ -2676,8 +2677,8 @@
 0.0.0.0 videos.acceptance.sharethrough.com
 0.0.0.0 videos-acceptance.sharethrough.com
 0.0.0.0 videos.sharethrough.com
-0.0.0.0 videos-staging.sharethrough.com
 0.0.0.0 videos.staging.sharethrough.com
+0.0.0.0 videos-staging.sharethrough.com
 0.0.0.0 vi.dev.fwmrm.net
 0.0.0.0 vidstream.advertserve.com
 0.0.0.0 vietad.vn
@@ -2720,6 +2721,7 @@
 0.0.0.0 widget-staging.databoxer.mgr.consensu.org
 0.0.0.0 widget.vietnamnetad.vn
 0.0.0.0 wildcard.measuread.com
+0.0.0.0 winnotice.skyrocket.adtdp.com
 0.0.0.0 winwin.adk2x.com
 0.0.0.0 wip.powerlinks.com
 0.0.0.0 wi.yieldlove.com
