@@ -3742,7 +3742,7 @@
     "approstar.com": {
         "epoch": 1585094400.0,
         "expiration_date": "25-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "appsdt.com": {
         "epoch": 1585872000.0,
@@ -7280,8 +7280,8 @@
         "state": "future"
     },
     "ebocornac.com": {
-        "epoch": 1585526400.0,
-        "expiration_date": "30-mar-2020",
+        "epoch": 1617062400.0,
+        "expiration_date": "30-mar-2021",
         "state": "future"
     },
     "ebuzzing.com": {
@@ -15057,6 +15057,11 @@
     "rotabanner.com": {
         "epoch": 1604880000.0,
         "expiration_date": "09-nov-2020",
+        "state": "future"
+    },
+    "rotumal.com": {
+        "epoch": 1621296000.0,
+        "expiration_date": "18-may-2021",
         "state": "future"
     },
     "roughexampler.info": {
