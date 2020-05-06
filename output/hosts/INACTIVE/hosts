@@ -479,8 +479,8 @@
 0.0.0.0 api.sharethis.com
 0.0.0.0 apis.sharethrough.com
 0.0.0.0 api-ssl.demandbase.com
-0.0.0.0 apis.staging.sharethrough.com
 0.0.0.0 apis-staging.sharethrough.com
+0.0.0.0 apis.staging.sharethrough.com
 0.0.0.0 api.staging.connatix.com
 0.0.0.0 api-staging.playbuzz.com
 0.0.0.0 apis.web.analytics.yahoo.com
@@ -1449,8 +1449,8 @@
 0.0.0.0 incrediblesugar.com
 0.0.0.0 infinity-dev.youbora.com
 0.0.0.0 infosec.corp.inmobi.com
-0.0.0.0 in.jwpltx.com
 0.0.0.0 i.n.jwpltx.com
+0.0.0.0 in.jwpltx.com
 0.0.0.0 inline.sharethis.com
 0.0.0.0 in.meet.ssl2.duapps.com
 0.0.0.0 inplay-rcv01.scanscout.com
@@ -1476,6 +1476,7 @@
 0.0.0.0 ins8.hotjar.com
 0.0.0.0 ins9.hotjar.com
 0.0.0.0 insights-dc.hotjar.com
+0.0.0.0 insights-eu.swrve.com
 0.0.0.0 insights-split.hotjar.com
 0.0.0.0 inskin.vo.llnwd.net
 0.0.0.0 instantarticles.sharethis.com
@@ -2168,6 +2169,7 @@
 0.0.0.0 server.jsecoin.com
 0.0.0.0 server.popads.net
 0.0.0.0 server-za.imrworldwide.com
+0.0.0.0 service1.adten.de
 0.0.0.0 services.adblox.net
 0.0.0.0 services.ma.tune.com
 0.0.0.0 service.stg-aws.fyber.com
@@ -2317,8 +2319,8 @@
 0.0.0.0 stat.dsp.batmobi.net
 0.0.0.0 static02.adsafeprotected.com
 0.0.0.0 static-2.3lift.com
-0.0.0.0 static.acceptance.sharethrough.com
 0.0.0.0 static-acceptance.sharethrough.com
+0.0.0.0 static.acceptance.sharethrough.com
 0.0.0.0 static.adpushup.com
 0.0.0.0 static.adsnative.com
 0.0.0.0 static.asia.rtbid.me
@@ -2355,6 +2357,7 @@
 0.0.0.0 status.addthis.com
 0.0.0.0 status.adsnative.com
 0.0.0.0 status.indoleads.com
+0.0.0.0 status.pushwoosh.com
 0.0.0.0 st.display.ad.daum.net
 0.0.0.0 st.doublemax.net
 0.0.0.0 stg.a.analytics.yahoo.com
@@ -2646,8 +2649,8 @@
 0.0.0.0 video-cdn.mgid.com
 0.0.0.0 video.content.ad
 0.0.0.0 videology.ndf.weborama.com
-0.0.0.0 videos.acceptance.sharethrough.com
 0.0.0.0 videos-acceptance.sharethrough.com
+0.0.0.0 videos.acceptance.sharethrough.com
 0.0.0.0 videos.sharethrough.com
 0.0.0.0 videos.staging.sharethrough.com
 0.0.0.0 videos-staging.sharethrough.com
