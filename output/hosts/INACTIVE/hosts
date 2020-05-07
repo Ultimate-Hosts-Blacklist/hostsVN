@@ -489,8 +489,8 @@
 0.0.0.0 api.sharethis.com
 0.0.0.0 apis.sharethrough.com
 0.0.0.0 api-ssl.demandbase.com
-0.0.0.0 apis.staging.sharethrough.com
 0.0.0.0 apis-staging.sharethrough.com
+0.0.0.0 apis.staging.sharethrough.com
 0.0.0.0 api.staging.connatix.com
 0.0.0.0 api-staging.playbuzz.com
 0.0.0.0 apis.web.analytics.yahoo.com
@@ -533,8 +533,8 @@
 0.0.0.0 asset2.fyber.com
 0.0.0.0 asset3.fyber.com
 0.0.0.0 asset4.fyber.com
-0.0.0.0 assets-acceptance.sharethrough.com
 0.0.0.0 assets.acceptance.sharethrough.com
+0.0.0.0 assets-acceptance.sharethrough.com
 0.0.0.0 assets.loomia.com
 0.0.0.0 assets.prebid.org
 0.0.0.0 assets.publift.com
@@ -1475,8 +1475,8 @@
 0.0.0.0 incrediblesugar.com
 0.0.0.0 infinity-dev.youbora.com
 0.0.0.0 infosec.corp.inmobi.com
-0.0.0.0 i.n.jwpltx.com
 0.0.0.0 in.jwpltx.com
+0.0.0.0 i.n.jwpltx.com
 0.0.0.0 inline.sharethis.com
 0.0.0.0 in.meet.ssl2.duapps.com
 0.0.0.0 inplay-rcv01.scanscout.com
@@ -2310,6 +2310,7 @@
 0.0.0.0 spottysense.com
 0.0.0.0 spunjbox.adoptimize.com
 0.0.0.0 spx.smaato.net
+0.0.0.0 spykemediatrack.co
 0.0.0.0 sql.segment.com
 0.0.0.0 squeamishscarecrow.com
 0.0.0.0 srs.doubleverify.com
@@ -2361,16 +2362,16 @@
 0.0.0.0 static02.adsafeprotected.com
 0.0.0.0 static-2.3lift.com
 0.0.0.0 statica.addtoany.com
-0.0.0.0 static-acceptance.sharethrough.com
 0.0.0.0 static.acceptance.sharethrough.com
+0.0.0.0 static-acceptance.sharethrough.com
 0.0.0.0 static.adpushup.com
 0.0.0.0 static.adsnative.com
 0.0.0.0 static.asia.rtbid.me
 0.0.0.0 static.bilsyndication.com
 0.0.0.0 static.blog.sharethis.com
 0.0.0.0 static.ny.us.criteo.net
-0.0.0.0 static-premiumdsp.ibillboard.com
 0.0.0.0 static.premiumdsp.ibillboard.com
+0.0.0.0 static-premiumdsp.ibillboard.com
 0.0.0.0 static.propellerads.com
 0.0.0.0 static-sio.hotjar.com
 0.0.0.0 static-ssl.exoclick.com
@@ -2415,8 +2416,8 @@
 0.0.0.0 stmp.ad.daum.net
 0.0.0.0 st.n.ads1-adnow.com
 0.0.0.0 st.n.ads3-adnow.com
-0.0.0.0 st.n.ads4-adnow.com
 0.0.0.0 st-n.ads4-adnow.com
+0.0.0.0 st.n.ads4-adnow.com
 0.0.0.0 st.n.ads5-adnow.com
 0.0.0.0 sto.midasplayer.com
 0.0.0.0 st-rbc-api-data.pingdom.net
@@ -2459,6 +2460,7 @@
 0.0.0.0 tagila.adk2x.com
 0.0.0.0 tagmanager.ligatus.com
 0.0.0.0 tag-premiumdsp.ibillboard.com
+0.0.0.0 tags.adasiaholdings.com
 0.0.0.0 tags-cluster.mediaforge.com
 0.0.0.0 tag-staging.contextweb.com
 0.0.0.0 tag.triplelift.com
@@ -2700,8 +2702,8 @@
 0.0.0.0 videos-acceptance.sharethrough.com
 0.0.0.0 videos.acceptance.sharethrough.com
 0.0.0.0 videos.sharethrough.com
-0.0.0.0 videos.staging.sharethrough.com
 0.0.0.0 videos-staging.sharethrough.com
+0.0.0.0 videos.staging.sharethrough.com
 0.0.0.0 vi.dev.fwmrm.net
 0.0.0.0 vidstream.advertserve.com
 0.0.0.0 vietad.vn
@@ -3799,6 +3801,7 @@
 0.0.0.0 www.spottysense.com
 0.0.0.0 www.springaftermath.com
 0.0.0.0 www.spurioussteam.com
+0.0.0.0 www.spykemediatrack.co
 0.0.0.0 www.spywords.com
 0.0.0.0 www.squeamishscarecrow.com
 0.0.0.0 www.squirrelhands.com
