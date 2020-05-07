@@ -489,8 +489,8 @@
 0.0.0.0 api.sharethis.com
 0.0.0.0 apis.sharethrough.com
 0.0.0.0 api-ssl.demandbase.com
-0.0.0.0 apis-staging.sharethrough.com
 0.0.0.0 apis.staging.sharethrough.com
+0.0.0.0 apis-staging.sharethrough.com
 0.0.0.0 api.staging.connatix.com
 0.0.0.0 api-staging.playbuzz.com
 0.0.0.0 apis.web.analytics.yahoo.com
@@ -533,8 +533,8 @@
 0.0.0.0 asset2.fyber.com
 0.0.0.0 asset3.fyber.com
 0.0.0.0 asset4.fyber.com
-0.0.0.0 assets.acceptance.sharethrough.com
 0.0.0.0 assets-acceptance.sharethrough.com
+0.0.0.0 assets.acceptance.sharethrough.com
 0.0.0.0 assets.loomia.com
 0.0.0.0 assets.prebid.org
 0.0.0.0 assets.publift.com
@@ -997,6 +997,7 @@
 0.0.0.0 db3aqu.atdmt.com
 0.0.0.0 dbcontrol.doubleclick.net
 0.0.0.0 dbpartner.propellerads.com
+0.0.0.0 dbticket.propellerads.com
 0.0.0.0 dc3.corp.appdynamics.com
 0.0.0.0 dc7.x.lijit.com
 0.0.0.0 dcblade01.bnmla.com
@@ -1308,6 +1309,7 @@
 0.0.0.0 gitlab.build.ligatus.com
 0.0.0.0 gkng.ayads.co
 0.0.0.0 glados.urbanairship.com
+0.0.0.0 glbad.adtechjp.com
 0.0.0.0 glb-ads2.atwola.adtechus.com
 0.0.0.0 glb-ads.atrhw.adtechus.com
 0.0.0.0 glb-ads.coupons.adtechus.com
@@ -1342,6 +1344,7 @@
 0.0.0.0 gtm2.powerlinks.com
 0.0.0.0 gtp.advertserve.com
 0.0.0.0 guanjia.baidu.com
+0.0.0.0 guardedgovernor.com
 0.0.0.0 guitarbelieve.com
 0.0.0.0 gulfstream.vo.llnwd.net
 0.0.0.0 g.uusee.com
@@ -1359,6 +1362,7 @@
 0.0.0.0 haproxy003.iad3.collective-media.net
 0.0.0.0 haproxy003.sjc4.collective-media.net
 0.0.0.0 haproxy004.iad3.collective-media.net
+0.0.0.0 haproxy004.sjc4.collective-media.net
 0.0.0.0 harvardbp.vo.llnwd.net
 0.0.0.0 has1.midasplayer.com
 0.0.0.0 hb-endpoint-elb-307841411.adomik.com
@@ -1475,8 +1479,8 @@
 0.0.0.0 incrediblesugar.com
 0.0.0.0 infinity-dev.youbora.com
 0.0.0.0 infosec.corp.inmobi.com
-0.0.0.0 in.jwpltx.com
 0.0.0.0 i.n.jwpltx.com
+0.0.0.0 in.jwpltx.com
 0.0.0.0 inline.sharethis.com
 0.0.0.0 in.meet.ssl2.duapps.com
 0.0.0.0 inplay-rcv01.scanscout.com
@@ -2150,6 +2154,7 @@
 0.0.0.0 s2s.prebid.org
 0.0.0.0 s3ns3.adtechjp.com
 0.0.0.0 s3ns3.adtechus.com
+0.0.0.0 s4ns4.adtechjp.com
 0.0.0.0 s4ns4.adtechus.com
 0.0.0.0 s8.ayads.co
 0.0.0.0 saber.srvcs.tumblr.com
@@ -2362,16 +2367,16 @@
 0.0.0.0 static02.adsafeprotected.com
 0.0.0.0 static-2.3lift.com
 0.0.0.0 statica.addtoany.com
-0.0.0.0 static.acceptance.sharethrough.com
 0.0.0.0 static-acceptance.sharethrough.com
+0.0.0.0 static.acceptance.sharethrough.com
 0.0.0.0 static.adpushup.com
 0.0.0.0 static.adsnative.com
 0.0.0.0 static.asia.rtbid.me
 0.0.0.0 static.bilsyndication.com
 0.0.0.0 static.blog.sharethis.com
 0.0.0.0 static.ny.us.criteo.net
-0.0.0.0 static.premiumdsp.ibillboard.com
 0.0.0.0 static-premiumdsp.ibillboard.com
+0.0.0.0 static.premiumdsp.ibillboard.com
 0.0.0.0 static.propellerads.com
 0.0.0.0 static-sio.hotjar.com
 0.0.0.0 static-ssl.exoclick.com
@@ -2416,8 +2421,8 @@
 0.0.0.0 stmp.ad.daum.net
 0.0.0.0 st.n.ads1-adnow.com
 0.0.0.0 st.n.ads3-adnow.com
-0.0.0.0 st-n.ads4-adnow.com
 0.0.0.0 st.n.ads4-adnow.com
+0.0.0.0 st-n.ads4-adnow.com
 0.0.0.0 st.n.ads5-adnow.com
 0.0.0.0 sto.midasplayer.com
 0.0.0.0 st-rbc-api-data.pingdom.net
@@ -2699,8 +2704,8 @@
 0.0.0.0 video-cdn.mgid.com
 0.0.0.0 video.content.ad
 0.0.0.0 videology.ndf.weborama.com
-0.0.0.0 videos-acceptance.sharethrough.com
 0.0.0.0 videos.acceptance.sharethrough.com
+0.0.0.0 videos-acceptance.sharethrough.com
 0.0.0.0 videos.sharethrough.com
 0.0.0.0 videos-staging.sharethrough.com
 0.0.0.0 videos.staging.sharethrough.com
@@ -3291,6 +3296,7 @@
 0.0.0.0 www.greetzebra.com
 0.0.0.0 www.greyinstrument.com
 0.0.0.0 www.gssprt.jp
+0.0.0.0 www.guardedgovernor.com
 0.0.0.0 www.guardedschool.com
 0.0.0.0 www.guitarbelieve.com
 0.0.0.0 www.h78xb.pw
