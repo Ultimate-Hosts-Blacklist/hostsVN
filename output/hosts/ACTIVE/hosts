@@ -1244,6 +1244,7 @@
 0.0.0.0 ads.iwon.com
 0.0.0.0 ads.jewishfriendfinder.com
 0.0.0.0 ads.jiwire.com
+0.0.0.0 ads.joaffs.com
 0.0.0.0 ads.jobsite.co.uk
 0.0.0.0 ads.jpost.com
 0.0.0.0 ads.jubii.dk
@@ -1476,8 +1477,8 @@
 0.0.0.0 ads.tso.dennisnet.co.uk
 0.0.0.0 adstudio.blueseed.tv
 0.0.0.0 adstune.com
-0.0.0.0 ads-twitter.com
 0.0.0.0 ads.twitter.com
+0.0.0.0 ads-twitter.com
 0.0.0.0 adstxt.adnxs.com
 0.0.0.0 adstxt.adpone.com
 0.0.0.0 adstxt.firstimpression.io
@@ -1561,8 +1562,8 @@
 0.0.0.0 ad.tbn.ru
 0.0.0.0 adt.com.vn
 0.0.0.0 adtdp.com
-0.0.0.0 ad-tech.com
 0.0.0.0 adtech.com
+0.0.0.0 ad-tech.com
 0.0.0.0 adtech.de
 0.0.0.0 adtechjp.com
 0.0.0.0 ad.technoratimedia.com
@@ -2565,8 +2566,8 @@
 0.0.0.0 api.speedcurve.com
 0.0.0.0 api.spotxchange.com
 0.0.0.0 api-staging.demandbase.com
-0.0.0.0 api-staging.wootric.com
 0.0.0.0 api.staging.wootric.com
+0.0.0.0 api-staging.wootric.com
 0.0.0.0 api.startappservice.com
 0.0.0.0 apistats.propellerads.com
 0.0.0.0 apistats-static.propellerads.com
@@ -2755,16 +2756,16 @@
 0.0.0.0 apr.lijit.com
 0.0.0.0 aps.amazon.com
 0.0.0.0 aps.hearstnp.com
-0.0.0.0 aps-insight.adsrvr.org
 0.0.0.0 aps.insight.adsrvr.org
+0.0.0.0 aps-insight.adsrvr.org
 0.0.0.0 ap-southeast-1.dc.ads.linkedin.com
 0.0.0.0 ap-southeast-1.dc-dev.ads.linkedin.com
 0.0.0.0 ap-southeast-1.email.ads.linkedin.com
 0.0.0.0 ap-southeast-1.profile-api.ads.linkedin.com
 0.0.0.0 ap-southeast.load.exelator.com
 0.0.0.0 aptest.adx1.com
-0.0.0.0 apt.insight.adsrvr.org
 0.0.0.0 apt-insight.adsrvr.org
+0.0.0.0 apt.insight.adsrvr.org
 0.0.0.0 apt.match.adsrvr.org
 0.0.0.0 apt.newrelic.com
 0.0.0.0 apture.com
@@ -3347,8 +3348,8 @@
 0.0.0.0 beta.app.optimizely.com
 0.0.0.0 beta.bkrtx.com
 0.0.0.0 beta-c.tenmax.io
-0.0.0.0 beta-go.masoffer.net
 0.0.0.0 beta.go.masoffer.net
+0.0.0.0 beta-go.masoffer.net
 0.0.0.0 beta.ionicframework.com
 0.0.0.0 beta.leanplum.com
 0.0.0.0 beta.newrelic.com
@@ -3986,8 +3987,8 @@
 0.0.0.0 cdn.appnext.com
 0.0.0.0 cdn.appsflyer.com
 0.0.0.0 cdn.aralego.net
-0.0.0.0 cdn-as.amanad.adtdp.com
 0.0.0.0 cdn.as.amanad.adtdp.com
+0.0.0.0 cdn-as.amanad.adtdp.com
 0.0.0.0 cdn-as.nxtck.com
 0.0.0.0 cdn.atdmt.com
 0.0.0.0 cdn.autoads.asia
@@ -4110,8 +4111,8 @@
 0.0.0.0 cdn-media.ambient-platform.com
 0.0.0.0 cdn.mediaforge.com
 0.0.0.0 cdn.media.innity.net
-0.0.0.0 cdn-media-m.ambient-platform.com
 0.0.0.0 cdn-media.m.ambient-platform.com
+0.0.0.0 cdn-media-m.ambient-platform.com
 0.0.0.0 cdn.media.net
 0.0.0.0 cdn.mediawayss.com
 0.0.0.0 cdn.mgid.com
@@ -4157,8 +4158,8 @@
 0.0.0.0 cdn.pubmatic.com
 0.0.0.0 cdn.pubnative.net
 0.0.0.0 cdn.pushdy.com
-0.0.0.0 cdn.qc.coccoc.com
 0.0.0.0 cdn-qc.coccoc.com
+0.0.0.0 cdn.qc.coccoc.com
 0.0.0.0 cdn.ravenjs.com
 0.0.0.0 cdn-raw.nxtck.com
 0.0.0.0 cdn.refpa.top
@@ -4403,6 +4404,7 @@
 0.0.0.0 clck.yandex.com
 0.0.0.0 cl.cnn.com
 0.0.0.0 cl-data-f.ads.heytapmobi.com
+0.0.0.0 cl-data-id.ads.heytapmobi.com
 0.0.0.0 cl-data-in.ads.heytapmobi.com
 0.0.0.0 cl-data-sg.ads.heytapmobi.com
 0.0.0.0 cld.edg.startappservice.com
@@ -4521,8 +4523,8 @@
 0.0.0.0 clientmanagement.lijit.com
 0.0.0.0 clientmetrics.outbrain.com
 0.0.0.0 clientmetrics-pa.googleapis.com
-0.0.0.0 clientmonitor.isnssdk.com
 0.0.0.0 client_monitor.isnssdk.com
+0.0.0.0 clientmonitor.isnssdk.com
 0.0.0.0 client-pages.adnetwork.vn
 0.0.0.0 client.perimeterx.net
 0.0.0.0 clients.adspruce.com
@@ -4568,8 +4570,8 @@
 0.0.0.0 cloudfront.mclick.mobi
 0.0.0.0 cloudfront.yieldlove-ad-serving.net
 0.0.0.0 cloudmobi.net
-0.0.0.0 cloud-video.unrulymedia.com
 0.0.0.0 cloud.video.unrulymedia.com
+0.0.0.0 cloud-video.unrulymedia.com
 0.0.0.0 c.l.qq.com
 0.0.0.0 clrstm.com
 0.0.0.0 cl-stg.perimeterx.net
@@ -4657,8 +4659,8 @@
 0.0.0.0 code-server.biz
 0.0.0.0 code.tinypass.com
 0.0.0.0 cognitivlabs.com
-0.0.0.0 coin-hive.com
 0.0.0.0 coinhive.com
+0.0.0.0 coin-hive.com
 0.0.0.0 cointraffic.io
 0.0.0.0 cokhach.com
 0.0.0.0 cold.localytics.com
@@ -5357,6 +5359,7 @@
 0.0.0.0 d.blueserving.com
 0.0.0.0 dbmaster-aarthpro.xapads.com
 0.0.0.0 dbmaster.aatkit.com
+0.0.0.0 dbmaster-track.xapads.com
 0.0.0.0 dbread.propellerads.com
 0.0.0.0 db-slack-service.demandbase.com
 0.0.0.0 dbs.pushwoosh.com
@@ -5434,8 +5437,8 @@
 0.0.0.0 delivery-europe-west-1.openx.net
 0.0.0.0 delivery-europe-west-1.servedbyopenx.com
 0.0.0.0 delivery.lavanetwork.net
-0.0.0.0 delivery.m.ambient-platform.com
 0.0.0.0 delivery-m.ambient-platform.com
+0.0.0.0 delivery.m.ambient-platform.com
 0.0.0.0 delivery.m.ambientplatform.vn
 0.0.0.0 delivery.mediawayss.com
 0.0.0.0 delivery.preprod.trafficjunky.net
@@ -6337,8 +6340,8 @@
 0.0.0.0 eu-west-1.event.prod.bidr.io
 0.0.0.0 eu-west-1.profile-api.ads.linkedin.com
 0.0.0.0 eu-west.load.exelator.com
-0.0.0.0 euw.fb.adsrvr.org
 0.0.0.0 euwfb.adsrvr.org
+0.0.0.0 euw.fb.adsrvr.org
 0.0.0.0 euwvideo.adsrvr.org
 0.0.0.0 eu.xapads.com
 0.0.0.0 eu.xmlppcbuzz.com
@@ -6596,6 +6599,7 @@
 0.0.0.0 feedads.g.doubleclick.net
 0.0.0.0 feedbackresearch.com
 0.0.0.0 feed.baidu.com
+0.0.0.0 feed.engage.im
 0.0.0.0 feedicon.trackpush.com
 0.0.0.0 feedimages.simpli.fi
 0.0.0.0 feedjit.com
@@ -6655,6 +6659,7 @@
 0.0.0.0 flakyfeast.com
 0.0.0.0 flamenipper.33across.com
 0.0.0.0 flapi1.rubiconproject.com
+0.0.0.0 flapi2.rubiconproject.com
 0.0.0.0 flash.quantserve.com
 0.0.0.0 flashtalking.com
 0.0.0.0 fleshlightcash.com
@@ -7522,8 +7527,8 @@
 0.0.0.0 iad.eclick.vn
 0.0.0.0 ia-dev01.inner-active.mobi
 0.0.0.0 ia-dev02.inner-active.mobi
-0.0.0.0 iadfeed.qwapi.com
 0.0.0.0 iad-feed.qwapi.com
+0.0.0.0 iadfeed.qwapi.com
 0.0.0.0 iadfeedtest.qwapi.com
 0.0.0.0 iad-login.dotomi.com
 0.0.0.0 iadmfeed.qwapi.com
@@ -7683,8 +7688,8 @@
 0.0.0.0 images.specificclick.net
 0.0.0.0 images.startappservice.com
 0.0.0.0 images.taboola.com
-0.0.0.0 image.static.adflex.vn
 0.0.0.0 image-static.adflex.vn
+0.0.0.0 image.static.adflex.vn
 0.0.0.0 images.taxel.jp
 0.0.0.0 images.vasapi.mangoads.vn
 0.0.0.0 images.viglink.com
@@ -10907,6 +10912,7 @@
 0.0.0.0 praddpro.de
 0.0.0.0 pr.adxxx.com
 0.0.0.0 prague-ad.adtdp.com
+0.0.0.0 prague-bid.adtdp.com
 0.0.0.0 prague-cdn.adtdp.com
 0.0.0.0 prague-console.adtdp.com
 0.0.0.0 prague-mark.adtdp.com
@@ -11373,8 +11379,8 @@
 0.0.0.0 query.petametrics.com
 0.0.0.0 query-us-east1.petametrics.com
 0.0.0.0 query-us.petametrics.com
-0.0.0.0 query-us-west1.petametrics.com
 0.0.0.0 query-us-west-1.petametrics.com
+0.0.0.0 query-us-west1.petametrics.com
 0.0.0.0 questaffiliates.net
 0.0.0.0 queue.simpleanalytics.io
 0.0.0.0 queue.statistics.aatkit.com
@@ -11447,8 +11453,8 @@
 0.0.0.0 rbb.ic.llnwd.net
 0.0.0.0 r.bidswitch.net
 0.0.0.0 rbi.eu.qualtrics.com
-0.0.0.0 rc-app.optimizely.com
 0.0.0.0 rc.app.optimizely.com
+0.0.0.0 rc-app.optimizely.com
 0.0.0.0 r.casalemedia.com
 0.0.0.0 rc-au.imrworldwide.com
 0.0.0.0 r.clicktale.net
@@ -11893,10 +11899,10 @@
 0.0.0.0 rtb-facebook.mrs.nxtck.com
 0.0.0.0 rtb-g.adservme.com
 0.0.0.0 rtb-google-gus.nxtck.com
-0.0.0.0 rtb-google.mia.nxtck.com
 0.0.0.0 rtb-google-mia.nxtck.com
-0.0.0.0 rtb-google.mrs.nxtck.com
+0.0.0.0 rtb-google.mia.nxtck.com
 0.0.0.0 rtb-google-mrs.nxtck.com
+0.0.0.0 rtb-google.mrs.nxtck.com
 0.0.0.0 rtb.gumgum.com
 0.0.0.0 rtbgw-eu.adgrx.com
 0.0.0.0 rtbgw-na-west.adgrx.com
@@ -11913,10 +11919,10 @@
 0.0.0.0 rtb.openx.net
 0.0.0.0 rtb-other-gus.nxtck.com
 0.0.0.0 rtb-other.gus.nxtck.com
-0.0.0.0 rtb-other.mia.nxtck.com
 0.0.0.0 rtb-other-mia.nxtck.com
-0.0.0.0 rtb-other.mrs.nxtck.com
+0.0.0.0 rtb-other.mia.nxtck.com
 0.0.0.0 rtb-other-mrs.nxtck.com
+0.0.0.0 rtb-other.mrs.nxtck.com
 0.0.0.0 rtb.pclick.yahoo.com
 0.0.0.0 rtb.platform.glispa.com
 0.0.0.0 rtbpop.com
@@ -13049,8 +13055,8 @@
 0.0.0.0 ss.yomedia.vn
 0.0.0.0 st.123c.vn
 0.0.0.0 st3.qualtrics.com
-0.0.0.0 st.a.anthill.vn
 0.0.0.0 st-a.anthill.vn
+0.0.0.0 st.a.anthill.vn
 0.0.0.0 stable.app.optimizely.com
 0.0.0.0 stackadapt.com
 0.0.0.0 st.ad.adnow.com
@@ -13193,6 +13199,7 @@
 0.0.0.0 static2.chartbeat.com
 0.0.0.0 static.2mdn.net
 0.0.0.0 static-2mdn-net.l.google.com
+0.0.0.0 static.2mdnsys.com
 0.0.0.0 static2.mopub.com
 0.0.0.0 static2.outbrain.com
 0.0.0.0 static2-src.adxxx.com
@@ -13225,8 +13232,8 @@
 0.0.0.0 static.amcdn.vn
 0.0.0.0 static.a-mo.net
 0.0.0.0 static.amplitude.com
-0.0.0.0 static-analytics.adkernel.com
 0.0.0.0 static.analytics.adkernel.com
+0.0.0.0 static-analytics.adkernel.com
 0.0.0.0 static.api.sociaplus.com
 0.0.0.0 static.api.useinsider.com
 0.0.0.0 static.appcloudbox.net
@@ -13237,8 +13244,8 @@
 0.0.0.0 static.bitmedia.io
 0.0.0.0 static.blueseed.tv
 0.0.0.0 static.cbsileads.com
-0.0.0.0 static-cdn.adblade.com
 0.0.0.0 static.cdn.adblade.com
+0.0.0.0 static-cdn.adblade.com
 0.0.0.0 static-cdn.adtelligent.com
 0.0.0.0 static-cdn.bitmedia.io
 0.0.0.0 static.cdnstoremedia.com
@@ -13513,10 +13520,10 @@
 0.0.0.0 stickssheep.com
 0.0.0.0 stickyadstv.com
 0.0.0.0 stitching-service.showheroes.com
-0.0.0.0 stla.eclick.vn
 0.0.0.0 st.l.a.eclick.vn
-0.0.0.0 st.n.adnow.com
+0.0.0.0 stla.eclick.vn
 0.0.0.0 st-n.adnow.com
+0.0.0.0 st.n.adnow.com
 0.0.0.0 st-n.ads1-adnow.com
 0.0.0.0 st.n.ads2-adnow.com
 0.0.0.0 st-n.ads2-adnow.com
@@ -13962,8 +13969,8 @@
 0.0.0.0 tendertest.com
 0.0.0.0 tenmaximg.cacafly.net
 0.0.0.0 tenmax.io
-0.0.0.0 tenmaxstatic.cacafly.net
 0.0.0.0 tenmax-static.cacafly.net
+0.0.0.0 tenmaxstatic.cacafly.net
 0.0.0.0 tentaculos.net
 0.0.0.0 ter-adserver-a-origin-ap-southeast-1.prod.adtechjp.com
 0.0.0.0 ter-adserver-b-origin-ap-southeast-1.prod.adtechjp.com
@@ -14786,8 +14793,8 @@
 0.0.0.0 us-west-sync.bidswitch.net
 0.0.0.0 us-west-tlx.3lift.com
 0.0.0.0 us-west-user.bidswitch.net
-0.0.0.0 uswfb.adsrvr.org
 0.0.0.0 usw.fb.adsrvr.org
+0.0.0.0 uswfb.adsrvr.org
 0.0.0.0 usw-lax2.adsrvr.org
 0.0.0.0 usw-lax.adsrvr.org
 0.0.0.0 uswvideo.adsrvr.org
@@ -15277,8 +15284,8 @@
 0.0.0.0 website.mediaz.vn
 0.0.0.0 web.stagingf8.pycogroup.com
 0.0.0.0 webstat.channel4.com
-0.0.0.0 webstat.com
 0.0.0.0 web-stat.com
+0.0.0.0 webstat.com
 0.0.0.0 webstat.net
 0.0.0.0 webstats4u.com
 0.0.0.0 webtrackerplus.com
@@ -15835,8 +15842,8 @@
 0.0.0.0 www.adtarget.me
 0.0.0.0 www.adt.com.vn
 0.0.0.0 www.adtdp.com
-0.0.0.0 www.adtech.com
 0.0.0.0 www.ad-tech.com
+0.0.0.0 www.adtech.com
 0.0.0.0 www.adtech.de
 0.0.0.0 www.adtechjp.com
 0.0.0.0 www.adtechus.com
@@ -18099,8 +18106,8 @@
 0.0.0.0 www.webpower.com
 0.0.0.0 www.webreseau.com
 0.0.0.0 www.webseoanalytics.com
-0.0.0.0 www.webstat.com
 0.0.0.0 www.web-stat.com
+0.0.0.0 www.webstat.com
 0.0.0.0 www.webstat.net
 0.0.0.0 www.webstats4u.com
 0.0.0.0 www.webtrackerplus.com
