@@ -487,8 +487,8 @@
 0.0.0.0 api.sharethis.com
 0.0.0.0 apis.sharethrough.com
 0.0.0.0 api-ssl.demandbase.com
-0.0.0.0 apis.staging.sharethrough.com
 0.0.0.0 apis-staging.sharethrough.com
+0.0.0.0 apis.staging.sharethrough.com
 0.0.0.0 api.staging.connatix.com
 0.0.0.0 api-staging.playbuzz.com
 0.0.0.0 apis.web.analytics.yahoo.com
@@ -1352,6 +1352,7 @@
 0.0.0.0 haproxy002.sjc4.collective-media.net
 0.0.0.0 haproxy003.iad3.collective-media.net
 0.0.0.0 haproxy003.sjc4.collective-media.net
+0.0.0.0 haproxy004.iad3.collective-media.net
 0.0.0.0 harvardbp.vo.llnwd.net
 0.0.0.0 has1.midasplayer.com
 0.0.0.0 hb-endpoint-elb-307841411.adomik.com
@@ -1468,8 +1469,8 @@
 0.0.0.0 incrediblesugar.com
 0.0.0.0 infinity-dev.youbora.com
 0.0.0.0 infosec.corp.inmobi.com
-0.0.0.0 i.n.jwpltx.com
 0.0.0.0 in.jwpltx.com
+0.0.0.0 i.n.jwpltx.com
 0.0.0.0 inline.sharethis.com
 0.0.0.0 in.meet.ssl2.duapps.com
 0.0.0.0 inplay-rcv01.scanscout.com
@@ -1514,6 +1515,7 @@
 0.0.0.0 i.po.st
 0.0.0.0 iqreport.adtechus.com
 0.0.0.0 ir-na.amazon-adsystems.com
+0.0.0.0 is.casalemedia.com
 0.0.0.0 isp.data.cnzz.com
 0.0.0.0 istream.rakutenmarketing.com
 0.0.0.0 it.adserver.yahoo.com
@@ -2403,8 +2405,8 @@
 0.0.0.0 stmp.ad.daum.net
 0.0.0.0 st.n.ads1-adnow.com
 0.0.0.0 st.n.ads3-adnow.com
-0.0.0.0 st-n.ads4-adnow.com
 0.0.0.0 st.n.ads4-adnow.com
+0.0.0.0 st-n.ads4-adnow.com
 0.0.0.0 st.n.ads5-adnow.com
 0.0.0.0 sto.midasplayer.com
 0.0.0.0 st-rbc-api-data.pingdom.net
