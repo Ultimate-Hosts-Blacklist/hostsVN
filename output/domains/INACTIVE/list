@@ -492,8 +492,8 @@ apis-ci.web.analytics.yahoo.com
 api.sharethis.com
 apis.sharethrough.com
 api-ssl.demandbase.com
-apis.staging.sharethrough.com
 apis-staging.sharethrough.com
+apis.staging.sharethrough.com
 api.staging.connatix.com
 api-staging.playbuzz.com
 apis.web.analytics.yahoo.com
@@ -536,14 +536,14 @@ asset1.fyber.com
 asset2.fyber.com
 asset3.fyber.com
 asset4.fyber.com
-assets.acceptance.sharethrough.com
 assets-acceptance.sharethrough.com
+assets.acceptance.sharethrough.com
 assets.loomia.com
 assets.prebid.org
 assets.publift.com
 assets.sharethrough.com
-assets-staging.sharethrough.com
 assets.staging.sharethrough.com
+assets-staging.sharethrough.com
 associate.microad.jp
 assoc-msdk-fe.amazon-adsystem.com
 assoc-msdk-metrics-us.amazon-adsystem.com
@@ -814,6 +814,7 @@ clic2pub.adk2x.com
 click2.mppmnetwork.com
 click.absoluteagency.com
 click.ambimob.com
+click.api.cp.tune.com
 click-cluster.mediaforge.com
 click.cnzz.com
 click.rayads.cn
@@ -1891,6 +1892,7 @@ orangeuk-mc.adinfuse.com
 ord1.powerlinks.com
 origin.collective-media.net
 origin-ui.revcontent.com
+osc.optimize.webtrends.com
 os.dev.midasplayer.com
 outside.hotjar.com
 ox-d.mediaforge.com
@@ -2394,8 +2396,8 @@ static.premiumdsp.ibillboard.com
 static.propellerads.com
 static-sio.hotjar.com
 static-ssl.exoclick.com
-static-staging.sharethrough.com
 static.staging.sharethrough.com
+static-staging.sharethrough.com
 static.trackers.adtarget.me
 static.wywy.com
 statistics.dev.aatkit.com
@@ -2435,8 +2437,8 @@ stkjw.net
 stmp.ad.daum.net
 st.n.ads1-adnow.com
 st.n.ads3-adnow.com
-st-n.ads4-adnow.com
 st.n.ads4-adnow.com
+st-n.ads4-adnow.com
 st.n.ads5-adnow.com
 sto.midasplayer.com
 st-rbc-api-data.pingdom.net
