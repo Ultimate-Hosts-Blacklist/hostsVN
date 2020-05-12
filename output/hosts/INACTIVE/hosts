@@ -549,8 +549,8 @@
 0.0.0.0 assets.prebid.org
 0.0.0.0 assets.publift.com
 0.0.0.0 assets.sharethrough.com
-0.0.0.0 assets.staging.sharethrough.com
 0.0.0.0 assets-staging.sharethrough.com
+0.0.0.0 assets.staging.sharethrough.com
 0.0.0.0 associate.microad.jp
 0.0.0.0 assoc-msdk-fe.amazon-adsystem.com
 0.0.0.0 assoc-msdk-metrics-us.amazon-adsystem.com
@@ -2398,8 +2398,8 @@
 0.0.0.0 static02.adsafeprotected.com
 0.0.0.0 static-2.3lift.com
 0.0.0.0 statica.addtoany.com
-0.0.0.0 static-acceptance.sharethrough.com
 0.0.0.0 static.acceptance.sharethrough.com
+0.0.0.0 static-acceptance.sharethrough.com
 0.0.0.0 static.adpushup.com
 0.0.0.0 static.adsnative.com
 0.0.0.0 static.asia.rtbid.me
@@ -4067,6 +4067,7 @@
 0.0.0.0 xmas.adtima.vn
 0.0.0.0 xmlfeed.propellerads.com
 0.0.0.0 xmobliefacebook.com
+0.0.0.0 xmpie.vo.llnwd.net
 0.0.0.0 xpcs.ads.yahoo.com
 0.0.0.0 xray.corp.inmobi.com
 0.0.0.0 xsltcache.alexa.com
