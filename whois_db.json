@@ -2874,6 +2874,11 @@
         "expiration_date": "05-feb-2021",
         "state": "future"
     },
+    "aj1489.online": {
+        "epoch": 1614038400.0,
+        "expiration_date": "23-feb-2021",
+        "state": "future"
+    },
     "aj1538.online": {
         "epoch": 1614470400.0,
         "expiration_date": "28-feb-2021",
@@ -14322,6 +14327,11 @@
     "props.id": {
         "epoch": 1602028800.0,
         "expiration_date": "07-oct-2020",
+        "state": "future"
+    },
+    "propu.sh": {
+        "epoch": 1648252800.0,
+        "expiration_date": "26-mar-2022",
         "state": "future"
     },
     "proranktracker.com": {
