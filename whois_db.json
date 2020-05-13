@@ -2057,7 +2057,7 @@
     "adsplay.net": {
         "epoch": 1589328000.0,
         "expiration_date": "13-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "adsplay.xyz": {
         "epoch": 1601337600.0,
@@ -6057,6 +6057,11 @@
     "comfortablecheese.com": {
         "epoch": 1611273600.0,
         "expiration_date": "22-jan-2021",
+        "state": "future"
+    },
+    "commander1.com": {
+        "epoch": 1604016000.0,
+        "expiration_date": "30-oct-2020",
         "state": "future"
     },
     "commandersact.com": {
