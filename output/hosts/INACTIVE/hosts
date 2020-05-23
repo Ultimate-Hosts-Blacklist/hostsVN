@@ -563,8 +563,8 @@
 0.0.0.0 assets.prebid.org
 0.0.0.0 assets.publift.com
 0.0.0.0 assets.sharethrough.com
-0.0.0.0 assets-staging.sharethrough.com
 0.0.0.0 assets.staging.sharethrough.com
+0.0.0.0 assets-staging.sharethrough.com
 0.0.0.0 associate.microad.jp
 0.0.0.0 assoc-msdk-fe.amazon-adsystem.com
 0.0.0.0 assoc-msdk-metrics-us.amazon-adsystem.com
@@ -2445,8 +2445,8 @@
 0.0.0.0 static02.adsafeprotected.com
 0.0.0.0 static-2.3lift.com
 0.0.0.0 statica.addtoany.com
-0.0.0.0 static.acceptance.sharethrough.com
 0.0.0.0 static-acceptance.sharethrough.com
+0.0.0.0 static.acceptance.sharethrough.com
 0.0.0.0 static.adpushup.com
 0.0.0.0 static.adsnative.com
 0.0.0.0 static.asia.rtbid.me
@@ -2501,8 +2501,8 @@
 0.0.0.0 stmp.ad.daum.net
 0.0.0.0 st.n.ads1-adnow.com
 0.0.0.0 st.n.ads3-adnow.com
-0.0.0.0 st-n.ads4-adnow.com
 0.0.0.0 st.n.ads4-adnow.com
+0.0.0.0 st-n.ads4-adnow.com
 0.0.0.0 st.n.ads5-adnow.com
 0.0.0.0 sto.midasplayer.com
 0.0.0.0 straightschool.com
@@ -2575,6 +2575,7 @@
 0.0.0.0 test-clg.doublemax.net
 0.0.0.0 test-d.analytics.yahoo.com
 0.0.0.0 test.hotjar.com
+0.0.0.0 test.instartlogic.com
 0.0.0.0 testle.fqtag.com
 0.0.0.0 testle.media.net
 0.0.0.0 testnet.jsecoin.com
@@ -2711,6 +2712,7 @@
 0.0.0.0 us-east1.bigsea.weborama.com
 0.0.0.0 us-east-1.rtb.districtm.io
 0.0.0.0 us-east-1.segment-asg.bidr.io
+0.0.0.0 us-east-pulsepoint-rtb.quantserve.com
 0.0.0.0 us-east.tlx.3lift.com
 0.0.0.0 use-foreman1.use.adsrvr.org
 0.0.0.0 use-foreman2.use.adsrvr.org
@@ -2790,11 +2792,11 @@
 0.0.0.0 video-cdn.mgid.com
 0.0.0.0 video.content.ad
 0.0.0.0 videology.ndf.weborama.com
-0.0.0.0 videos-acceptance.sharethrough.com
 0.0.0.0 videos.acceptance.sharethrough.com
+0.0.0.0 videos-acceptance.sharethrough.com
 0.0.0.0 videos.sharethrough.com
-0.0.0.0 videos.staging.sharethrough.com
 0.0.0.0 videos-staging.sharethrough.com
+0.0.0.0 videos.staging.sharethrough.com
 0.0.0.0 vi.dev.fwmrm.net
 0.0.0.0 vidstream.advertserve.com
 0.0.0.0 vietad.vn
@@ -2850,6 +2852,7 @@
 0.0.0.0 wp-status.breaktime.com.tw
 0.0.0.0 wp-uploads.sharethis.com
 0.0.0.0 wreport.ui.weborama.com
+0.0.0.0 ws10.hotjar.com
 0.0.0.0 ws8.hotjar.com
 0.0.0.0 ws9.hotjar.com
 0.0.0.0 ws.addthis.com
