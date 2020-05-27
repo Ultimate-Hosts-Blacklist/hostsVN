@@ -512,8 +512,8 @@
 0.0.0.0 api.sharethis.com
 0.0.0.0 apis.sharethrough.com
 0.0.0.0 api-ssl.demandbase.com
-0.0.0.0 apis.staging.sharethrough.com
 0.0.0.0 apis-staging.sharethrough.com
+0.0.0.0 apis.staging.sharethrough.com
 0.0.0.0 api.staging.connatix.com
 0.0.0.0 api-staging.playbuzz.com
 0.0.0.0 apis.web.analytics.yahoo.com
@@ -2798,8 +2798,8 @@
 0.0.0.0 videos.acceptance.sharethrough.com
 0.0.0.0 videos-acceptance.sharethrough.com
 0.0.0.0 videos.sharethrough.com
-0.0.0.0 videos-staging.sharethrough.com
 0.0.0.0 videos.staging.sharethrough.com
+0.0.0.0 videos-staging.sharethrough.com
 0.0.0.0 vi.dev.fwmrm.net
 0.0.0.0 vidstream.advertserve.com
 0.0.0.0 vietad.vn
