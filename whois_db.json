@@ -914,6 +914,11 @@
         "expiration_date": "09-jan-2021",
         "state": "future"
     },
+    "adctrl.com": {
+        "epoch": 1597190400.0,
+        "expiration_date": "12-aug-2020",
+        "state": "future"
+    },
     "adcycle.com": {
         "epoch": 1635292800.0,
         "expiration_date": "27-oct-2021",
@@ -3420,9 +3425,9 @@
         "state": "future"
     },
     "alclick.com": {
-        "epoch": 1590624000.0,
-        "expiration_date": "28-may-2020",
-        "state": "past"
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
+        "state": "future"
     },
     "alcmpn.com": {
         "epoch": 1634774400.0,
@@ -17162,6 +17167,11 @@
     "tealeaf.com": {
         "epoch": 1619136000.0,
         "expiration_date": "23-apr-2021",
+        "state": "future"
+    },
+    "tealiumiq.com": {
+        "epoch": 1644364800.0,
+        "expiration_date": "09-feb-2022",
         "state": "future"
     },
     "techclicks.net": {
