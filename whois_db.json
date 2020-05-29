@@ -4560,8 +4560,8 @@
         "state": "future"
     },
     "bestadmedia.com": {
-        "epoch": 1590710400.0,
-        "expiration_date": "29-may-2020",
+        "epoch": 1622246400.0,
+        "expiration_date": "29-may-2021",
         "state": "future"
     },
     "bestboundary.com": {
@@ -14035,9 +14035,9 @@
         "state": "future"
     },
     "placeplay.com": {
-        "epoch": 1590624000.0,
-        "expiration_date": "28-may-2020",
-        "state": "past"
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
+        "state": "future"
     },
     "planetactive.com": {
         "epoch": 1610496000.0,
@@ -14545,8 +14545,8 @@
         "state": "future"
     },
     "pubnative.net": {
-        "epoch": 1590451200.0,
-        "expiration_date": "26-may-2020",
+        "epoch": 1621987200.0,
+        "expiration_date": "26-may-2021",
         "state": "future"
     },
     "puffyloss.com": {
@@ -18647,6 +18647,11 @@
     "voodoo-ads.io": {
         "epoch": 1601856000.0,
         "expiration_date": "05-oct-2020",
+        "state": "future"
+    },
+    "voodoo-analytics.io": {
+        "epoch": 1594857600.0,
+        "expiration_date": "16-jul-2020",
         "state": "future"
     },
     "vpon.com": {
