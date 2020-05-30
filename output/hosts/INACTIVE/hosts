@@ -516,8 +516,8 @@
 0.0.0.0 api.sharethis.com
 0.0.0.0 apis.sharethrough.com
 0.0.0.0 api-ssl.demandbase.com
-0.0.0.0 apis-staging.sharethrough.com
 0.0.0.0 apis.staging.sharethrough.com
+0.0.0.0 apis-staging.sharethrough.com
 0.0.0.0 api.staging.connatix.com
 0.0.0.0 api-staging.playbuzz.com
 0.0.0.0 apis.web.analytics.yahoo.com
@@ -1067,6 +1067,7 @@
 0.0.0.0 demandbase.demandbase.com
 0.0.0.0 demo.adcolony.com
 0.0.0.0 demo.amplitude.com
+0.0.0.0 demo.dable.io
 0.0.0.0 demo.sharethis.com
 0.0.0.0 demo.siftscience.com
 0.0.0.0 demo.twik.io
@@ -2515,8 +2516,8 @@
 0.0.0.0 stmp.ad.daum.net
 0.0.0.0 st.n.ads1-adnow.com
 0.0.0.0 st.n.ads3-adnow.com
-0.0.0.0 st.n.ads4-adnow.com
 0.0.0.0 st-n.ads4-adnow.com
+0.0.0.0 st.n.ads4-adnow.com
 0.0.0.0 st.n.ads5-adnow.com
 0.0.0.0 sto.midasplayer.com
 0.0.0.0 straightschool.com
@@ -2626,6 +2627,7 @@
 0.0.0.0 tools.millennialmedia.com
 0.0.0.0 topacity.info
 0.0.0.0 topbarh.box.sk
+0.0.0.0 topsafelist.net
 0.0.0.0 toro-dal-01.collective-media.net
 0.0.0.0 toromedia.adk2x.com
 0.0.0.0 tor.rtb.adsrvr.org
@@ -2811,8 +2813,8 @@
 0.0.0.0 videos-acceptance.sharethrough.com
 0.0.0.0 videos.acceptance.sharethrough.com
 0.0.0.0 videos.sharethrough.com
-0.0.0.0 videos.staging.sharethrough.com
 0.0.0.0 videos-staging.sharethrough.com
+0.0.0.0 videos.staging.sharethrough.com
 0.0.0.0 vi.dev.fwmrm.net
 0.0.0.0 vidstream.advertserve.com
 0.0.0.0 vietad.vn
