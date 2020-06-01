@@ -7654,6 +7654,11 @@
         "expiration_date": "30-nov-2020",
         "state": "future"
     },
+    "entobservic.info": {
+        "epoch": 1643932800.0,
+        "expiration_date": "04-feb-2022",
+        "state": "future"
+    },
     "enviousthread.com": {
         "epoch": 1606694400.0,
         "expiration_date": "30-nov-2020",
@@ -15280,9 +15285,9 @@
         "state": "future"
     },
     "rochesterdata.com": {
-        "epoch": 1590883200.0,
-        "expiration_date": "31-may-2020",
-        "state": "past"
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
+        "state": "future"
     },
     "rockabox.co": {
         "epoch": 1596931200.0,
