@@ -4767,7 +4767,7 @@
     "bitmedia.io": {
         "epoch": 1592006400.0,
         "expiration_date": "13-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "bitmedianetwork.com": {
         "epoch": 1594512000.0,
@@ -10920,8 +10920,8 @@
         "state": "future"
     },
     "laydata.com": {
-        "epoch": 1591920000.0,
-        "expiration_date": "12-jun-2020",
+        "epoch": 1623456000.0,
+        "expiration_date": "12-jun-2021",
         "state": "future"
     },
     "lbn.ru": {
