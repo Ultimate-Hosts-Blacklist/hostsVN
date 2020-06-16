@@ -530,8 +530,8 @@
 0.0.0.0 api.sharethis.com
 0.0.0.0 apis.sharethrough.com
 0.0.0.0 api-ssl.demandbase.com
-0.0.0.0 apis-staging.sharethrough.com
 0.0.0.0 apis.staging.sharethrough.com
+0.0.0.0 apis-staging.sharethrough.com
 0.0.0.0 api.staging.connatix.com
 0.0.0.0 api-staging.playbuzz.com
 0.0.0.0 apis.web.analytics.yahoo.com
@@ -579,8 +579,8 @@
 0.0.0.0 asset2.fyber.com
 0.0.0.0 asset3.fyber.com
 0.0.0.0 asset4.fyber.com
-0.0.0.0 assets-acceptance.sharethrough.com
 0.0.0.0 assets.acceptance.sharethrough.com
+0.0.0.0 assets-acceptance.sharethrough.com
 0.0.0.0 assets.loomia.com
 0.0.0.0 assets.prebid.org
 0.0.0.0 assets.publift.com
@@ -1086,9 +1086,11 @@
 0.0.0.0 deliver.marketo.com
 0.0.0.0 delivery2.lavanetwork.net
 0.0.0.0 delivery-asia-northeast-1.servedbyopenx.com
+0.0.0.0 delivery-europe-west-1.openx.net
 0.0.0.0 delivery.hyde.ligatus.com
 0.0.0.0 delivery.sharks.vn
 0.0.0.0 delivery.s.xapads.com
+0.0.0.0 delivery-us-east-1.openx.net
 0.0.0.0 delivery-us-east-1.servedbyopenx.com
 0.0.0.0 delivery-us-west-1.openx.net
 0.0.0.0 delivery-us-west-1.servedbyopenx.com
@@ -2875,8 +2877,8 @@
 0.0.0.0 videos-acceptance.sharethrough.com
 0.0.0.0 videos.acceptance.sharethrough.com
 0.0.0.0 videos.sharethrough.com
-0.0.0.0 videos-staging.sharethrough.com
 0.0.0.0 videos.staging.sharethrough.com
+0.0.0.0 videos-staging.sharethrough.com
 0.0.0.0 vi.dev.fwmrm.net
 0.0.0.0 vidstream.advertserve.com
 0.0.0.0 vietad.vn
