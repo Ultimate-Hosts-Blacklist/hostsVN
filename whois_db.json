@@ -2337,7 +2337,7 @@
     "adv-adserver.com": {
         "epoch": 1592352000.0,
         "expiration_date": "17-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "advanpromo.com": {
         "epoch": 1601251200.0,
@@ -10880,8 +10880,8 @@
         "state": "future"
     },
     "ladsblue.com": {
-        "epoch": 1592352000.0,
-        "expiration_date": "17-jun-2020",
+        "epoch": 1623888000.0,
+        "expiration_date": "17-jun-2021",
         "state": "future"
     },
     "ladsp.com": {
