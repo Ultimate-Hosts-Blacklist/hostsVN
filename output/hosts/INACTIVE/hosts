@@ -584,14 +584,14 @@
 0.0.0.0 asset2.fyber.com
 0.0.0.0 asset3.fyber.com
 0.0.0.0 asset4.fyber.com
-0.0.0.0 assets.acceptance.sharethrough.com
 0.0.0.0 assets-acceptance.sharethrough.com
+0.0.0.0 assets.acceptance.sharethrough.com
 0.0.0.0 assets.loomia.com
 0.0.0.0 assets.prebid.org
 0.0.0.0 assets.publift.com
 0.0.0.0 assets.sharethrough.com
-0.0.0.0 assets-staging.sharethrough.com
 0.0.0.0 assets.staging.sharethrough.com
+0.0.0.0 assets-staging.sharethrough.com
 0.0.0.0 associate.microad.jp
 0.0.0.0 assoc-msdk-fe.amazon-adsystem.com
 0.0.0.0 assoc-msdk-metrics-us.amazon-adsystem.com
@@ -1590,8 +1590,8 @@
 0.0.0.0 infinity-dev.youbora.com
 0.0.0.0 info.instartlogic.com
 0.0.0.0 infosec.corp.inmobi.com
-0.0.0.0 i.n.jwpltx.com
 0.0.0.0 in.jwpltx.com
+0.0.0.0 i.n.jwpltx.com
 0.0.0.0 inline.sharethis.com
 0.0.0.0 in.meet.ssl2.duapps.com
 0.0.0.0 inplay-rcv01.scanscout.com
@@ -2533,8 +2533,8 @@
 0.0.0.0 static02.adsafeprotected.com
 0.0.0.0 static-2.3lift.com
 0.0.0.0 statica.addtoany.com
-0.0.0.0 static.acceptance.sharethrough.com
 0.0.0.0 static-acceptance.sharethrough.com
+0.0.0.0 static.acceptance.sharethrough.com
 0.0.0.0 static.adpushup.com
 0.0.0.0 static.adsnative.com
 0.0.0.0 static.asia.rtbid.me
@@ -2546,8 +2546,8 @@
 0.0.0.0 static.propellerads.com
 0.0.0.0 static-sio.hotjar.com
 0.0.0.0 static-ssl.exoclick.com
-0.0.0.0 static.staging.sharethrough.com
 0.0.0.0 static-staging.sharethrough.com
+0.0.0.0 static.staging.sharethrough.com
 0.0.0.0 static.sv.us.criteo.net
 0.0.0.0 static.trackers.adtarget.me
 0.0.0.0 static.viruspro.pro
@@ -2895,8 +2895,8 @@
 0.0.0.0 videos.acceptance.sharethrough.com
 0.0.0.0 videos-acceptance.sharethrough.com
 0.0.0.0 videos.sharethrough.com
-0.0.0.0 videos.staging.sharethrough.com
 0.0.0.0 videos-staging.sharethrough.com
+0.0.0.0 videos.staging.sharethrough.com
 0.0.0.0 vi.dev.fwmrm.net
 0.0.0.0 vidstream.advertserve.com
 0.0.0.0 vietad.vn
@@ -3120,7 +3120,9 @@
 0.0.0.0 www.aj1873.online
 0.0.0.0 www.aj1874.online
 0.0.0.0 www.ajgc1110.online
+0.0.0.0 www.ajgc1117.online
 0.0.0.0 www.ajgc1118.online
+0.0.0.0 www.ajgc1123.online
 0.0.0.0 www.ajgc1124.online
 0.0.0.0 www.ajgc1125.online
 0.0.0.0 www.ajgc1127.online
@@ -3132,6 +3134,8 @@
 0.0.0.0 www.ajgc1136.online
 0.0.0.0 www.ajgc1137.online
 0.0.0.0 www.ajgc1138.online
+0.0.0.0 www.ajgc1139.online
+0.0.0.0 www.ajgc1141.online
 0.0.0.0 www.ajgc1143.online
 0.0.0.0 www.ajgc1144.online
 0.0.0.0 www.ajgc1146.online
