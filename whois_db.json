@@ -6132,7 +6132,7 @@
     "collective-media.net": {
         "epoch": 1592870400.0,
         "expiration_date": "23-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "colonize.com": {
         "epoch": 1719792000.0,
@@ -18722,6 +18722,11 @@
     "visualrevenue.com": {
         "epoch": 1606694400.0,
         "expiration_date": "30-nov-2020",
+        "state": "future"
+    },
+    "vivaclix.com": {
+        "epoch": 1604707200.0,
+        "expiration_date": "07-nov-2020",
         "state": "future"
     },
     "vizu.com": {
