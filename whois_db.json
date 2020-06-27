@@ -940,8 +940,8 @@
         "state": "future"
     },
     "addefend.com": {
-        "epoch": 1592956800.0,
-        "expiration_date": "24-jun-2020",
+        "epoch": 1624492800.0,
+        "expiration_date": "24-jun-2021",
         "state": "future"
     },
     "addesktop.com": {
@@ -5380,8 +5380,8 @@
         "state": "future"
     },
     "carbonads.com": {
-        "epoch": 1593129600.0,
-        "expiration_date": "26-jun-2020",
+        "epoch": 1624665600.0,
+        "expiration_date": "26-jun-2021",
         "state": "future"
     },
     "carbonads.net": {
@@ -7150,9 +7150,9 @@
         "state": "future"
     },
     "dm599.com": {
-        "epoch": 1592956800.0,
-        "expiration_date": "24-jun-2020",
-        "state": "past"
+        "epoch": 1624492800.0,
+        "expiration_date": "24-jun-2021",
+        "state": "future"
     },
     "dmtracker.com": {
         "epoch": 1611878400.0,
@@ -11217,7 +11217,7 @@
     "linktarget.com": {
         "epoch": 1593216000.0,
         "expiration_date": "27-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "lita-lighting.com": {
         "epoch": 1596844800.0,
