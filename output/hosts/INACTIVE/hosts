@@ -2594,8 +2594,8 @@
 0.0.0.0 static.propellerads.com
 0.0.0.0 static-sio.hotjar.com
 0.0.0.0 static-ssl.exoclick.com
-0.0.0.0 static-staging.sharethrough.com
 0.0.0.0 static.staging.sharethrough.com
+0.0.0.0 static-staging.sharethrough.com
 0.0.0.0 static.sv.us.criteo.net
 0.0.0.0 static.trackers.adtarget.me
 0.0.0.0 static.viruspro.pro
@@ -2943,8 +2943,8 @@
 0.0.0.0 video-cdn.mgid.com
 0.0.0.0 video.content.ad
 0.0.0.0 videology.ndf.weborama.com
-0.0.0.0 videos-acceptance.sharethrough.com
 0.0.0.0 videos.acceptance.sharethrough.com
+0.0.0.0 videos-acceptance.sharethrough.com
 0.0.0.0 videos.sharethrough.com
 0.0.0.0 videos-staging.sharethrough.com
 0.0.0.0 videos.staging.sharethrough.com
@@ -4139,6 +4139,7 @@
 0.0.0.0 www.shakytaste.com
 0.0.0.0 www.shallowschool.com
 0.0.0.0 www.shallowsmile.com
+0.0.0.0 www.sharepointads.com
 0.0.0.0 www.sharks.vn
 0.0.0.0 www.sharppatch.com
 0.0.0.0 www.shelterstraw.com
