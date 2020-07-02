@@ -3197,7 +3197,7 @@
     "ajgc1119.online": {
         "epoch": 1593648000.0,
         "expiration_date": "02-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "ajgc1120.online": {
         "epoch": 1593648000.0,
@@ -3267,7 +3267,7 @@
     "ajgc1133.online": {
         "epoch": 1593648000.0,
         "expiration_date": "02-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "ajgc1134.online": {
         "epoch": 1593648000.0,
@@ -3332,7 +3332,7 @@
     "ajgc1146.online": {
         "epoch": 1593648000.0,
         "expiration_date": "02-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "ajgc1147.online": {
         "epoch": 1593648000.0,
@@ -17040,8 +17040,8 @@
         "state": "future"
     },
     "surfcountor.com": {
-        "epoch": 1593648000.0,
-        "expiration_date": "02-jul-2020",
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
         "state": "future"
     },
     "suriflowers.com": {
