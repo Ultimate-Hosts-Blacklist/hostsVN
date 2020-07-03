@@ -3222,7 +3222,7 @@
     "ajgc1124.online": {
         "epoch": 1593648000.0,
         "expiration_date": "02-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "ajgc1125.online": {
         "epoch": 1593648000.0,
@@ -3337,7 +3337,7 @@
     "ajgc1147.online": {
         "epoch": 1593648000.0,
         "expiration_date": "02-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "ajgc1148.online": {
         "epoch": 1593648000.0,
@@ -14542,6 +14542,11 @@
     "prooffactor.com": {
         "epoch": 1872979200.0,
         "expiration_date": "09-may-2029",
+        "state": "future"
+    },
+    "propadsviews.com": {
+        "epoch": 1617062400.0,
+        "expiration_date": "30-mar-2021",
         "state": "future"
     },
     "propellerads.com": {
