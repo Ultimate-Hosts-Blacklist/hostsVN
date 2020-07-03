@@ -3150,8 +3150,8 @@
         "state": "past"
     },
     "ajgc1110.online": {
-        "epoch": 1593648000.0,
-        "expiration_date": "02-jul-2020",
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
         "state": "future"
     },
     "ajgc1111.online": {
@@ -3365,8 +3365,8 @@
         "state": "past"
     },
     "ajgc1153.online": {
-        "epoch": 1593648000.0,
-        "expiration_date": "02-jul-2020",
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
         "state": "future"
     },
     "ajgc1154.online": {
@@ -15067,6 +15067,11 @@
     "rebisihut.com": {
         "epoch": 1612310400.0,
         "expiration_date": "03-feb-2021",
+        "state": "future"
+    },
+    "rebrand.ly": {
+        "epoch": 1757721600.0,
+        "expiration_date": "13-sep-2025",
         "state": "future"
     },
     "receptiveink.com": {
