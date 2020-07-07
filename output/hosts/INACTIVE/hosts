@@ -557,8 +557,8 @@
 0.0.0.0 api.sharethis.com
 0.0.0.0 apis.sharethrough.com
 0.0.0.0 api-ssl.demandbase.com
-0.0.0.0 apis.staging.sharethrough.com
 0.0.0.0 apis-staging.sharethrough.com
+0.0.0.0 apis.staging.sharethrough.com
 0.0.0.0 api.staging.connatix.com
 0.0.0.0 api-staging.playbuzz.com
 0.0.0.0 apis.web.analytics.yahoo.com
@@ -2592,8 +2592,8 @@
 0.0.0.0 static02.adsafeprotected.com
 0.0.0.0 static-2.3lift.com
 0.0.0.0 statica.addtoany.com
-0.0.0.0 static-acceptance.sharethrough.com
 0.0.0.0 static.acceptance.sharethrough.com
+0.0.0.0 static-acceptance.sharethrough.com
 0.0.0.0 static.adpushup.com
 0.0.0.0 static.adsnative.com
 0.0.0.0 static.asia.rtbid.me
@@ -2605,8 +2605,8 @@
 0.0.0.0 static.propellerads.com
 0.0.0.0 static-sio.hotjar.com
 0.0.0.0 static-ssl.exoclick.com
-0.0.0.0 static.staging.sharethrough.com
 0.0.0.0 static-staging.sharethrough.com
+0.0.0.0 static.staging.sharethrough.com
 0.0.0.0 static.sv.us.criteo.net
 0.0.0.0 static.trackers.adtarget.me
 0.0.0.0 static.viruspro.pro
