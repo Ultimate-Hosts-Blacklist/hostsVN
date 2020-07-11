@@ -2845,16 +2845,16 @@
 0.0.0.0 a.proads.space
 0.0.0.0 aps.amazon.com
 0.0.0.0 aps.hearstnp.com
-0.0.0.0 aps-insight.adsrvr.org
 0.0.0.0 aps.insight.adsrvr.org
+0.0.0.0 aps-insight.adsrvr.org
 0.0.0.0 ap-southeast-1.dc.ads.linkedin.com
 0.0.0.0 ap-southeast-1.dc-dev.ads.linkedin.com
 0.0.0.0 ap-southeast-1.email.ads.linkedin.com
 0.0.0.0 ap-southeast-1.profile-api.ads.linkedin.com
 0.0.0.0 ap-southeast.load.exelator.com
 0.0.0.0 aptest.adx1.com
-0.0.0.0 apt.insight.adsrvr.org
 0.0.0.0 apt-insight.adsrvr.org
+0.0.0.0 apt.insight.adsrvr.org
 0.0.0.0 apt.match.adsrvr.org
 0.0.0.0 apt.newrelic.com
 0.0.0.0 apture.com
@@ -2965,6 +2965,7 @@
 0.0.0.0 assets.chartboost.com
 0.0.0.0 assets.corpui.triplelift.com
 0.0.0.0 assets.deployads.com
+0.0.0.0 assets-east.smrtb.com
 0.0.0.0 assets.everesttech.net
 0.0.0.0 assets.growingio.com
 0.0.0.0 assets.hotjar.com
@@ -3459,8 +3460,8 @@
 0.0.0.0 beta.bkrtx.com
 0.0.0.0 beta-c.tenmax.io
 0.0.0.0 beta.gameanalytics.com
-0.0.0.0 beta.go.masoffer.net
 0.0.0.0 beta-go.masoffer.net
+0.0.0.0 beta.go.masoffer.net
 0.0.0.0 beta.ionicframework.com
 0.0.0.0 beta.leanplum.com
 0.0.0.0 beta.newrelic.com
@@ -4121,8 +4122,8 @@
 0.0.0.0 cdn.appnext.com
 0.0.0.0 cdn.appsflyer.com
 0.0.0.0 cdn.aralego.net
-0.0.0.0 cdn.as.amanad.adtdp.com
 0.0.0.0 cdn-as.amanad.adtdp.com
+0.0.0.0 cdn.as.amanad.adtdp.com
 0.0.0.0 cdn-as.nxtck.com
 0.0.0.0 cdn.atdmt.com
 0.0.0.0 cdn.autoads.asia
@@ -4169,8 +4170,8 @@
 0.0.0.0 cdn.cxense.com
 0.0.0.0 cdn-c.yieldlove.com
 0.0.0.0 cdn-d.amazon-adsystem.com
-0.0.0.0 cdn-de.adctrl.com
 0.0.0.0 cdn.de.adctrl.com
+0.0.0.0 cdn-de.adctrl.com
 0.0.0.0 cdn.digitru.st
 0.0.0.0 cdn.digitrust.mgr.consensu.org
 0.0.0.0 cdn.districtm.io
@@ -4251,8 +4252,8 @@
 0.0.0.0 cdn-media.ambient-platform.com
 0.0.0.0 cdn.mediaforge.com
 0.0.0.0 cdn.media.innity.net
-0.0.0.0 cdn-media.m.ambient-platform.com
 0.0.0.0 cdn-media-m.ambient-platform.com
+0.0.0.0 cdn-media.m.ambient-platform.com
 0.0.0.0 cdn.media.net
 0.0.0.0 cdn.mediawayss.com
 0.0.0.0 cdn.mgid.com
@@ -4300,8 +4301,8 @@
 0.0.0.0 cdn.pubnative.net
 0.0.0.0 cdn.pushdy.com
 0.0.0.0 cdn.pvmax.net
-0.0.0.0 cdn-qc.coccoc.com
 0.0.0.0 cdn.qc.coccoc.com
+0.0.0.0 cdn-qc.coccoc.com
 0.0.0.0 cdn.ravenjs.com
 0.0.0.0 cdn-raw.nxtck.com
 0.0.0.0 cdn.refpa.top
@@ -4677,8 +4678,8 @@
 0.0.0.0 clientmanagement.lijit.com
 0.0.0.0 clientmetrics.outbrain.com
 0.0.0.0 clientmetrics-pa.googleapis.com
-0.0.0.0 client_monitor.isnssdk.com
 0.0.0.0 clientmonitor.isnssdk.com
+0.0.0.0 client_monitor.isnssdk.com
 0.0.0.0 client-pages.adnetwork.vn
 0.0.0.0 client.perimeterx.net
 0.0.0.0 clients.adcolony.com
@@ -4726,8 +4727,8 @@
 0.0.0.0 cloudfront.mclick.mobi
 0.0.0.0 cloudfront.yieldlove-ad-serving.net
 0.0.0.0 cloudmobi.net
-0.0.0.0 cloud.video.unrulymedia.com
 0.0.0.0 cloud-video.unrulymedia.com
+0.0.0.0 cloud.video.unrulymedia.com
 0.0.0.0 c.l.qq.com
 0.0.0.0 clrstm.com
 0.0.0.0 cl-stg.perimeterx.net
@@ -7710,8 +7711,8 @@
 0.0.0.0 ht.alcmpn.com
 0.0.0.0 ht.casalemedia.com
 0.0.0.0 ht.indexww.com
-0.0.0.0 ht-lb.casalemedia.com
 0.0.0.0 htlb.casalemedia.com
+0.0.0.0 ht-lb.casalemedia.com
 0.0.0.0 ht-lb-sec.casalemedia.com
 0.0.0.0 html5.admicro.vn
 0.0.0.0 html5.adsrvr.org
@@ -7954,8 +7955,8 @@
 0.0.0.0 images.specificclick.net
 0.0.0.0 images.startappservice.com
 0.0.0.0 images.taboola.com
-0.0.0.0 image-static.adflex.vn
 0.0.0.0 image.static.adflex.vn
+0.0.0.0 image-static.adflex.vn
 0.0.0.0 images.taxel.jp
 0.0.0.0 images.vasapi.mangoads.vn
 0.0.0.0 images.viglink.com
@@ -11920,8 +11921,8 @@
 0.0.0.0 recsys.aiservice.vn
 0.0.0.0 redash.outbrain.com
 0.0.0.0 redash-zemanta.outbrain.com
-0.0.0.0 r.edge.inmobicdn.net
 0.0.0.0 redge.inmobicdn.net
+0.0.0.0 r.edge.inmobicdn.net
 0.0.0.0 redinvestor.com
 0.0.0.0 redir.adap.tv
 0.0.0.0 redir.bebi.com
@@ -12303,8 +12304,8 @@
 0.0.0.0 rtb-facebook.mrs.nxtck.com
 0.0.0.0 rtb-g.adservme.com
 0.0.0.0 rtb-google-gus.nxtck.com
-0.0.0.0 rtb-google-mia.nxtck.com
 0.0.0.0 rtb-google.mia.nxtck.com
+0.0.0.0 rtb-google-mia.nxtck.com
 0.0.0.0 rtb-google-mrs.nxtck.com
 0.0.0.0 rtb-google.mrs.nxtck.com
 0.0.0.0 rtb.gumgum.com
@@ -12324,8 +12325,8 @@
 0.0.0.0 rtb.openx.net
 0.0.0.0 rtb-other.gus.nxtck.com
 0.0.0.0 rtb-other-gus.nxtck.com
-0.0.0.0 rtb-other-mia.nxtck.com
 0.0.0.0 rtb-other.mia.nxtck.com
+0.0.0.0 rtb-other-mia.nxtck.com
 0.0.0.0 rtb-other.mrs.nxtck.com
 0.0.0.0 rtb-other-mrs.nxtck.com
 0.0.0.0 rtb.pclick.yahoo.com
@@ -12343,8 +12344,8 @@
 0.0.0.0 rtbsnip-c2s-sin.creativecdn.com
 0.0.0.0 rtb-srv.gus.nxtck.com
 0.0.0.0 rtb-srv.mia.nxtck.com
-0.0.0.0 rtb-srv.mrs.nxtck.com
 0.0.0.0 rtb-srv-mrs.nxtck.com
+0.0.0.0 rtb-srv.mrs.nxtck.com
 0.0.0.0 rtb-srv.nxtck.com
 0.0.0.0 rtbtest.send.microad.jp
 0.0.0.0 rtb.tsyndicate.com
@@ -13097,8 +13098,8 @@
 0.0.0.0 sin.creativecdn.com
 0.0.0.0 sindirect.adsrvr.org
 0.0.0.0 sinefight-skinesia.com
-0.0.0.0 sin.fb.adsrvr.org
 0.0.0.0 sinfb.adsrvr.org
+0.0.0.0 sin.fb.adsrvr.org
 0.0.0.0 s.infogram.com
 0.0.0.0 singaporeair.au1.qualtrics.com
 0.0.0.0 single.runative.com
@@ -13471,6 +13472,7 @@
 0.0.0.0 ssltest2.branch.io
 0.0.0.0 ssl.vungle.com
 0.0.0.0 ssl-web3-east-1.smrtb.com
+0.0.0.0 ssl-web3-east-2.smrtb.com
 0.0.0.0 ssl-web3-east-3.smrtb.com
 0.0.0.0 ssl-web3-east-4.smrtb.com
 0.0.0.0 ssl-web3-east.smrtb.com
@@ -13708,8 +13710,8 @@
 0.0.0.0 static.amcdn.vn
 0.0.0.0 static.a-mo.net
 0.0.0.0 static.amplitude.com
-0.0.0.0 static-analytics.adkernel.com
 0.0.0.0 static.analytics.adkernel.com
+0.0.0.0 static-analytics.adkernel.com
 0.0.0.0 static.api.sociaplus.com
 0.0.0.0 static.api.useinsider.com
 0.0.0.0 static.appcloudbox.net
@@ -14013,8 +14015,8 @@
 0.0.0.0 st-n.adnow.com
 0.0.0.0 st.n.adnow.com
 0.0.0.0 st-n.ads1-adnow.com
-0.0.0.0 st-n.ads2-adnow.com
 0.0.0.0 st.n.ads2-adnow.com
+0.0.0.0 st-n.ads2-adnow.com
 0.0.0.0 st-n.ads3-adnow.com
 0.0.0.0 st-n.ads5-adnow.com
 0.0.0.0 st-n.adxxx.com
@@ -14479,8 +14481,8 @@
 0.0.0.0 tendertest.com
 0.0.0.0 tenmaximg.cacafly.net
 0.0.0.0 tenmax.io
-0.0.0.0 tenmax-static.cacafly.net
 0.0.0.0 tenmaxstatic.cacafly.net
+0.0.0.0 tenmax-static.cacafly.net
 0.0.0.0 tentaculos.net
 0.0.0.0 ter-adserver-a-origin-ap-southeast-1.prod.adtechjp.com
 0.0.0.0 ter-adserver-b-origin-ap-southeast-1.prod.adtechjp.com
@@ -15261,8 +15263,8 @@
 0.0.0.0 use.backtrace.io
 0.0.0.0 use-data.adsrvr.org
 0.0.0.0 usedirect.adsrvr.org
-0.0.0.0 usefb.adsrvr.org
 0.0.0.0 use.fb.adsrvr.org
+0.0.0.0 usefb.adsrvr.org
 0.0.0.0 useinsider.com
 0.0.0.0 usemax.de
 0.0.0.0 usercentrics.mgr.consensu.org
@@ -16409,8 +16411,8 @@
 0.0.0.0 www.adtarget.me
 0.0.0.0 www.adt.com.vn
 0.0.0.0 www.adtdp.com
-0.0.0.0 www.adtech.com
 0.0.0.0 www.ad-tech.com
+0.0.0.0 www.adtech.com
 0.0.0.0 www.adtech.de
 0.0.0.0 www.adtechjp.com
 0.0.0.0 www.adtechus.com
