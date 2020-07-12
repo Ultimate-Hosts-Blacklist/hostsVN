@@ -615,8 +615,8 @@
 0.0.0.0 assets.prebid.org
 0.0.0.0 assets.publift.com
 0.0.0.0 assets.sharethrough.com
-0.0.0.0 assets-staging.sharethrough.com
 0.0.0.0 assets.staging.sharethrough.com
+0.0.0.0 assets-staging.sharethrough.com
 0.0.0.0 associate.microad.jp
 0.0.0.0 assoc-msdk-fe.amazon-adsystem.com
 0.0.0.0 assoc-msdk-metrics-us.amazon-adsystem.com
@@ -2676,6 +2676,7 @@
 0.0.0.0 streamate.doublepimp.com
 0.0.0.0 stream.vdo.ai
 0.0.0.0 struq.quantserve.com
+0.0.0.0 sts.si.advertising.microsoft.com
 0.0.0.0 studio.ev1.inmobi.com
 0.0.0.0 suavalds.com
 0.0.0.0 sublimelog.ayads.co
@@ -2974,11 +2975,11 @@
 0.0.0.0 video-cdn.mgid.com
 0.0.0.0 video.content.ad
 0.0.0.0 videology.ndf.weborama.com
-0.0.0.0 videos-acceptance.sharethrough.com
 0.0.0.0 videos.acceptance.sharethrough.com
+0.0.0.0 videos-acceptance.sharethrough.com
 0.0.0.0 videos.sharethrough.com
-0.0.0.0 videos-staging.sharethrough.com
 0.0.0.0 videos.staging.sharethrough.com
+0.0.0.0 videos-staging.sharethrough.com
 0.0.0.0 vi.dev.fwmrm.net
 0.0.0.0 vidstream.advertserve.com
 0.0.0.0 vietad.vn
