@@ -2097,7 +2097,7 @@
     "adspleen.com": {
         "epoch": 1595289600.0,
         "expiration_date": "21-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "adspot.co": {
         "epoch": 1612742400.0,
@@ -4040,9 +4040,9 @@
         "state": "future"
     },
     "askingpoint.com": {
-        "epoch": 1595203200.0,
-        "expiration_date": "20-jul-2020",
-        "state": "past"
+        "epoch": 1626739200.0,
+        "expiration_date": "20-jul-2021",
+        "state": "future"
     },
     "aspboxant.club": {
         "epoch": 1599868800.0,
@@ -6420,8 +6420,8 @@
         "state": "future"
     },
     "cougarads.com": {
-        "epoch": 1595203200.0,
-        "expiration_date": "20-jul-2020",
+        "epoch": 1626739200.0,
+        "expiration_date": "20-jul-2021",
         "state": "future"
     },
     "count.ly": {
