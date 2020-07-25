@@ -4812,7 +4812,7 @@
     "bj1010.online": {
         "epoch": 1595635200.0,
         "expiration_date": "25-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "bj1052.online": {
         "epoch": 1607817600.0,
@@ -13555,9 +13555,9 @@
         "state": "future"
     },
     "openvideoads.org": {
-        "epoch": 1595548800.0,
-        "expiration_date": "24-jul-2020",
-        "state": "past"
+        "epoch": 1627084800.0,
+        "expiration_date": "24-jul-2021",
+        "state": "future"
     },
     "openx.com": {
         "epoch": 1604707200.0,
