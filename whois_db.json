@@ -1614,6 +1614,11 @@
         "expiration_date": "03-oct-2021",
         "state": "future"
     },
+    "adplugg.com": {
+        "epoch": 1618099200.0,
+        "expiration_date": "11-apr-2021",
+        "state": "future"
+    },
     "adplus.co.id": {
         "epoch": 1619308800.0,
         "expiration_date": "25-apr-2021",
@@ -16857,7 +16862,7 @@
     "stats4all.com": {
         "epoch": 1595980800.0,
         "expiration_date": "29-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "statsforads.com": {
         "epoch": 1669593600.0,
