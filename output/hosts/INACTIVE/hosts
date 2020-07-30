@@ -626,8 +626,8 @@
 0.0.0.0 assets.prebid.org
 0.0.0.0 assets.publift.com
 0.0.0.0 assets.sharethrough.com
-0.0.0.0 assets.staging.sharethrough.com
 0.0.0.0 assets-staging.sharethrough.com
+0.0.0.0 assets.staging.sharethrough.com
 0.0.0.0 associate.microad.jp
 0.0.0.0 assoc-msdk-fe.amazon-adsystem.com
 0.0.0.0 assoc-msdk-metrics-us.amazon-adsystem.com
@@ -1673,8 +1673,8 @@
 0.0.0.0 infinity-dev.youbora.com
 0.0.0.0 info.instartlogic.com
 0.0.0.0 infosec.corp.inmobi.com
-0.0.0.0 in.jwpltx.com
 0.0.0.0 i.n.jwpltx.com
+0.0.0.0 in.jwpltx.com
 0.0.0.0 inline.sharethis.com
 0.0.0.0 in.meet.ssl2.duapps.com
 0.0.0.0 inplay-rcv01.scanscout.com
@@ -1892,6 +1892,7 @@
 0.0.0.0 lwfjd.today
 0.0.0.0 m12n.servebom.com
 0.0.0.0 m2.2mdn.net
+0.0.0.0 m2.adup-tech.com
 0.0.0.0 m3.2mdn.net
 0.0.0.0 m4.2mdn.net
 0.0.0.0 m4.afs.googleadservices.com
@@ -2515,6 +2516,7 @@
 0.0.0.0 sgc.urbanairship.com
 0.0.0.0 sg-mtrack.rayjump.com
 0.0.0.0 sg.origin.startappservice.com
+0.0.0.0 s.gslb.accesstrade.net
 0.0.0.0 shadow.cloud.fyber.com
 0.0.0.0 shallowschool.com
 0.0.0.0 share.asianmedia.com
@@ -2673,13 +2675,13 @@
 0.0.0.0 static.bilsyndication.com
 0.0.0.0 static.blog.sharethis.com
 0.0.0.0 static.ny.us.criteo.net
-0.0.0.0 static.premiumdsp.ibillboard.com
 0.0.0.0 static-premiumdsp.ibillboard.com
+0.0.0.0 static.premiumdsp.ibillboard.com
 0.0.0.0 static.propellerads.com
 0.0.0.0 static-sio.hotjar.com
 0.0.0.0 static-ssl.exoclick.com
-0.0.0.0 static-staging.sharethrough.com
 0.0.0.0 static.staging.sharethrough.com
+0.0.0.0 static-staging.sharethrough.com
 0.0.0.0 static.sv.us.criteo.net
 0.0.0.0 static.trackers.adtarget.me
 0.0.0.0 static.viruspro.pro
@@ -2722,8 +2724,8 @@
 0.0.0.0 stmp.ad.daum.net
 0.0.0.0 st.n.ads1-adnow.com
 0.0.0.0 st.n.ads3-adnow.com
-0.0.0.0 st.n.ads4-adnow.com
 0.0.0.0 st-n.ads4-adnow.com
+0.0.0.0 st.n.ads4-adnow.com
 0.0.0.0 st.n.ads5-adnow.com
 0.0.0.0 sto.midasplayer.com
 0.0.0.0 straightschool.com
@@ -2775,6 +2777,7 @@
 0.0.0.0 tag.triplelift.com
 0.0.0.0 tailsweep.co.uk
 0.0.0.0 tap.ads-twitter.com
+0.0.0.0 targaryen.unrulymedia.com
 0.0.0.0 tb.popcash.net
 0.0.0.0 t.cnzz.com
 0.0.0.0 t.collective-media.net
@@ -3039,8 +3042,8 @@
 0.0.0.0 videos.acceptance.sharethrough.com
 0.0.0.0 videos-acceptance.sharethrough.com
 0.0.0.0 videos.sharethrough.com
-0.0.0.0 videos-staging.sharethrough.com
 0.0.0.0 videos.staging.sharethrough.com
+0.0.0.0 videos-staging.sharethrough.com
 0.0.0.0 videos.tune.com
 0.0.0.0 vi.dev.fwmrm.net
 0.0.0.0 vidstream.advertserve.com
@@ -4271,6 +4274,7 @@
 0.0.0.0 www.servedby-buysellads.com
 0.0.0.0 www.servedbyopenx.com
 0.0.0.0 www.servedbyopenx.net
+0.0.0.0 www.servenobid.com
 0.0.0.0 www.serving1.net
 0.0.0.0 www.sexaddpro.de
 0.0.0.0 www.shakesuggestion.com
