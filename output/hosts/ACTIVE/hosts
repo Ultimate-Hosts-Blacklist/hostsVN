@@ -712,8 +712,8 @@
 0.0.0.0 ad.movad.net
 0.0.0.0 ad.mox.tv
 0.0.0.0 adm.phunuvagiadinh.vn
-0.0.0.0 adm-td.adnow.com
 0.0.0.0 admtd.adnow.com
+0.0.0.0 adm-td.adnow.com
 0.0.0.0 admtpmp123.com
 0.0.0.0 admtpmp124.com
 0.0.0.0 admtpmp127.com
@@ -1246,8 +1246,8 @@
 0.0.0.0 ads.gradfinder.com
 0.0.0.0 ads.grindinggears.com
 0.0.0.0 adsgroup.qq.com
-0.0.0.0 ads.gsmexchange.com
 0.0.0.0 ads.gsm-exchange.com
+0.0.0.0 ads.gsmexchange.com
 0.0.0.0 ads.guardian.co.uk
 0.0.0.0 ads.guardianunlimited.co.uk
 0.0.0.0 ads.gumgum.com
@@ -1551,6 +1551,7 @@
 0.0.0.0 ads.usatoday.com
 0.0.0.0 ads.us.criteo.com
 0.0.0.0 ads-useast1n.yldbt.com
+0.0.0.0 ads-useast1.yldbt.com
 0.0.0.0 adsv2.autodaily.vn
 0.0.0.0 ads.vclick.vn
 0.0.0.0 ads.vdopia.com
@@ -2674,8 +2675,8 @@
 0.0.0.0 api.speedcurve.com
 0.0.0.0 api.spotxchange.com
 0.0.0.0 api-staging.demandbase.com
-0.0.0.0 api-staging.wootric.com
 0.0.0.0 api.staging.wootric.com
+0.0.0.0 api-staging.wootric.com
 0.0.0.0 api.startappservice.com
 0.0.0.0 apistats.propellerads.com
 0.0.0.0 apistats-static.propellerads.com
@@ -2872,16 +2873,16 @@
 0.0.0.0 a.proads.space
 0.0.0.0 aps.amazon.com
 0.0.0.0 aps.hearstnp.com
-0.0.0.0 aps.insight.adsrvr.org
 0.0.0.0 aps-insight.adsrvr.org
+0.0.0.0 aps.insight.adsrvr.org
 0.0.0.0 ap-southeast-1.dc.ads.linkedin.com
 0.0.0.0 ap-southeast-1.dc-dev.ads.linkedin.com
 0.0.0.0 ap-southeast-1.email.ads.linkedin.com
 0.0.0.0 ap-southeast-1.profile-api.ads.linkedin.com
 0.0.0.0 ap-southeast.load.exelator.com
 0.0.0.0 aptest.adx1.com
-0.0.0.0 apt-insight.adsrvr.org
 0.0.0.0 apt.insight.adsrvr.org
+0.0.0.0 apt-insight.adsrvr.org
 0.0.0.0 apt.match.adsrvr.org
 0.0.0.0 apt.newrelic.com
 0.0.0.0 apture.com
@@ -3130,6 +3131,7 @@
 0.0.0.0 autodiscover.exponential.com
 0.0.0.0 autodiscover.postrelease.com
 0.0.0.0 autohits.dk
+0.0.0.0 automatad.com
 0.0.0.0 automaticflock.com
 0.0.0.0 automation.chartbeat.net
 0.0.0.0 automation.playbuzz.com
@@ -3491,8 +3493,8 @@
 0.0.0.0 beta.bkrtx.com
 0.0.0.0 beta-c.tenmax.io
 0.0.0.0 beta.gameanalytics.com
-0.0.0.0 beta-go.masoffer.net
 0.0.0.0 beta.go.masoffer.net
+0.0.0.0 beta-go.masoffer.net
 0.0.0.0 beta.ionicframework.com
 0.0.0.0 beta.leanplum.com
 0.0.0.0 beta.newrelic.com
@@ -4158,9 +4160,10 @@
 0.0.0.0 cdn.appnext.com
 0.0.0.0 cdn.appsflyer.com
 0.0.0.0 cdn.aralego.net
-0.0.0.0 cdn.as.amanad.adtdp.com
 0.0.0.0 cdn-as.amanad.adtdp.com
+0.0.0.0 cdn.as.amanad.adtdp.com
 0.0.0.0 cdn-as.nxtck.com
+0.0.0.0 cdn-assets.adspruce.com
 0.0.0.0 cdn.atdmt.com
 0.0.0.0 cdn.autoads.asia
 0.0.0.0 cdn.avazutracking.net
@@ -4208,8 +4211,8 @@
 0.0.0.0 cdn.cxense.com
 0.0.0.0 cdn-c.yieldlove.com
 0.0.0.0 cdn-d.amazon-adsystem.com
-0.0.0.0 cdn-de.adctrl.com
 0.0.0.0 cdn.de.adctrl.com
+0.0.0.0 cdn-de.adctrl.com
 0.0.0.0 cdn.digitru.st
 0.0.0.0 cdn.digitrust.mgr.consensu.org
 0.0.0.0 cdn.districtm.io
@@ -4719,8 +4722,8 @@
 0.0.0.0 clientmanagement.lijit.com
 0.0.0.0 clientmetrics.outbrain.com
 0.0.0.0 clientmetrics-pa.googleapis.com
-0.0.0.0 client_monitor.isnssdk.com
 0.0.0.0 clientmonitor.isnssdk.com
+0.0.0.0 client_monitor.isnssdk.com
 0.0.0.0 client-pages.adnetwork.vn
 0.0.0.0 client.perimeterx.net
 0.0.0.0 clients.adcolony.com
@@ -4768,8 +4771,8 @@
 0.0.0.0 cloudfront.mclick.mobi
 0.0.0.0 cloudfront.yieldlove-ad-serving.net
 0.0.0.0 cloudmobi.net
-0.0.0.0 cloud.video.unrulymedia.com
 0.0.0.0 cloud-video.unrulymedia.com
+0.0.0.0 cloud.video.unrulymedia.com
 0.0.0.0 c.l.qq.com
 0.0.0.0 clrstm.com
 0.0.0.0 cl-stg.perimeterx.net
@@ -4817,6 +4820,7 @@
 0.0.0.0 cms.analytics.yahoo.com
 0.0.0.0 cmsapi.vev77.com
 0.0.0.0 cm.send.microad.jp
+0.0.0.0 cms.galaxiemedia.fr
 0.0.0.0 cm.shareaholic.com
 0.0.0.0 cms.novaon.asia
 0.0.0.0 cms-preprod.galaxiemedia.fr
@@ -5819,8 +5823,8 @@
 0.0.0.0 developers.tapjoy.com
 0.0.0.0 developer.swrve.com
 0.0.0.0 developer.tinypass.com
-0.0.0.0 develrc-app.optimizely.com
 0.0.0.0 develrc.app.optimizely.com
+0.0.0.0 develrc-app.optimizely.com
 0.0.0.0 dev.email-analytics.admicro.vn
 0.0.0.0 devex.adblade.com
 0.0.0.0 dev.findep.adnow.com
@@ -8050,6 +8054,7 @@
 0.0.0.0 img1.nend.net
 0.0.0.0 img.1rx.io
 0.0.0.0 img1.zergnet.com
+0.0.0.0 img.24smi.net
 0.0.0.0 img2.zergnet.com
 0.0.0.0 img.3lift.com
 0.0.0.0 img3.zergnet.com
@@ -8057,6 +8062,7 @@
 0.0.0.0 img5.zergnet.com
 0.0.0.0 img6.adspirit.de
 0.0.0.0 img7.adspirit.de
+0.0.0.0 img.accesstrade.net
 0.0.0.0 img.adcaffe.com
 0.0.0.0 img.admicro.vn
 0.0.0.0 img.adpia.vn
@@ -9991,6 +9997,7 @@
 0.0.0.0 m.servedby-buysellads.com
 0.0.0.0 msg.umengcloud.com
 0.0.0.0 ms.gumgum.com
+0.0.0.0 msg.yldbt.com
 0.0.0.0 msite.baidu.com
 0.0.0.0 m.skimresources.com
 0.0.0.0 msnbcmedia.msn.com
@@ -11310,8 +11317,8 @@
 0.0.0.0 popmyads.com
 0.0.0.0 popnc.com
 0.0.0.0 popub.com
-0.0.0.0 popunder.ru
 0.0.0.0 pop-under.ru
+0.0.0.0 popunder.ru
 0.0.0.0 popupmoney.com
 0.0.0.0 popup.msn.com
 0.0.0.0 popupnation.com
@@ -11621,6 +11628,7 @@
 0.0.0.0 pt.themoneytizer.com
 0.0.0.0 pt.trafficjunky.net
 0.0.0.0 p.typekit.net
+0.0.0.0 pub.a8.net
 0.0.0.0 pub.adflex.asia
 0.0.0.0 pub.adflex.vn
 0.0.0.0 pubadmin.adpone.com
@@ -11750,6 +11758,7 @@
 0.0.0.0 pushqwer.com
 0.0.0.0 pushrev.content-ad.net
 0.0.0.0 push.revrtb.com
+0.0.0.0 pushspring.com
 0.0.0.0 push.tenmax.io
 0.0.0.0 pushtimize.com
 0.0.0.0 pushwoosh.com
@@ -11957,8 +11966,8 @@
 0.0.0.0 rbb.ic.llnwd.net
 0.0.0.0 r.bidswitch.net
 0.0.0.0 rbi.eu.qualtrics.com
-0.0.0.0 rc-app.optimizely.com
 0.0.0.0 rc.app.optimizely.com
+0.0.0.0 rc-app.optimizely.com
 0.0.0.0 r.casalemedia.com
 0.0.0.0 rc-au.imrworldwide.com
 0.0.0.0 r.clicktale.net
@@ -12030,8 +12039,8 @@
 0.0.0.0 recsys.aiservice.vn
 0.0.0.0 redash.outbrain.com
 0.0.0.0 redash-zemanta.outbrain.com
-0.0.0.0 r.edge.inmobicdn.net
 0.0.0.0 redge.inmobicdn.net
+0.0.0.0 r.edge.inmobicdn.net
 0.0.0.0 redinvestor.com
 0.0.0.0 redir.adap.tv
 0.0.0.0 redir.bebi.com
@@ -12420,8 +12429,8 @@
 0.0.0.0 rtb-google-gus.nxtck.com
 0.0.0.0 rtb-google-mia.nxtck.com
 0.0.0.0 rtb-google.mia.nxtck.com
-0.0.0.0 rtb-google.mrs.nxtck.com
 0.0.0.0 rtb-google-mrs.nxtck.com
+0.0.0.0 rtb-google.mrs.nxtck.com
 0.0.0.0 rtb.gumgum.com
 0.0.0.0 rtbgw-eu.adgrx.com
 0.0.0.0 rtbgw-na-east.adgrx.com
@@ -12441,8 +12450,8 @@
 0.0.0.0 rtb-other-gus.nxtck.com
 0.0.0.0 rtb-other-mia.nxtck.com
 0.0.0.0 rtb-other.mia.nxtck.com
-0.0.0.0 rtb-other.mrs.nxtck.com
 0.0.0.0 rtb-other-mrs.nxtck.com
+0.0.0.0 rtb-other.mrs.nxtck.com
 0.0.0.0 rtb.pclick.yahoo.com
 0.0.0.0 rtb.platform.glispa.com
 0.0.0.0 rtbpop.com
@@ -12458,8 +12467,8 @@
 0.0.0.0 rtbsnip-c2s-sin.creativecdn.com
 0.0.0.0 rtb-srv.gus.nxtck.com
 0.0.0.0 rtb-srv.mia.nxtck.com
-0.0.0.0 rtb-srv.mrs.nxtck.com
 0.0.0.0 rtb-srv-mrs.nxtck.com
+0.0.0.0 rtb-srv.mrs.nxtck.com
 0.0.0.0 rtb-srv.nxtck.com
 0.0.0.0 rtbtest.send.microad.jp
 0.0.0.0 rtb.tsyndicate.com
@@ -13218,8 +13227,8 @@
 0.0.0.0 sin.creativecdn.com
 0.0.0.0 sindirect.adsrvr.org
 0.0.0.0 sinefight-skinesia.com
-0.0.0.0 sinfb.adsrvr.org
 0.0.0.0 sin.fb.adsrvr.org
+0.0.0.0 sinfb.adsrvr.org
 0.0.0.0 s.infogram.com
 0.0.0.0 singaporeair.au1.qualtrics.com
 0.0.0.0 single.runative.com
@@ -13658,8 +13667,8 @@
 0.0.0.0 ss.yomedia.vn
 0.0.0.0 st.123c.vn
 0.0.0.0 st3.qualtrics.com
-0.0.0.0 st.a.anthill.vn
 0.0.0.0 st-a.anthill.vn
+0.0.0.0 st.a.anthill.vn
 0.0.0.0 stable.app.optimizely.com
 0.0.0.0 stackadapt.com
 0.0.0.0 st.ad.adnow.com
@@ -14085,8 +14094,8 @@
 0.0.0.0 st.bilsyndication.com
 0.0.0.0 stc.adtima.vn
 0.0.0.0 stc.gammaplatform.com
-0.0.0.0 stc-nas.nixcdn.com
 0.0.0.0 stc.nas.nixcdn.com
+0.0.0.0 stc-nas.nixcdn.com
 0.0.0.0 st.core.polyad.net
 0.0.0.0 stc.za.zaloapp.com
 0.0.0.0 st-dpa.pingdom.net
@@ -14142,8 +14151,8 @@
 0.0.0.0 stitching-service.showheroes.com
 0.0.0.0 st.l.a.eclick.vn
 0.0.0.0 stla.eclick.vn
-0.0.0.0 st.n.adnow.com
 0.0.0.0 st-n.adnow.com
+0.0.0.0 st.n.adnow.com
 0.0.0.0 st-n.ads1-adnow.com
 0.0.0.0 st.n.ads2-adnow.com
 0.0.0.0 st-n.ads2-adnow.com
@@ -15390,6 +15399,8 @@
 0.0.0.0 us-east-dsp.aralego.com
 0.0.0.0 us-east-eb2.3lift.com
 0.0.0.0 us-east.load.exelator.com
+0.0.0.0 us-east-pbc-cluster.automatad.com
+0.0.0.0 us-east-pbs01.automatad.com
 0.0.0.0 us-east-pulsepoint-rtb.quantserve.com
 0.0.0.0 useast.quantumdex.io
 0.0.0.0 us-east-rtb.adblade.com
@@ -15468,8 +15479,8 @@
 0.0.0.0 us-west-sync.bidswitch.net
 0.0.0.0 us-west-tlx.3lift.com
 0.0.0.0 us-west-user.bidswitch.net
-0.0.0.0 usw.fb.adsrvr.org
 0.0.0.0 uswfb.adsrvr.org
+0.0.0.0 usw.fb.adsrvr.org
 0.0.0.0 usw-lax2.adsrvr.org
 0.0.0.0 usw-lax.adsrvr.org
 0.0.0.0 uswvideo.adsrvr.org
@@ -16559,8 +16570,8 @@
 0.0.0.0 www.adtarget.me
 0.0.0.0 www.adt.com.vn
 0.0.0.0 www.adtdp.com
-0.0.0.0 www.adtech.com
 0.0.0.0 www.ad-tech.com
+0.0.0.0 www.adtech.com
 0.0.0.0 www.adtech.de
 0.0.0.0 www.adtechjp.com
 0.0.0.0 www.adtechus.com
@@ -16875,6 +16886,7 @@
 0.0.0.0 www.augur.io
 0.0.0.0 www.autoads.asia
 0.0.0.0 www.auto-bannertausch.de
+0.0.0.0 www.automatad.com
 0.0.0.0 www.avazutracking.net
 0.0.0.0 www.avenuea.com
 0.0.0.0 www.avocet.io
@@ -18337,6 +18349,7 @@
 0.0.0.0 www.pushengage.com
 0.0.0.0 www.push-notifications.top
 0.0.0.0 www.pushpush.io
+0.0.0.0 www.pushspring.com
 0.0.0.0 www.pushtimize.com
 0.0.0.0 www.pushwoosh.com
 0.0.0.0 www.puzzlingfall.com
