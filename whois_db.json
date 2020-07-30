@@ -669,6 +669,11 @@
         "expiration_date": "16-sep-2020",
         "state": "future"
     },
+    "ad.style": {
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
+        "state": "future"
+    },
     "ad120m.com": {
         "epoch": 1623542400.0,
         "expiration_date": "13-jun-2021",
@@ -2075,8 +2080,8 @@
         "state": "future"
     },
     "adsoptimal.com": {
-        "epoch": 1596067200.0,
-        "expiration_date": "30-jul-2020",
+        "epoch": 1627603200.0,
+        "expiration_date": "30-jul-2021",
         "state": "future"
     },
     "adsota.com": {
