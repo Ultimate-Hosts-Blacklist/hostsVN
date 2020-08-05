@@ -632,8 +632,8 @@
 0.0.0.0 assets.prebid.org
 0.0.0.0 assets.publift.com
 0.0.0.0 assets.sharethrough.com
-0.0.0.0 assets.staging.sharethrough.com
 0.0.0.0 assets-staging.sharethrough.com
+0.0.0.0 assets.staging.sharethrough.com
 0.0.0.0 associate.microad.jp
 0.0.0.0 assoc-msdk-fe.amazon-adsystem.com
 0.0.0.0 assoc-msdk-metrics-us.amazon-adsystem.com
@@ -1014,6 +1014,7 @@
 0.0.0.0 console.cignal.io
 0.0.0.0 console.wywy.com
 0.0.0.0 content-acceptance.sharethrough.com
+0.0.0.0 content.acc-hd.de
 0.0.0.0 content.activision.swrve.com
 0.0.0.0 content-cluster.mediaforge.com
 0.0.0.0 content.contextweb.com
@@ -2715,8 +2716,8 @@
 0.0.0.0 static.propellerads.com
 0.0.0.0 static-sio.hotjar.com
 0.0.0.0 static-ssl.exoclick.com
-0.0.0.0 static.staging.sharethrough.com
 0.0.0.0 static-staging.sharethrough.com
+0.0.0.0 static.staging.sharethrough.com
 0.0.0.0 static.sv.us.criteo.net
 0.0.0.0 static.trackers.adtarget.me
 0.0.0.0 static.viruspro.pro
@@ -3079,8 +3080,8 @@
 0.0.0.0 video-cdn.mgid.com
 0.0.0.0 video.content.ad
 0.0.0.0 videology.ndf.weborama.com
-0.0.0.0 videos.acceptance.sharethrough.com
 0.0.0.0 videos-acceptance.sharethrough.com
+0.0.0.0 videos.acceptance.sharethrough.com
 0.0.0.0 videos.sharethrough.com
 0.0.0.0 videos.staging.sharethrough.com
 0.0.0.0 videos-staging.sharethrough.com
