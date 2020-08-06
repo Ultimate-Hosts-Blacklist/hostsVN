@@ -575,8 +575,8 @@
 0.0.0.0 api.sharethis.com
 0.0.0.0 apis.sharethrough.com
 0.0.0.0 api-ssl.demandbase.com
-0.0.0.0 apis.staging.sharethrough.com
 0.0.0.0 apis-staging.sharethrough.com
+0.0.0.0 apis.staging.sharethrough.com
 0.0.0.0 api.staging.connatix.com
 0.0.0.0 api-staging.playbuzz.com
 0.0.0.0 apis.web.analytics.yahoo.com
@@ -1288,6 +1288,7 @@
 0.0.0.0 dsp-api-test.powerlinks.com
 0.0.0.0 dsp.aralego.com
 0.0.0.0 dsp-dmp.aralego.com
+0.0.0.0 dsp.hadarone.com
 0.0.0.0 dsp-miami.adkernel.com
 0.0.0.0 dsp-pixel.contextweb.com
 0.0.0.0 dspportal.smaato.com
@@ -2715,13 +2716,13 @@
 0.0.0.0 static.bilsyndication.com
 0.0.0.0 static.blog.sharethis.com
 0.0.0.0 static.ny.us.criteo.net
-0.0.0.0 static-premiumdsp.ibillboard.com
 0.0.0.0 static.premiumdsp.ibillboard.com
+0.0.0.0 static-premiumdsp.ibillboard.com
 0.0.0.0 static.propellerads.com
 0.0.0.0 static-sio.hotjar.com
 0.0.0.0 static-ssl.exoclick.com
-0.0.0.0 static-staging.sharethrough.com
 0.0.0.0 static.staging.sharethrough.com
+0.0.0.0 static-staging.sharethrough.com
 0.0.0.0 static.sv.us.criteo.net
 0.0.0.0 static.trackers.adtarget.me
 0.0.0.0 static.viruspro.pro
@@ -3087,8 +3088,8 @@
 0.0.0.0 videos-acceptance.sharethrough.com
 0.0.0.0 videos.acceptance.sharethrough.com
 0.0.0.0 videos.sharethrough.com
-0.0.0.0 videos-staging.sharethrough.com
 0.0.0.0 videos.staging.sharethrough.com
+0.0.0.0 videos-staging.sharethrough.com
 0.0.0.0 videos.tune.com
 0.0.0.0 vi.dev.fwmrm.net
 0.0.0.0 vidstream.advertserve.com
