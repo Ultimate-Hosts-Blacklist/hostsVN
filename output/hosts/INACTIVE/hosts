@@ -626,8 +626,8 @@
 0.0.0.0 asset2.fyber.com
 0.0.0.0 asset3.fyber.com
 0.0.0.0 asset4.fyber.com
-0.0.0.0 assets.acceptance.sharethrough.com
 0.0.0.0 assets-acceptance.sharethrough.com
+0.0.0.0 assets.acceptance.sharethrough.com
 0.0.0.0 assets.loomia.com
 0.0.0.0 assets.prebid.org
 0.0.0.0 assets.publift.com
@@ -2538,6 +2538,7 @@
 0.0.0.0 server.popads.net
 0.0.0.0 server-za.imrworldwide.com
 0.0.0.0 service1.adten.de
+0.0.0.0 service-dev.idsync.analytics.yahoo.com
 0.0.0.0 services.adblox.net
 0.0.0.0 services.insurads.com
 0.0.0.0 services.ma.tune.com
@@ -2765,8 +2766,8 @@
 0.0.0.0 stmp.ad.daum.net
 0.0.0.0 st.n.ads1-adnow.com
 0.0.0.0 st.n.ads3-adnow.com
-0.0.0.0 st.n.ads4-adnow.com
 0.0.0.0 st-n.ads4-adnow.com
+0.0.0.0 st.n.ads4-adnow.com
 0.0.0.0 st.n.ads5-adnow.com
 0.0.0.0 sto.midasplayer.com
 0.0.0.0 straightschool.com
@@ -2970,6 +2971,7 @@
 0.0.0.0 ui.cp.tune.com
 0.0.0.0 ui.staging-api-docs.fyber.com
 0.0.0.0 uk-ad2.adinfuse.com
+0.0.0.0 uk.adserver.yahoo.com
 0.0.0.0 uk.doubleclick.net
 0.0.0.0 uk.fc.yahoo.com
 0.0.0.0 uk-go.adinfuse.com
