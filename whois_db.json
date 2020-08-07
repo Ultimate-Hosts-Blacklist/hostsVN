@@ -1452,7 +1452,7 @@
     "admotion.com.ar": {
         "epoch": 1596758400.0,
         "expiration_date": "07-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "admtpmp123.com": {
         "epoch": 1623456000.0,
@@ -2277,7 +2277,7 @@
     "adtilt.com": {
         "epoch": 1596758400.0,
         "expiration_date": "07-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "adtng.com": {
         "epoch": 1626739200.0,
@@ -19425,9 +19425,9 @@
         "state": "future"
     },
     "wywy.com": {
-        "epoch": 1596672000.0,
-        "expiration_date": "06-aug-2020",
-        "state": "past"
+        "epoch": 1628208000.0,
+        "expiration_date": "06-aug-2021",
+        "state": "future"
     },
     "wywyuserservice.com": {
         "epoch": 1614211200.0,
