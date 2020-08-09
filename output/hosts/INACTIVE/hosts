@@ -575,8 +575,8 @@
 0.0.0.0 api.sharethis.com
 0.0.0.0 apis.sharethrough.com
 0.0.0.0 api-ssl.demandbase.com
-0.0.0.0 apis.staging.sharethrough.com
 0.0.0.0 apis-staging.sharethrough.com
+0.0.0.0 apis.staging.sharethrough.com
 0.0.0.0 api.staging.connatix.com
 0.0.0.0 api-staging.playbuzz.com
 0.0.0.0 apis.web.analytics.yahoo.com
@@ -820,6 +820,7 @@
 0.0.0.0 c1.blueseed.tv
 0.0.0.0 c2.blueseed.tv
 0.0.0.0 c3.blueseed.tv
+0.0.0.0 c5.blueseed.tv
 0.0.0.0 c5.hadarone.com
 0.0.0.0 ca.adserver.yahoo.com
 0.0.0.0 ca.akamai.startappservice.com
@@ -2190,6 +2191,7 @@
 0.0.0.0 pantheon.heapanalytics.com
 0.0.0.0 papap1.midasplayer.com
 0.0.0.0 partnerads.ysm.yahoo.com
+0.0.0.0 partner.mainadv.com
 0.0.0.0 partners.adpopcorn.com
 0.0.0.0 partners.content-ad.net
 0.0.0.0 partnerserv.aniview.com
@@ -2727,8 +2729,8 @@
 0.0.0.0 static.bilsyndication.com
 0.0.0.0 static.blog.sharethis.com
 0.0.0.0 static.ny.us.criteo.net
-0.0.0.0 static.premiumdsp.ibillboard.com
 0.0.0.0 static-premiumdsp.ibillboard.com
+0.0.0.0 static.premiumdsp.ibillboard.com
 0.0.0.0 static.propellerads.com
 0.0.0.0 static-sio.hotjar.com
 0.0.0.0 static-ssl.exoclick.com
@@ -3102,8 +3104,8 @@
 0.0.0.0 videos.acceptance.sharethrough.com
 0.0.0.0 videos-acceptance.sharethrough.com
 0.0.0.0 videos.sharethrough.com
-0.0.0.0 videos-staging.sharethrough.com
 0.0.0.0 videos.staging.sharethrough.com
+0.0.0.0 videos-staging.sharethrough.com
 0.0.0.0 videos.tune.com
 0.0.0.0 vi.dev.fwmrm.net
 0.0.0.0 vidstream.advertserve.com
@@ -3461,6 +3463,7 @@
 0.0.0.0 www.awzbijw.com
 0.0.0.0 www.axiomaticalley.com
 0.0.0.0 www.azfront.com
+0.0.0.0 www.b-1st.com
 0.0.0.0 www.b2c.com
 0.0.0.0 www.bafuhotel.com
 0.0.0.0 www.balancebreath.com
