@@ -575,8 +575,8 @@ apis-ci.web.analytics.yahoo.com
 api.sharethis.com
 apis.sharethrough.com
 api-ssl.demandbase.com
-apis-staging.sharethrough.com
 apis.staging.sharethrough.com
+apis-staging.sharethrough.com
 api.staging.connatix.com
 api-staging.playbuzz.com
 apis.web.analytics.yahoo.com
@@ -818,6 +818,8 @@ bw-useast-bidder.appd.inmobi.com
 bw-uswest-bidder.appd.inmobi.com
 c1.bitmedia.io
 c1.blueseed.tv
+c2.blueseed.tv
+c3.blueseed.tv
 c5.hadarone.com
 ca.adserver.yahoo.com
 ca.akamai.startappservice.com
@@ -2725,8 +2727,8 @@ static.asia.rtbid.me
 static.bilsyndication.com
 static.blog.sharethis.com
 static.ny.us.criteo.net
-static.premiumdsp.ibillboard.com
 static-premiumdsp.ibillboard.com
+static.premiumdsp.ibillboard.com
 static.propellerads.com
 static-sio.hotjar.com
 static-ssl.exoclick.com
@@ -2928,6 +2930,7 @@ tracking-thirdparty.i2w.io
 tracking.yourfilehost.com
 track.mobfox.com
 track.msadcenter.eqq.com
+track.pregmomvietnam.com
 track-premiumdsp.ibillboard.com
 track.publeadmedia.com
 track.richmediaads.com
@@ -3096,8 +3099,8 @@ video.batmobi.net
 video-cdn.mgid.com
 video.content.ad
 videology.ndf.weborama.com
-videos.acceptance.sharethrough.com
 videos-acceptance.sharethrough.com
+videos.acceptance.sharethrough.com
 videos.sharethrough.com
 videos-staging.sharethrough.com
 videos.staging.sharethrough.com
