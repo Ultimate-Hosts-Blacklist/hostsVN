@@ -576,8 +576,8 @@
 0.0.0.0 api.sharethis.com
 0.0.0.0 apis.sharethrough.com
 0.0.0.0 api-ssl.demandbase.com
-0.0.0.0 apis.staging.sharethrough.com
 0.0.0.0 apis-staging.sharethrough.com
+0.0.0.0 apis.staging.sharethrough.com
 0.0.0.0 api.staging.connatix.com
 0.0.0.0 api-staging.playbuzz.com
 0.0.0.0 apis.web.analytics.yahoo.com
@@ -822,6 +822,7 @@
 0.0.0.0 c1.bitmedia.io
 0.0.0.0 c1.blueseed.tv
 0.0.0.0 c2.blueseed.tv
+0.0.0.0 c2.hadarone.com
 0.0.0.0 c3.blueseed.tv
 0.0.0.0 c3.hadarone.com
 0.0.0.0 c5.blueseed.tv
@@ -2318,8 +2319,8 @@
 0.0.0.0 protection-iphone.site
 0.0.0.0 provalist.info
 0.0.0.0 provideplant.com
-0.0.0.0 provider-gateway.production.browsiprod.com
 0.0.0.0 provider-gateway-production.browsiprod.com
+0.0.0.0 provider-gateway.production.browsiprod.com
 0.0.0.0 prs1.midasplayer.com
 0.0.0.0 pr.safedk.com
 0.0.0.0 pr.ydp.yahoo.com
@@ -2736,8 +2737,8 @@
 0.0.0.0 static02.adsafeprotected.com
 0.0.0.0 static-2.3lift.com
 0.0.0.0 statica.addtoany.com
-0.0.0.0 static-acceptance.sharethrough.com
 0.0.0.0 static.acceptance.sharethrough.com
+0.0.0.0 static-acceptance.sharethrough.com
 0.0.0.0 static.adpushup.com
 0.0.0.0 static.adsnative.com
 0.0.0.0 static.appcloudbox.net
@@ -3118,11 +3119,11 @@
 0.0.0.0 video-cdn.mgid.com
 0.0.0.0 video.content.ad
 0.0.0.0 videology.ndf.weborama.com
-0.0.0.0 videos.acceptance.sharethrough.com
 0.0.0.0 videos-acceptance.sharethrough.com
+0.0.0.0 videos.acceptance.sharethrough.com
 0.0.0.0 videos.sharethrough.com
-0.0.0.0 videos.staging.sharethrough.com
 0.0.0.0 videos-staging.sharethrough.com
+0.0.0.0 videos.staging.sharethrough.com
 0.0.0.0 videos.tune.com
 0.0.0.0 vi.dev.fwmrm.net
 0.0.0.0 vidstream.advertserve.com
@@ -3264,6 +3265,7 @@
 0.0.0.0 www.adnet.de
 0.0.0.0 www.adnotch.com
 0.0.0.0 www.adoptimize.info
+0.0.0.0 www.adpenguin.biz
 0.0.0.0 www.adprofile.net
 0.0.0.0 www.adprojekt.pl
 0.0.0.0 www.adrcntr.com
@@ -3284,6 +3286,7 @@
 0.0.0.0 www.adsfac.net
 0.0.0.0 www.adsfactor.net
 0.0.0.0 www.adsfac.us
+0.0.0.0 www.adshark.site
 0.0.0.0 www.adslop.com
 0.0.0.0 www.adsnative.com
 0.0.0.0 www.adsoctopus.com
