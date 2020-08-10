@@ -626,14 +626,14 @@
 0.0.0.0 asset2.fyber.com
 0.0.0.0 asset3.fyber.com
 0.0.0.0 asset4.fyber.com
-0.0.0.0 assets.acceptance.sharethrough.com
 0.0.0.0 assets-acceptance.sharethrough.com
+0.0.0.0 assets.acceptance.sharethrough.com
 0.0.0.0 assets.loomia.com
 0.0.0.0 assets.prebid.org
 0.0.0.0 assets.publift.com
 0.0.0.0 assets.sharethrough.com
-0.0.0.0 assets-staging.sharethrough.com
 0.0.0.0 assets.staging.sharethrough.com
+0.0.0.0 assets-staging.sharethrough.com
 0.0.0.0 associate.microad.jp
 0.0.0.0 assoc-msdk-fe.amazon-adsystem.com
 0.0.0.0 assoc-msdk-metrics-us.amazon-adsystem.com
@@ -840,6 +840,7 @@
 0.0.0.0 c.baidu.com
 0.0.0.0 c.blueserving.com
 0.0.0.0 cc1.midasplayer.com
+0.0.0.0 cc.adserver.yahoo.com
 0.0.0.0 ccde.events.marketo.com
 0.0.0.0 c.compete.com
 0.0.0.0 cd-lb.propellerads.com
@@ -2311,8 +2312,8 @@
 0.0.0.0 protection-iphone.site
 0.0.0.0 provalist.info
 0.0.0.0 provideplant.com
-0.0.0.0 provider-gateway-production.browsiprod.com
 0.0.0.0 provider-gateway.production.browsiprod.com
+0.0.0.0 provider-gateway-production.browsiprod.com
 0.0.0.0 prs1.midasplayer.com
 0.0.0.0 pr.safedk.com
 0.0.0.0 pr.ydp.yahoo.com
@@ -2788,8 +2789,8 @@
 0.0.0.0 stmp.ad.daum.net
 0.0.0.0 st.n.ads1-adnow.com
 0.0.0.0 st.n.ads3-adnow.com
-0.0.0.0 st-n.ads4-adnow.com
 0.0.0.0 st.n.ads4-adnow.com
+0.0.0.0 st-n.ads4-adnow.com
 0.0.0.0 st.n.ads5-adnow.com
 0.0.0.0 sto.midasplayer.com
 0.0.0.0 straightschool.com
@@ -3110,11 +3111,11 @@
 0.0.0.0 video-cdn.mgid.com
 0.0.0.0 video.content.ad
 0.0.0.0 videology.ndf.weborama.com
-0.0.0.0 videos.acceptance.sharethrough.com
 0.0.0.0 videos-acceptance.sharethrough.com
+0.0.0.0 videos.acceptance.sharethrough.com
 0.0.0.0 videos.sharethrough.com
-0.0.0.0 videos-staging.sharethrough.com
 0.0.0.0 videos.staging.sharethrough.com
+0.0.0.0 videos-staging.sharethrough.com
 0.0.0.0 videos.tune.com
 0.0.0.0 vi.dev.fwmrm.net
 0.0.0.0 vidstream.advertserve.com
@@ -3839,6 +3840,7 @@
 0.0.0.0 www.gotime.backtrace.io
 0.0.0.0 www.gracefulsock.com
 0.0.0.0 www.grafstat.ro
+0.0.0.0 www.graizoah.com
 0.0.0.0 www.grandioseguide.com
 0.0.0.0 www.greetzebra.com
 0.0.0.0 www.greyinstrument.com
@@ -4224,6 +4226,7 @@
 0.0.0.0 www.profitrumour.com
 0.0.0.0 www.pro-market.net
 0.0.0.0 www.promotion-campaigns.com
+0.0.0.0 www.propeller-tracking.com
 0.0.0.0 www.protection-cellphone.fun
 0.0.0.0 www.protection-cellphone.site
 0.0.0.0 www.protection-cleaner.fun
