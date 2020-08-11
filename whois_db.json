@@ -4690,8 +4690,8 @@
         "state": "future"
     },
     "bidadx.com": {
-        "epoch": 1597104000.0,
-        "expiration_date": "11-aug-2020",
+        "epoch": 1628640000.0,
+        "expiration_date": "11-aug-2021",
         "state": "future"
     },
     "bidclix.com": {
@@ -5647,6 +5647,11 @@
     "cetrk.com": {
         "epoch": 1641600000.0,
         "expiration_date": "08-jan-2022",
+        "state": "future"
+    },
+    "cfjump.com": {
+        "epoch": 1621728000.0,
+        "expiration_date": "23-may-2021",
         "state": "future"
     },
     "chairscrack.com": {
@@ -19195,9 +19200,9 @@
         "state": "future"
     },
     "webstat.com": {
-        "epoch": 1597017600.0,
-        "expiration_date": "10-aug-2020",
-        "state": "past"
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
+        "state": "future"
     },
     "webstat.net": {
         "epoch": 1634515200.0,
