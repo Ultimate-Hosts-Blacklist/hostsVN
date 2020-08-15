@@ -564,6 +564,11 @@
         "expiration_date": "30-nov-2020",
         "state": "future"
     },
+    "aclickads.com": {
+        "epoch": 1623196800.0,
+        "expiration_date": "09-jun-2021",
+        "state": "future"
+    },
     "acloudimages.com": {
         "epoch": 1600214400.0,
         "expiration_date": "16-sep-2020",
@@ -637,7 +642,7 @@
     "ad-souk.com": {
         "epoch": 1597449600.0,
         "expiration_date": "15-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "ad-space.net": {
         "epoch": 1623715200.0,
