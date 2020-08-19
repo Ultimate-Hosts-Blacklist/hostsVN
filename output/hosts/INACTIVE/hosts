@@ -581,8 +581,8 @@
 0.0.0.0 api.sharethis.com
 0.0.0.0 apis.sharethrough.com
 0.0.0.0 api-ssl.demandbase.com
-0.0.0.0 apis-staging.sharethrough.com
 0.0.0.0 apis.staging.sharethrough.com
+0.0.0.0 apis-staging.sharethrough.com
 0.0.0.0 api.staging.connatix.com
 0.0.0.0 api-staging.playbuzz.com
 0.0.0.0 apis.web.analytics.yahoo.com
@@ -1570,6 +1570,7 @@
 0.0.0.0 graylog.ops.dfw1.inmobi.com
 0.0.0.0 graylog.ops.dfw2.inmobi.com
 0.0.0.0 grey.soju.openx.net
+0.0.0.0 g.rfrl.pw
 0.0.0.0 gs.rec.duapps.com
 0.0.0.0 gtm1.powerlinks.com
 0.0.0.0 gtm2.powerlinks.com
@@ -1981,6 +1982,7 @@
 0.0.0.0 mantis.autoads.asia
 0.0.0.0 manwaringweb.advertserve.com
 0.0.0.0 maplefarmmedia.com
+0.0.0.0 mappealist.club
 0.0.0.0 marathon.prd.fyber.com
 0.0.0.0 marketing.demandbase.com
 0.0.0.0 marketing.heapanalytics.com
@@ -2342,8 +2344,8 @@
 0.0.0.0 protection-iphone.site
 0.0.0.0 provalist.info
 0.0.0.0 provideplant.com
-0.0.0.0 provider-gateway.production.browsiprod.com
 0.0.0.0 provider-gateway-production.browsiprod.com
+0.0.0.0 provider-gateway.production.browsiprod.com
 0.0.0.0 prs1.midasplayer.com
 0.0.0.0 pr.safedk.com
 0.0.0.0 pr.ydp.yahoo.com
@@ -2761,8 +2763,8 @@
 0.0.0.0 static02.adsafeprotected.com
 0.0.0.0 static-2.3lift.com
 0.0.0.0 statica.addtoany.com
-0.0.0.0 static-acceptance.sharethrough.com
 0.0.0.0 static.acceptance.sharethrough.com
+0.0.0.0 static-acceptance.sharethrough.com
 0.0.0.0 static.adpushup.com
 0.0.0.0 static.adsnative.com
 0.0.0.0 static.appcloudbox.net
@@ -2779,8 +2781,8 @@
 0.0.0.0 static.realsrv.com
 0.0.0.0 static-sio.hotjar.com
 0.0.0.0 static-ssl.exoclick.com
-0.0.0.0 static.staging.sharethrough.com
 0.0.0.0 static-staging.sharethrough.com
+0.0.0.0 static.staging.sharethrough.com
 0.0.0.0 static.sv.us.criteo.net
 0.0.0.0 static.trackers.adtarget.me
 0.0.0.0 static.viruspro.pro
@@ -2966,6 +2968,7 @@
 0.0.0.0 tracker.mtrtb.com
 0.0.0.0 tracker.powerlinks.com
 0.0.0.0 trackers.voodoo-analytics.io
+0.0.0.0 track.eyeviewads.com
 0.0.0.0 track.gxb.cnzz.com
 0.0.0.0 tracking.adflex.asia
 0.0.0.0 tracking.adxxx.com
@@ -3153,8 +3156,8 @@
 0.0.0.0 videos-acceptance.sharethrough.com
 0.0.0.0 videos.acceptance.sharethrough.com
 0.0.0.0 videos.sharethrough.com
-0.0.0.0 videos-staging.sharethrough.com
 0.0.0.0 videos.staging.sharethrough.com
+0.0.0.0 videos-staging.sharethrough.com
 0.0.0.0 videos.tune.com
 0.0.0.0 vi.dev.fwmrm.net
 0.0.0.0 vidstream.advertserve.com
