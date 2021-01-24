@@ -1,40 +1,18 @@
 {
-    "current_stats": {
-        "builds": 3137,
-        "counter": {
-            "down": 0,
-            "invalid": 0,
-            "malicious": 0,
-            "sane": 0,
-            "tested": 0,
-            "up": 0,
-            "valid": 0
-        },
-        "volatile.list": 16630,
-        "whitelisted.list": 16629
-    },
     "currently_under_test": true,
+    "custom_pyfunceble_config": {},
     "days_until_next_test": 2,
     "end_datetime": "2020-03-03T16:34:45.295605",
     "end_epoch": 1583079186.774743,
     "issue_link": "https://github.com/bigdargon/hostsVN/issues/new/choose",
-    "last_autosave_datetime": "2020-03-03T16:34:45.295620",
-    "last_autosave_epoch": 1583245310.968428,
     "link": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts",
     "name": "hostsVN",
-    "previous_stats": {
-        "builds": 67,
-        "clean.list": 18630,
-        "counter": {
-            "down": 4026,
-            "invalid": 1,
-            "tested": 22657,
-            "up": 18630
-        },
-        "domains.list": 22657,
-        "ip.list": 0,
-        "volatile.list": 18621,
-        "whitelisted.list": 18620
+    "previous_end_datetime": "2020-01-25T04:20:16.657278",
+    "previous_end_epoch": 1579926016.657282,
+    "previous_start_datetime": "2020-01-25T04:20:16.657264",
+    "previous_start_epoch": 1579926016.657281,
+    "pyfunceble": {
+        "config": {}
     },
     "raw_link": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts",
     "start_datetime": "2020-03-03T16:34:45.300204",
