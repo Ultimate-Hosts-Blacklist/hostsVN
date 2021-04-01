@@ -1509,6 +1509,7 @@ adsbanner.game.zing.vn
 ads-bi.zenkube.com
 ads-bid.l.doubleclick.net
 ads-bidder-api.twitter.com
+ads-brand-postback.unityads.unity3d.com
 adsbridge.com
 adsby.bidtheatre.com
 adsbynimbus.com
@@ -1659,6 +1660,8 @@ adsfac.net
 adsfac.us
 adsfactor.net
 adsfs.oppomobile.com
+ads-game-configuration.unityads.unity3d.com
+ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
 adsgo.nhipcaudautu.vn
 adshark.site
 adshost1.com
@@ -1713,6 +1716,7 @@ adspleen.com
 adsplus.vn
 adsponse.de
 adspot.co
+ads-privacy-api.prd.mz.internal.unity3d.com
 adspruce.com
 adspsp.com
 adspyglass.com
@@ -3374,6 +3378,7 @@ au-cdn.effectivemeasure.net
 auction.unityads.unity3d.com
 auctionads.com
 auctionads.net
+auction-load.unityads.unity3d.com
 auction-master.ads.prd.ie.internal.unity3d.com
 aud.pubmatic.com
 audience2media.com
@@ -3391,6 +3396,7 @@ audrte.com
 au-gmtdmp.gd3.mookie1.com
 augur.io
 au-insight.ants.vn
+auiopt.unityads.unity3d.com
 aulteeby.net
 aus.adspeed.net
 au-ssl.effectivemeasure.net
@@ -4743,6 +4749,8 @@ cdn-cf-staging.permutive.com
 cdn-cloudfront.petametrics.com
 cdn-cn.brand-display.com
 cdn-config.taplytics.com
+cdn-creatives-akamai-prd.unityads.unity3d.com
+cdn-creatives-highwinds-prd.unityads.unity3d.com
 cdn-d.amazon-adsystem.com
 cdn-de.adctrl.com
 cdne.cpmstar.com
@@ -4796,6 +4804,7 @@ cdnssl.clicktale.net
 cdn-staging.logrocket.com
 cdn-staging.logrocket.io
 cdn-static.adctrl.com
+cdn-store-icons-highwinds-prd.unityads.unity3d.com
 cdnstoremedia.com
 cdn-t.amazon-adsystem.com
 cdnt.netcoresmartech.com
@@ -4805,6 +4814,8 @@ cdnv1.mdotm.com
 cdnv.ad-stir.com
 cdn-vast.adspruce.com
 cdn-video.adspruce.com
+cdn-webview-pge.unityads.unity3d.com
+cdn-webview-pge-geocdn-prd.unityads.unity3d.com
 cdnwidget.com
 cdnx.exponential.com
 cdn-xxx.yieldlove.com
@@ -5110,8 +5121,8 @@ clientmanagement.aws.lijit.com
 clientmanagement.lijit.com
 clientmetrics.outbrain.com
 clientmetrics-pa.googleapis.com
-client_monitor.isnssdk.com
 clientmonitor.isnssdk.com
+client_monitor.isnssdk.com
 client-pages.adnetwork.vn
 client-portal.fuseplatform.net
 clients.adcolony.com
@@ -5900,6 +5911,7 @@ datafront.co
 datahub.serving-sys.com
 data-id.ads.oppomobile.com
 data-ipv6.flurry.com
+data-optout-service.uca.cloud.unity3d.com
 datapipe.adsrvr.org
 data-public.trafficfactory.biz
 dataroom.fyber.com
@@ -6456,10 +6468,12 @@ dspportal.smaato.net
 dsprtb.logging.admicro.vn
 dsp-staging.adkernel.com
 dsp-token.aws.rubiconproject.com
+dsp-tracking.unityads.unity3d.com
 dsp-trk.eskimi.com
 dsp-us.bumlam.com
 dsp-us.xapads.com
 dsp-uswest.adkernel.com
+dsp-vast.unityads.unity3d.com
 dsp-video-cdn.tenmax.io
 dst.polyad.net
 ds-ui-mockups.dev.gumgum.com
@@ -7965,6 +7979,7 @@ html5.adsrvr.org
 html.eclick.vn
 html.polyad.net
 html.pubnative.net
+httpkafka.ads.prd.ie.internal.unity3d.com
 httpkafka.unityads.unity3d.com
 httpool.com
 hub.appsflyer.com
@@ -7986,7 +8001,6 @@ hw-cdn.trafficjunky.net
 hwdata1.aniview.com
 hwdata2.aniview.com
 hwp.urekamedia.com
-hwstats.uca.cloud.unity3d.com
 hwstats.unity3d.com
 hybird.rayjump.com
 hybrid.ai
@@ -8073,6 +8087,7 @@ iadsdk.qwapi.com
 iadsoak.qwapi.com
 iad-usadmm.dotomi.com
 iadworkbench-soak.iad.apple.com
+iap.unity3d.com
 iapclick.gowadogo.com
 iapi.juicyads.com
 iasds01.com
@@ -8132,7 +8147,6 @@ idsync.segment.com
 idtargeting.com
 idx.liadm.com
 ie8eamus.com
-ie.unityads.unity3d.com
 ie-g2.gumgum.com
 ie-lb.gumgum.com
 ientrymail.com
@@ -8461,6 +8475,7 @@ ingest.vungle.com
 ingest-qa.kube-prod.vungle.com
 in-gmtdmp.mookie1.com
 ingress.adsplay.xyz
+ingress.unityads.unity3d.com
 init.startappexchange.com
 init.startappservice.com
 init.supersonicads.com
@@ -9187,7 +9202,6 @@ loadr.exelator.com
 loadus.exelator.com
 loadus.tm.ssl.exelator.com
 loadvxsc.exelator.com
-local.unityads.unity3d.com
 localapi.trazk.com
 localmantra.com
 local-media.ambient-platform.com
@@ -10458,7 +10472,9 @@ ng001.batmobi.net
 ng3.ads.warnerbros.com
 ngads.go.com
 nginx.starbolt.io
+nginx-auction-legacy.ads.internal.unity3d.com
 nginx-auction-prd.ads.internal.unity3d.com
+nginx-auction-prd-gcp.adsx.unityads.unity3d.com
 ng-vn-notice.gameitop.com
 nibble-cloud.brealtime.com
 nicealerts.youbora.com
@@ -11208,6 +11224,7 @@ petiteumbrella.com
 p-eu.adsymptotic.com
 pfox.chartbeat.net
 pg.alcmpn.com
+pge.unityads.unity3d.com
 pgmcdn.com
 pgmediaserve.com
 pgpartner.com
@@ -11837,6 +11854,8 @@ publisher.spotxchange.com
 publisher-api.spotxchange.com
 publisher-assets.spot.im
 publisher-config.unityads.unity3d.com
+publisher-event.ads.prd.ie.internal.unity3d.com
+publisher-event.unityads.unity3d.com
 publisherportal.doubleclick.net
 publisher-reporting-api.fyber.com
 publishers.adasiaholdings.com
@@ -12047,6 +12066,8 @@ query-eu-west-1.petametrics.com
 query-gce.petametrics.com
 query-us.petametrics.com
 query-us-east1.petametrics.com
+query-us-east-1.petametrics.com
+query-us-west-1.petametrics.com
 query-us-west1.petametrics.com
 query-us-west-1.petametrics.com
 questaffiliates.net
@@ -13079,6 +13100,8 @@ sdkclickurl.com
 sdkconfig.ad.intl.xiaomi.com
 sdkconfig.ad.xiaomi.com
 sdk-config.fyber.com
+sdk-diagnostics.prd.mz.internal.unity3d.com
+sdk-diagnostics.stg.mz.internal.unity3d.com
 sdk-events.inner-active.mobi
 sdk-ios.ad.smaato.net
 sdklogs.avocarrot.com
@@ -14292,7 +14315,6 @@ steepto.com
 st-eu.dynamicyield.com
 st-euw1.dynamicyield.com
 steve.districtm.ca
-stg.ads.internal.unity3d.com
 stg.anymind360.com
 stg.demandbase.com
 stg.fyber.com
@@ -14856,6 +14878,7 @@ theweblocker.net
 thgame.flygame.io
 thietkeweb.mediaz.vn
 thighlykamsh.site
+thind.unityads.unity3d.com
 thinkablerice.com
 thinknear.com
 thinkupfront.com
@@ -15173,6 +15196,7 @@ tracking.omnitagjs.com
 tracking.onfluencer.net
 tracking.phunuadong.vn
 tracking.playzing.g6.zing.vn
+tracking.prd.mz.internal.unity3d.com
 tracking.propellerads.com
 tracking.pushcrew.com
 tracking.servebom.com
@@ -15647,6 +15671,7 @@ usermatch-spike.targeting.unrulymedia.com
 userreplay.com
 userreplay.net
 userreport.com
+userreporting.cloud.unity3d.com
 users.quantumgraph.com
 userservice-api.linkshare.com
 userservice-api.rakutenmarketing.com
