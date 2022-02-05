@@ -1,22 +1,24 @@
 {
     "counter": {
         "Amazon Registrar, Inc.": 2,
-        "Danesco Trading Ltd.": 5,
+        "Danesco Trading Ltd.": 6,
         "Gandi SAS": 1,
+        "GoDaddy.com, LLC": 1,
         "Name.com, Inc.": 1,
-        "NameCheap, Inc.": 5,
+        "NameCheap, Inc.": 6,
         "URL Solutions, Inc.": 5,
         "eNom, LLC": 8,
-        "total": 27
+        "total": 30
     },
     "percentage": {
-        "Amazon Registrar, Inc.": 7.407407407407407,
-        "Danesco Trading Ltd.": 18.51851851851852,
-        "Gandi SAS": 3.7037037037037037,
-        "Name.com, Inc.": 3.7037037037037037,
-        "NameCheap, Inc.": 18.51851851851852,
-        "URL Solutions, Inc.": 18.51851851851852,
-        "eNom, LLC": 29.62962962962963,
-        "total": 100.00000000000001
+        "Amazon Registrar, Inc.": 6.666666666666667,
+        "Danesco Trading Ltd.": 20.0,
+        "Gandi SAS": 3.3333333333333335,
+        "GoDaddy.com, LLC": 3.3333333333333335,
+        "Name.com, Inc.": 3.3333333333333335,
+        "NameCheap, Inc.": 20.0,
+        "URL Solutions, Inc.": 16.666666666666668,
+        "eNom, LLC": 26.666666666666668,
+        "total": 100.0
     }
 }
