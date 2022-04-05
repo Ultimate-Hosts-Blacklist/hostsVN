@@ -1954,3 +1954,9 @@ browser-http-intake.logs.datadoghq.eu                                           
 async-px-eu.dynamicyield.com                                                                         ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 async-px.dynamicyield.com                                                                            ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 content.lemonpi.io                                                                                   ACTIVE      DNSLOOKUP  Unknown           Unknown                        308        AVAILABILITY 
+adx-sg.anythinktech.com                                                                              ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+adx.anythinktech.com                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+anythinktech.com                                                                                     ACTIVE      WHOIS      04-nov-2022       Alibaba Cloud Computing (Beijing) Co., Ltd. Unknown    AVAILABILITY 
+api.anythinktech.com                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+api.qc.coccoc.com                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+cdn.rongzhouxing.com                                                                                 ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
