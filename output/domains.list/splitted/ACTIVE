@@ -2183,9 +2183,9 @@ analytics.m2.ai                                                                 
 analytics2.m2.ai                                                                                     ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
 cdn2.cache.vn                                                                                        ACTIVE      COLLECTION Unknown           Unknown                        403        AVAILABILITY 
 a-reporting.nytimes.com                                                                              ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-a.et.nytimes.com                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        302        AVAILABILITY 
-als-svc.nytimes.com                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
-ax.mpapis.xyz                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown                        403        AVAILABILITY 
-balancer.devtodev.com                                                                                ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
-browser-intake-datadoghq.com                                                                         ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-cdn.api-connect.io                                                                                   ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+a.et.nytimes.com                                                                                     ACTIVE      COLLECTION Unknown           Unknown                        302        AVAILABILITY 
+als-svc.nytimes.com                                                                                  ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+ax.mpapis.xyz                                                                                        ACTIVE      COLLECTION Unknown           Unknown                        403        AVAILABILITY 
+balancer.devtodev.com                                                                                ACTIVE      COLLECTION Unknown           Unknown                        200        AVAILABILITY 
+browser-intake-datadoghq.com                                                                         ACTIVE      WHOIS      06-aug-2022       Amazon Registrar, Inc.         Unknown    AVAILABILITY 
+cdn.api-connect.io                                                                                   ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
