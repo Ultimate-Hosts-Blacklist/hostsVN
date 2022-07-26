@@ -2575,12 +2575,12 @@ analytics.yts.vn                                                                
 api.appnxt.net                                                                                       ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 api.cxense.com                                                                                       ACTIVE      COLLECTION Unknown           Unknown                        403        AVAILABILITY 
 api.intentiq.com                                                                                     ACTIVE      COLLECTION Unknown           Unknown                        404        AVAILABILITY 
-api.wiinvent.tv                                                                                      ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
-apilog.mytvnet.vn                                                                                    ACTIVE      COLLECTION Unknown           Unknown                        404        AVAILABILITY 
-apilogduration.mytvnet.vn                                                                            ACTIVE      COLLECTION Unknown           Unknown                        404        AVAILABILITY 
-apis.appnxt.net                                                                                      ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-astat.nikkei.com                                                                                     ACTIVE      COLLECTION Unknown           Unknown                        200        AVAILABILITY 
-auth.split.io                                                                                        ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
-barscreative1.com                                                                                    ACTIVE      COLLECTION Unknown           Unknown                        403        AVAILABILITY 
-bi.vhost.vn                                                                                          ACTIVE      COLLECTION Unknown           Unknown                        301        AVAILABILITY 
-builder.lift.acquia.com                                                                              ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+api.wiinvent.tv                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+apilog.mytvnet.vn                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+apilogduration.mytvnet.vn                                                                            ACTIVE      DNSLOOKUP  Unknown           Unknown                        404        AVAILABILITY 
+apis.appnxt.net                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+astat.nikkei.com                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        200        AVAILABILITY 
+auth.split.io                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+barscreative1.com                                                                                    ACTIVE      WHOIS      08-sep-2022       eNom, LLC                      403        AVAILABILITY 
+bi.vhost.vn                                                                                          ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+ads-admin.hubs.vn                                                                                    ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
