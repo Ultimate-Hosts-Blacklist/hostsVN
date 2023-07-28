@@ -1,17 +1,17 @@
 {
     "counter": {
-        "ACTIVE": 3410,
+        "ACTIVE": 3415,
         "INACTIVE": 56,
         "INVALID": 2,
         "MALICIOUS": 0,
         "SANE": 0,
         "VALID": 0,
-        "total": 3468
+        "total": 3473
     },
     "percentage": {
-        "ACTIVE": 98.3275663206459,
-        "INACTIVE": 1.6147635524798154,
-        "INVALID": 0.05767012687427912,
+        "ACTIVE": 98.32997408580478,
+        "INACTIVE": 1.61243881370573,
+        "INVALID": 0.05758710048949035,
         "MALICIOUS": 0.0,
         "SANE": 0.0,
         "VALID": 0.0,
