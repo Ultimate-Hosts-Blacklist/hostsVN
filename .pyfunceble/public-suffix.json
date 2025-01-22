@@ -1463,6 +1463,7 @@
         "execute-api.us-gov-west-1.amazonaws.com",
         "execute-api.us-west-1.amazonaws.com",
         "execute-api.us-west-2.amazonaws.com",
+        "f5.si",
         "familyds.com",
         "fastly-edge.com",
         "fastly-terrarium.com",
@@ -2759,6 +2760,7 @@
     "hk": [
         "com.hk",
         "edu.hk",
+        "f5.si",
         "gov.hk",
         "idv.hk",
         "inc.hk",
@@ -8139,7 +8141,6 @@
         "shopware.shop"
     ],
     "si": [
-        "f5.si",
         "gitapp.si",
         "gitpage.si"
     ],
